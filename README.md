@@ -4,7 +4,7 @@ Odoo functionality links & guides in pCode
 #### Contribuitors
 
 | id | Name | Team | Country |
-| :---: | --- | :---: | --- |
+| :---: | :--- | :---: | :---: |
 | @oldyguy | $og | appti | MX |
 
 
