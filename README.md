@@ -4,7 +4,7 @@
 #### Odoo v13 
 | Folder | Description | Folder | Description |
 | :---: | --- | :---: | --- |
-| o13 | [v13 System wide \(Funciones Globales\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/acc/o13-o13-system_wide_guides.md) | | |
+| o13 | [v13 System wide \(Funciones Globales\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/o13/o13-o13-system_wide_guides.md) | | |
 | acc | [Accounting \(Contabilidad\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/acc/o13-acc-accounting_guides.md) | apr | [Appraisal \(Evaluaciones\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/apr/o13-apr-appraisal_guides.md) |
 | apt | [Appointments \(Citas\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/apt/o13-apt-appointments_guides.md) | blg | [Blog \(Blog\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/blg/o13-blg-blog_guides.md) |
 | crm | [CRM \(CRM\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/crm/o13-crm-crm_guides.md) | dsc | [Discuss \(Comentarios\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/dsc/o13-dsc-discuss_guides.md) |
