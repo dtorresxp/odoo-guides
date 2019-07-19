@@ -43,6 +43,7 @@ Odoo functionality links & guides in pCode
 | &#x22EE; | list menu icon | icono de menú de la lista |
 | &#x2611; | checked mark | opción marcada con palomita |
 | &#x2610; | unchecked mark | opción desmarcada |
+| &#x274C; | remove tag | quitar etiqueta |
 | &#x25BC; | open combobox | flecha para abrir combo |
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
 | &#x1F4BE; | save | guardar |
