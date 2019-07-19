@@ -29,14 +29,14 @@ Odoo functionality links & guides in pCode
 <br><br>
 ## pCode Nomenclature
 
-| chars | Meaning | (Significado) |
+| chars | Meaning | Significado |
 | :---: | :--- | :--- |
+| step | somewhere to do | paso que hacer en algún lugar |
 | \| | step sepparator | separador de pasos |
-| \[ x \|\| y \] | option sepparator | separador de opciones |
+| \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable group | grupo repetible n-veces |
 | { } | action | acción a realizar |
 | < > | tag | etiqueta |
-| task | somewhere to do | algo que hacer en algún lugar |
 | &#x229E; | apps icon in top navbar | icono de apps en barra superior |
 | &#x2630; | app menu icon | icono de menú de la apicación |
 | &#x2611; | checked mark | opción marcada con palomita |
