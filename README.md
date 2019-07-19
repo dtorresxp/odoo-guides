@@ -32,7 +32,7 @@ Odoo functionality links & guides in pCode
 | chars | Meaning | (Significado) |
 | :---: | :--- | :--- |
 | \| | step sepparator | separador de pasos |
-| \|\| | option sepparator | separador de opciones |
+| \[ x \|\| y \] | option sepparator | separador de opciones |
 | \[ \]&#x207F; | n-times repetable group | grupo repetible n-veces |
 | { } | action | acción a realizar |
 | < > | tag | etiqueta |
