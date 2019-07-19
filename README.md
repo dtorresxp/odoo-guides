@@ -44,7 +44,7 @@ Odoo functionality links & guides in pCode
 | &#x2611; | checked mark | opción marcada con palomita |
 | &#x2610; | unchecked mark | opción desmarcada |
 | &#x25BC; | open combobox | flecha para abrir combo |
-| _&#x3377;_ | developer mode | cucaracha en \<barranav\> |
+| &#x1F41E; | developer mode | catarina en \<barranav\> |
 | &#x1F4BE; | save | guardar |
 
 <br><br>
