@@ -1,7 +1,13 @@
 # Odoo Guides
- Odoo functionality guides in pCode
+Odoo functionality guides in pCode
 
-#### Odoo v13 
+#### Contribuitors
+
+| id | Name | Team | Country |
+| @oldyguy | $og | appti | MX |
+
+
+## Odoo v13 
 | Folder | Description | Folder | Description |
 | :---: | --- | :---: | --- |
 | o13 | [v13 System wide \(Funciones Globales\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/o13/o13-o13-system_wide_guides.md) | | |
