@@ -34,7 +34,7 @@ Odoo functionality links & guides in pCode
 | step | somewhere to do | paso que hacer en algún lugar |
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
-| \[ \]&#x207F; | n-times repetable group | grupo repetible n-veces |
+| \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | { } | action | acción a realizar |
 | < > | tag | etiqueta |
 | &#x229E; | apps icon in top navbar | icono de apps en barra superior |
