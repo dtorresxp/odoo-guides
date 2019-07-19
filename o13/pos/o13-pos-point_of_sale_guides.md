@@ -1,4 +1,4 @@
-## POS - Point of Sale (Punto de Venta)
+## O13 - POS - Point of Sale (Punto de Venta)
 #### [_&#x23CE; menu_](https://github.com/oldyguy/odoo-guides/blob/master/README.md)<br><br>
 
 
@@ -9,4 +9,4 @@
 [Restrict Available Product Categories in Point Of Sale (Odoo Mates - n/v - 01:53 - Restringir Categorías)](youtu.be/EO-j2h2AUw4)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; &#x229E; | pos | &#x2630; | settings | &#x2611; Restrict Available Product Categories | \[ &#x25BC; | \<select category\> \]&#x207F; | &#x1f4be;
 	
-###### <br><br>Odoo Guides V13 - v1_01 &nbsp; 2019-07-18<br>[_&#x23CE; menu_](https://github.com/oldyguy/odoo-guides/blob/master/README.md)<br><br>
+###### <br><br>Odoo Guides - v1_01 &nbsp; 2019-07-18<br>[_&#x23CE; menu_](https://github.com/oldyguy/odoo-guides/blob/master/README.md)<br><br>
