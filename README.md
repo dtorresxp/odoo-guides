@@ -1,9 +1,10 @@
 # Odoo Guides
-Odoo functionality guides in pCode
+Odoo functionality links & guides in pCode
 
 #### Contribuitors
 
 | id | Name | Team | Country |
+| :---: | --- | :---: | --- |
 | @oldyguy | $og | appti | MX |
 
 
