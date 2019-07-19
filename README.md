@@ -37,6 +37,7 @@ Odoo functionality links & guides in pCode
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | { } | action | acción a realizar |
 | < > | tag | etiqueta |
+| \<row\> | logical group of steps | agrupación lógica de pasos |
 | &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la apicación |
 | &#x2611; | checked mark | opción marcada con palomita |
