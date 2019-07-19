@@ -29,20 +29,20 @@ Odoo functionality links & guides in pCode
 <br><br>
 ## pCode Nomenclature
 
-| chars | Meaning |
-| :---: | :--- |
-| \| | step sepparator (separador de pasos)|
-| \|\| | option sepparator (separador de opciones|
-| \[\ ]&#x207F; | n-times repetable group (grupo repetible n-veces)|
-| { } | action (acción a realizar) |
-| < > | tag (etiqueta) |
-| task | somewhere to do (algo que hacer en algún lugar)|
-| &#x229E; | apps icon in top navbar (icono de apps en barra superior) |
-| &#x2630; | app menu icon (icono de menú de la apicación) |
-| &#x2611; | checked mark (opción marcada con palomita)|
-| &#x2610; | unchecked mark (opción desmarcada)|
-| &#x25BC; | open combobox (flecha para abrir combo)|
-| &#x1F4BE; | save (guardar)|
+| chars | Meaning | (Significado) |
+| :---: | :--- | :--- |
+| \| | step sepparator | separador de pasos |
+| \|\| | option sepparator | separador de opciones |
+| \[ \]&#x207F; | n-times repetable group | grupo repetible n-veces |
+| { } | action | acción a realizar |
+| < > | tag | etiqueta |
+| task | somewhere to do | algo que hacer en algún lugar |
+| &#x229E; | apps icon in top navbar | icono de apps en barra superior |
+| &#x2630; | app menu icon | icono de menú de la apicación |
+| &#x2611; | checked mark | opción marcada con palomita |
+| &#x2610; | unchecked mark | opción desmarcada |
+| &#x25BC; | open combobox | flecha para abrir combo |
+| &#x1F4BE; | save | guardar |
 
 <br><br>
 ## Contribuitors
