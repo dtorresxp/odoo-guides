@@ -37,12 +37,12 @@ Odoo functionality links & guides in pCode
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | { } | action | acción a realizar |
 | < > | tag | etiqueta |
-| &#x229E; | apps icon in top navbar | icono de apps en <barranav> |
+| &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la apicación |
 | &#x2611; | checked mark | opción marcada con palomita |
 | &#x2610; | unchecked mark | opción desmarcada |
 | &#x25BC; | open combobox | flecha para abrir combo |
-| &#x3377; | developer mode | cucaracha en <barranav> |
+| &#x3377; | developer mode | cucaracha en \<barranav\> |
 | &#x1F4BE; | save | guardar |
 
 <br><br>
