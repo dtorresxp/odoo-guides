@@ -26,7 +26,7 @@ Odoo functionality links & guides in pCode
 | web | [Websites builder \(Sitios Web\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/web/o13-web-websites_builder_guides.md) |
 
 <br><br>
-#### Contribuitors
+## Contribuitors
 
 | id | Name | Team | Country |
 | :---: | :--- | :---: | :---: |
