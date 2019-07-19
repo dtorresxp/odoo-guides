@@ -31,7 +31,7 @@ Odoo functionality links & guides in pCode
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
-| step | somewhere to do | paso que hacer en algún lugar |
+| step | to do somewhere | paso que hacer en algún lugar |
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
