@@ -56,4 +56,4 @@ Odoo functionality links & guides in pCode
 | :---: | :--- | :---: | :---: |
 | @oldyguy | $og | appti | MX |
 
-#### <br><br>Odoo Guides - v1_03 &nbsp; 2019-07-19
+#### <br><br>Odoo Guides - v1_04 &nbsp; 2019-07-20
