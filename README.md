@@ -4,7 +4,7 @@ Odoo functionality links & guides in pCode
 ## Odoo v13 
 | Folder | Description | Folder | Description |
 | :---: | --- | :---: | --- |
-| o13 | [v13 System wide \(Funciones Globales\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/ee/o13/o13-o13-system_wide_guides.md) | | |
+| o13 | [v13 System wide \(Funciones Globales\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/ee/o13/o13-o13-system_wide_guides.md) | ce | [Community Ed. v13 \(Ed. Comunidad v13\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/ce/o13-c13-ce_v13_guides.md) |
 | acc | [Accounting \(Contabilidad\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/ee/acc/o13-acc-accounting_guides.md) | apr | [Appraisal \(Evaluaciones\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/ee/apr/o13-apr-appraisal_guides.md) |
 | apt | [Appointments \(Citas\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/ee/apt/o13-apt-appointments_guides.md) | blg | [Blog \(Blog\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/ee/blg/o13-blg-blog_guides.md) |
 | crm | [CRM \(Clientes\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/ee/crm/o13-crm-crm_guides.md) | dsc | [Discuss \(Comentarios\)](https://github.com/oldyguy/odoo-guides/blob/master/o13/ee/dsc/o13-dsc-discuss_guides.md) |
