@@ -21,7 +21,7 @@ Quotations | &#x1F4BE;
 - [Discount Coupon (Cupón de Descuento)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=31&end=2m7s&rel=0)<br>
 &#x229E; | sales | Products | Coupon Programs | \[ Create || Edit \]<br>
 { capture } < Program name > | < Conditions > | <Validity > | < Rewards: Discount > | &#x1F4BE;<br>
-Generate Coupon | Generation Type | { define number of coupons } | Generate Coupons | { copy valid coupon number }<br>
+Generate Coupon | Generation Type | { define number of coupons } | Generate Coupons | { copy valid coupon }<br>
 &#x229E; | sales | Orders | Quotations | Create | { input quotation data } | &#x1F4BE;<br>
 Apply Coupon | Enter Coupon Code | { paste valid coupon number } | Apply Coupon <br>
 { discount will appear as a new negative detail row }
@@ -30,7 +30,7 @@ Apply Coupon | Enter Coupon Code | { paste valid coupon number } | Apply Coupon 
 &#x229E; | sales | Products | Coupon Programs | \[ Create || Edit \]<br>
 { capture } < Program name > | < Conditions > | < Validity > | < Rewards: Free Product ><br>
 { select free product & quantity } | &#x1F4BE;<br>
-Generate Coupon | Generation Type | { define number of coupons } | Generate Coupons | { copy valid coupon number }<br>
+Generate Coupon | Generation Type | { define number of coupons } | Generate Coupons | { copy valid coupon }<br>
 &#x229E; | sales | Orders | Quotations | Create | { input quotation data } | &#x1F4BE;<br>
 { the reward products should be in the sales order lines to apply the discount }<br>
 { reopen quotation } | { add product (the free one) } | &#x1F4BE;<br>
