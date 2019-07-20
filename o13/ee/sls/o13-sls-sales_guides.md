@@ -22,19 +22,30 @@ Quotations | &#x1F4BE;
 &#x229E; | sales | Products | Coupon Programs | \[ Create || Edit \]<br>
 { capture } < Program name > | < Conditions > | <Validity > | < Rewards: Discount > | &#x1F4BE;<br>
 Generate Coupon | Generation Type | { define number of coupons } | Generate Coupons | { copy valid coupon }<br>
-&#x229E; | sales | Orders | Quotations | Create | { input quotation data } | &#x1F4BE;<br>
+&#x229E; | sales | Orders | Quotations | Create | { input quotation } | &#x1F4BE;<br>
 Apply Coupon | Enter Coupon Code | { paste valid coupon number } | Apply Coupon <br>
 { discount will appear as a new negative detail row }
 
 - [Free Product Coupon (Cupón de Producto Grátis)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=2m7s&end=3m48s&rel=0)<br>
-&#x229E; | sales | Products | Coupon Programs | \[ Create || Edit \]<br>
-{ capture } < Program name > | < Conditions > | < Validity > | < Rewards: Free Product ><br>
-{ select free product & quantity } | &#x1F4BE;<br>
-Generate Coupon | Generation Type | { define number of coupons } | Generate Coupons | { copy valid coupon }<br>
-&#x229E; | sales | Orders | Quotations | Create | { input quotation data } | &#x1F4BE;<br>
+{ create program as above with Rewards: Free Product }<br>
 { the reward products should be in the sales order lines to apply the discount }<br>
-{ reopen quotation } | { add product (the free one) } | &#x1F4BE;<br>
+{ open quotation } | { add the free product } | &#x1F4BE;<br>
 Apply Coupon | Enter Coupon Code | { paste valid coupon number } | Apply Coupon <br>
 { discount will appear as a new negative detail row }
+
+- [Buy 3 & get one free Promotion (Promoción de paga 3 y llévate 4)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=3m48s&end=5m20s&rel=0)<br>
+&#x229E; | sales | Products | Promotion Programs | \[ Create || Edit \] | { create program with < Based on Products ><br>
+&#x25BC; { select field } | &#x25BC; { select operator } | &#x25BC; { select text } | { i.e.: name contains xxx }<br>
+{ set other conditions } | { set validity & rewards } | &#x1F4BE;<br>
+&#x229E; | sales | Orders | Quotations | Create | { input quotation } | &#x1F4BE;<br>
+Update Promotions | { verify order } | Confirm <br>
+
+- [10% off in orders Promotion (Promoción de descuento de 10%)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=5m20s&end=0&rel=0)<br>
+&#x229E; | sales | Products | Promotion Programs | \[ Create || Edit \] | { create program with < Based on Products ><br>
+&#x25BC; { select field } | &#x25BC; { select operator } | &#x25BC; { select text } | { i.e.: Can be Sold is set (true) }<br>
+Promo Code Usage: Use a Code | Promotion Code (i.e.: 10pc) | Rewards: Apply Discount: Percentage: xx%<br>
+{ set other conditions } | { set validity & other rewards } | &#x1F4BE;<br>
+&#x229E; | sales | Orders | Quotations | Create | { input quotation } | &#x1F4BE; | Update Promotions { verify order } | Confirm <br>
+
 
 ###### <br><br>Odoo Guides - v1_02 &nbsp; 2019-07-20<br>[_&#x23CE; menu_](https://github.com/oldyguy/odoo-guides/blob/master/README.md)<br><br>
