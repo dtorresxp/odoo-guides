@@ -8,9 +8,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\</searchpanel\><br>
 &#x1F4BE;
 
-[Open Record Rules and Access Rights Easily in Odoo13 (Odoo Mates - n/v - 01:11 - Ver Reglas y Derechos fácilmente)](https://youtu.be/FLKaAKfhq_Y)<br>
+[Open Record Rules and Access Rights Easily in Odoo13 (Odoo Mates - n/v - 01:11 - Ver Reglas y Derechos fácilmente)](https://youtube.com/embed/FLKaAKfhq_Y?autoplay=1&start=60&end=63&rel=0)<br>
 &#x1F41E; | &#x229E; | Settings | Users & Companies | Users | { select user }<br>
 { select [ groups || access rights || record rules ] }
 
 
-###### <br><br>Odoo Guides - v1_01 &nbsp; 2019-07-19<br>[_&#x23CE; menu_](https://github.com/oldyguy/odoo-guides/blob/master/README.md)<br><br>
+###### <br><br>Odoo Guides - v1_02 &nbsp; 2019-07-20<br>[_&#x23CE; menu_](https://github.com/oldyguy/odoo-guides/blob/master/README.md)<br><br>
