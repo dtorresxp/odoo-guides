@@ -1,5 +1,5 @@
 ## O13 - SLS - Sales (Ventas)
-#### [_&#x23CE; menu_](//README.md)<br><br>
+#### [_&#x23CE; menu_](/README.md)<br><br>
 
 [Product Configurator in Odoo13 (Odoo Mates - n/v - 01:26 - Configurador de Productos en Odoo 13)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)<br>
 &#x229E; | sales | Products | Products | Edit | Configure a product | Product | &#x25BC; | { select product }<br>
@@ -48,4 +48,4 @@ Promo Code Usage: Use a Code | Promotion Code (i.e.: 10pc) | Rewards: Apply Disc
 &#x229E; | sales | Orders | Quotations | Create | { input quotation } | &#x1F4BE; | Update Promotions { verify order } | Confirm <br>
 
 
-###### <br><br>Odoo Guides - v1_02 &nbsp; 2019-07-20<br>[_&#x23CE; menu_](//README.md)<br><br>
+###### <br><br>Odoo Guides - v1_02 &nbsp; 2019-07-20<br>[_&#x23CE; menu_](/README.md)<br><br>
