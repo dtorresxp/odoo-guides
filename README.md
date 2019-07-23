@@ -8,7 +8,7 @@ Odoo usefull links & guides in &#x03C8;Code
 - [Community Edition](/o13/ce/o13-ce-guides_menu.md)
 
 <br><br>
-## pCode Nomenclature
+## &#x03C8;Code Nomenclature
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
