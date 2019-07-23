@@ -7,7 +7,8 @@
 \< low stock warning \> | ok  
 Quotations | &#x1F4BE;
 
-<br><br>
+<br>
+
 #### Coupons & Promotions
 
 <br><br>
@@ -49,5 +50,6 @@ Promo Code Usage: Use a Code | Promotion Code (i.e.: 10pc) | Rewards: Apply Disc
 { set other conditions } | { set validity & other rewards } | &#x1F4BE;  
 &#x229E; | sales | Orders | Quotations | Create | { input quotation } | &#x1F4BE; | Update Promotions { verify order } | Confirm   
 
-<br><br>
+<br>
+
 ###### Odoo Guides - v1_03 &nbsp; 2019-07-23  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
