@@ -25,7 +25,7 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | &#x22EE; | list menu icon | icono de menú de la lista |
 | &#x1F5F9; | checked mark | opción marcada con palomita |
 | &#x2610; | unchecked mark | opción desmarcada |
-| &#x274C; | remove tag | quitar etiqueta |
+| &#x2716; | remove tag | quitar etiqueta |
 | &#x25BC; | open combobox | flecha para abrir combo |
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
 | &#x1F4BE; | save | guardar |

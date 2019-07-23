@@ -15,7 +15,7 @@ Quotations | &#x1F4BE;
 #### [Sales Coupon and Promotion Program (O13 - EE - Odoo Mates - n/v - 06:54 - Cupones y Promociones)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
 
 - [Settings (Configuración)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=31&rel=0)
-&#x229E; | apps | \< search for \> coupon | &#x274C; apps  
+&#x229E; | apps | \< search for \> coupon | &#x2716; apps  
 { install modules } \< Coupons & Promotions || Sale Coupon || Sale Coupon Delivery || Free Delivery with Coupon \>  
 &#x229E; | sales | Configuration | Settings  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[ Pricing | Coupons & Promotions | &#x1F872; Promotion Programs || Products | Promotion Programs \]  
