@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 <br><br>
-#### [Fix Unable to log message (O13 - EE - Odoo Mates - n/v - 01:54 - Corregir error en log de usuario)](https://youtube.com/embed/FLKaAKfhq_Y?autoplay=1&start=0&end=0&rel=0)  
+#### [Fix Unable to log message (O13 - EE - Odoo Mates - n/v - 01:54 - Corregir error en log de usuario)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)  
 < user \> &#x25BC; | My Profile | Email | { define a right one } | &#x1F4BE;  
 
 #### [New Search Panel in Kanban View (O13 - EE - Odoo Mates - n/v - 01:20 - Nuevo panel de búsqueda en vista Kanban)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)  
