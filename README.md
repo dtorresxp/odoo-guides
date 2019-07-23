@@ -4,9 +4,8 @@ Odoo usefull links & guides in &#x03C8;Code
   
   
 ## Odoo v13 
-- #### [Enterprise Edition](/o13/ee/o13-ee-guides_menu.md)  
-- #### [Community Edition](/o13/ce/o13-ce-guides_menu.md)  
-
+- [Enterprise Edition](/o13/ee/o13-ee-guides_menu.md)
+- [Community Edition](/o13/ce/o13-ce-guides_menu.md)
   
   
 ## pCode Nomenclature
