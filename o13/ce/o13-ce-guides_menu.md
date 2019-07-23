@@ -1,14 +1,13 @@
 ## O13 - CE - Community Ed. Menu (Odoo v13 Ed. Comunidad)
 #### [_&#x23CE; home_](/README.md)  
-  
-  
+
+<br><br>
 ## Odoo v13 (EE)
 | Folder | Description | Folder | Description |
 | :---: | --- | :---: | --- |
 web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_guides.md) | | |
 
-  
-  
+<br><br>
 ## pCode Nomenclature
 
 | chars | Meaning | Significado |
@@ -31,6 +30,5 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
 | &#x1F4BE; | save | guardar |
 
-  
-  
+<br><br>
 ###### Odoo Guides - v1_01 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
