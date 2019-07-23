@@ -29,6 +29,7 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | &#x25BC; | open combobox | flecha para abrir combo |
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
 | &#x1F4BE; | save | guardar |
+| **&#x2B73;** | download | descargar |
 
 <br><br>
 ###### Odoo Guides - v1_01 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
