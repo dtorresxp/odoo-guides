@@ -9,4 +9,4 @@
 &#x229E; | website | Customize | Products | &#x2611; Show Sort by  
 &#x25BC; Sort by | { select sort order }
 
-###### Odoo Guides - v1_03 &nbsp; 2019-07-20  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v1_04 &nbsp; 2019-07-23  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
