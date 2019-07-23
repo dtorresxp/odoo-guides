@@ -1,6 +1,0 @@
-If there just *has* to be a line break here, ñlasd ñflkja sdñflja sdñflkja sdñflkjas dfjkas dñfkjasd fñlkasjd flkasjdf ñlaskjdf laskdjf asldkjf asldkfj asdkfj asñldkfjas dfkjas dñfkjas dfkjasd ñflkasjd fñj
-
-it can be accomplished with a "raw"-derived role.
-But the line block syntax should be considered first.
-You will need to define the raw role first:
-
