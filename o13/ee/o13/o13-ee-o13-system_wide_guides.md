@@ -12,8 +12,8 @@
 #### [How to set different Languages to Users (O13 - EE - Odoo Mates - n/v - 02:10 - Instalar distintos Idiomas para Usuarios)](https://youtube.com/embed/8-UhC8VI7is?autoplay=1&start=0&end=0&rel=0)
 &#x229E; | settings | < Activate the developer mode > | &#x229E; | settings | Translations | Languages  
 { select language } | Activate  
-Translations | Load Translation | Language &#x25BC; | &#x2611; Overwrite Existing | Load | Close
-&#x229E; | settings | Users & Companies | Users | { select User } | Localization | Language &#x25BC; | { select Language } | &#x1F4BE;
+Translations | Load Translation | Language &#x25BC; | &#x2611; Overwrite Existing | Load | Close  
+&#x229E; | settings | Users & Companies | Users | { select User } | Localization | Language &#x25BC; | { select Language } | &#x1F4BE;  
 < user \> &#x25BC; | Logout | { login as < user > } | { verify new language is ok }<br><br>
 
 #### [New Search Panel in Kanban View (O13 - EE - Odoo Mates - n/v - 01:20 - Nuevo panel de búsqueda en vista Kanban)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)
