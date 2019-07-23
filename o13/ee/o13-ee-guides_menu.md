@@ -1,4 +1,4 @@
-## O13 - EE - Enterprise Ed. Menu (Odoo v13 Ed. Empresarial v13)
+## O13 - EE - Enterprise Ed. Menu (Odoo v13 Ed. Empresarial)
 #### [_&#x23CE; home_](/README.md)  
   
   
