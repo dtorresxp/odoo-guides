@@ -37,6 +37,8 @@
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | _field_ | input field | campo a capturar |
+| &#x2E26; smart-button &#x2E27; | smart-button | botón-inteligente |
+| &#x301A; button &#x301B; | button | botón |
 | &#x226A; tab &#x226B; | tab | pestaña |
 | { action } | action | acción a realizar |
 | < tag > | tag | etiqueta |
