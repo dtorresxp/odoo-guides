@@ -4,8 +4,8 @@
 <br>
 
 #### [Employee Skill Management in Odoo13 (O13 - EE - Odoo Mates - n/v - 02:51 - Control de Competencias de Empleados)](https://youtube.com/embed/E09XNr7hhYE?autoplay=1&start=0&end=0&rel=0)
-&#x229E; | o:apps | i:SkillManagement | b:Install  
-&#x229E; | o:employees | v:Department | a:select employee  
+&#x25A6; | o:apps | i:SkillManagement | b:Install  
+&#x25A6; | o:employees | v:Department | a:select employee  
 i:Skills | \[ b:Add | w:CreateSkills | f:SkillType &#x25BC; | f:Skill &#x25BC; | f:SkillLevel &#x25BC; | b:Save \]&#x207F;  
 \[ i:Experience || i:Education \]  
 \[ b:Add | w:CreateResuméLines | f:Name | f:Type \[ Exp || Edu \] | f:DateStart | f:DateEnd | f:Description | b:Save \]&#x207F;

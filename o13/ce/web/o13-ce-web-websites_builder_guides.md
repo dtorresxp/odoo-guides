@@ -4,9 +4,9 @@
 <br>
 
 #### [Odoo13 Website Form Builder Moved to C.Ed. ((O13 - CE - Odoo Mates - n/v - 01:18 - Form Builder movido a CE)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=0&rel=0)  
-&#x229E; | o:apps | f:Search... form_builder | &#x2716; apps  
+&#x25A6; | o:apps | f:Search... form_builder | &#x2716; apps  
 i:Form Builder | b:More Info | b:Install  
-&#x229E; | o:website | b:GotoWebsite | b:Edit | a:Slide down menu | a:Drag i:FormBuilder to form | a:Build form accordingly | b:Save
+&#x25A6; | o:website | b:GotoWebsite | b:Edit | a:Slide down menu | a:Drag i:FormBuilder to form | a:Build form accordingly | b:Save
 
 <br>
 	

@@ -6,7 +6,7 @@
 #### [Survey Features (O13 - EE - Odoo Mates - n/v - 08:19 - Funcionalidad de Encuestas)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0)<br>
 
 - [Create Survey (Crear Encuesta)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0)  
-  &#x229E; | o:Surveys | b:Create | b:Edit | f:Title | t:Questions | a:Select question | w:Selections and Questions
+  &#x25A6; | o:Surveys | b:Create | b:Edit | f:Title | t:Questions | a:Select question | w:Selections and Questions
   - t:Questions  
   f:QuestionType | o:\[ Multitext || Singletex || num || date || datetime || choices-1-answer || choices-N-answers || Matrix ]  
   t:Answers | f:Input must be an email  
