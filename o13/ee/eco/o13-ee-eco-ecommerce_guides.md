@@ -16,7 +16,7 @@
 
 #### [Set Customer Description for Products (O13 - EE - Odoo Mates - n/v - 01:34 - Ver Descripción en Productos)](https://youtube.com/embed/tWvaAXw_DJ8?autoplay=1&start=0&end=0&rel=0)
 &#x229E; | website | Products | Products | { select product } | Edit  
-{ open < sales > tab } | { input < Description for Customers > } | Published On Website<br><br>
+&#x226A; sales &#x226B; | { input < Description for Customers > } | Published On Website<br><br>
 
 <br>
 
