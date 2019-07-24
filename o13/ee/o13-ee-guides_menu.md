@@ -52,9 +52,9 @@
 | &#x25BC; | open combobox | flecha para abrir combo |
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
 | &#x25C9; | set | encendido |
-| &#x20DD;&nbsp;&nbsp;&nbsp; | unset | apagado |
+| &#x2B58; | unset | apagado |
 | **&#x2B73;** | download | descargar |
 
 <br>  
   
-###### Odoo Guides - v1_05 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v1_07 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
