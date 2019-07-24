@@ -11,11 +11,11 @@
 &#x229E; | website | Customize | Products | &#x1F5F9; Show Sort by  
 &#x25BC; Sort by | { select sort order }<br><br>
 
-#### [How to set Customer Description for Products (O13 - EE - Odoo Mates - n/v - 01:34 - Mostrar Descripción del Cliente en Productos)]https://youtube.com/embed/tWvaAXw_DJ8?autoplay=1&start=0&end=0&rel=0)<br>
+#### [How to set Customer Description for Products (O13 - EE - Odoo Mates - n/v - 01:34 - Mostrar Descripción del Cliente en Productos)](https://youtube.com/embed/tWvaAXw_DJ8?autoplay=1&start=0&end=0&rel=0)
 &#x229E; | website | Products | Products | { select product } | Edit  
 { open < sales > tab } | { input < Description for Customers > } | Published On Website<br><br>
 
-#### [New 'Buy Now' Button (O13 - EE - Odoo Mates - n/v - 01:25 - Nuevo Botón 'Compra ya')]https://youtube.com/embed/xrxmrFQLkmw?autoplay=1&start=0&end=0&rel=0)<br>
+#### [New 'Buy Now' Button (O13 - EE - Odoo Mates - n/v - 01:25 - Nuevo Botón 'Compra ya')](https://youtube.com/embed/xrxmrFQLkmw?autoplay=1&start=0&end=0&rel=0)<br>
 &#x229E; | website | Customize | &#x1F5F9;Products | { select product } | Edit
 { open < sales > tab } | { input < Description for Customers > } | Published On Website
 
