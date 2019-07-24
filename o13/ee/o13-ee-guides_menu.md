@@ -31,7 +31,7 @@
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
-| step | step\|\|menu\|\|option | paso\|\|menú\|\|opción |
+| step | step \|\| menu \|\| option | paso \|\| menú \|\| opción |
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
