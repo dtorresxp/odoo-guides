@@ -18,7 +18,7 @@ Odoo usefull links & guides in &#x03C8;Code
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
 | &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
-| &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
+| &#x25A6; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
 | &#x2807; | list menu icon | icono de menú de la lista |
 | &#x1F5F9; | checked mark | opción marcada con palomita |
