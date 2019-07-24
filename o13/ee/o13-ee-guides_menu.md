@@ -36,6 +36,7 @@
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
 | a:Action | action | acción a realizar |
 | b:Button | button | botón |
 | d:Dialog | dialog | dialog |
@@ -50,8 +51,8 @@
 | w:Window | window | ventana |
 | &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
 | &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
-| &#x2807; | app menu icon | icono de menú de la aplicación |
-| &#x22EE; | list menu icon | icono de menú de la lista |
+| &#x2630; | app menu icon | icono de menú de la aplicación |
+| &#x2807; | list menu icon | icono de menú de la lista |
 | &#x1F5F9; | checked mark | opción marcada con palomita |
 | &#x2610; | unchecked mark | opción desmarcada |
 | &#x2716; | remove tag | quitar etiqueta |
