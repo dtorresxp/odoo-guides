@@ -13,7 +13,7 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
 | menu | menu/option | menú/opción |
-| \| | step sepparator | separador de pasos |
+| step | step \|\| menu \|\| option | paso \|\| menú \|\| opción |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
@@ -38,4 +38,4 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | **&#x2B73;** | download | descargar |
 
 <br><br>
-###### Odoo Guides - v1_03 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v1_04 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
