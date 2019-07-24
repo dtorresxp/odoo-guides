@@ -11,17 +11,22 @@ Odoo usefull links & guides in &#x03C8;Code
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
-| step | step \|\| menu \|\| option | paso \|\| menú \|\| opción |
+| step | step | paso |
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
-| _field_ | input field | campo a capturar |
-| &#x2E26; smart-button &#x2E27; | smart-button | botón-inteligente |
-| &#x27E6; button &#x27E7; | button | botón |
-| &#x226A; tab &#x226B; | tab | pestaña |
-| { action } | action | acción a realizar |
-| < tag > | tag | etiqueta |
+| a:Action | action | acción a realizar |
+| b:Button | button | botón |
+| d:Dialog | dialog | dialog |
+| f:Field | input field | campo a capturar |
+| i:Item | item on screen | elemento en pantalla |
+| l:Label | label | etiqueta |
+| m:Menu | menu | menú |
+| o:Option | option | opción |
+| s:SmartButton | smart-button | botón-inteligente |
+| t:Tab | tab | pestaña |
+| w:Window | window | ventana |
 | &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
 | &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
@@ -43,5 +48,5 @@ Odoo usefull links & guides in &#x03C8;Code
 | @oldyguy | $og | appti | MX |
 
 <br><br>
-#### Odoo Guides - v1_11 &nbsp; 2019-07-23
+#### Odoo Guides - v2_01 &nbsp; 2019-07-23
  
