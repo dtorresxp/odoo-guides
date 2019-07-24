@@ -16,6 +16,7 @@ Odoo usefull links & guides in &#x03C8;Code
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
 | a:Action | action | acción a realizar |
 | b:Button | button | botón |
 | d:Dialog | dialog | dialog |
