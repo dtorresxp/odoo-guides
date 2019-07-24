@@ -22,7 +22,7 @@ Odoo usefull links & guides in &#x03C8;Code
 | &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
 | &#x22EE; | list menu icon | icono de menú de la lista |
-| &#x2611; | checked mark | opción marcada con palomita |
+| &#x1F5F9; | checked mark | opción marcada con palomita |
 | &#x2610; | unchecked mark | opción desmarcada |
 | &#x2716; | remove tag | quitar etiqueta |
 | &#x25BC; | open combobox | flecha para abrir combo |
