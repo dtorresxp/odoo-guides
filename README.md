@@ -16,6 +16,7 @@ Odoo usefull links & guides in &#x03C8;Code
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
+| _field_ | input field | campo a capturar |
 | { } | action | acción a realizar |
 | < > | tag | etiqueta |
 | &#x1F872; proc | go to proc | ir a un procedimiento |
