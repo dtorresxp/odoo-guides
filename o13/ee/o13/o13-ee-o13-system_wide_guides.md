@@ -3,8 +3,9 @@
 
 <br>
 
-#### [Fix Unable to log message (O13 - EE - Odoo Mates - n/v - 01:54 - Corregir error en log de usuario)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)
-< user \> &#x25BC; | My Profile | Email | { define a right one } | &#x1F4BE;<br><br>
+#### [How to fix Unable to log message (O13 - EE - Odoo Mates - n/v - 01:54 - Corregir error en log de usuario)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)
+\[ < user \> &#x25BC; | My Profile \] || \[ &#x229E; | settings | Users & Companies | Users | { select user } | Edit \]  
+Email | { define a right one } | &#x1F4BE;<br><br>
 
 #### [How to get sample import template (O13 - EE - Odoo Mates - n/v - 00:54 - Generar Plantillas de Importación)](https://youtube.com/embed/Sl3-EhT4qwk?autoplay=1&start=0&end=0&rel=0)
 &#x229E; | { select module with desired list } | Import | **&#x2B73;** Import Template for < module > | &#x1F5F9; Save File | Ok<br><br>
