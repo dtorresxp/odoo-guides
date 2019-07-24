@@ -11,7 +11,7 @@ Odoo usefull links & guides in &#x03C8;Code
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
-| menu | menu/option | menú/opción |
+| step | step \|\| menu \|\| option | paso \|\| menú \|\| opción |
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
@@ -44,5 +44,5 @@ Odoo usefull links & guides in &#x03C8;Code
 | @oldyguy | $og | appti | MX |
 
 <br><br>
-#### Odoo Guides - v1_08 &nbsp; 2019-07-23
+#### Odoo Guides - v1_09 &nbsp; 2019-07-23
  
