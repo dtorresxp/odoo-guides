@@ -39,3 +39,4 @@ Odoo usefull links & guides in &#x03C8;Code
 
 <br><br>
 #### Odoo Guides - v1_06 &nbsp; 2019-07-23
+ 
