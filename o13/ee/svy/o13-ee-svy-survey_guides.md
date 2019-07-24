@@ -6,14 +6,14 @@
 #### [Survey Features (O13 - EE - Odoo Mates - n/v - 08:19 - Funcionalidad de Encuestas)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0)<br>
 
 - [Create Survey (Crear Encuesta)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0)  
-  &#x229E; | surveys | Create | &#x27E6; Edit &#x27E7; | Title | Questions | { select question }
-  - &#x226A;Question&#x226B;  
-  _Question Type:_ \[ Multitext || Singletex || num || date || datetime || choices-1-answer || choices-N-answers || Matrix ]  
-  _Answers:_ \[ &#x1F5F9; || &#x2610; ] Input must be an email  
-  _Options: Constraints:_ \[ &#x1F5F9; || &#x2610; ] Mandatory Answer | Error message  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[ &#x1F5F9; || &#x2610; ] Validate entry | { set according < Question Type > field } | Validation error message<br>
- &#x27E6; Save &#x27E7;  
-  - &#x226A;Description&#x226B;  
+  &#x229E; | o:Surveys | b:Create | b:Edit | f:Title | t:Questions | a:Select question | w:Selections and Questions
+  - t:Questions  
+  f:QuestionType | o:\[ Multitext || Singletex || num || date || datetime || choices-1-answer || choices-N-answers || Matrix ]  
+  t:Answers | f:Input must be an email  
+  t:Options | l:Constraints | f:MandatoryAnswer | f:ErrorMessage  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f:ValidateEntry | a:Set limits according f:QuestionType | f:ValidationErrorMessage  
+ b:Save  
+  - t:Description  
 
 	
-###### Odoo Guides - v1_01 &nbsp; 2019-07-18  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v2_01 &nbsp; 2019-07-24  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  

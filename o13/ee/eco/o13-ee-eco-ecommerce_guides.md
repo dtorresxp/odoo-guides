@@ -15,9 +15,9 @@
 &#x229E; | website | Customize | &#x25C9; Buy Now Button<br><br>
 
 #### [Set Customer Description for Products (O13 - EE - Odoo Mates - n/v - 01:34 - Ver Descripción en Productos)](https://youtube.com/embed/tWvaAXw_DJ8?autoplay=1&start=0&end=0&rel=0)
-&#x229E; | website | Products | Products | { select product } | &#x27E6; Edit &#x27E7;  
+&#x229E; | website | Products | Products | { select product } | b:Edit  
 &#x226A; sales &#x226B; | { input < Description for Customers > } | Published On Website<br><br>
 
 <br>
 
-###### Odoo Guides - v1_04 &nbsp; 2019-07-23  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)
+###### Odoo Guides - v2_01 &nbsp; 2019-07-24  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)
