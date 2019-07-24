@@ -16,10 +16,10 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
+| &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | { } | action | acción a realizar |
 | < > | tag | etiqueta |
 | &#x1F872; proc | go to proc | ir a un procedimiento |
-| \<row\> | logical group of steps | agrupación lógica de pasos |
 | &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
 | &#x22EE; | list menu icon | icono de menú de la lista |
