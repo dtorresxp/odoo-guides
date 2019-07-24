@@ -23,7 +23,7 @@
 | pro | [Projects \(Proyectos\)](/o13/ee/pro/o13-ee-pro-projects_guides.md) | rcr | [Recruitment \(Reclutamiento\)](/o13/ee/rcr/o13-ee-rcr-recruitment_guides.md) |
 | skm | [Skills management \(Competencias\)](/o13/ee/skm/o13-ee-skm-skills_management_guides.md) | sli | [Slides \(Publicaciones\)](/o13/ee/sli/o13-ee-sli-slides_guides.md) |
 | sls | [Sales \(Ventas\)](/o13/ee/sls/o13-ee-sls-sales_guides.md) | stu | [Odoo Studio \(Estudio Odoo\)](/o13/ee/stu/o13-ee-stu-studio_guides.md) |
-| sub | [Subscriptions \(Suscripciones\)](/o13/ee/sub/o13-ee-sub-subscriptions_guides.md) | svy | [Survey \(Encuestas\)](/o13/ee/svy/o13-ee-svy-survey_guides.md) |
+| sub | [Subscriptions \(Suscripciones\)](/o13/ee/sub/o13-ee-sub-subscriptions_guides.md) | svy | [Surveys \(Encuestas\)](/o13/ee/svy/o13-ee-svy-survey_guides.md) |
 | tsh | [Timesheet \(Control de Horas\)](/o13/ee/tsh/o13-ee-tsh-timesheet_guides.md) | web | [Websites builder \(Sitios Web\)](/o13/ee/web/o13-ee-web-websites_builder_guides.md) |
   
   
