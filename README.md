@@ -28,6 +28,8 @@ Odoo usefull links & guides in &#x03C8;Code
 | &#x25BC; | open combobox | flecha para abrir combo |
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
 | &#x1F4BE; | save | guardar |
+| &#x25C9; | set | encendido |
+| &#x20DD;&nbsp;&nbsp;&nbsp; | unset | apagado |
 | **&#x2B73;** | download | descargar |
 
 <br><br>
