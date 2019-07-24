@@ -4,8 +4,8 @@
 <br>
 
 #### [How to fix Unable to log message (O13 - EE - Odoo Mates - n/v - 01:54 - Corregir error en log de usuario)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)
-\[ < user \> &#x25BC; | My Profile \] &nbsp; || &nbsp; \[ &#x229E; | settings | Users & Companies | Users | { select user } | Edit \]  
-Email | { define a right one } | &#x1F4BE;<br><br>
+\[ < user \> &#x25BC; | My Profile \] &nbsp; || &nbsp; \[ &#x229E; | settings | Users & Companies | Users | { select user } | &#x301A; Edit &#x301B; \]  
+Email | { define a right one } | &#x301A; Save &#x301B;<br><br>
 
 #### [How to get sample import template (O13 - EE - Odoo Mates - n/v - 00:54 - Generar Plantillas de Importación)](https://youtube.com/embed/Sl3-EhT4qwk?autoplay=1&start=0&end=0&rel=0)
 &#x229E; | { select module with desired list } | Import | **&#x2B73;** Import Template for < module > | &#x1F5F9; Save File | Ok<br><br>
@@ -14,15 +14,15 @@ Email | { define a right one } | &#x1F4BE;<br><br>
 &#x229E; | settings | < Activate the developer mode > | &#x229E; | settings | Translations | Languages  
 { select language } | Activate  
 Translations | Load Translation | Language &#x25BC; | &#x1F5F9; Overwrite Existing | Load | Close  
-&#x229E; | settings | Users & Companies | Users | { select User } | Localization | Language &#x25BC; | { select Language } | &#x1F4BE;  
+&#x229E; | settings | Users & Companies | Users | { select User } | Localization | Language &#x25BC; | { select Language } | &#x301A; Save &#x301B;  
 < user \> &#x25BC; | Logout | { login as < user > } | { verify new language is ok }<br><br>
 
 #### [New Search Panel in Kanban View (O13 - EE - Odoo Mates - n/v - 01:20 - Nuevo panel de búsqueda en vista Kanban)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)
-&#x229E; | { open app } | &#x1F41E; | Edit View: Kanban | Architecture | { go bottom, before \</kanban\> }  
+&#x229E; | { open app } | &#x1F41E; | &#x301A; Edit &#x301B; View: Kanban | Architecture | { go bottom, before \</kanban\> }  
 { add }&nbsp;&nbsp;&nbsp;\<searchpanel\>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[ <field name="xxx" \[ groups="xxx.xxx" || select="multi" || \<nil\> \] icon="fa-xxx"/> \]&#x207F;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\</searchpanel\>  
-&#x1F4BE;<br><br>
+&#x301A; Save &#x301B;<br><br>
 
 #### [Open Record Rules and Access Rights Easily (O13 - EE - Odoo Mates - n/v - 01:11 - Ver Reglas y Derechos fácilmente)](https://youtube.com/embed/FLKaAKfhq_Y?autoplay=1&start=0&end=0&rel=0)
 &#x1F41E; | &#x229E; | Settings | Users & Companies | Users | { select user }  
