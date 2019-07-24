@@ -4,9 +4,9 @@
 <br>
 
 #### [Create Employee while Creating User (O13 - EE - Odoo Mates - n/v - 01:17 - Crear Empleado al crear Usuario)]https://youtube.com/embed/fhaB5pnTp9Q?autoplay=1&start=0&end=0&rel=0)
-&#x229E; | settings | Users & Companies | Users | Create | { input User data } | b:Save  
-< Don't forget to create the linked employee. Click here to create it >  
-Create Employee | { input employee data } | b:Save
+&#x229E; | o:settings | m:Users&Companies | o:Users | b:Create | a:Input User data } | b:Save  
+d:Don't forget to create the linked employee. Click here to create it  
+w:CreateEmployee | a:Input Employee data | b:Save
 
 <br>
 
