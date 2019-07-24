@@ -31,16 +31,18 @@
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
-| step | to do somewhere | paso que hacer en algún lugar |
+| menu | menu/option | menú/opción |
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | _field_ | input field | campo a capturar |
+| &#x2E26; smart-button &#x2E27; | smart-button | botón-inteligente |
+| &#x301A; button &#x301B; | button | botón |
 | &#x226A; tab &#x226B; | tab | pestaña |
 | { action } | action | acción a realizar |
 | < tag > | tag | etiqueta |
-| &#x1F872; proc | go to proc | ir a un procedimiento |
+| &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
 | &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
 | &#x22EE; | list menu icon | icono de menú de la lista |
@@ -56,4 +58,4 @@
 
 <br>  
   
-###### Odoo Guides - v1_02 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v1_03 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
