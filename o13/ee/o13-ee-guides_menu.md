@@ -50,7 +50,7 @@
 | w:Window | window | ventana |
 | &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
 | &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
-| &#x2630; | app menu icon | icono de menú de la aplicación |
+| &#x2807; | app menu icon | icono de menú de la aplicación |
 | &#x22EE; | list menu icon | icono de menú de la lista |
 | &#x1F5F9; | checked mark | opción marcada con palomita |
 | &#x2610; | unchecked mark | opción desmarcada |

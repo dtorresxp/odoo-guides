@@ -4,11 +4,11 @@
 <br>
 
 #### [Login with Employee (O13 - EE - Odoo Mates - n/v - 01:40 - Varios Vendedores por Terminal)](https://youtube.com/embed/Nmafl3gA8aI?autoplay=1&start=0&end=0&rel=0)
-&nbsp;&nbsp;&nbsp;&nbsp; &#x229E; | pos | &#x2630; | settings | &#x1F5F9; Log in with Employees | Allowed Employees | \[ &#x25BC; | \{select employee} ]&#x207F; | &#x1f4be;  
-&nbsp;&nbsp;&nbsp;&nbsp; &#x229E; | pos | \[ Login to Shop || &#x1f512; \] | Select Cashier | Change Cashier \{select cashier}<br><br>
+&#x229E; | o:PointOfSale | &#x2807; | o:settings | f:Log in with Employees &#x1F5F9; | f:Allowed Employees | \[ &#x25BC; | a:Select Employee ]&#x207F; | b:Save  
+&#x23BD;/&#x23BD;/:PointOfSale | i:Shop | b:Resume | a:Wait | w:LoginToShop | b:SelectCashier | w:ChangeCashier | a:Select Cashier  
 
 #### [Restrict Available Product Categories in Point Of Sale (O13 - EE - Odoo Mates - n/v - 01:53 - Restringir Categorías)](https://youtube.com/embed/EO-j2h2AUw4?autoplay=1&start=0&end=0&rel=0)
-&nbsp;&nbsp;&nbsp;&nbsp; &#x229E; | pos | &#x2630; | settings | &#x1F5F9; Restrict Available Product Categories | \[ &#x25BC; | {select category} \]&#x207F; | &#x1f4be;
+&#x229E; | o:PointOfSale | i:Shop | &#x2807; | o:settings | f:Restrict Available Product Categories &#x1F5F9; | \[ f:Category &#x25BC; \]&#x207F; | b:Save  
 
 <br>
 
