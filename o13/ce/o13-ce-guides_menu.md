@@ -18,8 +18,9 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | _field_ | input field | campo a capturar |
-| { } | action | acción a realizar |
-| < > | tag | etiqueta |
+| &#x226A; tab &#x226B; | tab | pestaña |
+| { action } | action | acción a realizar |
+| < tag > | tag | etiqueta |
 | &#x1F872; proc | go to proc | ir a un procedimiento |
 | &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
@@ -35,4 +36,4 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | **&#x2B73;** | download | descargar |
 
 <br><br>
-###### Odoo Guides - v1_01 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v1_02 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
