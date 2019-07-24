@@ -7,7 +7,8 @@
 &#x229E; | o:apps | i:SkillManagement | b:Install  
 &#x229E; | o:employees | v:Department | a:select employee  
 i:Skills | \[ b:Add | w:CreateSkills | f:SkillType &#x25BC; | f:Skill &#x25BC; | f:SkillLevel &#x25BC; | b:Save \]&#x207F;  
-i:Experience | \[ b:Add | w:CreateResuméLines | f:Name | f:Type \[ Experience || Education \] | f:DateStart | f:DateEnd | f:Description | b:Save \]&#x207F;
+i:Experience | \[ b:Add | w:CreateResuméLines | f:Name | f:Type \[ Experience || Education \]  
+f:DateStart | f:DateEnd | f:Description | b:Save \]&#x207F;
 
 <br>
 
