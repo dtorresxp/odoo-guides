@@ -46,6 +46,7 @@
 | o:Option | option | opción |
 | s:SmartButton | smart-button | botón-inteligente |
 | t:Tab | tab | pestaña |
+| v:View | view | vista |
 | w:Window | window | ventana |
 | &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
 | &#x229E; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
