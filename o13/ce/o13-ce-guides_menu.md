@@ -12,7 +12,7 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
-| step | to do somewhere | paso que hacer en algún lugar |
+| menu | menu/option | menú/opción |
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
