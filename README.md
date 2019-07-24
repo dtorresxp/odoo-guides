@@ -41,5 +41,5 @@ Odoo usefull links & guides in &#x03C8;Code
 | @oldyguy | $og | appti | MX |
 
 <br><br>
-#### Odoo Guides - v1_06 &nbsp; 2019-07-23
+#### Odoo Guides - v1_07 &nbsp; 2019-07-23
  
