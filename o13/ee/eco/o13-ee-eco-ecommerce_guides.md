@@ -11,7 +11,7 @@
 &#x229E; | website | Customize | Products | &#x1F5F9; Show Sort by  
 &#x25BC; Sort by | { select sort order }<br><br>
 
-#### [How to set Customer Description for Products (O13 - EE - Odoo Mates - n/v - 01:34 - Mostrar Descripción del Cliente en Productos)](https://youtube.com/embed/tWvaAXw_DJ8?autoplay=1&start=0&end=0&rel=0)
+#### [How to set Customer Description for Products (O13 - EE - Odoo Mates - n/v - 01:34 - Mostrar Descripción en Productos)](https://youtube.com/embed/tWvaAXw_DJ8?autoplay=1&start=0&end=0&rel=0)
 &#x229E; | website | Products | Products | { select product } | Edit  
 { open < sales > tab } | { input < Description for Customers > } | Published On Website<br><br>
 
