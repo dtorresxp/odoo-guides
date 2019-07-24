@@ -38,4 +38,4 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | **&#x2B73;** | download | descargar |
 
 <br><br>
-###### Odoo Guides - v1_02 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v1_03 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
