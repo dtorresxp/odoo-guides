@@ -31,7 +31,7 @@
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
-| menu | menu/option | menú/opción |
+| step | step \|\| menu \|\| option | paso \|\| menú \|\| opción |
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
@@ -51,11 +51,10 @@
 | &#x2716; | remove tag | quitar etiqueta |
 | &#x25BC; | open combobox | flecha para abrir combo |
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
-| &#x301A; Save &#x301B; | save | guardar |
 | &#x25C9; | set | encendido |
 | &#x20DD;&nbsp;&nbsp;&nbsp; | unset | apagado |
 | **&#x2B73;** | download | descargar |
 
 <br>  
   
-###### Odoo Guides - v1_03 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v1_05 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  

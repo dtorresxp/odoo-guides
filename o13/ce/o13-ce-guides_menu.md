@@ -13,7 +13,7 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
 | menu | menu/option | menú/opción |
-| \| | step sepparator | separador de pasos |
+| step | step \|\| menu \|\| option | paso \|\| menú \|\| opción |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
@@ -32,10 +32,9 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | &#x2716; | remove tag | quitar etiqueta |
 | &#x25BC; | open combobox | flecha para abrir combo |
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
-| &#x301A; Save &#x301B; | save | guardar |
 | &#x25C9; | set | encendido |
 | &#x20DD;&nbsp;&nbsp;&nbsp; | unset | apagado |
 | **&#x2B73;** | download | descargar |
 
 <br><br>
-###### Odoo Guides - v1_03 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v1_05 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  

@@ -11,7 +11,7 @@ Odoo usefull links & guides in &#x03C8;Code
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
-| menu | menu/option | menú/opción |
+| step | step \|\| menu \|\| option | paso \|\| menú \|\| opción |
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
@@ -31,7 +31,6 @@ Odoo usefull links & guides in &#x03C8;Code
 | &#x2716; | remove tag | quitar etiqueta |
 | &#x25BC; | open combobox | flecha para abrir combo |
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
-| &#x1F4BE; | save | guardar |
 | &#x25C9; | set | encendido |
 | &#x20DD;&nbsp;&nbsp;&nbsp; | unset | apagado |
 | **&#x2B73;** | download | descargar |
@@ -44,5 +43,5 @@ Odoo usefull links & guides in &#x03C8;Code
 | @oldyguy | $og | appti | MX |
 
 <br><br>
-#### Odoo Guides - v1_08 &nbsp; 2019-07-23
+#### Odoo Guides - v1_10 &nbsp; 2019-07-23
  
