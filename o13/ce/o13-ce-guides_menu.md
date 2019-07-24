@@ -19,7 +19,7 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | _field_ | input field | campo a capturar |
 | &#x2E26; smart-button &#x2E27; | smart-button | botón-inteligente |
-|&#x301A; button &#x301B; | button | botón |
+| &#x27E6; button &#x27E7; | button | botón |
 | &#x226A; tab &#x226B; | tab | pestaña |
 | { action } | action | acción a realizar |
 | < tag > | tag | etiqueta |
@@ -33,8 +33,8 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | &#x25BC; | open combobox | flecha para abrir combo |
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
 | &#x25C9; | set | encendido |
-| &#x20DD;&nbsp;&nbsp;&nbsp; | unset | apagado |
+| &#x2B58; | unset | apagado |
 | **&#x2B73;** | download | descargar |
 
 <br><br>
-###### Odoo Guides - v1_05 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v1_06 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
