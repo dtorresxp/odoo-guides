@@ -31,7 +31,7 @@
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
-| menu | menu/option | menú/opción |
+| step | step||menu||option | paso||menú||opción |
 | \| | step sepparator | separador de pasos |
 | \[ x \|\| y \] | option steps | pasos optativos |
 | \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
@@ -58,4 +58,4 @@
 
 <br>  
   
-###### Odoo Guides - v1_03 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v1_04 &nbsp; 2019-07-23  [_&#x23CE; home_](/README.md)  
