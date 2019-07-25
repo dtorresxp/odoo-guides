@@ -24,7 +24,7 @@ Odoo usefull links & guides in &#x03C8;Code
 | &#x1F5F9; | checked mark | opción marcada con palomita |
 | &#x2610; | unchecked mark | opción desmarcada |
 | &#x2716; | remove tag | quitar etiqueta |
-| &#x25BC; | open combobox | flecha para abrir combo |
+| &#x25BC; | select from combobox | seleccionar de combobox |
 | &#x1F41E; | developer mode | catarina en \<barranav\> |
 | &#x25C9; | set | encendido |
 | &#x2B58; | unset | apagado |
