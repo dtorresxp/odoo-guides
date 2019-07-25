@@ -4,9 +4,9 @@
 <br>
 
 #### [Add Attachment Option in Portal (O13 - EE - Odoo Mates - n/v - 01:29 - Agregar opción de adjuntar en el Portal)](https://youtube.com/embed/tZZXvJYX5qY?autoplay=1&start=0&end=0&rel=0)  
-&#x25A6; | o:website | b:GoToWebSite | m:MySelf &#x25BC; | o:MyAccount | w:Documents  
-a:Select Document \[ i:Tasks || i:Quotations || i:SalesOrders || i:Invoices&Bills || Projects || Tasks || Timesheets ]  
-a:Select Item | i:History | f:Message | b:Attachment | a:Select file | b:Send
+    &#x25A6; | o:website | b:GoToWebSite | m:MySelf &#x25BC; | o:MyAccount | w:Documents  
+    a:Select Document \[ i:Tasks || i:Quotations || i:SalesOrders || i:Invoices&Bills || Projects || Tasks || Timesheets ]  
+    a:Select Item | i:History | f:Message | b:Attachment | a:Select file | b:Send
 
 #### [Online Course/Certifications (O13 - EE - Odoo Mates - n/v - 02:37 - Cursos/Certificaciones en-línea)](https://youtube.com/embed/Ehoe2QK4Mgg?autoplay=1&start=0&end=0&rel=0)  
 &#x25A6; | o:website | m:Courses | \[ i:AllCourses &nbsp;||&nbsp; i:Certifications ]  
