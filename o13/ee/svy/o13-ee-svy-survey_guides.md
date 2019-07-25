@@ -45,6 +45,7 @@
   f:Survey | a:Open f:PublicLink in New Browser Tab  
   b:StartCertification | a:Answer full Survey with right answers | b:SubmitSurvey  
   a:Review score, certification result & attempts left | l:ReviewYourAnswers | a:Review right & wrong answers  
-    
-	
+
+<br>
+
 ###### Odoo Guides - v2_01 &nbsp; 2019-07-24  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
