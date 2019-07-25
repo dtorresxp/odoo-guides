@@ -1,7 +1,7 @@
 ## O13 - SLS - Sales (Ventas)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
-#### [Product Configurator (O13 - EE - Odoo Mates - n/v - 01:26 - Configurador de Productos)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
+#### [Product Configurator (O13 - EE - Odoo Mates - n/v - 01:27 - Configurador de Productos)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
 &#x25A6; | o:sales | m:Products | o:Products | b:Edit | o:ConfigureAProduct | w:ConfigureAProduct | f:Product &#x25BC; | a:Select product  
 \[ a:Select optional features | b:Add | w:Configure \]&#x207F; | b:Confirm | d:LowStockWarning | b:Ok | w:Quotations | b:Save  
 
@@ -9,7 +9,7 @@
 
 #### Coupons & Promotions
 
-#### [Sales Coupon and Promotion Program (O13 - EE - Odoo Mates - n/v - 06:54 - Cupones y Promociones)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0)
+#### [Sales Coupon and Promotion Program (O13 - EE - Odoo Mates - n/v - 06:55 - Cupones y Promociones)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0)
 
 - [Settings (Configuración)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=31&rel=0)  
 &#x25A6; | o:apps | f:Search... coupon | &#x2716; apps  
@@ -48,4 +48,4 @@ f:FieldName &#x25BC; | f:Operator &#x25BC; | f:RuleText | a:Verify it's somethin
 
 <br>
 
-###### Odoo Guides - v2_01 &nbsp; 2019-07-24  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v2_02 &nbsp; 2019-07-25  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
