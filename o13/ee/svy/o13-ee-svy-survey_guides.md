@@ -30,10 +30,9 @@
   b:StartSurvey |  a:Answer accordingly | b:SubmitSurvey  
   &#x1F872; d:This is a test survey. Edit Survey | s:Answers  
 
-- [View Survey Results (Revisar Resultados de Encuesta)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=2m28ss&end=2m57s&rel=0)   
+- [View Survey Results (Revisar Resultados de Encuesta)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=2m28ss&end=2m55s&rel=0)   
   &#x25A6; | o:Surveys | a:Select Survey | b:ViewResults | f:Filters  
   a:Review results per question type \[ Data || Graph ]  
-  &#x1F872; d:This is a test survey. Edit Survey | s:Answers  
 
 - [Failed Test Run Survey (Prueba Errónea Real de Encuesta)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=3m24s&end=4m30s&rel=0)  
   &#x25A6; | o:Surveys | a:Select Survey w/Scoring | b:Share | w:Odoo  
