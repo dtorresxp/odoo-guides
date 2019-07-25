@@ -1,19 +1,19 @@
 # Odoo Guides
-Odoo usefull video links & &#x03C8;Code guides.
+Odoo usefull video links and &#x03C8;Code guides.
 
 ![Odoo usefull links & guides in &#x03C8;Code](/img/logo_odoo_guides_mini.jpg)
 
-This project was born from the requirements of the new Odoo's certification program.
+This project was born from the requirements of the Odoo's certification program.
 
-This is a community effort oriented to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years to document their system, we think the development volume and the yearly arrival of new versions (not to mention the increasing number of localizations) requires a totaly new approach.
+This is a community effort oriented to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing number of localizations) requires an out of the box approach.
 
-We think videos are very nice, but highly inneficient way of training... even considering the new millenials, we hope centenials start reading again... as previos generations did for a long time.  Until somebody give us a Matrix-like interface, that allow us learn anything in just a few seconds, we need to locate the right procedure to solve an issue, as soon as possible.
+We think videos are nice, but very inneficient way of training... even considering millenials, we hope centenials start reading again... as previos generations did for a long time.  Until somebody give us a Matrix-like interface, that allow us learn anything in just a couple of seconds, we need to locate the right procedure to solve an issue, in a better way.
 
-We trully believe the success of every partner in the long run depends on the speed they can move the info, from where it is, to where it's needed.
+We trully believe the success in the long run of every partner depends on the speed they could move their info, from where it is, to where it's needed.
 
-We created a simple pseudo language (&#x03C8;Code) to help people to start working asap, based in "what-where" theory of knowledge.  The idea is to mix the new video style with something lighter than traditional user or technical guides, in order to get all indexing, searching and efficient capabilities of the traditional training, along with related video.
+We created a simple pseudo language named &#x03C8;Code to help people to work asap, based in a "what-where" theory of knowledge.  The idea is to mix the new video style with something lighter than traditional manuals, in order to recover all indexing, searching and efficiency capabilities of the traditional training. That is "along with", not "instead off".
 
-As the great Euclides did more then 2,200 years ago, we will not produce videos, but created the &#x03C8;Code content that summarizes the shown procedure.  As a bonus, our links are bind with the exact start and end time of the related procedure.
+As the great _Euclides_ did about 2,300 years ago, we aren't producing videos, but created the &#x03C8;Code content that summarizes shown procedure.  As a bonus, our links are bind with the exact start and end time of the related procedure.
 
 As we want to respect the originator rights, every video link will include the original creator name and address, for fair play.
 
