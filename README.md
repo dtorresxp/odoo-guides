@@ -34,7 +34,7 @@ Odoo usefull links & guides in &#x03C8;Code
 | d:Dialog | dialog | dialog |
 | f:Field | input field | campo a capturar |
 | i:Item | item on screen | elemento en pantalla |
-| l:Label | label | etiqueta |
+| l:Link | link | hipervínculo |
 | m:Menu | menu | menú |
 | o:Option | option | opción |
 | s:SmartButton | smart-button | botón-inteligente |
