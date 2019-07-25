@@ -20,7 +20,7 @@ w:LoadATranslation | &#x25BC; Language | &#x1F5F9; Overwrite Existing | b:Load |
 
 #### [New Search Panel in Kanban View (O13 - EE - Odoo Mates - n/v - 01:20 - Nuevo panel de búsqueda en vista Kanban)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)  
 &#x25A6; | o:settings | i:Activate the developer mode | &#x25A6; | a:open app with kanban | &#x1F41E; | o:EditView:Kanban | t:Architecture | a:Scroll to bottom, before \</kanban\> }  
-{ add }&nbsp;&nbsp;&nbsp;\<searchpanel\>  
+a:Add &nbsp;&nbsp;&nbsp;\<searchpanel\>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[ <field name="xxx" \[ groups="xxx.xxx" || select="multi" || \<nil\> \] icon="fa-xxx"/> \]&#x207F;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\</searchpanel\>  
 b:Save  
