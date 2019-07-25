@@ -3,9 +3,18 @@ Odoo usefull video links and &#x03C8;Code guides.
 
 ![Odoo usefull links & guides in &#x03C8;Code](/img/logo_odoo_guides_mini.jpg)
 
-This project was born from the requirements of the Odoo's certification program.
+# Guides
 
-This is a community effort oriented to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing number of localizations) requires an out of the box approach.
+## Odoo v13
+- [Community Edition](/o13/ce/o13-ce-guides_menu.md)
+- [Enterprise Edition](/o13/ee/o13-ee-guides_menu.md)
+
+
+# Objective
+
+Welcome to this repo, which is a support for Odoo's certification program and daily use.
+
+It is a community effort designed to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing number of localizations) requires an out of the box approach.
 
 We think videos are nice, but very inneficient way of training... even considering millenials, we hope centenials start reading again... as previos generations did for a long time.  Until somebody give us a Matrix-like interface, that allow us learn anything in just a couple of seconds, we need to locate the right procedure to solve an issue, in a better way.
 
@@ -19,14 +28,8 @@ As we want to respect the originator rights, every video link will include the o
 
 We'll receive, acknowledge, verify and be very grateful for any Odoo guide you wanna send us to be included here, in order to enhance the Odoo community the best we can.<br><br>
 
-# Odoo
 
-## Odoo v13
-- [Community Edition](/o13/ce/o13-ce-guides_menu.md)
-- [Enterprise Edition](/o13/ee/o13-ee-guides_menu.md)
-
-<br><br>
-## &#x03C8;Code Nomenclature
+# &#x03C8;Code Nomenclature
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
