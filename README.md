@@ -11,7 +11,7 @@ We think videos are nice, but very inneficient way of training... even consideri
 
 We trully believe the success in the long run of every partner depends on the speed they could move their info, from where it is, to where it's needed.
 
-We created a simple pseudo language named &#x03C8;Code to help people to work asap, based in a "what-where" theory of knowledge.  The idea is to mix the new video style with something lighter than traditional manuals, in order to recover all indexing, searching and efficiency capabilities of the traditional training. That is "along with", not "instead off".
+We created a simple pseudo language named &#x03C8;Code to help people to work asap, based in a "what-where" technique of knowledgewere.  The idea is to mix the new video style with something lighter than traditional manuals, in order to recover all indexing, searching and efficiency capabilities of the traditional training. That is "along with", not "instead off".
 
 As the great _Euclides_ did about 2,300 years ago, we aren't producing videos, but created the &#x03C8;Code content that summarizes shown procedure.  As a bonus, our links are bind with the exact start and end time of the related procedure.
 
@@ -62,11 +62,24 @@ We'll receive, acknowledge, verify and be very grateful for any Odoo guide you w
 | w:Window | window | ventana |
 
 <br><br>
-## Contribuitors
+## The _What-Where_ Technique.
+It is part of the _knowledgeware_ theory.  In the context of user interfaces, it means the training can be reduced to explain only _what_ to do and _where_ to do it.  This assume the user already know _why_ to do it, and there for it doesn't need to be part of the explanation, minimizing the time, info and effort used to acquire any new knowledge.  
 
-| id | Name | Team | Country |
-| :---: | :--- | :---: | :---: |
-| [@oldyguy](mailto:pcode@appti.mx) | $og | appti | MX |
+In this _hyper_-gamificated era, many interfaces are designed like video games, where everyone have to _discover_ by itself where and which are the icons and places to do something, as _minimalistic_ style demands the use of "clean" interfaces.  
+
+This was very common (and understandable) in the mobile industry, but recently it messed the enterprise desktop & notebook systems too.  Now days is very rare that a _designer_ asks for user feedback, in order to understand the usage difficulties they deal with on a day by day basis.  
+
+It is very costly to train users to work with a new system whose interface is like a video game, where you've to _discover_ things.  The system's percentage of use (and worst yet, the _appropiate_ use) this days is very low, because interfaces tend to change a lot between platforms, brands and even versions.  It is known that many Windows 8 native users that made fun of older ones (mainly pre-Window 7 ones), ended up complaining the same after being _upgraded_ to Windows 10.  
+
+So this technique is very useful to help people who already knows **_what_** do they have to do, providing them only the minimum essential info about **_where_** it should be done in the new system (and in which _order_).
+
+
+<br><br>
+## Project Contribuitors
+
+| id | Name | Team | Country | Guides |
+| :---: | :--- | :---: | :---: | :---: |
+| [@oldyguy](mailto:pcode@appti.mx) | $og | appti | MX | all |
 
 <br><br>
 #### Odoo Guides - v2_01 &nbsp; 2019-07-24
