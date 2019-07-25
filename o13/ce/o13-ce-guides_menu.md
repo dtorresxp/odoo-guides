@@ -35,7 +35,7 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | d:Dialog | dialog | dialog |
 | f:Field | input field | campo a capturar |
 | i:Item | item on screen | elemento en pantalla |
-| l:Label | label | etiqueta |
+| l:Link | link | hipervínculo |
 | m:Menu | menu | menú |
 | o:Option | option | opción |
 | s:SmartButton | smart-button | botón-inteligente |
