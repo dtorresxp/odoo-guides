@@ -35,13 +35,17 @@
   a:Review results per question type \[ Data || Graph ]  
   &#x1F872; d:This is a test survey. Edit Survey | s:Answers  
 
-- [TestRun Survey (Prueba Real de Encuesta)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=7m24ss&end=5m21s&rel=0)  
+- [Failed Test Run Survey (Prueba Errónea Real de Encuesta)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=3m24s&end=4m30s&rel=0)  
   &#x25A6; | o:Surveys | a:Select Survey w/Scoring | b:Share | w:Odoo  
   f:Survey | a:Open f:PublicLink in New Browser Tab  
   b:StartCertification | a:Answer full Survey with wrong answers | b:SubmitSurvey  
   a:Review score, certification result & attempts left | l:ReviewYourAnswers | a:Review right & wrong answers  
   
-*cocacola: regresar start/end de respuesta incorrecta y agregar en 7:24 el de la certif correcta*
+- [Accurate Test Run Survey (Prueba Exitosa Real de Encuesta)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=7m13s&end=0&rel=0)  
+  &#x25A6; | o:Surveys | a:Select Survey w/Scoring | b:Share | w:Odoo  
+  f:Survey | a:Open f:PublicLink in New Browser Tab  
+  b:StartCertification | a:Answer full Survey with right answers | b:SubmitSurvey  
+  a:Review score, certification result & attempts left | l:ReviewYourAnswers | a:Review right & wrong answers  
     
 	
 ###### Odoo Guides - v2_01 &nbsp; 2019-07-24  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
