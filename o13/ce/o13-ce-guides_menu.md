@@ -16,7 +16,7 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | \| | step sepparator | \[ x \|\| y \] | option steps |
 | \[ \]&#x207F; | n-times repetable steps | &#x2026; row &#x2026; | logical group of steps |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F872; proc | go to proc/page |
-| &#x25A6; | apps icon on _navbar_ (top of screen) | &#x2630; | app menu icon |
+| &#x25A6; | apps icon on _navbar_ | &#x2630; | app menu icon |
 | &#x2807; | list menu icon | &#x1F5F9; | checked mark |
 | &#x2610; | unchecked mark | &#x2716; | remove tag from list |
 | &#x25BC; | open comobobox | &#x1F41E; | developer tools |
