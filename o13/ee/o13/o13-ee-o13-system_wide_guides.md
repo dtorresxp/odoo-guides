@@ -8,7 +8,7 @@
 f:Email | a:Define a right one | b:Save  
 
 #### [How to get sample import template (O13 - EE - Odoo Mates - n/v - 00:55 - Generar Plantillas de Importación)](https://youtube.com/embed/Sl3-EhT4qwk?autoplay=1&start=0&end=0&rel=0)  
-&#x25A6; | a:Select module with desired list | b:Import | **&#x2B73;** Import Template for o:Module | &#x25C9; Save File | b:Ok  
+&#x25A6; | a:Select o:module with desired list | b:Import | **&#x2B73;** Import Template for o:Module | &#x25C9; Save File | b:Ok  
 
 #### [How to set different Languages to Users (O13 - EE - Odoo Mates - n/v - 02:11 - Instalar distintos Idiomas para Usuarios)](https://youtube.com/embed/8-UhC8VI7is?autoplay=1&start=0&end=0&rel=0)  
 &#x25A6; | o:settings | i:Activate the developer mode  
@@ -17,6 +17,9 @@ f:Email | a:Define a right one | b:Save
 w:LoadATranslation | &#x25BC; Language | &#x1F5F9; Overwrite Existing | b:Load | b:Close  
 &#x25A6; | o:settings | m:Users&Companies | o:Users | a:Select User | b:Edit | t:Preferences | i:Localization | &#x25BC; f:Language | a:Select language | b:Save  
 &#x25BC; m:MySelf | o:Logout | a:Login as localized User | a:Verify new language is ok  
+
+#### [New Multi Company Widget (O13 - EE - Odoo Mates - n/v - 01:17 - Nuevo Widget Multi-Compañía)](https://youtube.com/embed/5HU8dJfTmpc?autoplay=1&start=0&end=0&rel=0)  
+&#x25A6; | a:Select o:module | m:Company &#x25BC; | \[ a:Mark o:Company \]&#x207F;
 
 #### [New Search Panel in Kanban View (O13 - EE - Odoo Mates - n/v - 01:21 - Nuevo panel de búsqueda en vista Kanban)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)  
 &#x25A6; | o:settings | i:Activate the developer mode | &#x25A6; | a:open app with kanban | &#x1F41E; | o:EditView:Kanban | t:Architecture | a:Scroll to bottom, before \</kanban\> }  
@@ -34,4 +37,4 @@ b:Save
 
 <br>
 
-###### Odoo Guides - v2_02 &nbsp; 2019-07-25  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v2_03 &nbsp; 2019-07-26  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
