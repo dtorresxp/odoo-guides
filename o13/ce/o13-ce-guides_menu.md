@@ -21,13 +21,13 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | &#x2716; | remove tag from list | &#x25BC; | open comobobox to select option |
 | &#x1F41E; | active the developer mode | &#x25C9; | set option | encendido |
 | &#x2B58; | clear option | **&#x2B73;** | download |
-| **&#x2A01;** | add items | a:Action | action (group of steps) |
-| b:Button | button | d:Dialog | warning or action dialog |
-| f:Field | field to enter value |i:Item | item on screen |
-| l:Link | link | m:Menu | menu |
-| o:Option | option | s:SmartButton | smart-button |
-| t:Tab | tab | v:View | view | vista |
-| w:Window | window | ventana | | |
+| **&#x2A01;** | add items | | |
+| a:Action | action (group of steps) | b:Button | button |
+| d:Dialog | warning or action dialog | f:Field | field to enter value |
+| i:Item | item on screen | l:Link | link |
+| m:Menu | menu | o:Option | option | 
+| s:SmartButton | smart-button | t:Tab | tab | v:View |
+| view | vista | w:Window | window |
 
 <br><br>
 ###### Odoo Guides - v2_01 &nbsp; 2019-07-24  [_&#x23CE; home_](/README.md)  
