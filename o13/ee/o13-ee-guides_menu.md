@@ -32,7 +32,7 @@
 
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
-| step | step | | |
+| step | step | _(tag)_ | tag |
 | \| | step sepparator | \[ x \|\| y \] | option steps |
 | \[ \]&#x207F; | n-times repetable steps | &#x2026; row &#x2026; | logical group of steps |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F872; proc | go to proc/page |
@@ -44,7 +44,8 @@
 | &#x1F41E; | developer tools | **&#x2A01;** | add items |
 | &#x1F6E0; | open studio | &#x1F557; | activities |
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
-| **a:** Action | action (group of steps) | **b:** Button | button |
+| &#x1F4C5; | calendar | &#x2B50; | favorites |
+| _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
 | **i:** Item | item on screen | **l:** Link | link |
 | **m:** Menu | menu | **o:** Option | option | 
@@ -53,4 +54,4 @@
 
 <br>  
   
-###### Odoo Guides - v3_02 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v3_05 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md)  

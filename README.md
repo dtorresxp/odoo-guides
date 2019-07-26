@@ -54,9 +54,10 @@ This is the basic explanation about &#x03C8;Code.  It's only purpose is to indic
 - There are several _ICONS_ that mimic the Odoo ones on screen.
   - &#x25A6;&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_).
   - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcrumbs list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar.
+  - Date fields have &#x25BC; to their right and it opens a &#x1F4C5; dialog
   - All other symbols are the same as Odoo's on screen.
   - Some steps are preceded by a letter and a colon, meaning the kind if item that you should see on screen.
-  - **_a:_** &nbsp;means _ACTION_ and is the only one that isn't atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or in another guide.
+  - _**_a:_**_ &nbsp;means _ACTION_ and is the only one that isn't atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or in another guide.
   - **_i:_** &nbsp;&nbsp;means _ITEM_ and it represents any other object not on this list.
   - The other kinds of item used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
   - Bellow is the full list of symbols used in all guides, with its meaning.
@@ -71,6 +72,7 @@ This is the basic explanation about &#x03C8;Code.  It's only purpose is to indic
 | \[ \]&#x207F; | n-times repeatable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
+| _(tag)_ | tag | etiqueta |
 | &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
 | &#x25A6; | apps icon on _navbar_ (top of screen) | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
@@ -88,7 +90,9 @@ This is the basic explanation about &#x03C8;Code.  It's only purpose is to indic
 | &#x1F557; | activities (navbar) | actividades (navbar) |
 | &#x1F5ED; | conversations (navbar) | conversaciones (navbar) |
 | &#x1F50D; | advanced search | búsqueda avanzada |
-| **a:** Action | action (group of steps) to do | acción a realizar |
+| &#x1F4C5; | show calendar | mostrar calendario |
+| &#x2B50; | favorite searches | búsquedas favoritas |
+| _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
 | **b:** Button | button | botón |
 | **d:** Dialog | warning or action dialog | diálogo de precaución |
 | **f:** Field | field to enter some value | campo a capturar |
@@ -134,5 +138,5 @@ In order to help our Spanish and Latin-American communities, we included several
 _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 
 <br><br>
-#### Odoo Guides - v3_03 &nbsp; 2019-07-26
+#### Odoo Guides - v3_08 &nbsp; 2019-07-26
  
