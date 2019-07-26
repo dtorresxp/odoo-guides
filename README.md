@@ -17,9 +17,9 @@ Welcome to the &#x03C8;Code project, intended as an aid for Odoo's support, dail
 
 We created a simple pseudo language named &#x03C8;Code to help people to work asap, based in a "what-where" technique of knowledgewere.  Our idea is to mix the new video training style with something lighter than the big manuals, but recovering all indexing, searching and efficiency capabilities of the traditional training. Our goal is to get the very best of both worlds, privileging "along with" over "instead off".
 
-It is a community effort designed to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing number of localizations) requires an out of the box approach.
+It is a community effort designed to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing amount of localizations) requires an out of the box approach.
 
-We think videos are nice, but very inefficient way of training... even considering millenials, we hope centenials start reading again... as previous generations did for a long time.  Until somebody give us a Matrix-like interface, that allow us learn anything in just a couple of seconds, we need to locate the right procedure to solve an issue, in a better way.
+We think videos are nice but very inefficient way of training... even considering millenials, we hope centenials start reading again... as previous generations did for a long time.  Until somebody gives us a Matrix-like interface, that allow us learn anything in just a couple of seconds, we need to locate the right procedure to solve an issue, in a better way.
 
 We truly believe the success in the long run of every partner depends on the speed they could move their info, from where it is, to where it's needed.
 
@@ -33,14 +33,14 @@ We'll receive, acknowledge, verify and be very grateful for any Odoo guide you w
 
 # Structure
 
-For easy use, all files are linked and are menu based.  You don't need to dig into project folders to find all the information.  As Odoo has several active versions working now days and it comes in two flavors, project menus are organized both by version and edition.  
+For easy tp use, all files are linked and menu based.  You don't need to dig into project folders to find all the information.  As Odoo has several active versions working now days and it comes in two flavors, project menus are organized both by version and edition.  
 
 This README file is the project's home and it includes our mission statement, technical explanations and our contact info.  
 
 Folders are arranged as _version_ / _edition_ / _module_ / _guide_.  
 As project continues growing, a _menu_ could be added before _guide_, but all files belonging the module will be in the same module's folder.  
 
-If you can't find your needed information in any _menu_, or you find any error in our &#x03C8;Code, please feel free to send us a gently mail to instruct us about... preferably with a link to a explanatory video, we offer to treat this with higher priority to better serve our community.
+If you can't find your needed information in any _menu_, or you find any error in our &#x03C8;Code, please feel free to send us a gently mail to instruct us about... preferably with a link to an explanatory video, we offer to treat this with higher priority to better serve our community.
 
 <br>
 
@@ -58,7 +58,7 @@ This is the basic explanation about &#x03C8;Code, whose only purpose is to indic
   - Some steps are preceded by a letter and a colon, meaning the kind if item that you should see on screen.
   - **_a:_** &nbsp;means _ACTION_ and is the only one that isn't atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or in another guide.
   - **_i:_** &nbsp;&nbsp;means _ITEM_ and it represents any other object not on this list.
-  - The other kind of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
+  - The other kinds of item used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
   - Bellow is the full list of symbols used in all guides, with its meaning.
 
 <br>
@@ -130,5 +130,5 @@ In order to help our Spanish and Latin-American communities, we included several
 | [@oldyguy](mailto:pcode@appti.mx) | $og | appti | MX | all |
 
 <br><br>
-#### Odoo Guides - v3_01 &nbsp; 2019-07-25
+#### Odoo Guides - v3_02 &nbsp; 2019-07-26
  
