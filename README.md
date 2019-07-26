@@ -138,5 +138,5 @@ In order to help our Spanish and Latin-American communities, we included several
 _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 
 <br><br>
-#### Odoo Guides - v3_07 &nbsp; 2019-07-26
+#### Odoo Guides - v3_08 &nbsp; 2019-07-26
  
