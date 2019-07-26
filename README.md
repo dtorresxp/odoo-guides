@@ -58,8 +58,8 @@ This are the basic expanation about &#x03C8;Code:
   - Some steps are preseded by a letter and a colon, meaning the kind if item that you should see on screen.
   - **_a:_** &nbsp;means _ACTION_ and is the only one that isn't atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually because they're explained before or in another guide.
   - **_i:_** &nbsp;&nbsp;means _ITEM_ and it repreents any other object not on this list.
-  - The other kind of items we can found on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **i:** Item, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
-  - Bellow is the full list of symbols used in all guides.
+  - The other kind of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
+  - Bellow is the full list of symbols used in all guides, with its meaning.
 
 <br>
 
