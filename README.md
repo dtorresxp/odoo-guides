@@ -57,7 +57,7 @@ This is the basic explanation about &#x03C8;Code.  It's only purpose is to indic
   - Date fields have &#x25BC; to their right and it opens a &#x1F4C5; dialog
   - All other symbols are the same as Odoo's on screen.
   - Some steps are preceded by a letter and a colon, meaning the kind if item that you should see on screen.
-  - **_a:_** &nbsp;means _ACTION_ and is the only one that isn't atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or in another guide.
+  - _**_a:_**_ &nbsp;means _ACTION_ and is the only one that isn't atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or in another guide.
   - **_i:_** &nbsp;&nbsp;means _ITEM_ and it represents any other object not on this list.
   - The other kinds of item used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
   - Bellow is the full list of symbols used in all guides, with its meaning.
@@ -92,7 +92,7 @@ This is the basic explanation about &#x03C8;Code.  It's only purpose is to indic
 | &#x1F50D; | advanced search | búsqueda avanzada |
 | &#x1F4C5; | show calendar | mostrar calendario |
 | &#x2B50; | favorite searches | búsquedas favoritas |
-| **a:** Action | action (group of steps) to do | acción a realizar |
+| _**a:** Action_ | action (group of steps) to do | acción a realizar |
 | **b:** Button | button | botón |
 | **d:** Dialog | warning or action dialog | diálogo de precaución |
 | **f:** Field | field to enter some value | campo a capturar |
@@ -138,5 +138,5 @@ In order to help our Spanish and Latin-American communities, we included several
 _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 
 <br><br>
-#### Odoo Guides - v3_06 &nbsp; 2019-07-26
+#### Odoo Guides - v3_07 &nbsp; 2019-07-26
  
