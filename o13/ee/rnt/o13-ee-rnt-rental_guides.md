@@ -12,7 +12,7 @@ t:Rental | i:Rental Pricing | \[ f:Duration | f:Unit | f:Price \]&#x207F;
 i:Delay Costs | f:ExtraHour | f:ExtraDay | i:Padding Time | f:BeforePickup | b:Save  
 m:Orders | b:Create | f:Customer &#x25BC; | _a:Select Customer_  
 b:AddAProduct | f:Product &#x25BC; | _a:Select Product_ | \[ d:NotEnoughInventory | b:Ok ]  
-w:RentAProduct | f:DateFrom &#x1F4C5; | f:DateTo &#x1F4C5; | f:Quantity | f:Duration | f:UnitPrice | b:Add | \[ d:NotEnoughInventory | b:Ok ]  
+w:RentAProduct | f:DateFrom &#x1F4C5; | f:To &#x1F4C5; | f:Quantity | f:Duration | f:UnitPrice | b:Add | \[ d:NotEnoughInventory | b:Ok ]  
 b:Save | b:Confirm | _a:Now order shows (Reserved)_  
 
 <br>
