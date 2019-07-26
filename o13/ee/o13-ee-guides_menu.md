@@ -32,7 +32,7 @@
 
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
-| step | step | | |
+| step | step | (tag) | tag |
 | \| | step sepparator | \[ x \|\| y \] | option steps |
 | \[ \]&#x207F; | n-times repetable steps | &#x2026; row &#x2026; | logical group of steps |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F872; proc | go to proc/page |
@@ -54,4 +54,4 @@
 
 <br>  
   
-###### Odoo Guides - v3_03 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v3_04 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md)  
