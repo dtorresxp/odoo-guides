@@ -19,7 +19,7 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | &#x25A6; | apps icon on _navbar_ (top of screen) | &#x2630; | app menu icon |
 | &#x2807; | list menu icon | &#x1F5F9; | checked mark |
 | &#x2610; | unchecked mark | &#x2716; | remove tag from list |
-| &#x25BC; | open comobobox to select option | &#x1F41E; | activate the developer mode |
+| &#x25BC; | open comobobox | &#x1F41E; | developer tools |
 | &#x25C9; | set option | &#x2B58; | clear option |
 | **&#x2B73;** | download | **&#x2A01;** | add items |
 | a:Action | action (group of steps) | b:Button | button |
