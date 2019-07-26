@@ -56,9 +56,9 @@ This are the basic expanation about &#x03C8;Code:
   - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcums list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar.
   - All other symbols are the same as Odoo's on screen.
   - Some steps are preseded by a letter and a colon, meaning the kind if item that you should see on screen.
-  - _i:_ &nbsp;&nbsp;means _ITEM_ and is used for any object that is not listed here.
-  - _a:_ &nbsp;means _ACTION_ and is the only one that isn't atomic.  It is used to indicate a complex task of several steps that are mentioned as one, to simplify the guide.  Usually because they're explained before or in another guide.
-  - Other are: _b:Button, d:Dialog, f:Field, i:Item, l:Link, m:Menu, o:Option, s:SmartButton, t:Tab, v:View and w:Window._
+  - **_i:_** &nbsp;&nbsp;means _ITEM_ and is used for any object that is not listed here.
+  - **_a:_** &nbsp;means _ACTION_ and is the only one that isn't atomic.  It is used to indicate a complex task of several steps that are mentioned as one, to simplify the guide.  Usually because they're explained before or in another guide.
+  - The other kind of items we can found on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **i:** Item, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
   - Bellow is the full list of symbols used in all guides.
 
 <br>
@@ -88,18 +88,18 @@ This are the basic expanation about &#x03C8;Code:
 | &#x1F557; | activities (navbar) | actividades (navbar) |
 | &#x1F5ED; | conversations (navbar) | conversaciones (navbar) |
 | &#x1F50D; | advanced search | búsqueda avanzada |
-| a:Action | action (group of steps) to do | acción a realizar |
-| b:Button | button | botón |
-| d:Dialog | warning or action dialog | diálogo de precaución |
-| f:Field | field to enter some value | campo a capturar |
-| i:Item | item on screen | elemento en pantalla |
-| l:Link | link | hipervínculo |
-| m:Menu | menu | menú |
-| o:Option | option | opción |
-| s:SmartButton | smart-button | botón-inteligente |
-| t:Tab | tab | pestaña |
-| v:View | view | vista |
-| w:Window | window | ventana |
+| **a:** Action | action (group of steps) to do | acción a realizar |
+| **b:** Button | button | botón |
+| **d:** Dialog | warning or action dialog | diálogo de precaución |
+| **f:** Field | field to enter some value | campo a capturar |
+| **i:** Item | item on screen | elemento en pantalla |
+| **l:** Link | link | hipervínculo |
+| **m:** Menu | menu | menú |
+| **o:** Option | option | opción |
+| **s:** SmartButton | smart-button | botón-inteligente |
+| **t:** Tab | tab | pestaña |
+| **v:** View | view | vista |
+| **w:** Window | window | ventana |
 
 <br>
 
