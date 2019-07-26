@@ -88,6 +88,7 @@ This is the basic explanation about &#x03C8;Code.  It's only purpose is to indic
 | &#x1F557; | activities (navbar) | actividades (navbar) |
 | &#x1F5ED; | conversations (navbar) | conversaciones (navbar) |
 | &#x1F50D; | advanced search | búsqueda avanzada |
+| &#x1F4C5; | calendar | &#x2B50; | favorites |
 | **a:** Action | action (group of steps) to do | acción a realizar |
 | **b:** Button | button | botón |
 | **d:** Dialog | warning or action dialog | diálogo de precaución |
@@ -134,5 +135,5 @@ In order to help our Spanish and Latin-American communities, we included several
 _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 
 <br><br>
-#### Odoo Guides - v3_03 &nbsp; 2019-07-26
+#### Odoo Guides - v3_04 &nbsp; 2019-07-26
  
