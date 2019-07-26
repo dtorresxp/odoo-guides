@@ -103,7 +103,7 @@ This are the basic expanation about &#x03C8;Code:
 
 <br>
 
-# The _What-Where_ Technique.
+# The _What-Where_ Approach.
 It is part of the _knowledgeware_ theory.  In the context of user interfaces, it means the training can be reduced to explain only _what_ to do and _where_ to do it.  This assume the user already know _why_ to do it, and there for it doesn't need to be part of the explanation, minimizing the time, info and effort used to acquire any new knowledge.  
 
 In this _hyper_-gamificated era, many interfaces are designed like video games, where everyone have to _discover_ by itself where and which are the icons and places to do something, as _minimalistic_ style demands the use of "clean" interfaces.  
