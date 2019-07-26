@@ -118,7 +118,7 @@ So this technique is very useful to help people who already knows **_what_** do 
 
 # Spanish Text (Textos en Español)
 
-In order to help our Spanish and Latinamerican communities, we included several spanish translations in our guides, feel free to branch it and change spanish for your own language as needed. 
+In order to help our Spanish and Latinamerican communities, we included several spanish translations in our guides.  Please feel free to branch this repo and change spanish to your own language as needed. 
 
 
 <br>
