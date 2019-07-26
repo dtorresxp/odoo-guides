@@ -56,8 +56,8 @@ This are the basic expanation about &#x03C8;Code:
   - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcums list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar.
   - All other symbols are the same as Odoo's on screen.
   - Some steps are preseded by a letter and a colon, meaning the kind if item that you should see on screen.
-  - **_i:_** &nbsp;&nbsp;means _ITEM_ and is used for any object that is not listed here.
-  - **_a:_** &nbsp;means _ACTION_ and is the only one that isn't atomic.  It is used to indicate a complex task of several steps that are mentioned as one, to simplify the guide.  Usually because they're explained before or in another guide.
+  - **_a:_** &nbsp;means _ACTION_ and is the only one that isn't atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually because they're explained before or in another guide.
+  - **_i:_** &nbsp;&nbsp;means _ITEM_ and it repreents any other object not on this list.
   - The other kind of items we can found on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **i:** Item, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
   - Bellow is the full list of symbols used in all guides.
 
