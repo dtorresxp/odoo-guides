@@ -19,9 +19,9 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | &#x25A6; | apps icon on _navbar_ | &#x2630; | app menu icon |
 | &#x2807; | list menu icon | &#x1F5F9; | checked mark |
 | &#x2610; | unchecked mark | &#x2716; | remove tag from list |
-| &#x25BC; | open comobobox | &#x1F41E; | developer tools |
+| &#x25BC; | open comobobox |  **&#x2B73;** | download |
 | &#x25C9; | set option | &#x2B58; | clear option |
-| **&#x2B73;** | download | **&#x2A01;** | add items |
+| &#x1F41E; | developer tools | **&#x2A01;** | add items |
 | &#x1F6E0; | open studio | &#x1F557; | activities |
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
 | a:Action | action (group of steps) | b:Button | button |
