@@ -12,15 +12,15 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
-| step | step | \| | step sepparator |
-| \[ x \|\| y \] | option steps | \[ \]&#x207F; | n-times repetable steps |
-| &#x2026; row &#x2026; | logical group of steps | &#x23BD;/&#x23BD;/ | breadcrumbs |
-| &#x1F872; proc | go to proc/page | | |
+| step | step | | |
+| \| | step sepparator | \[ x \|\| y \] | option steps |
+| \[ \]&#x207F; | n-times repetable steps | &#x2026; row &#x2026; | logical group of steps |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F872; proc | go to proc/page |
 | &#x25A6; | apps icon on _navbar_ (top of screen) | &#x2630; | app menu icon |
 | &#x2807; | list menu icon | &#x1F5F9; | checked mark |
 | &#x2610; | unchecked mark | &#x2716; | remove tag from list |
 | &#x25BC; | open comobobox to select option | &#x1F41E; | activate the developer mode |
-| &#x25C9; | set option | encendido | &#x2B58; | clear option |
+| &#x25C9; | set option | &#x2B58; | clear option |
 | **&#x2B73;** | download | **&#x2A01;** | add items |
 | a:Action | action (group of steps) | b:Button | button |
 | d:Dialog | warning or action dialog | f:Field | field to enter value |
