@@ -21,10 +21,11 @@
 | osh | [Odoo SH \(Odoo SH\)](/o13/ee/osh/o13-ee-osh-odoo_sh_guides.md) | pch | [Purchasing \(Compras\)](/o13/ee/pch/o13-ee-pch-purchasing_guides.md) |
 | plm | [PLM \(PLM\)](/o13/ee/plm/o13-ee-plm-plm_guides.md) | pos | [Point of sale \(Punto de Venta\)](/o13/ee/pos/o13-ee-pos-point_of_sale_guides.md) |
 | prj | [Projects \(Proyectos\)](/o13/ee/prj/o13-ee-prj-projects_guides.md) | rcr | [Recruitment \(Reclutamiento\)](/o13/ee/rcr/o13-ee-rcr-recruitment_guides.md) |
-| skm | [Skills Management \(Competencias\)](/o13/ee/skm/o13-ee-skm-skills_management_guides.md) | sli | [Slides \(Publicaciones\)](/o13/ee/sli/o13-ee-sli-slides_guides.md) |
-| sls | [Sales \(Ventas\)](/o13/ee/sls/o13-ee-sls-sales_guides.md) | stu | [Odoo Studio \(Estudio Odoo\)](/o13/ee/stu/o13-ee-stu-studio_guides.md) |
-| sub | [Subscriptions \(Suscripciones\)](/o13/ee/sub/o13-ee-sub-subscriptions_guides.md) | svy | [Surveys \(Encuestas\)](/o13/ee/svy/o13-ee-svy-survey_guides.md) |
-| tsh | [Timesheet \(Control de Horas\)](/o13/ee/tsh/o13-ee-tsh-timesheet_guides.md) | web | [Websites builder \(Sitios Web\)](/o13/ee/web/o13-ee-web-websites_builder_guides.md) |
+| rnt | [Rental \(Rentas\)](/o13/ee/rnt/o13-ee-rnt-rental_guides.md) | skm | [Skills Management \(Competencias\)](/o13/ee/skm/o13-ee-skm-skills_management_guides.md) |
+| sli | [Slides \(Publicaciones\)](/o13/ee/sli/o13-ee-sli-slides_guides.md) | sls | [Sales \(Ventas\)](/o13/ee/sls/o13-ee-sls-sales_guides.md) |
+| stu | [Odoo Studio \(Estudio Odoo\)](/o13/ee/stu/o13-ee-stu-studio_guides.md) | sub | [Subscriptions \(Suscripciones\)](/o13/ee/sub/o13-ee-sub-subscriptions_guides.md) |
+| svy | [Surveys \(Encuestas\)](/o13/ee/svy/o13-ee-svy-survey_guides.md) | tsh | [Timesheet \(Control de Horas\)](/o13/ee/tsh/o13-ee-tsh-timesheet_guides.md) |
+| web | [Websites builder \(Sitios Web\)](/o13/ee/web/o13-ee-web-websites_builder_guides.md) | | |
   
   
 ## pCode Nomenclature
