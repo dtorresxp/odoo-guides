@@ -50,7 +50,7 @@ This are the basic expanation about &#x03C8;Code:
 - The main component of the &#x03C8;Code is _STEP_, some atomic task to do in the screen.  
 - Every step is sepparated from others by the _PIPE_ character |.  
 - Related steps tend to be in the same _ROW_, unless there are so many and needs to break in several rows.  
-- Some steps are grouped, so they're enclosed in _SQUARE BRACKETS_.  If they're mutually exclusive (options), they appear sepparated by _DOUBLE PIPE_ || (the OR sign).  If the group is repetable, a superindex appears after closing bracket: &#x207F;  
+- Some steps are grouped, so they're enclosed in _SQUARE BRACKETS_.  If they're mutually exclusive (options), they appear sepparated by _DOUBLE PIPE_ || (the OR sign).  If the group is repetable, a superindex appears after closing bracket: \[ \]&#x207F;  
 - There are several _ICONS_ that mimic the Odoo ones on screen.
   - &#x25A6;&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_).
   - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcums list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar.
@@ -63,7 +63,7 @@ This are the basic expanation about &#x03C8;Code:
 
 <br>
 
-| chars | Meaning | Significado |
+| Symbol | Meaning | Significado |
 | :---: | :--- | :--- |
 | step | step | paso |
 | \| | step sepparator | separador de pasos |
