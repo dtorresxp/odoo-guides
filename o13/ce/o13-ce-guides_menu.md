@@ -10,38 +10,26 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 <br><br>
 ## pCode Nomenclature
 
-| chars | Meaning | Significado |
-| :---: | :--- | :--- |
-| step | step | paso |
-| \| | step sepparator | separador de pasos |
-| \[ x \|\| y \] | option steps | pasos optativos |
-| \[ \]&#x207F; | n-times repetable steps | pasos repetibles n-veces |
-| &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
-| &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
-| &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
-| &#x25A6; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
-| &#x2630; | app menu icon | icono de menú de la aplicación |
-| &#x2807; | list menu icon | icono de menú de la lista |
-| &#x1F5F9; | checked mark | opción marcada con palomita |
-| &#x2610; | unchecked mark | opción desmarcada |
-| &#x2716; | remove tag | quitar etiqueta |
-| &#x25BC; | select from combobox | seleccionar de combobox |
-| &#x1F41E; | developer mode | catarina en \<barranav\> |
-| &#x25C9; | set | encendido |
-| &#x2B58; | unset | apagado |
-| **&#x2B73;** | download | descargar |
-| a:Action | action | acción a realizar |
-| b:Button | button | botón |
-| d:Dialog | dialog | dialog |
-| f:Field | input field | campo a capturar |
-| i:Item | item on screen | elemento en pantalla |
-| l:Link | link | hipervínculo |
-| m:Menu | menu | menú |
-| o:Option | option | opción |
-| s:SmartButton | smart-button | botón-inteligente |
-| t:Tab | tab | pestaña |
-| v:View | view | vista |
-| w:Window | window | ventana |
+| Symbol | Meaning | Symbol | Meaning | 
+| :---: | :--- | :---: | :--- |
+| step | step | | |
+| \| | step sepparator | \[ x \|\| y \] | option steps |
+| \[ \]&#x207F; | n-times repetable steps | &#x2026; row &#x2026; | logical group of steps |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F872; proc | go to proc/page |
+| &#x25A6; | apps icon on _navbar_ | &#x2630; | app menu icon |
+| &#x2807; | list menu icon | &#x2716; | remove tag from list |
+| &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
+| &#x25C9; | set option | &#x2B58; | clear option |
+| &#x25BC; | open comobobox | **&#x2B73;** | download |
+| &#x1F41E; | developer tools | **&#x2A01;** | add items |
+| &#x1F6E0; | open studio | &#x1F557; | activities |
+| &#x1F5ED; | conversations | &#x1F50D; | advanced search |
+| **a:** Action | action (group of steps) | **b:** Button | button |
+| **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
+| **i:** Item | item on screen | **l:** Link | link |
+| **m:** Menu | menu | **o:** Option | option | 
+| **s:** SmartButton | smart-button | **t:** Tab | tab | v:View |
+| **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v2_01 &nbsp; 2019-07-24  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v3_01 &nbsp; 2019-07-25  [_&#x23CE; home_](/README.md)  
