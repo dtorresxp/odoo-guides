@@ -54,7 +54,7 @@ This is the basic explanation about &#x03C8;Code.  It's only purpose is to indic
 - There are several _ICONS_ that mimic the Odoo ones on screen.
   - &#x25A6;&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_).
   - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcrumbs list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar.
-  - Date fields has &#x25BC; to their right and it opens a &#x1F4C5; dialog
+  - Date fields have &#x25BC; to their right and it opens a &#x1F4C5; dialog
   - All other symbols are the same as Odoo's on screen.
   - Some steps are preceded by a letter and a colon, meaning the kind if item that you should see on screen.
   - **_a:_** &nbsp;means _ACTION_ and is the only one that isn't atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or in another guide.
