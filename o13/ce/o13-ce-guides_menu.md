@@ -32,4 +32,4 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v2_01 &nbsp; 2019-07-24  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v3_01 &nbsp; 2019-07-25  [_&#x23CE; home_](/README.md)  
