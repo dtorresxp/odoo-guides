@@ -46,7 +46,7 @@ If you can't find your needed information in any _menu_, or you find any error i
 
 # &#x03C8;Code Brief
 
-This is the basic expanation about &#x03C8;Code, whos only purpose is to indicate all necesary steps in a known right order and to help finding the place on screen where the step must be done:
+This is the basic expanation about &#x03C8;Code, whos only purpose is to indicate all necesary steps in a known right order and to help finding the place on screen where the step has to be done:
 - The main component of the &#x03C8;Code is _STEP_, some atomic task to do in the screen.  
 - Every step is sepparated from others by the _PIPE_ character |.  
 - Related steps tend to be in the same _ROW_, unless there are so many and needs to break in several rows.  
