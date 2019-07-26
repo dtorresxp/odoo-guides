@@ -44,6 +44,7 @@
 | &#x1F41E; | developer tools | **&#x2A01;** | add items |
 | &#x1F6E0; | open studio | &#x1F557; | activities |
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
+| &#x1F4C5; | calendar | &#x2B50; | favorites |
 | **a:** Action | action (group of steps) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
 | **i:** Item | item on screen | **l:** Link | link |
@@ -53,4 +54,4 @@
 
 <br>  
   
-###### Odoo Guides - v3_02 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v3_03 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md)  
