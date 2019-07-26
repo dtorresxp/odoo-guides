@@ -13,7 +13,7 @@ Odoo usefull video links and &#x03C8;Code guides.
 
 # &#x03C8;Code Project objectives
 
-Welcome to this project, which is a support for Odoo's daily use, training & certification program.
+Welcome to the &#x03C8;Code project, which is a support for Odoo's daily use, training & certification program.
 
 It is a community effort designed to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing number of localizations) requires an out of the box approach.
 
