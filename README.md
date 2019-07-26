@@ -15,7 +15,7 @@ Odoo usefull video links and &#x03C8;Code guides.
 
 Welcome to the &#x03C8;Code project, intended as an aid for Odoo's support, daily use, training & certification.
 
-We created a simple pseudo language named &#x03C8;Code to help people to work asap, based in a "what-where" technique of knowledgewere.  The idea is to mix the new video style with something lighter than traditional manuals, in order to recover all indexing, searching and efficiency capabilities of the traditional training. That is "along with", not "instead off".
+We created a simple pseudo language named &#x03C8;Code to help people to work asap, based in a "what-where" technique of knowledgewere.  The idea is to mix the new video style with something lighter than traditional manuals, in order to recover all indexing, searching and efficiency capabilities of the traditional training. Our goal is to get the very best of both worlds, privileging "along with" over "instead off".
 
 It is a community effort designed to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing number of localizations) requires an out of the box approach.
 
