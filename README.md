@@ -56,7 +56,9 @@ This are the basic expanation about &#x03C8;Code:
   - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcums list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar.
   - All other symbols are the same as Odoo's on screen.
   - Some steps are preseded by a letter and a colon, meaning the kind if item that you should see on screen.
-  - All tend to be atomic but _a:_ which means _ACTION_, and is used to indicate a complex task of several steps that are included in one, to simplify the guide.  Many times are explained some rows before or in another guide.
+  - _i:_ &nbsp;&nbsp;means _ITEM_ and is used for any object that is not listed here.
+  - _a:_ &nbsp;means _ACTION_ and is the only one that isn't atomic.  It is used to indicate a complex task of several steps that are mentioned as one, to simplify the guide.  Usually because they're explained before or in another guide.
+  - Other are: _b:Button, d:Dialog, f:Field, i:Item, l:Link, m:Menu, o:Option, s:SmartButton, t:Tab, v:View and w:Window._
   - Bellow is the full list of symbols used in all guides.
 
 <br>
@@ -70,21 +72,21 @@ This are the basic expanation about &#x03C8;Code:
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
 | &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
-| &#x25A6; | apps icon in top \<navbar\> | icono de apps en \<barranav\> |
+| &#x25A6; | apps icon on _navbar_ (top of screen) | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
 | &#x2807; | list menu icon | icono de menú de la lista |
 | &#x1F5F9; | checked mark | opción marcada con palomita |
 | &#x2610; | unchecked mark | opción desmarcada |
-| &#x2716; | remove tag | quitar etiqueta |
-| &#x25BC; | select from combobox | seleccionar de combobox |
-| &#x1F41E; | developer mode | catarina en \<barranav\> |
-| &#x25C9; | set | encendido |
-| &#x2B58; | unset | apagado |
+| &#x2716; | remove tag from list | quitar etiqueta |
+| &#x25BC; | open comobobox to select option | abrir combo y seleccionar opción |
+| &#x1F41E; | active the developer mode | catarina en \<barranav\> |
+| &#x25C9; | set option | encendido |
+| &#x2B58; | clear option | apagado |
 | **&#x2B73;** | download | descargar |
-| a:Action | action | acción a realizar |
+| a:Action | action (group of steps) to do | acción a realizar |
 | b:Button | button | botón |
-| d:Dialog | dialog | dialog |
-| f:Field | input field | campo a capturar |
+| d:Dialog | warning or action dialog | diálogo de precaución |
+| f:Field | field to enter some value | campo a capturar |
 | i:Item | item on screen | elemento en pantalla |
 | l:Link | link | hipervínculo |
 | m:Menu | menu | menú |
@@ -111,7 +113,7 @@ So this technique is very useful to help people who already knows **_what_** do 
 
 # Spanish Text (Textos en Español)
 
-In order to serve our Spanish and Latinamerican communities, we included several spanish translations in our guides, feel free to branch it and change spanish for your own language as needed. 
+In order to help our Spanish and Latinamerican communities, we included several spanish translations in our guides, feel free to branch it and change spanish for your own language as needed. 
 
 
 <br>
