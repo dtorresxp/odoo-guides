@@ -20,7 +20,7 @@
 | mrp | [MRP \(MRP\)](/o13/ee/mrp/o13-ee-mrp-mrp_guides.md) | msm | [Mass marketing \(Correo masivo\)](/o13/ee/msm/o13-ee-msm-mass_marketing_guides.md) |
 | osh | [Odoo SH \(Odoo SH\)](/o13/ee/osh/o13-ee-osh-odoo_sh_guides.md) | pch | [Purchasing \(Compras\)](/o13/ee/pch/o13-ee-pch-purchasing_guides.md) |
 | plm | [PLM \(PLM\)](/o13/ee/plm/o13-ee-plm-plm_guides.md) | pos | [Point of sale \(Punto de Venta\)](/o13/ee/pos/o13-ee-pos-point_of_sale_guides.md) |
-| pro | [Projects \(Proyectos\)](/o13/ee/pro/o13-ee-pro-projects_guides.md) | rcr | [Recruitment \(Reclutamiento\)](/o13/ee/rcr/o13-ee-rcr-recruitment_guides.md) |
+| prj | [Projects \(Proyectos\)](/o13/ee/prj/o13-ee-prj-projects_guides.md) | rcr | [Recruitment \(Reclutamiento\)](/o13/ee/rcr/o13-ee-rcr-recruitment_guides.md) |
 | skm | [Skills Management \(Competencias\)](/o13/ee/skm/o13-ee-skm-skills_management_guides.md) | sli | [Slides \(Publicaciones\)](/o13/ee/sli/o13-ee-sli-slides_guides.md) |
 | sls | [Sales \(Ventas\)](/o13/ee/sls/o13-ee-sls-sales_guides.md) | stu | [Odoo Studio \(Estudio Odoo\)](/o13/ee/stu/o13-ee-stu-studio_guides.md) |
 | sub | [Subscriptions \(Suscripciones\)](/o13/ee/sub/o13-ee-sub-subscriptions_guides.md) | svy | [Surveys \(Encuestas\)](/o13/ee/svy/o13-ee-svy-survey_guides.md) |
