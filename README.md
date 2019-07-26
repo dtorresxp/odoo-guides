@@ -11,9 +11,9 @@ Odoo usefull video links and &#x03C8;Code guides.
 
 <br>
 
-# &#x03C8;Code Project Objectives
+# &#x03C8;Code Project objectives
 
-Welcome to this project, which is a support for Odoo's certification program and Odoo's daily use.
+Welcome to this project, which is a support for Odoo's daily use, training & certification program.
 
 It is a community effort designed to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing number of localizations) requires an out of the box approach.
 
@@ -27,10 +27,39 @@ As the great _Euclides_ did about 2,300 years ago, we aren't producing videos, b
 
 As we want to respect the originator rights, every video link will include the original creator name and address, for fair play.
 
-We'll receive, acknowledge, verify and be very grateful for any Odoo guide you wanna send us to be included here, in order to enhance the Odoo community the best we can.<br><br>
+We'll receive, acknowledge, verify and be very grateful for any Odoo guide you wanna send us to be included here, in order to enhance the Odoo community the best we can.
 
+<br>
+
+# Structure
+
+For easy use, all files are linked and are menu based.  You don't need to dig into project folders to find all the information.  As Odoo has several active versions working now days and it comes in two flavors, project menus are organized both by version and edition.  
+
+This README file is the project's home and it includes our mission statement, technical explanations and our contact info.  
+
+Folders are arranged as _version_ / _edition_ / _module_ / _guide_.  
+As project continue growing, a _menu_ could be added before _guide_, but all files belonging the module will be in the same module's folder.  
+
+If you can't find your needed information in any _menu_, or you find any error in our &#x03C8;Code, please feel free to send us a gently mail to instruct us about... preferably with a link to a explanatory video, we offer to treat this with higher priority to better serve our community.
+
+<br>
 
 # &#x03C8;Code Brief
+
+This are the basic expanation about &#x03C8;Code:
+- The main component of the &#x03C8;Code is _STEP_, some atomic task to do in the screen.  
+- Every step is sepparated from others by the _PIPE_ character |.  
+- Related steps tend to be in the same _ROW_, unless there are so many and needs to break in several rows.  
+- Some steps are grouped, so they're enclosed in _SQUARE BRACKETS_.  If they're mutually exclusive (options), they appear sepparated by _DOUBLE PIPE_ || (the OR sign).  If the group is repetable, a superindex appears after closing bracket: &#x207F;  
+- There are several _ICONS_ that mimic the Odoo ones on screen.
+  - &#x25A6;&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_).
+  - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcums list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar.
+  - All other symbols are the same as Odoo's on screen.
+  - Some steps are preseded by a letter and a colon, meaning the kind if item that you should see on screen.
+  - All tend to be atomic but _a:_ which means _ACTION_, and is used to indicate a complex task of several steps that are included in one, to simplify the guide.  Many times are explained some rows before or in another guide.
+  - Bellow is the full list of symbols used in all guides.
+
+<br>
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
@@ -80,7 +109,14 @@ So this technique is very useful to help people who already knows **_what_** do 
 
 <br>
 
-# Project Contribuitors
+# Spanish Text (Textos en Español)
+
+In order to serve our Spanish and Latinamerican communities, we included several spanish translations in our guides, feel free to branch it and change spanish for your own language as needed. 
+
+
+<br>
+
+# &#x03C8;Code Contribuitors
 
 | id | Name | Team | Country | Guides |
 | :---: | :--- | :---: | :---: | :---: |
