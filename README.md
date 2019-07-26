@@ -79,10 +79,11 @@ This are the basic expanation about &#x03C8;Code:
 | &#x2610; | unchecked mark | opción desmarcada |
 | &#x2716; | remove tag from list | quitar etiqueta |
 | &#x25BC; | open comobobox to select option | abrir combo y seleccionar opción |
-| &#x1F41E; | active the developer mode | catarina en \<barranav\> |
+| &#x1F41E; | active the developer mode | activar modo desarrollador |
 | &#x25C9; | set option | encendido |
 | &#x2B58; | clear option | apagado |
 | **&#x2B73;** | download | descargar |
+| **&#x2A01;** | add items | agregar elementos 
 | a:Action | action (group of steps) to do | acción a realizar |
 | b:Button | button | botón |
 | d:Dialog | warning or action dialog | diálogo de precaución |
