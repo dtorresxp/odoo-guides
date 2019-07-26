@@ -15,7 +15,7 @@
 | flt | [Fleet \(Flotillas\)](/o13/ee/flt/o13-ee-flt-fleet_guides.md) | for | [Forum \(Foros\)](/o13/ee/for/o13-ee-for-forum_guides.md) |
 | hdk | [Helpdesk \(Helpdesk\)](/o13/ee/hdk/o13-ee-hdk-helpdesk_guides.md) | inv | [Inventory \(Inventarios\)](/o13/ee/inv/o13-ee-inv-inventory_guides.md) |
 | iot | [Internet of Things \(IOT\)](/o13/ee/iot/o13-ee-iot-internet_of_things_guides.md) | ivc | [Invoicing \(Facturación\)](/o13/ee/ivc/o13-ee-ivc-invoicing_guides.md) |
-| lch | [Live chat \(Chat en vivo\)](/o13/ee/lch/o13-ee-lch-live_chat_guides.md) | lea | [Leaves \(Vacaciones\)](/o13/ee/lea/o13-ee-lea-leaves_guides.md) |
+| lch | [Live chat \(Chat en vivo\)](/o13/ee/lch/o13-ee-lch-live_chat_guides.md) | lvs | [Leaves \(Vacaciones\)](/o13/ee/lvs/o13-ee-lvs-leaves_guides.md) |
 | mka | [Marketing Automation \(Campañas\)](/o13/ee/mka/o13-ee-mka-marketing_automation_guides.md) | mnt | [Maintenance \(Mantenimiento\)](/o13/ee/mnt/o13-ee-mnt-maintenance_guides.md) |
 | mrp | [MRP \(MRP\)](/o13/ee/mrp/o13-ee-mrp-mrp_guides.md) | msm | [Mass marketing \(Correo masivo\)](/o13/ee/msm/o13-ee-msm-mass_marketing_guides.md) |
 | osh | [Odoo SH \(Odoo SH\)](/o13/ee/osh/o13-ee-osh-odoo_sh_guides.md) | pch | [Purchasing \(Compras\)](/o13/ee/pch/o13-ee-pch-purchasing_guides.md) |
