@@ -22,4 +22,4 @@ i:Form Builder | b:MoreInfo | b:Install
 
 <br>
 
-###### Odoo Guides - v2_02 &nbsp; 2019-07-25  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v2_03 &nbsp; 2019-07-27  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
