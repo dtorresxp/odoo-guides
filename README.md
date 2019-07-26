@@ -72,6 +72,7 @@ This is the basic explanation about &#x03C8;Code.  It's only purpose is to indic
 | \[ \]&#x207F; | n-times repeatable steps | pasos repetibles n-veces |
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
+| (tag) | tag | etiqueta |
 | &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
 | &#x25A6; | apps icon on _navbar_ (top of screen) | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
@@ -137,5 +138,5 @@ In order to help our Spanish and Latin-American communities, we included several
 _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 
 <br><br>
-#### Odoo Guides - v3_05 &nbsp; 2019-07-26
+#### Odoo Guides - v3_06 &nbsp; 2019-07-26
  
