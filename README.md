@@ -23,7 +23,7 @@ We think videos are nice, but very inefficient way of training... even consideri
 
 We truly believe the success in the long run of every partner depends on the speed they could move their info, from where it is, to where it's needed.
 
-As the great _Euclides_ did about 2,300 years ago, we aren't producing videos, but created the &#x03C8;Code content that summarizes shown procedure.  As a bonus, our links are bind with the exact start and end time of the related procedure.
+As the great _Euclides_ did about 2,300 years ago, we aren't producing videos, but only created the &#x03C8;Code that summarizes every shown procedure on each one.  As a bonus, our links are bind with the exact start and end time of the related procedure.
 
 As we want to respect the originator rights, every video link will include the original creator name and address, for fair play.
 
