@@ -77,13 +77,17 @@ This are the basic expanation about &#x03C8;Code:
 | &#x2807; | list menu icon | icono de menú de la lista |
 | &#x1F5F9; | checked mark | opción marcada con palomita |
 | &#x2610; | unchecked mark | opción desmarcada |
-| &#x2716; | remove tag from list | quitar etiqueta |
-| &#x25BC; | open comobobox to select option | abrir combo y seleccionar opción |
-| &#x1F41E; | active the developer mode | activar modo desarrollador |
 | &#x25C9; | set option | encendido |
 | &#x2B58; | clear option | apagado |
+| &#x2716; | remove tag from list | quitar etiqueta |
+| &#x25BC; | open comobobox to select option | abrir combo y seleccionar opción |
 | **&#x2B73;** | download | descargar |
 | **&#x2A01;** | add items | agregar elementos 
+| &#x1F41E; | open developer tools | opciones del desarrollador |
+| &#x1F6E0; | open studio | abrir studio |
+| &#x1F557; | activities (navbar) | actividades (navbar) |
+| &#x1F5ED; | conversations (navbar) | conversaciones (navbar) |
+| &#x1F50D; | advanced search | búsqueda avanzada |
 | a:Action | action (group of steps) to do | acción a realizar |
 | b:Button | button | botón |
 | d:Dialog | warning or action dialog | diálogo de precaución |
@@ -96,6 +100,26 @@ This are the basic expanation about &#x03C8;Code:
 | t:Tab | tab | pestaña |
 | v:View | view | vista |
 | w:Window | window | ventana |
+
+
+| Symbol | Meaning | Symbol | Meaning | 
+| :---: | :--- | :---: | :--- |
+| step | step | | |
+| \| | step sepparator | \[ x \|\| y \] | option steps |
+| \[ \]&#x207F; | n-times repetable steps | &#x2026; row &#x2026; | logical group of steps |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F872; proc | go to proc/page |
+| &#x25A6; | apps icon on _navbar_ | &#x2630; | app menu icon |
+| &#x2807; | list menu icon | &#x2716; | remove tag from list |
+| &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
+| &#x25C9; | set option | &#x2B58; | clear option |
+| &#x25BC; | open comobobox | **&#x2B73;** | download |
+| &#x1F41E; | developer tools | **&#x2A01;** | add items |
+| **a:** Action | action (group of steps) | **b:** Button | button |
+| **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
+| **i:** Item | item on screen | **l:** Link | link |
+| **m:** Menu | menu | **o:** Option | option | 
+| **s:** SmartButton | smart-button | **t:** Tab | tab | v:View |
+| **v:** view | vista | **w:** Window | window |
 
 <br>
 
