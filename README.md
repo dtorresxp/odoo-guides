@@ -92,7 +92,7 @@ This is the basic explanation about &#x03C8;Code.  It's only purpose is to indic
 | &#x1F50D; | advanced search | búsqueda avanzada |
 | &#x1F4C5; | show calendar | mostrar calendario |
 | &#x2B50; | favorite searches | búsquedas favoritas |
-| _**a:** Action_ | action (group of steps) to do | acción a realizar |
+| _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
 | **b:** Button | button | botón |
 | **d:** Dialog | warning or action dialog | diálogo de precaución |
 | **f:** Field | field to enter some value | campo a capturar |
