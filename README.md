@@ -9,10 +9,11 @@ Odoo usefull video links and &#x03C8;Code guides.
 - [Community Edition](/o13/ce/o13-ce-guides_menu.md)
 - [Enterprise Edition](/o13/ee/o13-ee-guides_menu.md)
 
+<br>
 
-# Objective
+# &#x03C8;Code Project Objectives
 
-Welcome to this repo, which is a support for Odoo's certification program and daily use.
+Welcome to this project, which is a support for Odoo's certification program and Odoo's daily use.
 
 It is a community effort designed to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing number of localizations) requires an out of the box approach.
 
@@ -29,7 +30,7 @@ As we want to respect the originator rights, every video link will include the o
 We'll receive, acknowledge, verify and be very grateful for any Odoo guide you wanna send us to be included here, in order to enhance the Odoo community the best we can.<br><br>
 
 
-# &#x03C8;Code Nomenclature
+# &#x03C8;Code Brief
 
 | chars | Meaning | Significado |
 | :---: | :--- | :--- |
@@ -64,8 +65,9 @@ We'll receive, acknowledge, verify and be very grateful for any Odoo guide you w
 | v:View | view | vista |
 | w:Window | window | ventana |
 
-<br><br>
-## The _What-Where_ Technique.
+<br>
+
+# The _What-Where_ Technique.
 It is part of the _knowledgeware_ theory.  In the context of user interfaces, it means the training can be reduced to explain only _what_ to do and _where_ to do it.  This assume the user already know _why_ to do it, and there for it doesn't need to be part of the explanation, minimizing the time, info and effort used to acquire any new knowledge.  
 
 In this _hyper_-gamificated era, many interfaces are designed like video games, where everyone have to _discover_ by itself where and which are the icons and places to do something, as _minimalistic_ style demands the use of "clean" interfaces.  
@@ -76,14 +78,14 @@ It is very costly to train users to work with a new system whose interface is li
 
 So this technique is very useful to help people who already knows **_what_** do they have to do, providing them only the minimum essential info about **_where_** it should be done in the new system (and in which _order_).
 
+<br>
 
-<br><br>
-## Project Contribuitors
+# Project Contribuitors
 
 | id | Name | Team | Country | Guides |
 | :---: | :--- | :---: | :---: | :---: |
 | [@oldyguy](mailto:pcode@appti.mx) | $og | appti | MX | all |
 
 <br><br>
-#### Odoo Guides - v2_01 &nbsp; 2019-07-24
+#### Odoo Guides - v3_01 &nbsp; 2019-07-25
  
