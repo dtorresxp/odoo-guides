@@ -7,7 +7,7 @@
 [***Sync***]: # (o13-ee-web-websites_builder_guides)  
 &#x25A6; | o:apps | f:Search... form_builder | &#x2716; apps  
 i:Form Builder | b:More Info | b:Install  
-&#x25A6; | o:website | b:GotoWebsite | b:Edit | a:Slide down menu | a:Drag i:FormBuilder to form | a:Build form accordingly | b:Save  
+&#x25A6; | o:website | b:GotoWebsite | b:Edit | _a:Slide down menu_ | _a:Drag i:FormBuilder to form_ | _a:Build form accordingly_ | b:Save  
 
 <br>
 	
