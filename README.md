@@ -13,40 +13,40 @@ Odoo useful video links and &#x03C8;Code guides.
 
 # &#x03C8;Code Project objectives
 
-Welcome to the &#x03C8;Code project, intended as an aid for Odoo's support, daily use, training & certification.
+Welcome to the &#x03C8;Code project, intended to assist you on Odoo's support, daily use, training & certification.
 
-We created a simple pseudo language named &#x03C8;Code to help people to work asap, based in a "what-where" technique of knowledgewere.  Our idea is to mix the new video training style with something lighter than the big manuals, but recovering all indexing, searching and efficiency capabilities of the traditional training. Our goal is to get the very best of both worlds, privileging "along with" over "instead off".
+We created a simple pseudo language named &#x03C8;Code to help people to work as soon as possible, based in a "what-where" technique of knowledgewere.  Our idea is to mix the new video training style with something lighter than the big manuals, but recovering all indexing, searching and efficiency capabilities of the traditional training. Our goal is to get the very best of both worlds, privileging "along with" over "instead off".
 
-It is a community effort designed to close the gap between Odoo gurus and rookies... In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing amount of localizations) requires an out of the box approach.
+It is a community effort designed to close the gap between Odoo gurus and rookies.  In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think development volume and yearly arrival of new versions (not to mention the increasing amount of localizations) requires an out of the box approach.
 
-We think videos are nice but very inefficient way of training... even considering millenials, we hope centenials start reading again... as previous generations did for a long time.  Until somebody gives us a Matrix-like interface, that allow us learn anything in just a couple of seconds, we need to locate the right procedure to solve an issue, in a better way.
+We think videos are a nice but very inefficient way of training.  Without forcing _millenials_, we really hope _centenials_ start reading again... as previous generations did for a very long time.  Until somebody gives us a Matrix-like interface, that allow us to learn anything in a couple of seconds, we need a faster way to locate the right procedure and solve an issue.
 
-We truly believe the success in the long run of every partner depends on the speed they could move their info, from where it is, to where it's needed.
+We truly believe a partner's success in the long run depends on the speed to which they can move their info from where it is, to where it's needed.
 
-As the great _Euclides_ did about 2,300 years ago, we aren't producing videos, but only created the &#x03C8;Code that summarizes every shown procedure on each one.  As a bonus, our links are bind with the exact start and end time of the related procedure.
+As the great _Euclides_ did about 2,300 years ago.  We aren't producing videos.  We created the &#x03C8;Code that summarizes every shown procedure on each one.  As a bonus, our links are bind with the exact start and end time of the related procedure.
 
-As we want to respect the originator rights, every video link will include the original creator name and address, for fair play.
+We want to respect the originator rights.  So, all our video links include the original creator name and address, honoring the fair play.
 
-We'll receive, acknowledge, verify and be very grateful for any Odoo guide you wanna send us to be included here, in order to enhance the Odoo community the best we can.
+We'll receive, acknowledge, verify and be very grateful for any Odoo guide you send us.  We'll include it here, in order to support our Odoo community as best as we can.
 
 <br>
 
 # Structure
 
-For easy tp use, all files are linked and menu based.  You don't need to dig into project folders to find all the information.  As Odoo has several active versions working now days and it comes in two flavors, project menus are organized both by version and edition.  
+For easy tp use, all files are linked and menu based.  You don't need to dig into project folders to find all the information.  Odoo has several active versions working now days. Also it comes in two flavors: _CE_ or Communiti Edition and _EE_ or Enterprise Editio.  So, our project menus are organized both by version and edition.  
 
 This README file is the project's home and it includes our mission statement, technical explanations and our contact info.  
 
 Folders are arranged as _version_ / _edition_ / _module_ / _guide_.  
 As project continues growing, a _menu_ could be added before _guide_, but all files belonging the module will be in the same module's folder.  
 
-If you can't find your needed information in any _menu_, or you find any error in our &#x03C8;Code, please feel free to send us a gently mail to instruct us about... preferably with a link to an explanatory video, we offer to treat this with higher priority to better serve our community.
+If you can't find help in any _menu_, or you find any error in our &#x03C8;Code, please feel free to send us a gently mail to tell us about... preferably with a link to an explanatory video.  We offer you to treat your suggestion with higher priority to improve our community.
 
 <br>
 
 # &#x03C8;Code Brief
 
-This is the basic explanation about &#x03C8;Code, whose only purpose is to indicate all necessary steps in a known right order and help people to find the place on screen where every step has to be done:  
+This is the basic explanation about &#x03C8;Code.  It's only purpose is to indicate all necessary steps in a valid order and help people to find the place on screen where every step has to be done:  
 - The main component of the &#x03C8;Code is _STEP_, some atomic task to do in the screen.  
 - Every step is separated from others by the _PIPE_ character |.  
 - Related steps tend to be in the same _ROW_, unless there are so many and needs to break in several rows.  
@@ -104,21 +104,21 @@ This is the basic explanation about &#x03C8;Code, whose only purpose is to indic
 <br>
 
 # The _What-Where_ Approach.
-It is part of the _knowledgeware_ theory.  In the context of user interfaces, it means the training can be reduced to explain only _what_ to do and _where_ to do it.  This assume the user already know _why_ to do it, and there for it doesn't need to be part of the explanation, minimizing the time, info and effort used to acquire any new knowledge.  
+It is part of the _knowledgeware_ theory.  In the context of user interfaces, it means training can be reduced to explain only _what_ to do and _where_ to do it.  This assumes the user already know _why_ to do it, and there for that doesn't needs to be part of the explanation. This will minimize the time, info and effort used to acquire new knowledge.  
 
-In this _hyper_-gamificated era, many interfaces are designed like video games, where everyone have to _discover_ by itself where and which are the icons and places to do something, as _minimalistic_ style demands the use of "clean" interfaces.  
+In this _hyper_-gamificated era, many interfaces are designed like video games, where everyone have to _discover_ by itself where and how to use the screen items to do their work, as _minimalistic_ style demands the use of the so called "clean" interfaces.  
 
-This was very common (and understandable) in the mobile industry, but recently it messed the enterprise desktop & notebook systems too.  Now days is very rare that a _designer_ asks for user feedback, in order to understand the usage difficulties they deal with on a day by day basis.  
+This was very common and even understandable in the mobile industry.  But recently it messed the enterprise desktop & notebook systems too.  Now days is very rare to find a _designer_ asking for user feedback, understanding the difficulties they deal with on their day by day basis.  
 
-It is very costly to train users to work with a new system whose interface is like a video game, where you've to _discover_ things.  The system's percentage of use (and worst yet, the _appropriate_ use) this days is very low, because interfaces tend to change a lot between platforms, brands and even versions.  It is known that many Windows 8 native users that made fun of older ones (mainly pre-Window 7 ones), ended up complaining the same after being _upgraded_ to Windows 10.  
+It is very costly to train users to work with a new system whose interface is like a video game, where you've to _discover_ things.  The system's percentage of use (and worst yet, the _appropriate_ use) in this days is very low, because interfaces tend to change between platforms, brands and even versions.  It is known that many Windows-8 native users that made fun of older co-workers (mainly pre-Windows-7 ones), ended up complaining the same after being _upgraded_ to Windows-10.  
 
-So this technique is very useful to help people who already knows **_what_** do they have to do, providing them only the minimum essential info about **_where_** it should be done in the new system (and in which _order_).
+Anyway, this technique is very useful to help people who already knows **_what_** do they need to do.  It provides them with the minimum and essential instructions about **_where_** to do that in the system's screen and in which _order_.
 
 <br>
 
 # Spanish Text (Textos en Español)
 
-In order to help our Spanish and Latin-American communities, we included several spanish translations in our guides.  Please feel free to branch this repo and change spanish to your own language as needed. 
+In order to help our Spanish and Latin-American communities, we included several spanish translations in our guides.  Feel free to branch this repo and change Spanish to your own language as needed. 
 
 
 <br>
