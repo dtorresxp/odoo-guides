@@ -130,7 +130,7 @@ In order to help our Spanish and Latin-American communities, we included several
 | [@oldyguy](mailto:pcode@appti.mx) | $og | appti | MX | all |
 
 #### Notes to Contributors:
-- Sometimes, one guide need to be in several places.  To assure manual synchronization, add this comment just below link row:
+- Sometimes, one guide needs to be in several places.  To assure manual synchronization, add this comment just below link row:
 _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 
 <br><br>
