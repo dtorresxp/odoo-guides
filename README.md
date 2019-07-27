@@ -46,7 +46,7 @@ If you can't find help in any _menu_, or you find any errors in our &#x03C8;Code
 
 # &#x03C8;Code Brief  
 
-This is the basic explanation about &#x03C8;Code.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the place on screen where every step has to be done:  
+This is the basic explanation about &#x03C8;Code.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
 - Guides  
   - A guide consists of a link to a video, followed by the &#x03C8;Code of its procedure  
   - When a video contains several procedures, you'll see a bulleted list below the initial (full video) link  
