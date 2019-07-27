@@ -1,6 +1,6 @@
 # Odoo Guides
 Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo.
-#### [_&#x23CE; home_](/README.md#%CF%88code-brief)  
+#### [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)  
 
 <br>
 
@@ -75,6 +75,6 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | **w:** Window | window | ventana |
 
 <br><br>
-###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#%CF%88code-brief)  
+###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)  
 # _&#x03C8;Code_ Brief  
 

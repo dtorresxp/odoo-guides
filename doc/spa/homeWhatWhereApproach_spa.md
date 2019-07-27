@@ -17,4 +17,4 @@ De cualquier modo, esta técnica es muy útil para ayudar a la gente que más o 
 
 
 <br><br>
-###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#the-what-where-approach)  
+###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#the-what-where-approach--texto-en-espa%C3%B1ol)  

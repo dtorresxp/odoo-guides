@@ -1,6 +1,6 @@
 # Odoo Guides
 Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo.
-#### [_&#x23CE; home_](/README.md#%CF%88code-project-objectives) 
+#### [_&#x23CE; home_](/README.md#%CF%88code-project-objectives--texto-en-espa%C3%B1ol) 
 
 <br>
 
@@ -28,4 +28,4 @@ Nosotros recibiremos, contestaremos, verificaremos y por supuesto que agradecere
 Gracias.
 
 <br><br>
-###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#%CF%88code-project-objectives)  
+###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#%CF%88code-project-objectives--texto-en-espa%C3%B1ol)  

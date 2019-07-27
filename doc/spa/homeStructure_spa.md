@@ -1,6 +1,6 @@
 # Odoo Guides
 Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo.
-#### [_&#x23CE; home_](/README.md#structure) 
+#### [_&#x23CE; home_](/README.md#structure--texto-en-espa%C3%B1ol) 
 
 <br>
 
@@ -18,4 +18,4 @@ Conforme el proyecto vaya creciendo, se podrá agregar un _menú_ antes de _guí
 Si no puedes encontrar lo que buscas en ningún _menú_, o si encuentras algún error en nuestro _&#x03C8;Code_, por favor no dudes en enviarnos un correo mencionando tu preocupación de manera razonable... de preferencia con una liga a un video donde se explique mejor el tema.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
 
 <br><br>
-###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#structure)  
+###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#structure--texto-en-espa%C3%B1ol)  
