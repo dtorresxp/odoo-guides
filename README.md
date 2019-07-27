@@ -1,7 +1,7 @@
 # Odoo Guides
 Odoo useful video links and _&#x03C8;Code_ guides.
 
-![Odoo useful links & guides in &#x03C8;Code](/img/logo_odoo_guides_mini.jpg)
+![Odoo useful links & guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg)
 
 # Guides
 
