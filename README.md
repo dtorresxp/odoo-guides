@@ -113,7 +113,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 
 <br>
 
-# The _What-Where_ Approach &nbsp; [_(Texto en Español)_](/doc/homeWhatWhereApproach_spa.md)  
+# The _What-Where_ Approach &nbsp; [_(Texto en Español)_](/doc/spa_homeWhatWhereApproach_spa.md)  
 It's part of the _knowledgeware_ theory.  In the context of user interfaces, it means training can be reduced to explain only _what_ to do and _where_ to do it.  This assumes the user already knows _why_ to do it;  therefore, it doesn't need to be part of the explanation. This will minimize the time, info and effort used to acquire new knowledge.  
 
 In this _hyper-gamificated_ era, many interfaces are designed like video games, where everyone has to _discover_ by himself where and how to use the screen items to do their work, as _minimalistic_ style demands the use of the so called _clean_ interfaces.  
