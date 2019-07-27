@@ -62,7 +62,7 @@ This is the basic explanation about &#x03C8;Code.  Its only purpose is to indica
     - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcrumbs list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar
     - Date fields have &#x25BC; to their right and it opens a &#x1F4C5; dialog  
     - All other symbols are the same ones as Odoo's on screen  
-    - Some steps are preceded by a letter and a colon, meaning the kind of item that you should look for on screen to complete your task  
+    - Some steps are preceded by a letter and a colon, meaning the kind of item (object) you should look for on screen to complete your task  
     - _**_a:_**_ &nbsp;means _ACTION_ and is the only one that's not atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or were in another guide.
     - **_i:_** &nbsp;&nbsp;means _ITEM_ which represents any other object that's not in this list.
     - Other type of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
