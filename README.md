@@ -44,7 +44,7 @@ If you can't find help in any _menu_, or you find any errors in our _&#x03C8;Cod
 
 <br>
 
-# _&#x03C8;Code_ Brief &nbsp; [_(Texto en Español)_](/doc/spa/homeCodeBrief_spa.md)
+# _&#x03C8;Code_ Brief &nbsp; [_(Texto en Español)_](/doc/spa/homepCodeBrief_spa.md)
 
 This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
 - Guides  
