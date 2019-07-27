@@ -4,6 +4,8 @@
 <br>
 
 #### [New Rental App (O13 - EE - Odoo Mates - n/v - 04:58 - Nueva App de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0)<br>
+
+- [Install and Create Rent (Instalar y Crear Renta)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=2m30s&rel=0)  
 aps | o:apps | f:Search... rental | i:Rental | b:Install  
 aps | o:rental | m:Products | o: Rental Products | _a:Select product_ | b:Edit  
 _a:New f:Can be Rented must be_ &#x1F5F9;  
@@ -14,6 +16,7 @@ m:Orders | b:Create | f:Customer &#x25BC; | _a:Select Customer_
 b:AddAProduct | f:Product &#x25BC; | _a:Select Product_ | \[ d:NotEnoughInventory | b:Ok ]  
 w:RentAProduct | f:DateFrom &#x1F4C5; | f:To &#x1F4C5; | f:Quantity | f:Duration | f:UnitPrice | b:Add | \[ d:NotEnoughInventory | b:Ok ]  
 b:Save | b:Confirm | _a:Now order shows (Reserved)_  
+
 
 <br>
 	
