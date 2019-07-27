@@ -3,7 +3,7 @@
 
 <br>
 
-#### [Better Error Handling (O13 - EE - Odoo Mates - n/v - 01:08 - Mejor manejo de errores)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
+#### [Better Error Handling (O13 - EE - Odoo Mates - n/v - 01:09 - Mejor manejo de errores)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
 &#x25A6; | o:sales | m:Orders | o:Quotations | &#x2716; i:ConfigurationPanel | d:RemoveConfigurationTips? | \[ b:Remove || b:Discard ]  
 _a:Select Quotation_ | s:Delivery | t:Operations | b:Validate | d:UserError  
 b:Edit | f:Done | w:Open:StockMovesNotInPackage | b:Close | b:CheckAvailability | b:Save  
@@ -44,4 +44,4 @@ b:Save
 
 <br>
 
-###### Odoo Guides - v2_03 &nbsp; 2019-07-26  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v2_04 &nbsp; 2019-07-26  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
