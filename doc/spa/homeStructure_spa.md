@@ -1,12 +1,9 @@
-# Odoo Guides
-Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo.
-#### [_&#x23CE; home_](/README.md#structure--texto-en-espa%C3%B1ol) 
+# Estructura del Repositorio
+#### [_&#x23CE; home_](/README.md#the-what-where-approach--texto-en-espa%C3%B1ol) 
 
-<br>
+<br><br>
 
 ![Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo](/doc/img/logo_odoo_guides_mini.jpg)
-
-# Estructura del Repositorio
 
 Para facilitar su uso, todos nuestros archivos se pueden accesar mediante ligas en menús.  No se necesita entrar a cada carpeta para buscar información.  En estos tiempos, hay varias versiones activas de Odoo, mismo que viene en dos formas: _CE_ (Edición de la Comunidad) y _EE_ (Edición Empresarial), así que nuestros menús están organizados por versión y por edición.
 

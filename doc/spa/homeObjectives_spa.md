@@ -1,12 +1,9 @@
-# Odoo Guides
-Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo.
-#### [_&#x23CE; home_](/README.md#%CF%88code-project-objectives--texto-en-espa%C3%B1ol) 
+# Objetivos del Proyecto _&#x03C8;Code_
+#### [_&#x23CE; home_](/README.md#the-what-where-approach--texto-en-espa%C3%B1ol) 
 
-<br>
+<br><br>
 
 ![Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo](/doc/img/logo_odoo_guides_mini.jpg)
-
-# Objetivos del Proyecto _&#x03C8;Code_
 
 ¡Bienvenid@s al proyecto _&#x03C8;Code_!
 Nuestra intenciónes apoyar el soporte, uso, capacitación y certificación en Odoo.
