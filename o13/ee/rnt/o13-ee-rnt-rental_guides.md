@@ -8,8 +8,9 @@
 - [Install Rent app (Instalar app de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=24s&rel=0)  
 &#x229E; | o:apps | f:Search... rental | i:Rental | b:Install  
 
-- [Rentals Settings (Configuración de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4m20s&end=4m20s&rel=0)  
-\[ &#x23BD;/&#x23BD;/:Rental Orders || &#x229E; | o:Rental ] | m:Settings
+- [Rentals Settings (Configuración de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4m21s&end=0&rel=0)  
+\[ &#x23BD;/&#x23BD;/:Rental Orders || &#x229E; | o:Rental ] | m:Configuration | o:Settings
+_a:Set Default Padding times_ | _a:Define Signaturing_ | _a:Enter Delay Costs_ | b:Save
 
 - [Create Rent (Crear Renta)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=24s&end=2m30s&rel=0)  
 &#x229E; | o:apps | f:Search... rental | i:Rental | b:Install  
@@ -31,7 +32,7 @@ w:RentAProduct | f:DateFrom &#x1F4C5; | f:To &#x1F4C5; | f:Quantity | f:Duration
 \[ &#x23BD;/&#x23BD;/:Rental Orders || &#x229E; | o:Rental ] | m:Orders | o:Return | f:Search... | &#x2716; _(ToDoToday)_  
 _a:Select Picked-Up Order_ | b:Return | b:Validate  
 
-- [Scheduled Rentals (Calendario de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m53s&end=4m6s&rel=0)  
+- [Schedule of Rentals (Calendario de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m53s&end=4m6s&rel=0)  
 \[ &#x23BD;/&#x23BD;/:Rental Orders || &#x229E; | o:Rental ] | m:Schedule  
 
 - [Rentals Reporting (Reporte de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4m6s&end=4m20s&rel=0)  
