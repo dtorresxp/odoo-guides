@@ -44,23 +44,29 @@ If you can't find help in any _menu_, or you find any errors in our &#x03C8;Code
 
 <br>
 
-# &#x03C8;Code Brief
+# &#x03C8;Code Brief  
 
 This is the basic explanation about &#x03C8;Code.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the place on screen where every step has to be done:  
-- The main component of the &#x03C8;Code is _STEP_, some atomic task to do in the screen.  
-- Every step is separated from others by the _PIPE_ character |.  
-- Related steps tend to be in the same _ROW_, unless there are plenty and need to be separated into several rows.  
-- Some steps are grouped, so they're enclosed in _SQUARE BRACKETS_.  If they're mutually exclusive (options), they appear separated by _DOUBLE PIPE_ || (the OR sign).  If the group is repeatable, a super index appears after a closing bracket: \[ \]&#x207F;  
-- There are several _ICONS_ that mimic the Odoo ones on screen.
-  - &#x25A6;&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_).
-  - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcrumbs list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar.
-  - Date fields have &#x25BC; to their right and it opens a &#x1F4C5; dialog
-  - All other symbols are the same ones as Odoo's on screen.
-  - Some steps are preceded by a letter and a colon, meaning the kind of item that you should look for on screen.
-  - _**_a:_**_ &nbsp;means _ACTION_ and is the only one that's not atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or were in another guide.
-  - **_i:_** &nbsp;&nbsp;means _ITEM_ which represents any other object that's not in this list.
-  - Other type of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
-  - Bellow is the full list of symbols used in all guides and their meanings.
+- Guides  
+  - A guide consists of a link to a video, followed by the &#x03C8;Code of its procedure  
+  - When a video contains several procedures, you'll see a bulleted list below the initial (full video) link  
+  - Every bullet has its own video link, but instead it only links to related procedure inside the video  
+  - Every procedural link is followed by its &#x03C8;Code  
+- Steps
+  - The main component of the &#x03C8;Code guide is _STEP_, an atomic task to do in the screen.  
+  - Every step is separated from others by the _PIPE_ character |.  
+  - Related steps tend to be in the same _ROW_, unless there are plenty and need to be separated into several rows.  
+  - Some steps are grouped, so they're enclosed in _SQUARE BRACKETS_.  If they're mutually exclusive (options), they appear separated by _DOUBLE PIPE_ || (the OR sign).  If the group is repeatable, a super index appears after a closing bracket: \[ \]&#x207F;  
+  - There are several _ICONS_ that mimic the Odoo ones on screen.
+    - &#x25A6;&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_).
+    - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcrumbs list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar.
+    - Date fields have &#x25BC; to their right and it opens a &#x1F4C5; dialog
+    - All other symbols are the same ones as Odoo's on screen.
+    - Some steps are preceded by a letter and a colon, meaning the kind of item that you should look for on screen.
+    - _**_a:_**_ &nbsp;means _ACTION_ and is the only one that's not atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or were in another guide.
+    - **_i:_** &nbsp;&nbsp;means _ITEM_ which represents any other object that's not in this list.
+    - Other type of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
+    - Bellow is the full list of symbols used in all guides and their meanings.
 
 <br>
 
