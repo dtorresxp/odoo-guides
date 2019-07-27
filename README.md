@@ -1,5 +1,5 @@
 # Odoo Guides
-Odoo useful video links and &#x03C8;Code guides.
+Odoo useful video links and _&#x03C8;Code_ guides.
 
 ![Odoo useful links & guides in &#x03C8;Code](/img/logo_odoo_guides_mini.jpg)
 
@@ -11,11 +11,11 @@ Odoo useful video links and &#x03C8;Code guides.
 
 <br>
 
-# &#x03C8;Code Project objectives
+# _&#x03C8;Code_ Project objectives
 
-Welcome to the &#x03C8;Code project, intended to assist you on Odoo's support, daily use, training & certification.
+Welcome to the _&#x03C8;Code_ project, intended to assist you on Odoo's support, daily use, training & certification.
 
-We created a simple pseudo language named &#x03C8;Code to help people to work as soon as possible, based in a "what-where" technique of knowledgewere.  Our idea is to mix the new video training style with something lighter than the big manuals, but recovering all indexing, searching and efficiency capabilities of the traditional training. Our goal is to get the very best of both worlds, privileging "along with" over "instead off".
+We created a simple pseudo language named _&#x03C8;Code_ to help people to work as soon as possible, based in a "what-where" technique of knowledgewere.  Our idea is to mix the new video training style with something lighter than the big manuals, but recovering all indexing, searching and efficiency capabilities of the traditional training. Our goal is to get the very best of both worlds, privileging "along with" over "instead off".
 
 It is a community effort designed to close the gap between Odoo gurus and rookies.  In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think the amount of development and yearly arrival of new versions (not to mention the increasing number of localizations) requires an out of the box approach.
 
@@ -23,7 +23,7 @@ We think videos are a nice but very inefficient way of training.  Without forcin
 
 We truly believe a partner's success in the long run depends on the speed to which they can move their info from where it is, to where it's needed.
 
-As the great _Euclides_ did about 2,300 years ago.  We aren't producing videos.  We created the &#x03C8;Code that summarizes every shown procedure on each one.  As a bonus, our links are bound with the exact start and end time of the related procedure.
+As _Euclides_ did about 2,300 years ago, we don't produce videos but select the best ones and redacted their _&#x03C8;Code_ in form of procedural _guides_.  As a bonus, our guides are bound with the exact start and end time in the video.
 
 We want to respect the originator rights.  So, all our video links include the original creator name and address, honoring the _fair play_.
 
@@ -40,20 +40,20 @@ This README file is the project's home and it includes our mission statement, te
 Folders are arranged as _version_ / _edition_ / _module_ / _guide_.  
 As our project continues growing, _menu_ could be added before _guide_, but all files belonging to the module will be in the same module's folder.  
 
-If you can't find help in any _menu_, or you find any errors in our &#x03C8;Code, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
+If you can't find help in any _menu_, or you find any errors in our _&#x03C8;Code_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
 
 <br>
 
-# &#x03C8;Code Brief  
+# _&#x03C8;Code_ Brief  
 
-This is the basic explanation about &#x03C8;Code.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
+This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
 - Guides  
-  - A guide consists of a link to a video, followed by the &#x03C8;Code of its procedure  
+  - A guide consists of a link to a video, followed by the _&#x03C8;Code_ of its procedure  
   - When a video contains several procedures, you'll see a bulleted list below the initial (full video) link  
   - Every bullet has its own video link, but instead it only links to related procedure inside the video  
-  - Every procedural link is followed by its &#x03C8;Code  
+  - Every procedural link is followed by its _&#x03C8;Code_  
 - Steps
-  - The main component of the &#x03C8;Code guide is _STEP_, an atomic task to do in the screen.  
+  - The main component of the _&#x03C8;Code_ guide is _STEP_, an atomic task to do in the screen.  
   - Every step is separated from others by the _PIPE_ character |  
   - Related steps tend to be in the same _ROW_, unless there are plenty and need to be separated into several rows  
   - Some steps are grouped, so they're enclosed in _SQUARE BRACKETS_.  If they're mutually exclusive (options), they appear separated by _DOUBLE PIPE_ || (the OR sign).  If the group is repeatable, a super index appears after a closing bracket: \[ \]&#x207F;  
@@ -133,7 +133,7 @@ In order to help our Spanish and Latin-American communities, we included several
 
 <br>
 
-# &#x03C8;Code Contributors
+# _&#x03C8;Code_ Contributors
 
 | id | Name | Team | Country | Guides |
 | :---: | :--- | :---: | :---: | :---: |
@@ -142,7 +142,8 @@ In order to help our Spanish and Latin-American communities, we included several
 #### Notes to Contributors:
 - Sometimes, one guide needs to be in several places.  To assure manual synchronization, add this comment just below link row:
 _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
+- Any reference to _&#x03C8;Code_ as a filename, must be converted to _pCode_ because of ASCII code limitations
 
 <br><br>
-#### Odoo Guides - v3_09 &nbsp; 2019-07-26
+#### Odoo Guides - v3_12 &nbsp; 2019-07-26
  
