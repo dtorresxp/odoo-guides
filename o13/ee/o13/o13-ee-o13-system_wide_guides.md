@@ -3,6 +3,12 @@
 
 <br>
 
+#### [Better Error Handling (O13 - EE - Odoo Mates - n/v - 01:08 - Mejor manejo de errores)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
+&#x25A6; | o:sales | m:Orders | o:Quotations | &#x2716; i:ConfigurationPanel | d:RemoveConfigurationTips? | \[ b:Remove || b:Discard ]  
+_a:Select Quotation_ | s:Delivery | t:Operations | b:Validate | d:UserError  
+b:Edit | f:Done | w:Open:StockMovesNotInPackage | b:Close | b:CheckAvailability | b:Save  
+b:Validate | w:ImmediateTransfer? | b:Apply | &#x2716; d:UserError  
+
 #### [How to fix Unable to log message (O13 - EE - Odoo Mates - n/v - 01:55 - Corregir error en log de usuario)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)  
 \[ m:MySelf &#x25BC; | o:MyProfile \] &nbsp; || &nbsp; \[ &#x25A6; | o:settings | m:Users&Companies | o:Users | _a:Select User_ | b:Edit \]  
 f:Email | _a:Define a right one_ | b:Save  
