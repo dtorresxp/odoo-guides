@@ -8,7 +8,7 @@
 web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_guides.md) | | |
 
 <br><br>
-## pCode Nomenclature
+## _&#x03C8;Code_ Nomenclature
 
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
@@ -33,4 +33,4 @@ web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v3_04 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v3_05 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md)  
