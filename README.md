@@ -23,7 +23,7 @@ We think videos are a nice but very inefficient way of training.  Without forcin
 
 We truly believe a partner's success in the long run depends on the speed to which they can move their info from where it is, to where it's needed.
 
-As _Euclides_ did about 2,300 years ago, we didn't produced videos but selected the best ones and redacted the _&#x03C8;Code_ that summarizes their procedures as _guides_.  As a bonus, our guides are bound with the exact start and end time in the video.
+As _Euclides_ did about 2,300 years ago, we don't produce videos but select the best ones and redacted their _&#x03C8;Code_ in form of procedural _guides_.  As a bonus, our guides are bound with the exact start and end time in the video.
 
 We want to respect the originator rights.  So, all our video links include the original creator name and address, honoring the _fair play_.
 
