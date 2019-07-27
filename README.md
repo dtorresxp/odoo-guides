@@ -38,7 +38,7 @@ To use it easily, all our files are linked and menu based.  You don't need to di
 This README file is the project's home and it includes our mission statement, technical explanations and our contact info.  
 
 Folders are arranged as _version_ / _edition_ / _module_ / _guide_.  
-As our project continues growing, _menu_ could be added before _guide_, but all files belonging to the module will be in the same module's folder.  
+As our project continues growing, _menu_ could be added before _guide_, but all files belonging to the module will be in the module's folder.  
 
 If you can't find help in any _menu_, or you find any errors in our _&#x03C8;Code_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
 
@@ -53,20 +53,20 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
   - Every bullet has its own video link, but instead it only links to related procedure inside the video  
   - Every procedural link is followed by its _&#x03C8;Code_  
 - Steps
-  - The main component of the _&#x03C8;Code_ guide is _STEP_, an atomic task to do in the screen.  
+  - The main component of the _&#x03C8;Code_ guide is _STEP_, an atomic task to do in the screen  
   - Every step is separated from others by the _PIPE_ character |  
   - Related steps tend to be in the same _ROW_, unless there are plenty and need to be separated into several rows  
   - Some steps are grouped, so they're enclosed in _SQUARE BRACKETS_.  If they're mutually exclusive (options), they appear separated by _DOUBLE PIPE_ || (the OR sign).  If the group is repeatable, a super index appears after a closing bracket: \[ \]&#x207F;  
   - There are several _ICONS_ that mimic the Odoo ones on screen  
-    - &#x25A6;&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_).
+    - &#x25A6;&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_)  
     - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcrumbs list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar
     - Date fields have &#x25BC; to their right and it opens a &#x1F4C5; dialog  
     - All other symbols are the same ones as Odoo's on screen  
     - Some steps are preceded by a letter and a colon, meaning the kind of item (object) you should look for on screen to complete your task  
-    - _**_a:_**_ &nbsp;means _ACTION_ and is the only one that's not atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or were in another guide.
-    - **_i:_** &nbsp;&nbsp;means _ITEM_ which represents any other object that's not in this list.
-    - Other type of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window._
-    - Bellow is the full list of symbols used in all guides and their meanings.
+    - _**_a:_**_ &nbsp;means _ACTION_ and is the only one that's not atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or were in another guide  
+    - **_i:_** &nbsp;&nbsp;means _ITEM_ which represents any other object that's not in this list  
+    - Other type of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window_
+    - Bellow is the full list of symbols used in all guides and their meanings
 
 <br>
 
@@ -113,14 +113,14 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 
 <br>
 
-# The _What-Where_ Approach
+# The _What-Where_ Approach &nbsp; [_(Texto en Español)_](/doc/homeWhatWhereApproach_spa.md)  
 It's part of the _knowledgeware_ theory.  In the context of user interfaces, it means training can be reduced to explain only _what_ to do and _where_ to do it.  This assumes the user already knows _why_ to do it;  therefore, it doesn't need to be part of the explanation. This will minimize the time, info and effort used to acquire new knowledge.  
 
-In this _hyper-gamificated_ era, many interfaces are designed like video games, where everyone has to _discover_ by himself where and how to use the screen items to do their work, as _minimalistic_ style demands the use of the so called "clean" interfaces.  
+In this _hyper-gamificated_ era, many interfaces are designed like video games, where everyone has to _discover_ by himself where and how to use the screen items to do their work, as _minimalistic_ style demands the use of the so called _clean_ interfaces.  
 
 These were very common and even understandable in the mobile industry.  But recently they messed up enterprise desktops as well as notebook systems.  Nowadays is very difficult to find a _designer_ asking for user feedback, understanding the difficulties they deal with on a daily basis.  
 
-It is very costly to train users to work with a new system whose interface is like a video game, where you've to _discover_ things.  The system's use percentage (and worst yet, the _appropriate_ use) in these days is very low, because interfaces tend to change a lot between platforms, brands and even versions.  It is known that many Windows-8 native users that made fun of older co-workers (mainly pre-Windows-7 ones), ended up complaining likewise after being _upgraded_ to Windows-10.  
+It is very costly to train users to work with a new system whose interface is like a video game, where you've to _discover_ things.  The system's use percentage (and worst yet, the _appropriate_ use) in these days is very low, because interfaces tend to be confusing and they change a lot between platforms, brands and even versions.  It is known that many Windows-8 native users that made fun of older co-workers (mainly pre-Windows-7 ones), ended up complaining likewise after being _upgraded_ to Windows-10.  
 
 Anyway, this technique is very useful to help people who already knows **_what_** to do.  It provides them with the minimum and essential instructions about **_where_** to do it in the system's screen and in the right _order_.
 
