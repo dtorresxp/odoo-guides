@@ -5,7 +5,7 @@
 ## Odoo v13 (EE)
 | Folder | Description | Folder | Description |
 | :---: | --- | :---: | --- |
-| ![web](/doc/img/account_accountant.jpg) &nbsp;web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_guides.md) | | |
+| ![web](/doc/img/website.jpg)&nbsp;&nbsp;web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_guides.md) | | |
 
 <br><br>
 ## _&#x03C8;Code_ Nomenclature
