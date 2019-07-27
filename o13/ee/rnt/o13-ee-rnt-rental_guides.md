@@ -6,15 +6,15 @@
 #### [New Rental App (O13 - EE - Odoo Mates - n/v - 04:58 - Nueva App de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0)<br>
 
 - [Install Rent app (Instalar app de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=24s&rel=0)  
-&#x25A6; | o:apps | f:Search... rental | i:Rental | b:Install  
+&#x25A6; | o:Apps | f:Search... rental | i:Rental | b:Install  
 
 - [Rentals Settings (Configuración de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4m21s&end=0&rel=0)  
 \[ &#x23BD;/&#x23BD;/:Rental Orders || &#x25A6; | o:Rental ] | m:Configuration | o:Settings
 _a:Set Default Padding times_ | _a:Define Signaturing_ | _a:Enter Delay Costs_ | b:Save
 
 - [Create Rent (Crear Renta)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=24s&end=2m30s&rel=0)  
-&#x25A6; | o:apps | f:Search... rental | i:Rental | b:Install  
-&#x25A6; | o:rental | m:Products | o:Rental Products | _a:Select product_ | b:Edit  
+&#x25A6; | o:Apps | f:Search... rental | i:Rental | b:Install  
+&#x25A6; | o:Rental | m:Products | o:Rental Products | _a:Select product_ | b:Edit  
 _a:New f:Can be Rented must be_ &#x1F5F9;  
 _a:New s:UnitsInRental_ | _a:New s:More &#x25BC;_ \[ o:Quality Points || o:Pass || o:Fail || o:Digital Files || o:Active ]  
 t:Rental | i:Rental Pricing | \[ f:Duration | f:Unit | f:Price \]&#x207F;  
