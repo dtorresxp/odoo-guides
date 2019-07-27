@@ -142,7 +142,8 @@ In order to help our Spanish and Latin-American communities, we included several
 #### Notes to Contributors:
 - Sometimes, one guide needs to be in several places.  To assure manual synchronization, add this comment just below link row:
 _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
+- Any reference to &#x03C8;Code as a filename, must be translated as _pCode_ because of ASCII limitations
 
 <br><br>
-#### Odoo Guides - v3_09 &nbsp; 2019-07-26
+#### Odoo Guides - v3_10 &nbsp; 2019-07-26
  
