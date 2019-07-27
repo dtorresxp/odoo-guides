@@ -1,5 +1,5 @@
 # Objetivos del Proyecto _&#x03C8;Code_
-#### [_&#x23CE; home_](/README.md#the-what-where-approach--texto-en-espa%C3%B1ol) 
+#### [_&#x23CE; home_](/README.md#%CF%88code-project-objectives--texto-en-espa%C3%B1ol)
 
 <br><br>
 
@@ -25,4 +25,4 @@ Nosotros recibiremos, contestaremos, verificaremos y por supuesto que agradecere
 Gracias.
 
 <br><br>
-###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#%CF%88code-project-objectives--texto-en-espa%C3%B1ol)  
+###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#%CF%88code-project-objectives--texto-en-espa%C3%B1ol)

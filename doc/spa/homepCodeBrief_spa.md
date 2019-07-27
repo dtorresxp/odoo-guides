@@ -1,5 +1,5 @@
 # Explicación básica del _&#x03C8;Code_
-#### [_&#x23CE; home_](/README.md#the-what-where-approach--texto-en-espa%C3%B1ol) 
+#### [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol) 
 
 <br><br>
 
@@ -72,6 +72,6 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | **w:** Window | window | ventana |
 
 <br><br>
-###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)  
+###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
 # _&#x03C8;Code_ Brief  
 
