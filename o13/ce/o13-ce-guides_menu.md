@@ -33,4 +33,4 @@
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v3_05 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v4_01 &nbsp; 2019-07-27  [_&#x23CE; home_](/README.md)  
