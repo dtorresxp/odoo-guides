@@ -5,9 +5,15 @@
 
 #### [New Rental App (O13 - EE - Odoo Mates - n/v - 04:58 - Nueva App de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0)<br>
 
-- [Install and Create Rent (Instalar y Crear Renta)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=2m30s&rel=0)  
-aps | o:apps | f:Search... rental | i:Rental | b:Install  
-aps | o:rental | m:Products | o: Rental Products | _a:Select product_ | b:Edit  
+- [Install Rent app (Instalar app de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=24s&rel=0)  
+&#x229E; | o:apps | f:Search... rental | i:Rental | b:Install  
+
+- [Rentals Settings (Configuración de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4m20s&end=4m20s&rel=0)  
+\[ &#x23BD;/&#x23BD;/:Rental Orders || &#x229E; | o:Rental ] | m:Settings
+
+- [Create Rent (Crear Renta)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=24s&end=2m30s&rel=0)  
+&#x229E; | o:apps | f:Search... rental | i:Rental | b:Install  
+&#x229E; | o:rental | m:Products | o:Rental Products | _a:Select product_ | b:Edit  
 _a:New f:Can be Rented must be_ &#x1F5F9;  
 _a:New s:UnitsInRental_ | _a:New s:More &#x25BC;_ \[ o:Quality Points || o:Pass || o:Fail || o:Digital Files || o:Active ]  
 t:Rental | i:Rental Pricing | \[ f:Duration | f:Unit | f:Price \]&#x207F;  
@@ -16,6 +22,21 @@ m:Orders | b:Create | f:Customer &#x25BC; | _a:Select Customer_
 b:AddAProduct | f:Product &#x25BC; | _a:Select Product_ | \[ d:NotEnoughInventory | b:Ok ]  
 w:RentAProduct | f:DateFrom &#x1F4C5; | f:To &#x1F4C5; | f:Quantity | f:Duration | f:UnitPrice | b:Add  
 \[ d:NotEnoughInventory | b:Ok ] | b:Save | b:Confirm | _a:Now order shows (Reserved)_  
+
+- [Pickup Rent (Recoger Producto Rentado)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=2m30s&end=3m0s&rel=0)  
+\[ &#x23BD;/&#x23BD;/:Rental Orders || &#x229E; | o:Rental ] | m:Orders | o:PickUp | _a:Select Order_ | b:PickUp  
+\[ d:Some products don't have the requested qty available for pickup ] | b:Validate | _a:Now order shows (Picked-Up)_  
+
+- [Return Rent (Devolver Producto Rentado)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m1s&end=3m31s&rel=0)  
+\[ &#x23BD;/&#x23BD;/:Rental Orders || &#x229E; | o:Rental ] | m:Orders | o:Return | f:Search... | &#x2716; _(ToDoToday)_  
+_a:Select Picked-Up Order_ | b:Return | b:Validate  
+
+- [Scheduled Rentals (Calendario de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m53s&end=4m6s&rel=0)  
+\[ &#x23BD;/&#x23BD;/:Rental Orders || &#x229E; | o:Rental ] | m:Schedule  
+
+- [Rentals Reporting (Reporte de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4m6s&end=4m20s&rel=0)  
+\[ &#x23BD;/&#x23BD;/:Rental Orders || &#x229E; | o:Rental ] | m:Reporting
+f:Search... | &#x2716; _(ConfirmationDate:Last365Days)_  
 
 <br>
 	
