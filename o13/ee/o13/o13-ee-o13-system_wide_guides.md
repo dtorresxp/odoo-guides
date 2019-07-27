@@ -15,7 +15,7 @@ f:Email | _a:Define a right one_ | b:Save
 &#x25A6; | o:settings | m:Translations | Languages | _a:Select language_ | b:Inactive | b:Activate  
 &#x23BD;/&#x23BD;/:Languages | m:Translations | o:Load Translation  
 w:LoadATranslation | &#x25BC; Language | &#x1F5F9; Overwrite Existing | b:Load | b:Close  
-&#x25A6; | o:settings | m:Users&Companies | o:Users | _a:Select User_ | b:Edit | t:Preferences
+&#x25A6; | o:settings | m:Users&Companies | o:Users | _a:Select User_ | b:Edit | t:Preferences  
 i:Localization | &#x25BC; f:Language | _a:Select language_ | b:Save  
 &#x25BC; m:MySelf | o:Logout | _a:Login as localized User_ | _a:Verify new language is ok_  
 
