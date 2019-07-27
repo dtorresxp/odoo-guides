@@ -23,7 +23,7 @@ We think videos are a nice but very inefficient way of training.  Without forcin
 
 We truly believe a partner's success in the long run depends on the speed to which they can move their info from where it is, to where it's needed.
 
-As the great _Euclides_ did about 2,300 years ago.  We aren't producing videos.  We created the _&#x03C8;Code_ that summarizes every shown procedure on each one.  As a bonus, our links are bound with the exact start and end time of the related procedure.
+As _Euclides_ did about 2,300 years ago, we didn't produced videos but selected the best ones and redacted the _&#x03C8;Code_ that summarizes their procedures as _guides_.  As a bonus, our guides are bound with the exact start and end time in the video.
 
 We want to respect the originator rights.  So, all our video links include the original creator name and address, honoring the _fair play_.
 
@@ -145,5 +145,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 - Any reference to _&#x03C8;Code_ as a filename, must be converted to _pCode_ because of ASCII code limitations
 
 <br><br>
-#### Odoo Guides - v3_11 &nbsp; 2019-07-26
+#### Odoo Guides - v3_12 &nbsp; 2019-07-26
  
