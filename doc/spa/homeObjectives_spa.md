@@ -6,8 +6,9 @@
 ![Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo](/doc/img/logo_odoo_guides_mini.jpg)
 
 ¡Bienvenid@s al proyecto _&#x03C8;Code_!  
+
 Nuestra intenciónes apoyar el soporte, uso, capacitación y certificación en Odoo.  
-<br>
+
 Creamos un pseudo lenguaje simple llamado _&#x03C8;Code_, para ayudar a la gente a trabajar lo más pronto posible, basándonos en la técnica "qué-dónde" del _Knowledgeware_.  La idea es integrar las nuevas técnicas de capacitación mediante videos con algo más simple que los pesados manuales de sistema, pero retomando todas las ventajas de indexamiento, búsqueda y eficiencia de la capacitación tradicional.  Nuestro objetivo es tomar lo mejor de ambos mundos, privilegiando el "junto con", sobre el "en vez de".
 
 Es un esfuerzo comunitario, diseñado para reducir la brecha entre los gurús y los que están comenzando a aprender Odoo.  A pesar del gran esfuerzo que Odoo ha estado haciendo en estos últimos años para documentar su sistema, creemos que el volúmen de desarrollo y la llegada de nuevar versiones cada año (y eso sin mencionar todas las localizaciones en cada idioma), requiere un enfoque totalmente nuevo.
