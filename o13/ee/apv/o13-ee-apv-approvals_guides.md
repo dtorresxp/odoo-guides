@@ -1,6 +1,6 @@
 ## O13 - EE - APV - Approval (VoBo's)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
-### ![apv](/doc/img/aproval.png)
+### ![apv](/doc/img/approval.png)
 
 <br>
 
