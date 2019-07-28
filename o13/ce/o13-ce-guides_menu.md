@@ -3,7 +3,7 @@
 
 <br><br>
 # ![o13](/doc/img/odoo13.png) &nbsp;CE
-| Folder | Description | Folder | Description |
+| Icon | Description | Icon | Description |
 | :---: | --- | :---: | --- |
 | ![web](/doc/img/website.jpg) | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_guides.md) | | |
 
@@ -33,4 +33,4 @@
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v4_02 &nbsp; 2019-07-27  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v4_03 &nbsp; 2019-07-27  [_&#x23CE; home_](/README.md)  
