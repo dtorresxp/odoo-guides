@@ -21,7 +21,7 @@ Como hizo _Euclides_ hace como 2,300 años, nosotros no procucimos videos, sino 
 
 Queremos respetar los derechos de los creadores de contenidos.  Todos nuestras ligas a videos incluyen el nombre y dirección del creador original, para cumplir con las políticas del _juego limpio_.
 
-Nosotros recibiremos, contestaremos, verificaremos y por supuesto que agradeceremos mucho cualquier guía que nos hagan llegar.  La vamos a incluir aquí, para apoyar nuestra comunidad de Odoo lo mejor que podamos.  
+Nosotros recibiremos, contestaremos, verificaremos y por supuesto que agradeceremos mucho cualquier guía que nos hagan llegar.  La vamos a incluir aquí, para apoyar nuestra comunidad de Odoo lo mejor que podamos.<br><br>
 
 Gracias.
 
