@@ -9,6 +9,14 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 
 - Guías
   - Cada guía consta de una liga a un video, seguida del _&#x03C8;Code_ de su procedimiento
+  - Cada liga incluye:  
+    - Nombre del video en inglés  
+    - Número de versión de Odoo  
+    - Edición de Odoo (CE or EE)  
+    - Creador Origina  
+    - Idioma (n/v=no voz)  
+    - Duración del video  
+    - Traducción del nombre del video
   - Cuando un video contiene varios procedimientos, se mostrarán en forma de lista debajo de la liga al video completo
   - Cada procedimiento tendrá su propia liga, pero sólo apuntará al procedimiento indicado dentro del video
   - Después de cada liga al procedimiento, seguirá su _&#x03C8;Code_
@@ -72,4 +80,4 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | **w:** Window | window | ventana |
 
 <br><br>
-###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
+###### Odoo Guides - v1_02 &nbsp; 2019-07-27  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
