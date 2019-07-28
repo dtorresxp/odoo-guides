@@ -145,5 +145,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 - Any reference to _&#x03C8;Code_ as a filename, must be converted to _pCode_ because of ASCII code limitations
 
 <br><br>
-#### Odoo Guides - v3_12 &nbsp; 2019-07-26
+#### Odoo Guides - v4_02 &nbsp; 2019-07-27
  
