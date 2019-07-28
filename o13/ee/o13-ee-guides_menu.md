@@ -27,8 +27,9 @@
 | ![sls](/doc/img/sale.jpg) | [Sales \(Ventas\)](/o13/ee/sls/o13-ee-sls-sales_guides.md) | ![stu](/doc/img/web_studio.jpg) | [Odoo Studio \(Estudio Odoo\)](/o13/ee/stu/o13-ee-stu-studio_guides.md) |
 | ![sub](/doc/img/sale_subscription.jpg) | [Subscriptions \(Suscripciones\)](/o13/ee/sub/o13-ee-sub-subscriptions_guides.md) | ![svy](/doc/img/survey.jpg) | [Surveys \(Encuestas\)](/o13/ee/svy/o13-ee-svy-survey_guides.md) |
 | ![tsh](/doc/img/hr_timesheet.jpg) | [Timesheet \(Control de Horas\)](/o13/ee/tsh/o13-ee-tsh-timesheet_guides.md) | ![web](/doc/img/website.jpg) | [Websites builder \(Sitios Web\)](/o13/ee/web/o13-ee-web-websites_builder_guides.md) |
-  
-  
+
+<br>
+
 ## _&#x03C8;Code_ Nomenclature
 
 | Symbol | Meaning | Symbol | Meaning | 
