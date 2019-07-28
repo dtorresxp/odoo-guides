@@ -49,9 +49,17 @@ If you can't find help in any _menu_, or you find any errors in our _&#x03C8;Cod
 This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
 - Guides  
   - A guide consists of a link to a video, followed by the _&#x03C8;Code_ of its procedure  
+  - Every link includes:  
+    - English video name  
+    - Odoo version  
+    - Edition (CE or EE)  
+    - Original creator  
+    - Language (n/v=no voice)  
+    - Time lenght  
+    - Translated name  
   - When a video contains several procedures, you'll see a bulleted list below the initial (full video) link  
   - Every bullet has its own video link, but instead it only links to related procedure inside the video  
-  - Every procedural link is followed by its _&#x03C8;Code_  
+  - Every procedure link is followed by its _&#x03C8;Code_  
 - Steps
   - The main component of the _&#x03C8;Code_ guide is _STEP_, an atomic task to do in the screen  
   - Every step is separated from others by the _PIPE_ character |  
@@ -145,5 +153,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 - Any reference to _&#x03C8;Code_ as a filename, must be converted to _pCode_ because of ASCII code limitations
 
 <br><br>
-#### Odoo Guides - v4_02 &nbsp; 2019-07-27
+#### Odoo Guides - v4_03 &nbsp; 2019-07-27
  
