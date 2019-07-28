@@ -4,7 +4,7 @@
 <br>
 
 # ![o13](/doc/img/odoo13.png) &nbsp;EE
-| Folder | Description | Folder | Description |
+| Icon | Description | Icon | Description |
 | :---: | --- | :---: | --- |
 | ![o13](/doc/img/odoo13.jpg) | [Odoo v13 System Wide \(Funciones Globales en Odoo v13\)](/o13/ee/o13/o13-ee-o13-system_wide_guides.md) | | |
 | ![acc](/doc/img/account_accountant.jpg) | [Accounting \(Contabilidad\)](/o13/ee/acc/o13-ee-acc-accounting_guides.md) | ![apr](/doc/img/hr_appraisal.jpg) | [Appraisal \(Evaluaciones\)](/o13/ee/apr/o13-ee-apr-appraisal_guides.md) |
