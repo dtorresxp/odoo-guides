@@ -1,7 +1,6 @@
 ## O13 - EE - RNT - Rental (Rentas)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
-
-<br>
+### ![rnt](/doc/img/rental.png)
 
 #### [New Rental App (O13 - EE - Odoo Mates - n/v - 04:58 - Nueva App de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0)<br>
 
@@ -41,4 +40,4 @@ f:Search... | &#x2716; _(ConfirmationDate:Last365Days)_
 
 <br>
 	
-###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v2_01 &nbsp; 2019-07-28  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  

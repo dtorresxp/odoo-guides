@@ -1,5 +1,6 @@
 ## O13 - EE - SLS - Sales (Ventas)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+### ![sls](/doc/img/sale.png)
 
 #### [Product Configurator (O13 - EE - Odoo Mates - n/v - 01:27 - Configurador de Productos)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
 &#x25A6; | o:Sales | m:Products | o:Products | b:Edit | o:ConfigureAProduct | w:ConfigureAProduct | f:Product &#x25BC; | _a:Select product_  
@@ -48,4 +49,4 @@ f:FieldName &#x25BC; | f:Operator &#x25BC; | f:RuleText | _a:Verify it's somethi
 
 <br>
 
-###### Odoo Guides - v2_02 &nbsp; 2019-07-25  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v3_01 &nbsp; 2019-07-28  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  

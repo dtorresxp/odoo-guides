@@ -1,7 +1,6 @@
 ## O13 - EE - ECO - eCommerce (Comercio Electrónico)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)
-
-<br>
+### ![eco](/doc/img/website_sale.png)
 
 #### [Enable Agree Terms and Conditions (O13 - EE - Odoo Mates - n/v - 01:51 - Mostrar Términos y Condiciones)](https://youtube.com/embed/KntH3ZHd9dE?autoplay=1&start=0&end=0&rel=0)  
 &#x25A6; | o:Website | m:Customize | m:Payment | o:AcceptTerms&Conditions &#x1F5F9;  
@@ -20,4 +19,4 @@ t:sales | f:DescriptionForCustomers | _a:Enter description_ | s:PublishedOnWebsi
 
 <br>
 
-###### Odoo Guides - v2_02 &nbsp; 2019-07-25  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)
+###### Odoo Guides - v3_01 &nbsp; 2019-07-28  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)
