@@ -25,4 +25,4 @@ Nosotros recibiremos, contestaremos, verificaremos y por supuesto que agradecere
 Gracias.
 
 <br><br>
-###### Odoo Guides - v1_01 &nbsp; 2019-07-26  [_&#x23CE; home_](/README.md#%CF%88code-project-objectives--texto-en-espa%C3%B1ol)
+###### Odoo Guides - v1_02 &nbsp; 2019-07-27  [_&#x23CE; home_](/README.md#%CF%88code-project-objectives--texto-en-espa%C3%B1ol)
