@@ -1,7 +1,6 @@
 ## O13 - EE - WEB - Websites Builder (Sitios Web)
-#### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
-
-<br>
+#### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)
+## ![web](/doc/img/website.png)
 
 #### [Add Attachment Option in Portal (O13 - EE - Odoo Mates - n/v - 01:29 - Agregar opción de adjuntar en el Portal)](https://youtube.com/embed/tZZXvJYX5qY?autoplay=1&start=0&end=0&rel=0)
    &#x25A6; | o:Website | b:GoToWebSite | m:MySelf &#x25BC; | o:MyAccount | w:Documents  
