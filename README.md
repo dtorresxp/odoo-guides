@@ -5,7 +5,7 @@ Odoo useful video links and _&#x03C8;Code_ guides.
 
 # Guides
 
-## Odoo v13
+# ![o13](/doc/img/odoo13.png)
 - [Community Edition](/o13/ce/o13-ce-guides_menu.md)
 - [Enterprise Edition](/o13/ee/o13-ee-guides_menu.md)
 
@@ -126,9 +126,9 @@ Anyway, this technique is very useful to help people who already knows **_what_*
 
 <br>
 
-# Spanish Text (Textos en Español)
+# Spanish Text [_(Texto en Español)_](/doc/spa/homeSpanishText_spa.md)
 
-In order to help our Spanish and Latin-American communities, we included several spanish translations in our guides.  Feel free to branch this repo and change Spanish to your own language as needed. 
+In order to help our Spanish and Latin-American communities, we included several spanish translations in our guides.  Feel free to fork this repo and change Spanish to your own language as needed. 
 
 
 <br>
@@ -145,5 +145,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 - Any reference to _&#x03C8;Code_ as a filename, must be converted to _pCode_ because of ASCII code limitations
 
 <br><br>
-#### Odoo Guides - v3_12 &nbsp; 2019-07-26
+#### Odoo Guides - v4_02 &nbsp; 2019-07-27
  
