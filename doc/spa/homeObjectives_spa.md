@@ -6,7 +6,7 @@
 ![Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo](/doc/img/logo_odoo_guides_mini.jpg)
 
 <br>
-¡Bienvenid@s al proyecto _&#x03C8;Code_!
+¡Bienvenid@s al proyecto _&#x03C8;Code_!  
 
 Nuestra intenciónes apoyar el soporte, uso, capacitación y certificación en Odoo.  
 <br>
