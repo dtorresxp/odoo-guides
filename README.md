@@ -128,7 +128,7 @@ Anyway, this technique is very useful to help people who already knows **_what_*
 
 # Spanish Text [_(Texto en Español)_](/doc/spa/homeSpanishText_spa.md)
 
-In order to help our Spanish and Latin-American communities, we included several spanish translations in our guides.  Feel free to branch this repo and change Spanish to your own language as needed. 
+In order to help our Spanish and Latin-American communities, we included several spanish translations in our guides.  Feel free to fork this repo and change Spanish to your own language as needed. 
 
 
 <br>
