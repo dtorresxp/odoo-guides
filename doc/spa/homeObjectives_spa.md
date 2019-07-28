@@ -7,7 +7,7 @@
 
 <br>
 ¡Bienvenid@s al proyecto _&#x03C8;Code_!  
-
+<br>
 Nuestra intenciónes apoyar el soporte, uso, capacitación y certificación en Odoo.  
 
 Creamos un pseudo lenguaje simple llamado _&#x03C8;Code_, para ayudar a la gente a trabajar lo más pronto posible, basándonos en la técnica "qué-dónde" del _Knowledgeware_.  La idea es integrar las nuevas técnicas de capacitación mediante videos con algo más simple que los pesados manuales de sistema, pero retomando todas las ventajas de indexamiento, búsqueda y eficiencia de la capacitación tradicional.  Nuestro objetivo es tomar lo mejor de ambos mundos, privilegiando el "junto con", sobre el "en vez de".
