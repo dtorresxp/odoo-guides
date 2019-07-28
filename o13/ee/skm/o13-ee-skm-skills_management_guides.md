@@ -1,4 +1,4 @@
-## O13 - SKM - Skills Management (Competencias RRHH)
+## O13 - EE - SKM - Skills Management (Competencias RRHH)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 <br>

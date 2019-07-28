@@ -1,4 +1,4 @@
-## O13 - STU - Odoo Studio (Estudio Odoo)
+## O13 - EE - STU - Odoo Studio (Estudio Odoo)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 	

@@ -1,4 +1,4 @@
-## O13 - MSM - Mass Marketing (Correo Masivo)
+## O13 - EE - MSM - Mass Marketing (Correo Masivo)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 	

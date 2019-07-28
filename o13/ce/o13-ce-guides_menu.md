@@ -5,7 +5,7 @@
 # ![o13](/doc/img/odoo13.png) &nbsp;CE
 | Icon | Description | Icon | Description |
 | :---: | --- | :---: | --- |
-| ![web](/doc/img/website.jpg) | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_guides.md) | | |
+| ![pyr](/doc/img/hr_payroll.jpg) | [Payroll \(Nómina\)](/o13/ce/web/o13-ce-pyr-payroll_guides.md) | ![web](/doc/img/website.jpg) | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_guides.md) |
 
 <br><br>
 ## _&#x03C8;Code_ Nomenclature
@@ -33,4 +33,4 @@
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v4_03 &nbsp; 2019-07-27  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v4_04 &nbsp; 2019-07-28  [_&#x23CE; home_](/README.md)  

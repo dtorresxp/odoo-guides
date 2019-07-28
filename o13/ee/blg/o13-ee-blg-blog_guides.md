@@ -1,4 +1,4 @@
-## O13 - BLG - Blogs (Blogs)
+## O13 - EE - BLG - Blogs (Blogs)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 	

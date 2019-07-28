@@ -1,4 +1,4 @@
-## O13 - INV - Inventory (Inventarios)
+## O13 - EE - INV - Inventory (Inventarios)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 	

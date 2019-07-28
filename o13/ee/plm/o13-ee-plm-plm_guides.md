@@ -1,4 +1,4 @@
-## O13 - PLM - Product Lifecycle Management (PLM)
+## O13 - EE - PLM - Product Lifecycle Management (PLM)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 	

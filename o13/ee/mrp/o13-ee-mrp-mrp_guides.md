@@ -1,4 +1,4 @@
-## O13 - MRP - Manufacturing (Manufactura)
+## O13 - EE - MRP - Manufacturing (Manufactura)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 	

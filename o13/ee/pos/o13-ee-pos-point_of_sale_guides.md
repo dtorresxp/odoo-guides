@@ -1,4 +1,4 @@
-## O13 - POS - Point of Sale (Punto de Venta)
+## O13 - EE - POS - Point of Sale (Punto de Venta)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 <br>

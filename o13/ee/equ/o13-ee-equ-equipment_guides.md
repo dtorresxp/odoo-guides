@@ -1,4 +1,4 @@
-## O13 - EQU - Equipment (Control de Equipo)
+## O13 - EE - EQU - Equipment (Control de Equipo)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 	

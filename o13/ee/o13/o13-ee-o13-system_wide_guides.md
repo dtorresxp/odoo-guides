@@ -1,4 +1,4 @@
-## O13 - O13 - System Wide (Funciones Globales)
+## O13 - EE - O13 - System Wide (Funciones Globales)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 <br>

@@ -1,4 +1,4 @@
-## O13 - OSH - Odoo SH (Odoo Shell)
+## O13 - EE - OSH - Odoo SH (Odoo Shell)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 	

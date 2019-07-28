@@ -1,4 +1,4 @@
-## O13 - SLS - Sales (Ventas)
+## O13 - EE - SLS - Sales (Ventas)
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 
 #### [Product Configurator (O13 - EE - Odoo Mates - n/v - 01:27 - Configurador de Productos)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
