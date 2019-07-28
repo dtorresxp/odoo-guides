@@ -9,7 +9,7 @@
 | ![acc](/doc/img/account_accountant.jpg) | [Accounting \(Contabilidad\)](/o13/ee/acc/o13-ee-acc-accounting_guides.md) | ![apr](/doc/img/hr_appraisal.jpg) | [Appraisal \(Evaluaciones\)](/o13/ee/apr/o13-ee-apr-appraisal_guides.md) |
 | ![apt](/doc/img/appointments.jpg) | [Appointments \(Citas\)](/o13/ee/apt/o13-ee-apt-appointments_guides.md) | ![blg](/doc/img/website_blog.jpg) | [Blog \(Blog\)](/o13/ee/blg/o13-ee-blg-blog_guides.md) |
 | ![cal](/doc/img/calendar.jpg) | [Calendar \(Calendario\)](/o13/ee/cal/o13-ee-cal-calendar_guides.md) | ![crm](/doc/img/crm.jpg) | [CRM \(Clientes\)](/o13/ee/crm/o13-ee-crm-crm_guides.md) |
-| ![dsc](/doc/img/discuss.jpg) | [Discuss \(Comentarios\)](/o13/ee/dsc/o13-ee-dsc-discuss_guides.md) | ![doc](/doc/img/documents.jpg) | [eCommerce \(Comercio Electrónico\)](/o13/ee/eco/o13-ee-eco-ecommerce_guides.md) |
+| ![dsc](/doc/img/discuss.jpg) | [Discuss \(Comentarios\)](/o13/ee/dsc/o13-ee-dsc-discuss_guides.md) | ![eco](/doc/img/website_sale.jpg) | [eCommerce \(Comercio Electrónico\)](/o13/ee/eco/o13-ee-eco-ecommerce_guides.md) |
 | ![emp](/doc/img/hr_employees.jpg) | [Employees \(Empleados\)](/o13/ee/emp/o13-ee-emp-employees_guides.md) | ![equ](/doc/img/equipment.jpg) | [Equipment \(Control de Equipo\)](/o13/ee/equ/o13-ee-equ-equipment_guides.md) |
 | ![esg](/doc/img/website_sign.jpg) | [Esignature \(Firma Electrónica\)](/o13/ee/esg/o13-ee-esg-esignature_guides.md) | ![eve](/doc/img/event.jpg) | [Events \(Eventos\)](/o13/ee/eve/o13-ee-eve-events_guides.md) |
 | ![exp](/doc/img/hr_expense.jpg) | [Expenses \(Gastos\)](/o13/ee/exp/o13-ee-exp-expenses_guides.md) | ![flt](/doc/img/fleet.jpg) | [Fleet \(Flotillas\)](/o13/ee/flt/o13-ee-flt-fleet_guides.md) |
