@@ -4,7 +4,7 @@
   
 ## Odoo v13 (EE)
 | Folder | Description | Folder | Description |
-| :---: | --- | :---: | --- |
+| :--- | --- | :---: | --- |
 | ![o13](/doc/img/odoo13.jpg)&nbsp;&nbsp;o13 | [Odoo v13 System Wide \(Funciones Globales en Odoo v13\)](/o13/ee/o13/o13-ee-o13-system_wide_guides.md) | | |
 | ![acc](/doc/img/account_accountant.jpg)&nbsp;&nbsp;acc | [Accounting \(Contabilidad\)](/o13/ee/acc/o13-ee-acc-accounting_guides.md) | ![apr](/doc/img/hr_appraisal.jpg)&nbsp;&nbsp;apr | [Appraisal \(Evaluaciones\)](/o13/ee/apr/o13-ee-apr-appraisal_guides.md) |
 | ![apt](/doc/img/appointments.jpg)&nbsp;&nbsp;apt | [Appointments \(Citas\)](/o13/ee/apt/o13-ee-apt-appointments_guides.md) | ![blg](/doc/img/website_blog.jpg)&nbsp;&nbsp;blg | [Blog \(Blog\)](/o13/ee/blg/o13-ee-blg-blog_guides.md) |
@@ -23,7 +23,7 @@
 | ![pos](/doc/img/point_of_sale.jpg)&nbsp;&nbsp;pos | [Point of sale \(Punto de Venta\)](/o13/ee/pos/o13-ee-pos-point_of_sale_guides.md) | ![prj](/doc/img/project.jpg)&nbsp;&nbsp;prj | [Projects \(Proyectos\)](/o13/ee/prj/o13-ee-prj-projects_guides.md) |
 | ![rcr](/doc/img/hr_recruitment.jpg)&nbsp;&nbsp;rcr | [Recruitment \(Reclutamiento\)](/o13/ee/rcr/o13-ee-rcr-recruitment_guides.md) | ![rnt](/doc/img/rental.jpg)&nbsp;&nbsp;rnt | [Rental \(Rentas\)](/o13/ee/rnt/o13-ee-rnt-rental_guides.md) |
 | ![skm](/doc/img/hr_skills.jpg)&nbsp;&nbsp;skm | [Skills Management \(Competencias\)](/o13/ee/skm/o13-ee-skm-skills_management_guides.md) | ![sli](/doc/img/website_slides.jpg)&nbsp;&nbsp;sli | [Slides \(Publicaciones\)](/o13/ee/sli/o13-ee-sli-slides_guides.md) |
-| ![](/doc/img/.jpg)&nbsp;&nbsp;sls | [Sales \(Ventas\)](/o13/ee/sls/o13-ee-sls-sales_guides.md) | ![stu](/doc/img/web_studio.jpg)&nbsp;&nbsp;stu | [Odoo Studio \(Estudio Odoo\)](/o13/ee/stu/o13-ee-stu-studio_guides.md) |
+| ![sls](/doc/img/sale.jpg)&nbsp;&nbsp;sls | [Sales \(Ventas\)](/o13/ee/sls/o13-ee-sls-sales_guides.md) | ![stu](/doc/img/web_studio.jpg)&nbsp;&nbsp;stu | [Odoo Studio \(Estudio Odoo\)](/o13/ee/stu/o13-ee-stu-studio_guides.md) |
 | ![sub](/doc/img/sale_subscription.jpg)&nbsp;&nbsp;sub | [Subscriptions \(Suscripciones\)](/o13/ee/sub/o13-ee-sub-subscriptions_guides.md) | ![svy](/doc/img/survey.jpg)&nbsp;&nbsp;svy | [Surveys \(Encuestas\)](/o13/ee/svy/o13-ee-svy-survey_guides.md) |
 | ![tsh](/doc/img/hr_timesheet.jpg)&nbsp;&nbsp;tsh | [Timesheet \(Control de Horas\)](/o13/ee/tsh/o13-ee-tsh-timesheet_guides.md) | ![web](/doc/img/website.jpg)&nbsp;&nbsp;web | [Websites builder \(Sitios Web\)](/o13/ee/web/o13-ee-web-websites_builder_guides.md) |
   
