@@ -2,7 +2,7 @@
 #### [_&#x23CE; home_](/README.md)  
 
 <br><br>
-## Odoo v13 (EE)
+# ![o13](/doc/img/odoo13.png) &nbsp;CE
 | Folder | Description | Folder | Description |
 | :---: | --- | :---: | --- |
 | ![web](/doc/img/website.jpg)&nbsp;&nbsp;web | [Websites builder \(Sitios Web\)](/o13/ce/web/o13-ce-web-websites_builder_guides.md) | | |
@@ -33,4 +33,4 @@
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v4_01 &nbsp; 2019-07-27  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v4_02 &nbsp; 2019-07-27  [_&#x23CE; home_](/README.md)  
