@@ -5,7 +5,7 @@
 #### [New Rental App (O13 - EE - Odoo Mates - n/v - 04:58 - Nueva App de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0)<br>
 
 - [Install Rent app (Instalar app de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=24s&rel=0)  
-&#x25A6; | o:Apps | f:Search... rental | i:Rental | b:Install  
+&#x25A6; | o:Apps | f:Search... rental | _t:apps_ &#x2716; | i:Rental | b:Install  
 
 - [Rentals Settings (Configuración de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4m21s&end=0&rel=0)  
 \[ &#x23BD;/&#x23BD;/:Rental Orders || &#x25A6; | o:Rental ] | m:Configuration | o:Settings
@@ -40,4 +40,4 @@ f:Search... | &#x2716; _(ConfirmationDate:Last365Days)_
 
 <br>
 	
-###### Odoo Guides - v2_01 &nbsp; 2019-07-28  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v2_02 &nbsp; 2019-07-28  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
