@@ -9,11 +9,11 @@
 
 - [Configure Presence module (Configurar módulo de Asistencias)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m11&end=3m31s&rel=0)  
   - &#x25A6; | o:Settings | o:Employees | &#x1F5F9; f:Control presence of employees
-  - _a:Define presence according to:
-    - System login (User status on chat)
-    - [ Amount of sent emails | f: At least # of sent emails ]
-    - [ IP address | [f: IP List (comma separated) ]
-    - Attendance module_
+  - _a:Define presence according to:_
+    - f:System login (User status on chat)
+    - [ f:Amount of sent emails | f: At least # of sent emails ]
+    - [ f:IP address | [f: IP List (comma separated) ]
+    - f:Attendance module_
   - b:Save
 
 
