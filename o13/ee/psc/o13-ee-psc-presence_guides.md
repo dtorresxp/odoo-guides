@@ -25,10 +25,10 @@ _a:Verify on ![warning](/doc/img/warning.png) that there is nothing wrong with e
 &#x25A6; | o:Attendance | i:ClickToCheckIn  
 
 - [Manage Attendances (Controlar Asistencias)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=37s&end=37s&rel=0)  
-&#x25A6; | o:Attendance | m:ManageAttendances | o:Attendances  
-_a:Test_: 
- - b:Create | a:Select f:Employee &#x25BC; | f:CheckIn &#x1F4C5; | b:Save  
- - &#x25A6; | o:Employees | _a:Review Presence Status = Available ![presence_yes](/doc/img/presence_yes.png)_  
+  - &#x25A6; | o:Attendance | m:ManageAttendances | o:Attendances  
+  - _a:Test_: 
+    - b:Create | a:Select f:Employee &#x25BC; | f:CheckIn &#x1F4C5; | b:Save  
+    - &#x25A6; | o:Employees | _a:Review Presence Status = Available ![presence_yes](/doc/img/presence_yes.png)_  
 
 <br>
 
