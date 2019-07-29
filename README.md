@@ -106,8 +106,8 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | &#x1F50D; | advanced search | búsqueda avanzada |
 | &#x1F4C5; | show calendar | mostrar calendario |
 | &#x2B50; | favorite searches | búsquedas favoritas |
-| ![presence_yes](/doc/img/presence_yes.png) / ![presence_no](/doc/img/presence_no.png) | presence/absence ( asistencia/ausencia ) |
-| ![warning](/doc/img/warning.png) | warning (atención) |
+| ![presence_yes](/doc/img/presence_yes.png) / ![presence_no](/doc/img/presence_no.png) | presence / absence | asistencia / ausencia |
+| ![warning](/doc/img/warning.png) | warning | atención |
 | _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
 | **b:** Button | button | botón |
 | **d:** Dialog | warning or action dialog | diálogo de precaución |
