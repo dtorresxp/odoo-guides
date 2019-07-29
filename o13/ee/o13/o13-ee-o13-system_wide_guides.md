@@ -8,6 +8,14 @@ _a:Select Quotation_ | s:Delivery | t:Operations | b:Validate | d:UserError
 b:Edit | f:Done | w:Open:StockMovesNotInPackage | b:Close | b:CheckAvailability | b:Save  
 b:Validate | w:ImmediateTransfer? | b:Apply | &#x2716; d:UserError  
 
+#### [How to Activate Developer Mode (O13 - EE - Odoo Mates - n/v - 00:52 - Activar el Modo de Desarrollador)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=0&rel=0)  
+
+- [Activate (Activar)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=18s&rel=0)  
+&#x25A6; | o:Settings | i:Activate the developer mode  
+
+- [Deactivate (Desactivar)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=24&end=39s&rel=0)  
+&#x25A6; | o:Settings | i:Deactivate the developer mode  
+
 #### [How to fix Unable to log message (O13 - EE - Odoo Mates - n/v - 01:55 - Corregir error en log de usuario)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)  
 \[ m:MySelf &#x25BC; | o:MyProfile \] &nbsp; || &nbsp; \[ &#x25A6; | o:Settings | m:Users&Companies | o:Users | _a:Select User_ | b:Edit \]  
 f:Email | _a:Define a right one_ | b:Save  
