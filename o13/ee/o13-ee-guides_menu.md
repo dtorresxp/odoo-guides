@@ -22,7 +22,7 @@
 | ![mrp](/doc/img/mrp.jpg) | [MRP \(MRP\)](/o13/ee/mrp/o13-ee-mrp-mrp_guides.md) | ![msm](/doc/img/mass_mailing.jpg) | [Mass marketing \(Correo masivo\)](/o13/ee/msm/o13-ee-msm-mass_marketing_guides.md) |
 | ![osh](/doc/img/odoosh.jpg) | [Odoo SH \(Odoo SH\)](/o13/ee/osh/o13-ee-osh-odoo_sh_guides.md) | ![pch](/doc/img/purchase.jpg) | [Purchasing \(Compras\)](/o13/ee/pch/o13-ee-pch-purchasing_guides.md) |
 | ![plm](/doc/img/plm.jpg) | [PLM \(PLM\)](/o13/ee/plm/o13-ee-plm-plm_guides.md) | ![pos](/doc/img/point_of_sale.jpg) | [Point of sale \(Punto de Venta\)](/o13/ee/pos/o13-ee-pos-point_of_sale_guides.md) |
-| ![prj](/doc/img/project.jpg) | [Projects \(Proyectos\)](/o13/ee/prj/o13-ee-prj-projects_guides.md) | | ![psc](/doc/img/hr_presence.jpg) | [Presence \(Asistencias\)](/o13/ee/asc/o13-ee-asc-presence_guides.md) |
+| ![prj](/doc/img/project.jpg) | [Projects \(Proyectos\)](/o13/ee/prj/o13-ee-prj-projects_guides.md) | ![psc](/doc/img/hr_presence.jpg) | [Presence \(Asistencias\)](/o13/ee/psc/o13-ee-psc-presence_guides.md) |
 | ![rcr](/doc/img/hr_recruitment.jpg) | [Recruitment \(Reclutamiento\)](/o13/ee/rcr/o13-ee-rcr-recruitment_guides.md) | ![rnt](/doc/img/rental.jpg) | [Rental \(Rentas\)](/o13/ee/rnt/o13-ee-rnt-rental_guides.md) |
 | ![skm](/doc/img/hr_skills.jpg) | [Skills Management \(Competencias\)](/o13/ee/skm/o13-ee-skm-skills_management_guides.md) | ![sli](/doc/img/website_slides.jpg) | [Slides \(Publicaciones\)](/o13/ee/sli/o13-ee-sli-slides_guides.md) |
 | ![sls](/doc/img/sale.jpg) | [Sales \(Ventas\)](/o13/ee/sls/o13-ee-sls-sales_guides.md) | ![stu](/doc/img/web_studio.jpg) | [Odoo Studio \(Estudio Odoo\)](/o13/ee/stu/o13-ee-stu-studio_guides.md) |
