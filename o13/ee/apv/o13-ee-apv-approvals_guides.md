@@ -13,8 +13,8 @@ f:Option Settings | _a:Set every option as [ o:No || o:Required || o:Optional ]_
 _a:Available options:_ | [ f:Contact | f:Date | f:Period | f:Items | f:Quantity | f:Amount | f:Reference | f:Payment | f:Location ]  
 i:Approvers | f:Employee's Manager &#x1F5F9; | f:Approvers | f:Minimum Approval | b:Save  
 
-- [Configurar Approval Users (Configurar Autorizadores)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=2m19s&end=3m&rel=0)  
-&#x25A6; | o:Settings | m:Users&Companies | o:Users
+- [Configure Approval Users (Configurar Autorizadores)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=2m19s&end=3m&rel=0)  
+&#x25A6; | o:Settings | m:Users&Companies | o:Users  
 _a:Select User_ | i:HumanResources | f:Approvals &#x25BC; | _a:Select \[ o:n/a || o:Approver || o:Administrator ]_ | b:Save  
 
 - [My Approvals (Mis Autorizaciones)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=1m12s&end=1m44s&rel=0)  
