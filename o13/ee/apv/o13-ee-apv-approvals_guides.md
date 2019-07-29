@@ -4,7 +4,7 @@
 
 #### [New Approval App (O13 - EE - Odoo Mates - n/v - 03:19 - Nueva App de Autorizaciones)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0)<br>
 
-- [Install Approval app (Instalar app de VoBo's)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=30s&rel=0)
+- [Install Approval app (Instalar app de VoBo's)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=30s&rel=0)  
 &#x25A6; | o:Apps | f:Search... approval | _(apps)_ &#x2716; | i:Approval | b:Install  
 
 - [Configurar Approval app (Configurar app de VoBo's)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=30&end=1m5s&rel=0)  
@@ -14,16 +14,16 @@ _a:Available options:_ | [ f:Contact | f:Date | f:Period | f:Items | f:Quantity 
 i:Approvers | f:Employee's Manager &#x1F5F9; | f:Approvers | f:Minimum Approval | b:Save  
 
 - [Configurar Approval Users (Configurar Autorizadores)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=2m19s&end=3m&rel=0)  
-&#x25A6; | o:Settings | m:Users&Companies | o:Users | 
-_a:Select User_ | i:HumanResources | f:Approvals &#x25BC; | _a:Select \[ o:n/a || o:Approver || o:Administrator ]_ | b:Save
+&#x25A6; | o:Settings | m:Users&Companies | o:Users
+_a:Select User_ | i:HumanResources | f:Approvals &#x25BC; | _a:Select \[ o:n/a || o:Approver || o:Administrator ]_ | b:Save  
 
 - [My Approvals (Mis Autorizaciones)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=1m12s&end=1m44s&rel=0)  
 \[ &#x23BD;/&#x23BD;/:Approvals || &#x25A6; | o:Approvals ] | _a:Select Approval Type_ | i:BusinessTrip | b:NewRequest  
 i:Approval Subject | f:Request Owner | f:Category | f:Period | f:Location | f:Description | t:Approvers | b:Save  
 
 - [Manager Reviews (Revisiones del Gerente)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=1m45s&end=2m5s&rel=0)  
-\[ &#x23BD;/&#x23BD;/:Approvals || &#x25A6; | o:Approvals ] | m:Manager | o:ApprovalsToReview | _a:Select Request_ | b:Confirm | 
-_a:Authorize Request | \[ b:Approve || b:Refuse || b:Cancel ] | b:Approve | &#x23BD;/&#x23BD;/:MyRequests
+\[ &#x23BD;/&#x23BD;/:Approvals || &#x25A6; | o:Approvals ] | m:Manager | o:ApprovalsToReview | _a:Select Request_ | b:Confirm  
+_a:Authorize Request | \[ b:Approve || b:Refuse || b:Cancel ] | b:Approve | &#x23BD;/&#x23BD;/:MyRequests  
 
 <br>
 
