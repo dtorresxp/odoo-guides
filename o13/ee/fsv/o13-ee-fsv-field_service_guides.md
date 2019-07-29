@@ -21,7 +21,8 @@
 - [Creating Worksheet (Crear Registro de Tareas)](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=1m35s&end=4m2s&rel=0)  
   _a:Start Task_ | s:Worksheet | \[ b:Create | f:Description | f:Duration | b:Save ]&#x207F;  
   &#x23BD;/&#x23BD;/:StartedTask | _a:See s:Time showing total registered time_ | s:Worksheet  
-  f:ContactPerson | f:InterventionType &#x25BC; \[ Functional || Technical ] | f:Comments | f:WorkerSignature | f:CustomerSignature | b:Save  
+  f:ContactPerson | f:InterventionType &#x25BC; \[ Functional || Technical ]  
+  f:Comments | f:WorkerSignature | f:CustomerSignature | b:Save  
   s:Products | \[ _a:Add products to task \[ + || - ] ]&#x207F;_ | &#x23BD;/&#x23BD;/:StartedTask | _a:See s:Products showing Totals  
   t:LogNote | _a:Enter f:Log text_ | b:Log  
   t:SendMessage | _a:Enter f:MessageText for followers of i:StartedTask | b:Send  
