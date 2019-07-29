@@ -19,7 +19,7 @@
 - [Install Presence module (Instalar módulo de Asistencias)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m39&end=3m50s&rel=0)  
 &#x25A6; | o:Employees | _a:Filter employees by Company/Department_  
 _a:Review employee availability: \[ ![presence_yes](/doc/img/presence_yes.png) = yes || ![presence_no](/doc/img/presence_no.png) = no ] in top-right of every i:employee_  
-![warning](/doc/img/warning.png) _a:Verify that there is nothing wrong with employee presence configuration_  
+_a:Verify on ![warning](/doc/img/warning.png) that there is nothing wrong with employee presence configuration_  
 
 <br>
 
