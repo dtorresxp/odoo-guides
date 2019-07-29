@@ -58,4 +58,4 @@
 
 <br>  
   
-###### Odoo Guides - v4_03 &nbsp; 2019-07-29  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v4_04 &nbsp; 2019-07-29  [_&#x23CE; home_](/README.md)  
