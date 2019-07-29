@@ -19,8 +19,8 @@
 | ![inv](/doc/img/stock.jpg) | [Inventory \(Inventarios\)](/o13/ee/inv/o13-ee-inv-inventory_guides.md) | ![iot](/doc/img/iot.jpg) | [Internet of Things \(IOT\)](/o13/ee/iot/o13-ee-iot-internet_of_things_guides.md) |
 | ![ivc](/doc/img/account_invoicing.jpg) | [Invoicing \(Facturación\)](/o13/ee/ivc/o13-ee-ivc-invoicing_guides.md) | ![lvc](/doc/img/im_livechat.jpg) | [Live chat \(Chat en vivo\)](/o13/ee/lch/o13-ee-lch-live_chat_guides.md) |
 | ![lvs](/doc/img/leaves.jpg) | [Leaves \(Permisos\)](/o13/ee/lvs/o13-ee-lvs-leaves_guides.md) | ![mka](/doc/img/marketing_automation.jpg) | [Marketing Automation \(Campañas\)](/o13/ee/mka/o13-ee-mka-marketing_automation_guides.md) |
-| ![mnt](/doc/img/maintenance.jpg) | [Maintenance \(Mantenimiento\)](/o13/ee/mnt/o13-ee-mnt-maintenance_guides.md) | ![mrp](/doc/img/mrp.jpg) | [MRP \(MRP\)](/o13/ee/mrp/o13-ee-mrp-mrp_guides.md) | ![msm](/doc/img/mass_mailing.jpg) |
-| [Mass marketing \(Correo masivo\)](/o13/ee/msm/o13-ee-msm-mass_marketing_guides.md) | ![osh](/doc/img/odoosh.jpg) | [Odoo SH \(Odoo SH\)](/o13/ee/osh/o13-ee-osh-odoo_sh_guides.md) |
+| ![mnt](/doc/img/maintenance.jpg) | [Maintenance \(Mantenimiento\)](/o13/ee/mnt/o13-ee-mnt-maintenance_guides.md) | ![mrp](/doc/img/mrp.jpg) | [MRP \(MRP\)](/o13/ee/mrp/o13-ee-mrp-mrp_guides.md) | 
+| ![msm](/doc/img/mass_mailing.jpg) | [Mass marketing \(Correo masivo\)](/o13/ee/msm/o13-ee-msm-mass_marketing_guides.md) | ![osh](/doc/img/odoosh.jpg) | [Odoo SH \(Odoo SH\)](/o13/ee/osh/o13-ee-osh-odoo_sh_guides.md) |
 | ![pch](/doc/img/purchase.jpg) | [Purchasing \(Compras\)](/o13/ee/pch/o13-ee-pch-purchasing_guides.md) | ![plm](/doc/img/plm.jpg) | [PLM \(PLM\)](/o13/ee/plm/o13-ee-plm-plm_guides.md) |
 | ![pos](/doc/img/point_of_sale.jpg) | [Point of sale \(Punto de Venta\)](/o13/ee/pos/o13-ee-pos-point_of_sale_guides.md) | ![prj](/doc/img/project.jpg) | [Projects \(Proyectos\)](/o13/ee/prj/o13-ee-prj-projects_guides.md) |
 | ![psc](/doc/img/hr_presence.jpg) | [Presence \(Asistencias\)](/o13/ee/psc/o13-ee-psc-presence_guides.md) | ![rcr](/doc/img/hr_recruitment.jpg) | [Recruitment \(Reclutamiento\)](/o13/ee/rcr/o13-ee-rcr-recruitment_guides.md) |
