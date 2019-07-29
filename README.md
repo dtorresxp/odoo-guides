@@ -155,7 +155,7 @@ In order to help our Spanish and Latin-American communities, we included several
 - Sometimes, one guide needs to be in several places.  To assure manual synchronization, add this comment just below link row:
 _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 - Any reference to _&#x03C8;Code_ as a filename, must be converted to _pCode_ because of ASCII code limitations
-- To facilitate guides count, add end=00 just to the very first link of every multi-procedural videos to substract it from total count
+-Add _&nocount_ at end of every multi-procedural video link to substract it from total count
 
 <br><br>
 #### Odoo Guides - v4_05 &nbsp; 2019-07-29
