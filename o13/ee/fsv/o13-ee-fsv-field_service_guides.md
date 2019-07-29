@@ -23,16 +23,16 @@
   &#x23BD;/&#x23BD;/:StartedTask | _a:See s:Time showing total registered time_ | s:Worksheet  
   f:ContactPerson | f:InterventionType &#x25BC; \[ Functional || Technical ]  
   f:Comments | f:WorkerSignature | f:CustomerSignature | b:Save  
-  s:Products | \[ _a:Add products to task \[ + || - ] ]&#x207F;_ | &#x23BD;/&#x23BD;/:StartedTask | _a:See s:Products showing Totals  
+  s:Products | \[ _a:Add products to task \[ + || - ] ]&#x207F;_ | &#x23BD;/&#x23BD;/:StartedTask | _a:See s:Products showing Totals_  
   t:LogNote | _a:Enter f:Log text_ | b:Log  
-  t:SendMessage | _a:Enter f:MessageText for followers of i:StartedTask | b:Send  
+  t:SendMessage | _a:Enter f:MessageText for followers of i:StartedTask_ | b:Send  
   b:Stop | w:Log | f:Time | f:Description | b:Save  
   
 - [Creating Quotations & Invoices (Crear Cotizaciones y Facturas)](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=4m7s&end=5m&rel=0)  
   _a:Select Task_ | b:NewQuotation | \[ o:AddAProduct | f:Product &#x25BC; | f:Quantity ]&#x207F; | b:Save  
   _a:See s:Quotations showing number of quotations_ | b:Validate  
-  b:CreateInvoice | w:Invoicing | f:CreateInvoice \[ &#x25C9; Regular || Percentage || Ammount ] | b:CreateAndViewInvoice  
-  w:InvoicePreview | b:Validate  
+  b:CreateInvoice | w:Invoicing | f:CreateInvoice \[ &#x25C9; Regular || Percentage || Ammount ]  
+  b:CreateAndViewInvoice | w:InvoicePreview | b:Validate  
 
 <br>
 
