@@ -49,6 +49,8 @@
 | &#x1F6E0; | open studio | &#x1F557; | activities |
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
 | &#x1F4C5; | calendar | &#x2B50; | favorites |
+| ![presence_yes](/doc/img/presence_yes.png) / ![presence_no](/doc/img/presence_no.png) | presence / absence | ![warning](/doc/img/warning.png) | warning |
+| ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
 | **i:** Item | item on screen | **l:** Link | link |
@@ -58,4 +60,4 @@
 
 <br>  
   
-###### Odoo Guides - v4_04 &nbsp; 2019-07-29  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v4_05 &nbsp; 2019-07-29  [_&#x23CE; home_](/README.md)  

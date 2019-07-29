@@ -108,6 +108,8 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | &#x2B50; | favorite searches | búsquedas favoritas |
 | ![presence_yes](/doc/img/presence_yes.png) / ![presence_no](/doc/img/presence_no.png) | presence / absence | asistencia / ausencia |
 | ![warning](/doc/img/warning.png) | warning | atención |
+| ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
+| ![filter](/doc/img/filter.png) | filter | filtrar |
 | _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
 | **b:** Button | button | botón |
 | **d:** Dialog | warning or action dialog | diálogo de precaución |
