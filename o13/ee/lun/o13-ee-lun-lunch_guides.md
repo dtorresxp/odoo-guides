@@ -9,7 +9,8 @@
 
 - [Configure Lunch app (Instalar app de Comidas)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=27s&end=2m23s&rel=0)  
   - &#x25A6; | o:Lunch | m:Configuration | o:Settings | i:LunchOverdraft | f:Overdraft | b:Save  
-  - m:Configuration | o:Vendors | _a:Select Vendor_ | b:Edit | _a:Review Vendor info_ | i:Availability | f:Saturday &#x2B58; | f:Sunday &#x2B58;  
+  - m:Configuration | o:Vendors | _a:Select Vendor_ | b:Edit | _a:Review Vendor info_  
+    i:Availability | f:Saturday &#x2610; | f:Sunday &#x2610;  
     i:Orders | f:Location &#x25BC; | \[ _a:Add (Location)_ ]&#x207F; | b:Save  
   - m:Configuration | o:Locations | _a:Review Lunch Locations_  
   - m:Configuration | o:Products | _a:Review Lunch Products_  
