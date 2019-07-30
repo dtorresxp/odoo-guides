@@ -51,6 +51,7 @@
 | &#x1F4C5; | calendar | &#x2B50; | favorites |
 | ![presence_yes](/doc/img/presence_yes.png) / ![presence_no](/doc/img/presence_no.png) | presence / absence | ![warning](/doc/img/warning.png) | warning |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
+| ![active](/doc/img/active.png) | active | ![inactive](/doc/img/inactive.png) | inactive |
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
 | **i:** Item | item on screen | **l:** Link | link |
@@ -60,4 +61,4 @@
 
 <br>  
   
-###### Odoo Guides - v4_07 &nbsp; 2019-07-29  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v4_08 &nbsp; 2019-07-29  [_&#x23CE; home_](/README.md)  

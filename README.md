@@ -110,6 +110,8 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | ![warning](/doc/img/warning.png) | warning | atención |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
 | ![filter](/doc/img/filter.png) | filter | filtrar |
+| ![active](/doc/img/active.png) | active | activo |
+| ![inactive](/doc/img/inactive.png) | inactive | inactivo |
 | _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
 | **b:** Button | button | botón |
 | **d:** Dialog | warning or action dialog | diálogo de precaución |
@@ -158,5 +160,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 -Add _&nocount_ at end of every multi-procedural video link to substract it from total count
 
 <br><br>
-#### Odoo Guides - v4_05 &nbsp; 2019-07-29
+#### Odoo Guides - v4_06 &nbsp; 2019-07-29
  
