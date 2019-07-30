@@ -18,7 +18,7 @@
 | ![fsv](/doc/img/field_service.jpg) | [Field Service (Servicio en Sitio)](/o13/ee/fsv/o13-ee-fsv-field_service_guides.md) | ![hdk](/doc/img/helpdesk.jpg) | [Helpdesk (Helpdesk)](/o13/ee/hdk/o13-ee-hdk-helpdesk_guides.md) |
 | ![iot](/doc/img/iot.jpg) | [Internet of Things (IOT)](/o13/ee/iot/o13-ee-iot-internet_of_things_guides.md) | ![inv](/doc/img/stock.jpg) | [Inventory (Inventarios)](/o13/ee/inv/o13-ee-inv-inventory_guides.md) |
 | ![ivc](/doc/img/account_invoicing.jpg) | [Invoicing (Facturación)](/o13/ee/ivc/o13-ee-ivc-invoicing_guides.md) | ![lvs](/doc/img/leaves.jpg) | [Leaves (Permisos)](/o13/ee/lvs/o13-ee-lvs-leaves_guides.md) |
-| ![lvc](/doc/img/im_livechat.jpg) | [Live chat (Chat en vivo)](/o13/ee/lch/o13-ee-lch-live_chat_guides.md) | ![lun](/doc/img/lunch.jpg) | [Lunch (Comidas)](/o13/ee/mka/o13-ee-lun-lunch_guides.md) |
+| ![lvc](/doc/img/im_livechat.jpg) | [Live chat (Chat en vivo)](/o13/ee/lch/o13-ee-lch-live_chat_guides.md) | ![lun](/doc/img/lunch.jpg) | [Lunch (Comidas)](/o13/ee/lun/o13-ee-lun-lunch_guides.md) |
 | ![mnt](/doc/img/maintenance.jpg) | [Maintenance (Mantenimiento)](/o13/ee/mnt/o13-ee-mnt-maintenance_guides.md) | ![mka](/doc/img/marketing_automation.jpg) | [Marketing Automation (Campañas)](/o13/ee/mka/o13-ee-mka-marketing_automation_guides.md) |
 | ![msm](/doc/img/mass_mailing.jpg) | [Mass marketing (Correo masivo)](/o13/ee/msm/o13-ee-msm-mass_marketing_guides.md) | ![mrp](/doc/img/mrp.jpg) | [MRP (MRP)](/o13/ee/mrp/o13-ee-mrp-mrp_guides.md) |
 | ![osh](/doc/img/odoosh.jpg) | [Odoo SH (Odoo SH)](/o13/ee/osh/o13-ee-osh-odoo_sh_guides.md) | ![stu](/doc/img/web_studio.jpg) | [Odoo Studio (Odoo Estudio)](/o13/ee/stu/o13-ee-stu-studio_guides.md) |
