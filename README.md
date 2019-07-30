@@ -114,7 +114,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | ![warning](/doc/img/warning.png) | warning | atención |
 | ![view_kanban](/doc/img/view_kanban.png) | kanban view |
 | ![view_list](/doc/img/view_list.png) | list view |
-| ![view_timesheet](/doc/img/view_timesheet.png) | timesheet view |
+| ![view_activity](/doc/img/view_activity.png) | activity view |
 | ![view_map](/doc/img/view_map.png) | map view |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
 | ![filter](/doc/img/filter.png) | filter | filtrar |
