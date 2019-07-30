@@ -25,7 +25,8 @@
 | &#x1F6E0; | open studio | &#x1F557; | activities |
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
 | &#x1F4C5; | calendar | &#x2B50; | favorites |
-| ![presence_yes](/doc/img/presence_yes.png) / ![presence_no](/doc/img/presence_no.png) | presence / absence | ![warning](/doc/img/warning.png) | warning |
+| ![presence_yes](/doc/img/presence_yes.png) || ![presence_no](/doc/img/presence_no.png) | presence / absence | ![warning](/doc/img/warning.png) | warning |
+| ![add](/doc/img/button_add.png) || ![sub](/doc/img/button_sub.png) | add/sub | agregar/eliminar | ![trashcan](/doc/img/trashcan.png) | remove | cancelar |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
 | ![active](/doc/img/active.png) | active | ![inactive](/doc/img/inactive.png) | inactive |
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
@@ -36,4 +37,4 @@
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v4_08 &nbsp; 2019-07-29  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v4_09 &nbsp; 2019-07-29  [_&#x23CE; home_](/README.md)  

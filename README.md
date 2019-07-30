@@ -108,6 +108,9 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | &#x2B50; | favorite searches | búsquedas favoritas |
 | ![presence_yes](/doc/img/presence_yes.png) / ![presence_no](/doc/img/presence_no.png) | presence / absence | asistencia / ausencia |
 | ![warning](/doc/img/warning.png) | warning | atención |
+| ![add](/doc/img/button_add.png) | add | agregar |
+| ![sub](/doc/img/button_sub.png) | substract | eliminar |
+| ![trashcan](/doc/img/trashcan.png) | remove | cancelar |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
 | ![filter](/doc/img/filter.png) | filter | filtrar |
 | ![active](/doc/img/active.png) | active | activo |
