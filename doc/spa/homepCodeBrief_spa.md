@@ -75,6 +75,10 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel | cancelar |
 | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | confirmar |
 | ![warning](/doc/img/warning.png) | warning | atención |
+| ![view_kanban](/doc/img/view_kanban.png) | kanban view | vista kanban | 
+| ![view_list](/doc/img/view_list.png) | list view | vista de lista | 
+| ![view_activity](/doc/img/view_activity.png) | activity view | vista por actividades |
+| ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png) | map view & location | vista de mapa y ubicación |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
 | ![filter](/doc/img/filter.png) | filter | filtrar |
 | _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
