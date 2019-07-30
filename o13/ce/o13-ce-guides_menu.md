@@ -26,8 +26,8 @@
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
 | &#x1F4C5; | calendar | &#x2B50; | favorites |
 | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | ![warning](/doc/img/warning.png) | warning |
-| ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | ![trashcan](/doc/img/trashcan.png) | cancel |
-| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | Confirm |
+| ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
+| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | confirm |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
