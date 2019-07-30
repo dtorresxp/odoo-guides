@@ -109,8 +109,8 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | asistencia \|\| ausencia |
 | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | agregar \|\| eliminar |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | activo \|\| inactivo |
+| ![trashcan](/doc/img/trashcan.png) || ![cancel](/doc/img/cancel.png) | cancel | cancelar |
 | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | confirmar |
-| ![trashcan](/doc/img/trashcan.png) | cancel | cancelar |
 | ![warning](/doc/img/warning.png) | warning | atención |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
 | ![filter](/doc/img/filter.png) | filter | filtrar |
