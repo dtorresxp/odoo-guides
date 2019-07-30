@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 ### ![apv](/doc/img/approval.png)
 
-#### [New Approval App (O13 - EE - Odoo Mates - n/v - 03:19 - Nueva App de Autorizaciones)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0)<br>
+#### [New Approval App (O13 - EE - Odoo Mates - n/v - 03:19 - Nueva App de Autorizaciones)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Install Approval app (Instalar app de VoBo's)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=30s&rel=0)  
 &#x25A6; | o:Apps | f:Search... approval | _(apps)_ &#x2716; | i:Approval | b:Install  
@@ -27,4 +27,4 @@ _a:Authorize Request | \[ b:Approve || b:Refuse || b:Cancel ] | b:Approve | &#x2
 
 <br>
 
-###### Odoo Guides - v1_01 &nbsp; 2019-07-28  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v1_02 &nbsp; 2019-07-29  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  

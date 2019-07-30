@@ -8,7 +8,7 @@ _a:Select Quotation_ | s:Delivery | t:Operations | b:Validate | d:UserError
 b:Edit | f:Done | w:Open:StockMovesNotInPackage | b:Close | b:CheckAvailability | b:Save  
 b:Validate | w:ImmediateTransfer? | b:Apply | &#x2716; d:UserError  
 
-#### [How to Activate Developer Mode (O13 - EE - Odoo Mates - n/v - 00:52 - Activar el Modo de Desarrollador)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=0&rel=0)  
+#### [How to Activate Developer Mode (O13 - EE - Odoo Mates - n/v - 00:52 - Activar el Modo de Desarrollador)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=0&rel=0&nocount)  
 
 - [Activate (Activar)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=18s&rel=0)  
 &#x25A6; | o:Settings | i:Activate the developer mode  

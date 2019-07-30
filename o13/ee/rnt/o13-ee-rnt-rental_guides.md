@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
 ### ![rnt](/doc/img/rental.png)
 
-#### [New Rental App (O13 - EE - Odoo Mates - n/v - 04:58 - Nueva App de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0)<br>
+#### [New Rental App (O13 - EE - Odoo Mates - n/v - 04:58 - Nueva App de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Install Rent app (Instalar app de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=24s&rel=0)  
 &#x25A6; | o:Apps | f:Search... rental | _(apps)_ &#x2716; | i:Rental | b:Install  

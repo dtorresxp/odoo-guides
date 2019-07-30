@@ -10,7 +10,7 @@
 
 #### Coupons & Promotions
 
-#### [Sales Coupon and Promotion Program (O13 - EE - Odoo Mates - n/v - 06:55 - Cupones y Promociones)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0)
+#### [Sales Coupon and Promotion Program (O13 - EE - Odoo Mates - n/v - 06:55 - Cupones y Promociones)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0&nocount)
 
 - [Settings (Configuración)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=31&rel=0)  
 &#x25A6; | o:Apps | f:Search... coupon | &#x2716; apps  
