@@ -45,7 +45,8 @@
 | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | ![warning](/doc/img/warning.png) | warning |
 | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | confirm |
-| ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
+| ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
+| ![view_timesheet](/doc/img/view_timesheet.png) | timesheet view | ![view_map](/doc/img/view_map.png) | map view |
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
 | **i:** Item | item on screen | **l:** Link | link |
@@ -55,4 +56,4 @@
 
 <br>  
   
-###### Odoo Guides - v5_01 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v5_02 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md)  
