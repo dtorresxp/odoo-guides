@@ -77,6 +77,10 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
     - Bellow is the full list of symbols used in all guides and their meanings
 
 <br>
+[***Sync***]: # (homepCodeBrief_spa)  
+[***Sync***]: # (o13-ce-guides_menu)  
+[***Sync***]: # (o13-ee-guides_menu)  
+
 
 | Symbol | Meaning | Significado |
 | :---: | :--- | :--- |
@@ -112,10 +116,10 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel | cancelar |
 | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | confirmar |
 | ![warning](/doc/img/warning.png) | warning | atención |
-| ![view_kanban](/doc/img/view_kanban.png) | kanban view |
-| ![view_list](/doc/img/view_list.png) | list view |
-| ![view_activity](/doc/img/view_activity.png) | activity view |
-| ![view_map](/doc/img/view_map.png) | map view |
+| ![view_kanban](/doc/img/view_kanban.png) | kanban view | vista kanban | 
+| ![view_list](/doc/img/view_list.png) | list view | vista de lista | 
+| ![view_activity](/doc/img/view_activity.png) | activity view | vista por actividades |
+| ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png) | map view & location | vista de mapa y ubicación |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
 | ![filter](/doc/img/filter.png) | filter | filtrar |
 | _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
@@ -166,5 +170,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 -Add _&nocount_ at end of every multi-procedural video link to substract it from total count
 
 <br><br>
-#### Odoo Guides - v4_07 &nbsp; 2019-07-29
+#### Odoo Guides - v5_03 &nbsp; 2019-07-30
  

@@ -37,6 +37,9 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
     - A continuación se muestra la lista completa de símbolos que se utilizan en las guías y su significado.
     
 <br>
+[***Sync***]: # (README)  
+[***Sync***]: # (o13-ce-guides_menu)  
+[***Sync***]: # (o13-ee-guides_menu)  
 
 | Symbol | Meaning | Significado |
 | :---: | :--- | :--- |
@@ -88,4 +91,4 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | **w:** Window | window | ventana |
 
 <br><br>
-###### Odoo Guides - v1_03 &nbsp; 2019-07-29  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
+###### Odoo Guides - v1_04 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)

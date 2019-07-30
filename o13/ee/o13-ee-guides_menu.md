@@ -26,6 +26,9 @@
 <br>
 
 ## _&#x03C8;Code_ Nomenclature
+[***Sync***]: # (README)  
+[***Sync***]: # (homepCodeBrief_spa)  
+[***Sync***]: # (o13-ce-guides_menu)  
 
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
@@ -46,7 +49,7 @@
 | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | confirm |
 | ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
-| ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| map view & location|
+| ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png) | map view & location|
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
 | **i:** Item | item on screen | **l:** Link | link |
@@ -56,4 +59,4 @@
 
 <br>  
   
-###### Odoo Guides - v5_03 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v5_04 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md)  
