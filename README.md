@@ -106,15 +106,13 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | &#x1F50D; | advanced search | búsqueda avanzada |
 | &#x1F4C5; | show calendar | mostrar calendario |
 | &#x2B50; | favorite searches | búsquedas favoritas |
-| ![presence_yes](/doc/img/presence_yes.png) / ![presence_no](/doc/img/presence_no.png) | presence / absence | asistencia / ausencia |
+| ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | asistencia \|\| ausencia |
+| ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | agregar \|\| eliminar |
+| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | activo \|\| inactivo |
 | ![warning](/doc/img/warning.png) | warning | atención |
-| ![add](/doc/img/button_add.png) | add | agregar |
-| ![sub](/doc/img/button_sub.png) | substract | eliminar |
 | ![trashcan](/doc/img/trashcan.png) | remove | cancelar |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
 | ![filter](/doc/img/filter.png) | filter | filtrar |
-| ![active](/doc/img/active.png) | active | activo |
-| ![inactive](/doc/img/inactive.png) | inactive | inactivo |
 | _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
 | **b:** Button | button | botón |
 | **d:** Dialog | warning or action dialog | diálogo de precaución |
