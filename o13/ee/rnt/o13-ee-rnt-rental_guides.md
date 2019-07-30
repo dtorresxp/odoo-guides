@@ -28,7 +28,7 @@ w:RentAProduct | f:DateFrom &#x1F4C5; | f:To &#x1F4C5; | f:Quantity | f:Duration
 \[ d:Some products don't have the requested qty available for pickup ] | b:Validate | _a:Now order shows (Picked-Up)_  
 
 - [Return Rent (Devolver Producto Rentado)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m1s&end=3m31s&rel=0)  
-\[ &#x23BD;/&#x23BD;/:Rental Orders || &#x25A6; | o:Rental ] | m:Orders | o:Return | f:Search... | &#x2716; _(ToDoToday)_  
+\[ &#x23BD;/&#x23BD;/:Rental Orders || &#x25A6; | o:Rental ] | m:Orders | o:Return | f:Search... | _(ToDoToday)_ &#x2716;  
 _a:Select Picked-Up Order_ | b:Return | b:Validate  
 
 - [Schedule of Rentals (Calendario de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m53s&end=4m6s&rel=0)  
@@ -36,8 +36,8 @@ _a:Select Picked-Up Order_ | b:Return | b:Validate
 
 - [Rentals Reporting (Reporte de Rentas)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4m6s&end=4m20s&rel=0)  
 \[ &#x23BD;/&#x23BD;/:Rental Orders || &#x25A6; | o:Rental ] | m:Reporting
-f:Search... | &#x2716; _(ConfirmationDate:Last365Days)_  
+f:Search... | _(ConfirmationDate:Last365Days)_ &#x2716;  
 
 <br>
 	
-###### Odoo Guides - v2_03 &nbsp; 2019-07-28  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v2_04 &nbsp; 2019-07-30  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  

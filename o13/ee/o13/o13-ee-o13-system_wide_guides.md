@@ -3,10 +3,10 @@
 ### ![o13](/doc/img/odoo13.png)
 
 #### [Better Error Handling (O13 - EE - Odoo Mates - n/v - 01:09 - Mejor manejo de errores)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
-&#x25A6; | o:Sales | m:Orders | o:Quotations | &#x2716; i:ConfigurationPanel | d:RemoveConfigurationTips? | \[ b:Remove || b:Discard ]  
+&#x25A6; | o:Sales | m:Orders | o:Quotations | i:ConfigurationPanel &#x2716; | d:RemoveConfigurationTips? | \[ b:Remove || b:Discard ]  
 _a:Select Quotation_ | s:Delivery | t:Operations | b:Validate | d:UserError  
 b:Edit | f:Done | w:Open:StockMovesNotInPackage | b:Close | b:CheckAvailability | b:Save  
-b:Validate | w:ImmediateTransfer? | b:Apply | &#x2716; d:UserError  
+b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;  
 
 #### [How to Activate Developer Mode (O13 - EE - Odoo Mates - n/v - 00:52 - Activar el Modo de Desarrollador)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=0&rel=0&nocount)  
 
@@ -51,4 +51,4 @@ b:Save
 
 <br>
 
-###### Odoo Guides - v3_01 &nbsp; 2019-07-28  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v3_02 &nbsp; 2019-07-30  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
