@@ -20,7 +20,7 @@
 
 - [Select Lunch (Pedir Comida)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=3m21s&end=2m23s&rel=0)  
   &#x25A6; | o:Lunch | m:MyLunch | o:NewOrder | \[ _a:Select Lunch_ | w:Lunch | f:Supplements | f:SpecialInstructions | b:AddToCart ]&#x207F;
-  i:YourOrder | \[ ![trashcan](/doc/img/trashcan.png) || ![sub](/doc/img/button_sub.png)  || ![add](/doc/img/button_add.png) || b:OrderNow ]
+  i:YourOrder | \[ ![trashcan](/doc/img/trashcan.png) cancel || ![sub](/doc/img/button_sub.png) remove || ![add](/doc/img/button_add.png) add || b:OrderNow ]
 
 <br>
 	
