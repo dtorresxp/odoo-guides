@@ -38,7 +38,7 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
     
 <br>
 
-| Símbolo | Significado en Inglés | Significado en Español |
+| Symbol | Meaning | Significado |
 | :---: | :--- | :--- |
 | step | step | paso |
 | \| | step separator | separador de pasos |
@@ -66,6 +66,14 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | &#x1F50D; | advanced search | búsqueda avanzada |
 | &#x1F4C5; | show calendar | mostrar calendario |
 | &#x2B50; | favorite searches | búsquedas favoritas |
+| ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | asistencia \|\| ausencia |
+| ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | agregar \|\| eliminar |
+| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | activo \|\| inactivo |
+| ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel | cancelar |
+| ![phone_receiver](/doc/img/phone_receiver.png) | confirm | confirmar |
+| ![warning](/doc/img/warning.png) | warning | atención |
+| ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
+| ![filter](/doc/img/filter.png) | filter | filtrar |
 | _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
 | **b:** Button | button | botón |
 | **d:** Dialog | warning or action dialog | diálogo de precaución |
@@ -80,4 +88,4 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | **w:** Window | window | ventana |
 
 <br><br>
-###### Odoo Guides - v1_02 &nbsp; 2019-07-27  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
+###### Odoo Guides - v1_03 &nbsp; 2019-07-29  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
