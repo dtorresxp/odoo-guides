@@ -26,8 +26,8 @@
   
 - [Receive Order (Recibir Orden)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=5m15s&end=5m27s&rel=0)  
   &#x25A6; | o:Lunch | m:MyLunch | o:MyOrders  
-  \[ _a:Select Order_ | \[ _a:Confirm Reception_ ![phone_receiver](/doc/img/phone_receiver.png)_ || _a:Cancel Order_ ![cancel](/doc/img/cancel.png) ]_
-  i:YourOrder | \[ ![trashcan](/doc/img/trashcan.png) cancel || ![sub](/doc/img/button_sub.png) remove || ![add](/doc/img/button_add.png) add || b:OrderNow ] | _a:Now show (Ordered)_   
+  \[ _a:Select Order_ | \[ _a:Confirm Reception_ ![phone_receiver](/doc/img/phone_receiver.png) || _a:Cancel Order_ ![cancel](/doc/img/cancel.png) ]  
+  i:YourOrder | \[ ![trashcan](/doc/img/trashcan.png) cancel || ![sub](/doc/img/button_sub.png) remove || ![add](/doc/img/button_add.png) add || b:OrderNow ] | _a:Now show (Ordered)_  
   
 
 <br>
