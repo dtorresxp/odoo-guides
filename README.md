@@ -109,8 +109,9 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | asistencia \|\| ausencia |
 | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | agregar \|\| eliminar |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | activo \|\| inactivo |
+| ![phone_receiver](/doc/img/phone_receiver.png) | confirm | confirmar |
+| ![trashcan](/doc/img/trashcan.png) | cancel | cancelar |
 | ![warning](/doc/img/warning.png) | warning | atención |
-| ![trashcan](/doc/img/trashcan.png) | remove | cancelar |
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
 | ![filter](/doc/img/filter.png) | filter | filtrar |
 | _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
@@ -161,5 +162,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 -Add _&nocount_ at end of every multi-procedural video link to substract it from total count
 
 <br><br>
-#### Odoo Guides - v4_06 &nbsp; 2019-07-29
+#### Odoo Guides - v4_07 &nbsp; 2019-07-29
  
