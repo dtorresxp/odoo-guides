@@ -14,7 +14,8 @@
   - m:Configuration | o:Locations | _a:Review Lunch Locations_  
   - m:Configuration | o:Products | _a:Review Lunch Products_  
   - m:Configuration | o:ProductCategories | _a:Review Lunch Product Categories_  
-  - m:Configuration | o:Alerts | _a:Review Lunch Alerts_ | \[ f:Active ![active](/doc/img/active.png) | f:Name | f:IsDisplayedToday &#x1F5F9;  
+  - m:Configuration | o:Alerts | _a:Review Lunch Alerts_
+    \[ f:Active ![active](/doc/img/active.png) | f:Name | f:IsDisplayedToday &#x1F5F9;  
     b:Create | w:LunchSpecial | f:Location | f:LocationShowUntil | f:Message | F:DayOfWeek \[ &#x1F5F9;	|| &#x2610; ] | b:Save
 
 - [Select Lunch (Pedir Comida)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=3m21s&end=2m23s&rel=0)  
