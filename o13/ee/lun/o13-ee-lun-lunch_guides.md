@@ -19,10 +19,16 @@
     \[ f:Active ![active](/doc/img/active.png) | f:Name | f:IsDisplayedToday &#x1F5F9;  
     b:Create | w:LunchSpecial | f:Location | f:LocationShowUntil | f:Message | F:DayOfWeek \[ &#x1F5F9;	|| &#x2610; ] | b:Save
 
-- [Select Lunch (Pedir Comida)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=3m21s&end=2m23s&rel=0)  
+- [Order Lunch (Ordenar Comida)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=3m21s&end=5m14s&rel=0)  
   &#x25A6; | o:Lunch | m:MyLunch | o:NewOrder  
   \[ _a:Select Lunch_ | w:Lunch | f:Supplements | f:SpecialInstructions | b:AddToCart ]&#x207F;  
-  i:YourOrder | \[ ![trashcan](/doc/img/trashcan.png) cancel || ![sub](/doc/img/button_sub.png) remove || ![add](/doc/img/button_add.png) add || b:OrderNow ]  
+  i:YourOrder | \[ ![trashcan](/doc/img/trashcan.png) cancel || ![sub](/doc/img/button_sub.png) remove || ![add](/doc/img/button_add.png) add || b:OrderNow ] | _a:Now show (Ordered)_   
+  
+- [Receive Order (Recibir Orden)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=5m15s&end=5m27s&rel=0)  
+  &#x25A6; | o:Lunch | m:MyLunch | o:MyOrders  
+  \[ _a:Select Order_ | \[ _a:Confirm Reception_ ![phone_receiver](/doc/img/phone_receiver.png)_ || _a:Cancel Order_ ![phone_receiver](/doc/img/phone_receiver.png)_
+  i:YourOrder | \[ ![trashcan](/doc/img/trashcan.png) cancel || ![sub](/doc/img/button_sub.png) remove || ![add](/doc/img/button_add.png) add || b:OrderNow ] | _a:Now show (Ordered)_   
+  
 
 <br>
 	
