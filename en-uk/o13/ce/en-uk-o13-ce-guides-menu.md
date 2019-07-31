@@ -9,8 +9,7 @@
 
 <br><br>
 ## _&#x03C8;Code_ Nomenclature
-[***Sync***]: # (README)  
-[***Sync***]: # (homepCodeBrief_spa)  
+[***Sync***]: # (en-uk-guides-menu)  
 [***Sync***]: # (en-uk-o13-ee-guides-menu)  
 
 | Symbol | Meaning | Symbol | Meaning |
