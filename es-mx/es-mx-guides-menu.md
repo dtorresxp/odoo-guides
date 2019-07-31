@@ -130,13 +130,13 @@ De cualquier modo, esta técnica es muy útil para ayudar a la gente que más o 
 
 <br>
 
-# Aportaciones de _&#x03C8;Code_
+# Aportadores de _&#x03C8;Code_
 
 | id | Nombre | Grupo | País | Guías |
 | :---: | :--- | :---: | :---: | :---: |
 | [@oldyguy](mailto:pcode@appti.mx) | $og | appti | MX | all |
 
-#### Notas para las Aportaciones:
+#### Notas para los Aportadores:
   - A veces una guía debe ir en varios menús.  Para asegurarnos de que se sincronizan todas cada vez que hay una actualización, se debe agregar el siguiente comentario inmediatamente después del renglón con la liga:
     _\[\*\*\*Sync\*\*\*\] # \(ll-cc-o[08..13]-[ce]e-[iddelmódulo]-[nombredelarchivo])_
   - Todas las referencias al _&#x03C8;Code_ como nombre de archivo, deben ser convertidas a _pCode_ debido a las limitaciones del código ASCII
