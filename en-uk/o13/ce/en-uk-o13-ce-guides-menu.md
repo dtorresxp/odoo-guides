@@ -5,7 +5,7 @@
 # ![o13](/doc/img/odoo13.png) &nbsp;CE
 | Icon | Description | Icon | Description |
 | :---: | --- | :---: | --- |
-| ![pyr](/doc/img/hr_payroll.jpg) | [Payroll](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-payroll_guides.md) | ![web](/doc/img/website.jpg) | [Websites builder](/en-uk/o13/ce/web/en-uk-o13-ce-web-websites_builder_guides.md) |
+| ![pyr](/doc/img/hr_payroll.jpg) | [Payroll](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-payroll-guides.md) | ![web](/doc/img/website.jpg) | [Websites builder](/en-uk/o13/ce/web/en-uk-o13-ce-web-websites-builder-guides.md) |
 
 <br><br>
 ## _&#x03C8;Code_ Nomenclature

@@ -1,7 +1,7 @@
 # Guías Odoo &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/en-uk-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/es-mx-guides-menu.md)
 Ligas a videos y guías en _&#x03C8;Code_ para Odoo.
 
-![Ligas a videos y guías en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo_guides_mini.jpg)
+![Ligas a videos y guías en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo-guides_mini.jpg)
 
 # Guías
 
@@ -115,7 +115,7 @@ Esta es una explicación básica sobre el _&#x03C8;Code_.  Su único propósito 
 <br>
 
 # El Enfoque _Qué-Dónde_
-![Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo](/doc/img/logo_odoo_guides_mini.jpg)
+![Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo](/doc/img/logo_odoo-guides_mini.jpg)
 
 Es parte de la teoría de _knowledgeware_.  En el contexto de las interfaces de usuario, se refiere a que la capacitación puede reducirse a explicar únicamente _qué_ hacer y _dónde_ hacerlo.  Esto implica que el usuario ya conoce _por qué_ debe hacerlo, por lo cual no necesita ser parte de la explicación.  Esto minimiza el tiempo, información y esfuerzo necesarios para adquirir nuevo conocimiento.
 

@@ -7,4 +7,4 @@
 
 <br>
 	
-###### Odoo Guides - v1_03 &nbsp; 2019-07-31  [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-calendar_guides-menu.md)  
+###### Odoo Guides - v1_03 &nbsp; 2019-07-31  [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-calendar-guides-menu.md)  

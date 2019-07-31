@@ -14,8 +14,8 @@
 ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | m:MySelf | o:MyAccount | i:Timesheets
 
 #### [Website Form Builder Moved to CE (O13 - EE - Odoo Mates - xx - xx - 01:19 - Form Builder movido a CE)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=0&rel=0)  
-[***Sync***]: # (es-mx-o13-ce-web-websites_builder_guides)  
-![apps](/doc/img/apps.png) | o:Apps | f:Search... form_builder | _(apps)_ &#x2716;  
+[***Sync***]: # (es-mx-o13-ce-web-websites-builder-guides)  
+![apps](/doc/img/apps.png) | o:Apps | f:Search... form-builder | _(apps)_ &#x2716;  
 i:Form Builder | b:MoreInfo | b:Install  
 ![apps](/doc/img/apps.png) | o:Website | b:GotoWebsite | b:Edit | _a:Slide down Menu_ | _a:Drag i:FormBuilder to form_ | _a:Build form accordingly_ | b:Save  
 
