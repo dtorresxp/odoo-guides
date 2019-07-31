@@ -1,5 +1,5 @@
 # O13 - CE - Menú de la Edición Empresarial &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
-#### [_&#x23CE; home_](/es-mx/es-mx-guides-menu.md)    
+#### [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)    
   
 <br>
 
@@ -61,4 +61,4 @@
 
 <br>  
   
-###### Guías Odoo - v6_01 &nbsp; 2019-07-31  [_&#x23CE; home_](/es-mx/es-mx-guides-menu.md)  
+###### Guías Odoo - v6_01 &nbsp; 2019-07-31  [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
