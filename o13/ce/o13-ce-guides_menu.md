@@ -19,7 +19,7 @@
 | \| | step sepparator | \[ x \| y ] | grouped steps |
 | _(tag)_ | tag | &nbsp;\[ x \| y \]&#x207F; | n-times repeatable steps |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | \[ x \|\| y ] | option steps |
-| !apps(/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon |
+| ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon |
 | &#x2807; | list menu icon | &#x2716; | remove tag / close |
 | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
 | &#x25C9; | set option | &#x2B58; | clear option |
