@@ -142,7 +142,7 @@ De cualquier modo, esta técnica es muy útil para ayudar a la gente que más o 
   - Todas las referencias al _&#x03C8;Code_ como nombre de archivo, deben ser convertidas a _pCode_ debido a las limitaciones del código ASCII
   - Se debe agregar _&nocount_ al final de la liga a un video con múltiples procedimientos, para eliminarlo de la cuenta total de guías
   - Para agregar una nueva traducción, se debe usar el nombre de 5-caracteres formado por _ii-cc_, tomándolos de las siguientes listas oficiales:
-    - __ii__: Código de idioma: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+    - __ii__: &nbsp;&nbsp;Código de idioma: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
     - __pp__: Código de país: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
     - Los iconos de las banderas deben ser de (250x150) pixeles en estilo _fly breeze_, tomándolos de [_aquí_](https://amazon.com)
 
