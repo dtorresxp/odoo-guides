@@ -36,7 +36,7 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
     - Los otros tipos de elemento usados en pantalla son: _**b:** Button (Botón), **d:** Dialog (Cuadro de Diálogo), **f:** Field (Campo), **l:** Link (Hipervínculo), **m:** Menu (Menú), **o:** Option (Opción), **s:** SmartButton (Botón Inteligente), **t:** Tab (Pestaña), **v:** View (Vista) y **w:** Window (Ventana)_.
     - A continuación se muestra la lista completa de símbolos que se utilizan en las guías y su significado.
     
-<br>
+####
 [***Sync***]: # (README)  
 [***Sync***]: # (o13-ce-guides_menu)  
 [***Sync***]: # (o13-ee-guides_menu)  
@@ -95,4 +95,4 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | **w:** Window | window | ventana |
 
 <br><br>
-###### Odoo Guides - v2_04 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
+###### Odoo Guides - v2_05 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
