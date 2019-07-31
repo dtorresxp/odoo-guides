@@ -50,7 +50,7 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
 | _(tag)_ | tag | etiqueta |
-| &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
+| &#x1F870; &#x1F872; | back \|\| advance | retroceder \|\| avanzar |
 | &#x25A6; | apps icon on _navbar_ (top of screen) | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
 | &#x2807; | list menu icon | icono de menú de la lista |
@@ -95,4 +95,4 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | **w:** Window | window | ventana |
 
 <br><br>
-###### Odoo Guides - v1_04 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
+###### Odoo Guides - v2_03 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)

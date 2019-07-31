@@ -36,7 +36,7 @@
 | step | step | _(tag)_ | tag |
 | \| | step sepparator | \[ x \|\| y \] | option steps |
 | \[ \]&#x207F; | n-times repetable steps | &#x2026; row &#x2026; | logical group of steps |
-| &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F872; proc | go to proc/page |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F870; \|\| &#x1F872; proc | back \|\| advance |
 | &#x25A6; | apps icon on _navbar_ | &#x2630; | app menu icon |
 | &#x2807; | list menu icon | &#x2716; | remove tag from list |
 | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
@@ -60,4 +60,4 @@
 
 <br>  
   
-###### Odoo Guides - v5_05 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v5_06 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md)  

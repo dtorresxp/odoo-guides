@@ -91,7 +91,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
 | _(tag)_ | tag | etiqueta |
-| &#x1F872; proc | go to proc/page | ir a un procedimiento/página |
+| &#x1F870; &#x1F872; | back \|\| advance | retroceder \|\| avanzar |
 | &#x25A6; | apps icon on _navbar_ (top of screen) | icono de apps en \<barranav\> |
 | &#x2630; | app menu icon | icono de menú de la aplicación |
 | &#x2807; | list menu icon | icono de menú de la lista |
@@ -170,5 +170,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 -Add _&nocount_ at end of every multi-procedural video link to substract it from total count
 
 <br><br>
-#### Odoo Guides - v5_03 &nbsp; 2019-07-30
+#### Odoo Guides - v5_04 &nbsp; 2019-07-30
  
