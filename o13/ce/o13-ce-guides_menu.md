@@ -1,6 +1,3 @@
-[![o13](/doc/img/odoo13.png)](/README.md)
-
-
 ## O13 - CE - Community Ed. Menu (Odoo v13 Ed. Comunidad)
 #### [_&#x23CE; home_](/README.md)  
 
