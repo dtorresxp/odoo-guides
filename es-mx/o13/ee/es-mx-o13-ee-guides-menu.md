@@ -1,5 +1,4 @@
 # O13 - CE - Menú de la Edición Empresarial &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/en-uk-o13-ee-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/es-mx-o13-ee-guides-menu.md)
-## O13 - EE - Enterprise Ed. Menu (Odoo v13 Ed. Empresarial)
 #### [_&#x23CE; home_](/es-mx/es-mx-guides-menu.md)    
   
 <br>
