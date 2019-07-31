@@ -38,7 +38,7 @@ _a:Verify discount appearing as a new negative detail row_
 &#x25A6; | o:Sales | m:Products | o:Promotion Programs | \[ b:Create || b:Edit \]  
 i:Conditions | _a:Generate Program with f:BasedOnProducts data_  
 f:FieldName &#x25BC; | f:Operator &#x25BC; | f:RuleText | _a:Verify it's something like i:name contains xxx_  
-\[ _a:Use **&#x2A01;** to add more conditions_ | _a:Add rule as above_ ]&#x207F; \] | _a:Set Validity & Rewards_ | b:Save  
+\[ _a:Use ![add](/doc/img/button_add.png) to add more conditions_ | _a:Add rule as above_ ]&#x207F; \] | _a:Set Validity & Rewards_ | b:Save  
 &#x25A6; | o:Sales | m:Orders | o:Quotations | b:Create | _a:Enter quotation_ | b:Save  
 b:Update Promotions | _a:Verify order_ | b:Confirm   
 
