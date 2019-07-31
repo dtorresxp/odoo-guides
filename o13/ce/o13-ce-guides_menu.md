@@ -24,6 +24,7 @@
 | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
 | &#x25C9; | set option | &#x2B58; | clear option |
 | &#x25BC; | open comobobox | **&#x2B73;** | download |
+| &#x21C4; | pivot: flip axis | &#x2725; | pivot: expand all |
 | &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) | warning |
 | &#x1F6E0; | open studio | &#x1F557; | activities |
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
@@ -42,4 +43,4 @@
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v5_05 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v5_06 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md)  

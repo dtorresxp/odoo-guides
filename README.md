@@ -103,6 +103,8 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | &#x2716; | remove tag from list | quitar etiqueta |
 | &#x25BC; | open comobobox to select option | abrir combo y seleccionar opción |
 | **&#x2B73;** | download | descargar |
+| &#x21C4; | pivot: flip axis | tabla dinámica: intercambiar ejes |
+| &#x2725; | pivot: expand all | tabla dinámica: expandir todo | 
 | &#x1F41E; | open developer tools | opciones del desarrollador |
 | &#x1F6E0; | open studio | abrir studio |
 | &#x1F557; | activities (navbar) | actividades (navbar) |
@@ -170,5 +172,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 -Add _&nocount_ at end of every multi-procedural video link to substract it from total count
 
 <br><br>
-#### Odoo Guides - v5_05 &nbsp; 2019-07-30
+#### Odoo Guides - v5_06 &nbsp; 2019-07-30
  

@@ -62,6 +62,8 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | &#x2716; | remove tag from list | quitar etiqueta |
 | &#x25BC; | open comobobox to select option | abrir combo y seleccionar opción |
 | **&#x2B73;** | download | descargar |
+| &#x21C4; | pivot: flip axis | tabla dinámica: intercambiar ejes |
+| &#x2725; | pivot: expand all | tabla dinámica: expandir todo | 
 | &#x1F41E; | open developer tools | opciones del desarrollador |
 | &#x1F6E0; | open studio | abrir studio |
 | &#x1F557; | activities (navbar) | actividades (navbar) |
@@ -95,4 +97,4 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | **w:** Window | window | ventana |
 
 <br><br>
-###### Odoo Guides - v2_04 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
+###### Odoo Guides - v2_05 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md#%CF%88code-brief--texto-en-espa%C3%B1ol)
