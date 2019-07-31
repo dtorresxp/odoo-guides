@@ -15,20 +15,20 @@
 
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
-| step | step | _(tag)_ | tag |
+| step | step | \[ x \| y \] | grouped steps |
 | \| | step sepparator | \[ x \|\| y \] | option steps |
-| \[ \]&#x207F; | n-times repetable steps | &#x2026; row &#x2026; | logical group of steps |
-| &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F870; \|\| &#x1F872; | back \|\| advance |
+| _(tag)_ | tag | \[ \]&#x207F; | n-times repetable steps |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | &#x2026; row &#x2026; | logical bound steps |
 | &#x25A6; | apps icon on _navbar_ | &#x2630; | app menu icon |
 | &#x2807; | list menu icon | &#x2716; | remove tag from list |
 | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
 | &#x25C9; | set option | &#x2B58; | clear option |
 | &#x25BC; | open comobobox | **&#x2B73;** | download |
-| &#x1F41E; | developer tools | **&#x2A01;** | add items |
+| &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) | warning |
 | &#x1F6E0; | open studio | &#x1F557; | activities |
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
 | &#x1F4C5; | calendar | &#x2B50; | favorites |
-| ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | ![warning](/doc/img/warning.png) | warning |
+| ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | &#x1F870; \|\| &#x1F872; | back \|\| advance |
 | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | confirm |
 | ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
