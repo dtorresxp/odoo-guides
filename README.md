@@ -76,11 +76,10 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
     - Other type of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window_
     - Bellow is the full list of symbols used in all guides and their meanings
 
-<br>
+### <br>
 [***Sync***]: # (homepCodeBrief_spa)  
 [***Sync***]: # (o13-ce-guides_menu)  
 [***Sync***]: # (o13-ee-guides_menu)  
-
 
 | Symbol | Meaning | Significado |
 | :---: | :--- | :--- |
@@ -170,5 +169,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 -Add _&nocount_ at end of every multi-procedural video link to substract it from total count
 
 <br><br>
-#### Odoo Guides - v5_05 &nbsp; 2019-07-30
+#### Odoo Guides - v5_06 &nbsp; 2019-07-30
  
