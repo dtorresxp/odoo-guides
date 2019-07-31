@@ -86,9 +86,10 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | :---: | :--- | :--- |
 | step | step | paso |
 | \| | step separator | separador de pasos |
-| \[ x \|\| y \] | option steps | pasos optativos |
-| \[ \]&#x207F; | n-times repeatable steps | pasos repetibles n-veces |
-| &#x2026; row &#x2026; | logical group of steps | agrupación lógica de pasos |
+| &#x2026; row &#x2026; | logical bound steps | agrupación lógica de pasos |
+| \[ x \| y ] | grouped steps | grupo de pasos |
+| \[ x \| y ]&#x207F; | n-times repeatable steps | pasos repetibles n-veces |
+| \[ x \|\| y ] | option steps | pasos optativos |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
 | _(tag)_ | tag | etiqueta |
 | &#x1F870; &#x1F872; | back \|\| advance | retroceder \|\| avanzar |
@@ -102,7 +103,6 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 | &#x2716; | remove tag from list | quitar etiqueta |
 | &#x25BC; | open comobobox to select option | abrir combo y seleccionar opción |
 | **&#x2B73;** | download | descargar |
-| **&#x2A01;** | add items | agregar elementos 
 | &#x1F41E; | open developer tools | opciones del desarrollador |
 | &#x1F6E0; | open studio | abrir studio |
 | &#x1F557; | activities (navbar) | actividades (navbar) |
@@ -170,5 +170,5 @@ _\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
 -Add _&nocount_ at end of every multi-procedural video link to substract it from total count
 
 <br><br>
-#### Odoo Guides - v5_04 &nbsp; 2019-07-30
+#### Odoo Guides - v5_05 &nbsp; 2019-07-30
  

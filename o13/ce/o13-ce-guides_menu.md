@@ -20,7 +20,7 @@
 | _(tag)_ | tag | &nbsp;\[ x \| y \]&#x207F; | n-times repetable steps |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | \[ x \|\| y ] | option steps |
 | &#x25A6; | apps icon on _navbar_ | &#x2630; | app menu icon |
-| &#x2807; | list menu icon | &#x2716; | remove tag from list |
+| &#x2807; | list menu icon | &#x2716; | remove tag / close |
 | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
 | &#x25C9; | set option | &#x2B58; | clear option |
 | &#x25BC; | open comobobox | **&#x2B73;** | download |
@@ -42,4 +42,4 @@
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v5_04 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md)  
+###### Odoo Guides - v5_05 &nbsp; 2019-07-30  [_&#x23CE; home_](/README.md)  
