@@ -170,7 +170,7 @@ In order to help our Spanish and Latin-American communities, we included several
   - Any reference to _&#x03C8;Code_ as a filename, must be converted to _pCode_ because of ASCII code limitations
   - Add _&nocount_ at end of every multi-procedural video link to substract it from total count
   - To include any new locale-language translation, use this 5-character format _ll-cc_ from:
-    - Country  code: [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+    - Country code: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
     - Language code: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
 
