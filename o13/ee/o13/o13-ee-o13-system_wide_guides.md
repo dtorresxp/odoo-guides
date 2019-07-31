@@ -38,9 +38,9 @@ i:Localization | &#x25BC; f:Language | _a:Select language_ | b:Save
 #### [New Search Panel in Kanban View (O13 - EE - Odoo Mates - n/v - 01:21 - Nuevo panel de búsqueda en vista Kanban)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings | i:Activate the developer mode | ![apps](/doc/img/apps.png) | _a:Open app with kanban_ | &#x1F41E; | o:EditView:Kanban  
 t:Architecture | _a:Scroll to bottom, before_ \</kanban\> | _a:Add_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<searchpanel\>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\<searchpanel\>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[ <field name="xxx" \[ groups="xxx.xxx" || select="multi" || \<nil\> \] icon="fa-xxx"/> \]&#x207F;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\</searchpanel\>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\</searchpanel\>**  
 b:Save  
 
 #### [Open Record Rules and Access Rights Easily (O13 - EE - Odoo Mates - n/v - 01:12 - Ver Reglas y Derechos fácilmente)](https://youtube.com/embed/FLKaAKfhq_Y?autoplay=1&start=0&end=0&rel=0)  
