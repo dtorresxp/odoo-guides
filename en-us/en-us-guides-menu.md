@@ -11,7 +11,7 @@ Odoo useful video links and _&#x03C8;Code_ guides.
 
 <br>
 
-# _&#x03C8;Code_ Project objectives &nbsp; [_(Texto en Español)_](/doc/spa/homeObjectives_spa.md)
+# _&#x03C8;Code_ Project objectives
 
 Welcome to the _&#x03C8;Code_ project, intended to assist you on Odoo's support, daily use, training & certification.
 
@@ -31,7 +31,7 @@ We'll receive, acknowledge, verify and be very grateful for any Odoo guide you s
 
 <br>
 
-# Structure &nbsp; [_(Texto en Español)_](/doc/spa/homeStructure_spa.md)
+# Structure &nbsp;
 
 To use it easily, all our files are linked and menu based.  You don't need to dig into project folders to find all the information.  Odoo has several active versions working nowadays. Also Odoo comes in two flavours: _CE_ (Community Edition) and _EE_ (Enterprise Edition).  So, our project menus are organized both by version and edition.  
 
@@ -44,7 +44,7 @@ If you can't find help in any _menu_, or you find any errors in our _&#x03C8;Cod
 
 <br>
 
-# _&#x03C8;Code_ Brief &nbsp; [_(Texto en Español)_](/doc/spa/homepCodeBrief_spa.md)
+# _&#x03C8;Code_ Brief
 
 This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
 - Guides  
@@ -138,7 +138,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 
 <br>
 
-# The _What-Where_ Approach &nbsp; [_(Texto en Español)_](/doc/spa/homeWhatWhereApproach_spa.md)
+# The _What-Where_ Approach
 It's part of the _knowledgeware_ theory.  In the context of user interfaces, it means training can be reduced to explain only _what_ to do and _where_ to do it.  This assumes the user already knows _why_ to do it;  therefore, it doesn't need to be part of the explanation. This will minimize the time, info and effort used to acquire new knowledge.  
 
 In this _hyper-gamificated_ era, many interfaces are designed like video games, where everyone has to _discover_ by himself where and how to use the screen items to do their work, as _minimalistic_ style demands the use of the so called _clean_ interfaces.  
@@ -148,13 +148,6 @@ These were very common and even understandable in the mobile industry.  But rece
 It is very costly to train users to work with a new system whose interface is like a video game, where you've to _discover_ things.  The system's use percentage (and worst yet, the _appropriate_ use) in these days is very low, because interfaces tend to be confusing and they change a lot between platforms, brands and even versions.  It is known that many Windows-8 native users that made fun of older co-workers (mainly pre-Windows-7 ones), ended up complaining likewise after being _upgraded_ to Windows-10.  
 
 Anyway, this technique is very useful to help people who already knows **_what_** to do.  It provides them with the minimum and essential instructions about **_where_** to do it in the system's screen and in the right _order_.
-
-<br>
-
-# Spanish Text [_(Texto en Español)_](/doc/spa/homeSpanishText_spa.md)
-
-In order to help our Spanish and Latin-American communities, we included several spanish translations in our guides.  Feel free to fork this repo and change Spanish to your own language as needed. 
-
 
 <br>
 
@@ -175,5 +168,5 @@ In order to help our Spanish and Latin-American communities, we included several
 
 
 <br><br>
-#### Odoo Guides - v5_07 &nbsp; 2019-07-31
+#### Odoo Guides - v6_01 &nbsp; 2019-07-31
  
