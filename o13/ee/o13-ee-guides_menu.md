@@ -35,7 +35,7 @@
 | :---: | :--- | :---: | :--- |
 | step | step | &#x2026; row &#x2026; | logical bound steps |
 | \| | step sepparator | \[ x \| y ] | grouped steps |
-| _(tag)_ | tag | &nbsp;\[ x \| y \]&#x207F; | n-times repetable steps |
+| _(tag)_ | tag | &nbsp;\[ x \| y \]&#x207F; | n-times repeatable steps |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | \[ x \|\| y ] | option steps |
 | &#x25A6; | apps icon on _navbar_ | &#x2630; | app menu icon |
 | &#x2807; | list menu icon | &#x2716; | remove tag / close |
