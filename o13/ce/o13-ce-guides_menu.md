@@ -13,7 +13,7 @@
 [***Sync***]: # (homepCodeBrief_spa)  
 [***Sync***]: # (o13-ee-guides_menu)  
 
-| Symbol | Meaning | Symbol | Meaning | 
+| Symbol | Meaning | Symbol | Meaning |
 | :---: | :--- | :---: | :--- |
 | step | step | &#x2026; row &#x2026; | logical bound steps |
 | \| | step sepparator | \[ x \| y ] | grouped steps |
@@ -38,7 +38,7 @@
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
 | **i:** Item | item on screen | **l:** Link | link |
-| **m:** Menu | menu | **o:** Option | option | 
+| **m:** Menu | menu | **o:** Option | option |
 | **s:** SmartButton | smart-button | **t:** Tab | tab | v:View |
 | **v:** view | vista | **w:** Window | window |
 
