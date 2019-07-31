@@ -1,11 +1,11 @@
-## O13 - CE - Community Ed. Menu (Odoo v13 Ed. Comunidad)
+# O13 - CE - Community Ed. Menu &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/en-uk-o13-ce-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/es-mx-o13-ce-guides-menu.md)
 #### [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  
 
 <br><br>
 # ![o13](/doc/img/odoo13.png) &nbsp;CE
 | Icon | Description | Icon | Description |
 | :---: | --- | :---: | --- |
-| ![pyr](/doc/img/hr_payroll.jpg) | [Payroll (Nómina)](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-payroll_guides.md) | ![web](/doc/img/website.jpg) | [Websites builder (Sitios Web)](/en-uk/o13/ce/web/en-uk-o13-ce-web-websites_builder_guides.md) |
+| ![pyr](/doc/img/hr_payroll.jpg) | [Payroll](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-payroll_guides.md) | ![web](/doc/img/website.jpg) | [Websites builder](/en-uk/o13/ce/web/en-uk-o13-ce-web-websites_builder_guides.md) |
 
 <br><br>
 ## _&#x03C8;Code_ Nomenclature
