@@ -1,14 +1,15 @@
+# O13 - CE - Menú de la Edición de la Comunidad &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/en-uk-o13-ce-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/es-mx-o13-ce-guides-menu.md)
 ## O13 - CE - Community Ed. Menu (Odoo v13 Ed. Comunidad)
 #### [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
 
 <br><br>
 # ![o13](/doc/img/odoo13.png) &nbsp;CE
-| Icon | Description | Icon | Description |
+| Icono | Descripción | Icon | Descripción |
 | :---: | --- | :---: | --- |
 | ![pyr](/doc/img/hr_payroll.jpg) | [Nómina](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll_guides.md) | ![web](/doc/img/website.jpg) | [Sitios Web](/es-mx/o13/ce/web/es-mx-o13-ce-web-websites_builder_guides.md) |
 
 <br><br>
-## _&#x03C8;Code_ Nomenclature
+## Nomenclatura del _&#x03C8;Code_
 [***Sync***]: # (es-mx-guides_menu)
 [***Sync***]: # (es-mx-o13-ee-guides_menu)  
 
