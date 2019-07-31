@@ -6,8 +6,8 @@ Ligas a videos y guías en _&#x03C8;Code_ para Odoo.
 # Guías
 
 # ![o13](/doc/img/odoo13.png)
-- [Edición de la Comunidad](/es-mx/o13/ce/es-mx-o13-ce-guides_menu.md)
-- [Edición Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)
+- [Edición de la Comunidad](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)
+- [Edición Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
 
 <br>
 
@@ -80,8 +80,8 @@ Esta es una explicación básica sobre el _&#x03C8;Code_.  Su único propósito 
     - A continuación se muestra la lista completa de símbolos que se utilizan en las guías y su significado.
 
 ####
-[***Sync***]: # (es-mx-o13-ce-guides_menu)  
-[***Sync***]: # (es-mx-o13-ee-guides_menu)  
+[***Sync***]: # (es-mx-o13-ce-guides-menu)  
+[***Sync***]: # (es-mx-o13-ee-guides-menu)  
 
 | Icono | Significado | Icono | Significado | 
 | :---: | :--- | :---: | :--- |

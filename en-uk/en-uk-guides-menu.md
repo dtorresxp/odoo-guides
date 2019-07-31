@@ -38,9 +38,9 @@ To use it easily, all our files are linked and menu based.  You don't need to di
 This README file is the project's home and it includes our mission statement, technical explanations and our contact info.  
 
 Folders are arranged as / _language-country_ /_version_ / _edition_ / _module_ / _guide_.  
-As our project continues growing, _menu_ could be added before _guide_, but all files belonging to the module will be in the module's folder.  
+As our project continues growing, -menu_ could be added before _guide_, but all files belonging to the module will be in the module's folder.  
 
-If you can't find help in any _menu_, or you find any errors in our _&#x03C8;Code_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
+If you can't find help in any -menu_, or you find any errors in our _&#x03C8;Code_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
 
 <br>
 
@@ -77,8 +77,8 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 
 ####
 [***Sync***]: # (homepCodeBrief_spa)  
-[***Sync***]: # (en-uk-o13-ce-guides_menu)  
-[***Sync***]: # (en-uk-o13-ee-guides_menu)  
+[***Sync***]: # (en-uk-o13-ce-guides-menu)  
+[***Sync***]: # (en-uk-o13-ee-guides-menu)  
 
 | Symbol | Meaning | Significado |
 | :---: | :--- | :--- |

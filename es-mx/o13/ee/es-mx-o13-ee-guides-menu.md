@@ -27,8 +27,8 @@
 <br>
 
 ## Nomenclatura del _&#x03C8;Code_
-[***Sync***]: # (es-mx-guides_menu)  
-[***Sync***]: # (es-mx-o13-ce-guides_menu)  
+[***Sync***]: # (es-mx-guides-menu)  
+[***Sync***]: # (es-mx-o13-ce-guides-menu)  
 
 | Icono | Significado | Icono | Significado | 
 | :---: | :--- | :---: | :--- |

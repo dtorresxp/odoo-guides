@@ -29,7 +29,7 @@
 ## _&#x03C8;Code_ Nomenclature
 [***Sync***]: # (README)  
 [***Sync***]: # (homepCodeBrief_spa)  
-[***Sync***]: # (en-uk-o13-ce-guides_menu)  
+[***Sync***]: # (en-uk-o13-ce-guides-menu)  
 
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
