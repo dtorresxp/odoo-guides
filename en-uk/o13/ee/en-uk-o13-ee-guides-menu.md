@@ -1,4 +1,4 @@
-## O13 - EE - Enterprise Ed. Menu (Odoo v13 Ed. Empresarial)
+#  O13 - EE - Enterprise Ed. Menu &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
 #### [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)    
   
 <br>

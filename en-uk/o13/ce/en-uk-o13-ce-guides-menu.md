@@ -1,4 +1,4 @@
-# O13 - CE - Community Ed. Menu &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/en-uk-o13-ce-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/es-mx-o13-ce-guides-menu.md)
+# O13 - CE - Community Ed. Menu &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)
 #### [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  
 
 <br><br>
