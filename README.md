@@ -5,7 +5,7 @@ Odoo useful video links and _&#x03C8;Code_ guides.
 
 <br>
 
-Please select desired language:
+Please select your desired language:
 
 | English | Expañol MX |
 | :---: | :---: |
