@@ -10,4 +10,4 @@ _a:Use b:ViewInGoogleMaps to see it outside Odoo_
 
 <br>
 	
-###### Odoo Guides - v1_03 &nbsp; 2019-07-30  [_&#x23CE; menu_](/o13/ee/o13-ee-calendar_guides_menu.md)  
+###### Odoo Guides - v1_04 &nbsp; 2019-07-31  [_&#x23CE; menu_](/o13/ee/o13-ee-calendar_guides_menu.md)  

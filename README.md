@@ -165,11 +165,15 @@ In order to help our Spanish and Latin-American communities, we included several
 | [@oldyguy](mailto:pcode@appti.mx) | $og | appti | MX | all |
 
 #### Notes to Contributors:
-- Sometimes, one guide needs to be in several places.  To assure manual synchronization, add this comment just below link row:
-_\[\*\*\*Sync\*\*\*\] # (o[08..13]-[ce]e-[moduleid]-[filename])_
-- Any reference to _&#x03C8;Code_ as a filename, must be converted to _pCode_ because of ASCII code limitations
--Add _&nocount_ at end of every multi-procedural video link to substract it from total count
+  - Sometimes, one guide needs to be in several places.  To assure manual synchronization, add this comment just below link row:
+    _\[\*\*\*Sync\*\*\*\] # \(ll-cc-o[08..13]-[ce]e-[moduleid]-[filename])_
+  - Any reference to _&#x03C8;Code_ as a filename, must be converted to _pCode_ because of ASCII code limitations
+  - Add _&nocount_ at end of every multi-procedural video link to substract it from total count
+  - To include any new locale-language translation, use this 5-character format _ll-cc_ from:
+    - Country  code: [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+    - Language code: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+
 
 <br><br>
-#### Odoo Guides - v5_06 &nbsp; 2019-07-30
+#### Odoo Guides - v5_07 &nbsp; 2019-07-31
  

@@ -49,4 +49,4 @@ f:FieldName &#x25BC; | f:Operator &#x25BC; | f:RuleText | _a:Verify it's somethi
 
 <br>
 
-###### Odoo Guides - v3_02 &nbsp; 2019-07-30  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v3_03 &nbsp; 2019-07-31  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  

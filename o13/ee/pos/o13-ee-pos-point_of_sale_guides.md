@@ -11,4 +11,4 @@
 
 <br>
 
-###### Odoo Guides - v3_01 &nbsp; 2019-07-28  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
+###### Odoo Guides - v3_02 &nbsp; 2019-07-31  [_&#x23CE; menu_](/o13/ee/o13-ee-guides_menu.md)  
