@@ -6,8 +6,8 @@ Ligas a videos y guías en _&#x03C8;Code_ para Odoo.
 # Guides
 
 # ![o13](/doc/img/odoo13.png)
-- [Edición de la Comunidad](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)
-- [Edición Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
+- [Edición de la Comunidad](/es-mx/o13/ce/es-mx-o13-ce-guides_menu.md)
+- [Edición Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)
 
 <br>
 
@@ -76,7 +76,7 @@ Esta es una explicación básica sobre el _&#x03C8;Code_.  Su único propósito 
 	- Algunos pasos son precedidos por una letra y dos puntos, lo cual indica el tipo de elemento (objeto) que deberás buscar en pantalla para realizar la tarea
     - _**_a:_**_ &nbsp;significa _ACTION_ _(ACCIÓN)_ y es el único elemento que no se refiere a un solo paso.  Corresponde a una tarea compleja de varios pasos que se indican como si fuera uno solo, para facilitar la lectura de la guía, usualmente porque ya fueron explicados previamente o porque se explican en otra guía
 	- **_i:_** &nbsp;&nbsp;significa _ITEM_ _(ELEMENTO)_ y representa a cualquier objeto que no esté en esta lista
-    - Los otros tipos de elemento usados en pantalla son: _**b:** Button (Botón), **d:** Dialog (Cuadro de Diálogo), **f:** Field (Campo), **l:** Link (Hipervínculo), **m:** Menu (Menú), **o:** Option (Opción), **s:** SmartButton (Botón Inteligente), **t:** Tab (Pestaña), **v:** View (Vista) y **w:** Window (Ventana)_.
+    - Los otros tipos de elemento usados en pantalla son: _**b:** Botón (Button), **d:** Cuadro de Diálogo (Dialog), **f:** Campo (Field), **l:** Hipervínculo (Link), **m:** Menú (Menu), **o:** Opción (Option), **s:** Botón Inteligente (SmartButton), **t:** Pestaña (Tab), **v:** Vista (View) y **w:** Ventana (Window)_.
     - A continuación se muestra la lista completa de símbolos que se utilizan en las guías y su significado.
 
 ####
