@@ -15,10 +15,10 @@
 
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
-| step | step | \[ x \| y \] | grouped steps |
-| \| | step sepparator | \[ x \|\| y \] | option steps |
-| _(tag)_ | tag | \[ \]&#x207F; | n-times repetable steps |
-| &#x23BD;/&#x23BD;/ | breadcrumbs | &#x2026; row &#x2026; | logical bound steps |
+| step | step | &#x2026; row &#x2026; | logical bound steps |
+| \| | step sepparator | \[ x \| y ] | grouped steps |
+| _(tag)_ | tag | \[ x \| y \]&#x207F; | n-times repetable steps |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | \[ x \|\| y ] | option steps |
 | &#x25A6; | apps icon on _navbar_ | &#x2630; | app menu icon |
 | &#x2807; | list menu icon | &#x2716; | remove tag from list |
 | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
