@@ -76,11 +76,10 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
     - Other type of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window_
     - Bellow is the full list of symbols used in all guides and their meanings
 
-<br>
+####
 [***Sync***]: # (homepCodeBrief_spa)  
 [***Sync***]: # (o13-ce-guides_menu)  
 [***Sync***]: # (o13-ee-guides_menu)  
-
 
 | Symbol | Meaning | Significado |
 | :---: | :--- | :--- |
