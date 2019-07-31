@@ -1,7 +1,7 @@
 # Guías Odoo
 Ligas a videos y guías en _&#x03C8;Code_ para Odoo.
 
-![Ligas a videos y guías en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo_guides_mini.jpg) &nbsp;&nbsp;&nbsp; ![en-uk](/doc/img/flag_en-uk_small.jpg)](/en-uk/en-uk-guides-menu.md) &nbsp; ![es-mx](/doc/img/flag_es-mx_small.jpg)](/es-mx/es-mx-guides-menu.md)
+![Ligas a videos y guías en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo_guides_mini.jpg) &nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flag_en-uk_small.jpg)](/en-uk/en-uk-guides-menu.md) &nbsp; [ ![es-mx](/doc/img/flag_es-mx_small.jpg)](/es-mx/es-mx-guides-menu.md)
 
 # Guides
 
