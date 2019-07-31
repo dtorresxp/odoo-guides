@@ -1,4 +1,4 @@
-# Guías Odoo
+# Gu¨ªas Odoo
 Ligas a videos y guÃ­as en _&#x03C8;Code_ para Odoo.
 
 ![Ligas a videos y guÃ­as en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo_guides_mini.jpg)
@@ -6,29 +6,29 @@ Ligas a videos y guÃ­as en _&#x03C8;Code_ para Odoo.
 # Guides
 
 # ![o13](/doc/img/odoo13.png)
-- [EdiciÃ³n de la Comunidad](/es-mx/o13/ce/es-mx-o13-ce-guides_menu.md)
-- [EdiciÃ³n Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)
+- [Edici¨®n de la Comunidad](/es-mx/o13/ce/es-mx-o13-ce-guides_menu.md)
+- [Edici¨®n Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)
 
 <br>
 
 # Objetivos del Proyecto _&#x03C8;Code_ Project objectives
 
-Â¡Bienvenid@s al proyecto _&#x03C8;Code_!<br>
+?Bienvenid@s al proyecto _&#x03C8;Code_!<br>
 
-Nuestra intenciÃ³nes apoyar el soporte, uso, capacitaciÃ³n y certificaciÃ³n en Odoo.<br><br>
-Creamos un pseudo lenguaje simple llamado _&#x03C8;Code_, para ayudar a la gente a trabajar lo mÃ¡s pronto posible, basÃ¡ndonos en la tÃ©cnica "quÃ©-dÃ³nde" del _Knowledgeware_.  La idea es integrar las nuevas tÃ©cnicas de capacitaciÃ³n mediante videos con algo mÃ¡s simple que los pesados manuales de sistema, pero retomando todas las ventajas de indexamiento, bÃºsqueda y eficiencia de la capacitaciÃ³n tradicional.  Nuestro objetivo es tomar lo mejor de ambos mundos, privilegiando el "junto con", sobre el "en vez de".
+Nuestra intenciones apoyar el soporte, uso, capacitaci¨®n y certificaci¨®n en Odoo.<br><br>
+Creamos un pseudo lenguaje simple llamado _&#x03C8;Code_, para ayudar a la gente a trabajar lo m¨ªs pronto posible, bas¨ªndonos en la t¨¦cnica "qu¨¦-d¨®nde" del _Knowledgeware_.  La idea es integrar las nuevas t¨¦cnicas de capacitaci¨®n mediante videos con algo m¨ªs simple que los pesados manuales de sistema, pero retomando todas las ventajas de indexamiento, b¨²squeda y eficiencia de la capacitaci¨®n tradicional.  Nuestro objetivo es tomar lo mejor de ambos mundos, privilegiando el "junto con", sobre el "en vez de".
 
-Es un esfuerzo comunitario, diseÃ±ado para reducir la brecha entre los gurÃºs y los que estÃ¡n comenzando a aprender Odoo.  A pesar del gran esfuerzo que Odoo ha estado haciendo en estos Ãºltimos aÃ±os para documentar su sistema, creemos que el volÃºmen de desarrollo y la llegada de nuevar versiones cada aÃ±o (y eso sin mencionar todas las localizaciones en cada idioma), requiere un enfoque totalmente nuevo.
+Es un esfuerzo comunitario, dise?ado para reducir la brecha entre los ¨² y los que est¨ªn comenzando a aprender Odoo.  A pesar del gran esfuerzo que Odoo ha estado haciendo en estos ¨²ltimos a?os para documentar su sistema, creemos que el vol¨²men de desarrollo y la llegada de nuevar versiones cada a?o (y eso sin mencionar todas las localizaciones en cada idioma), requiere un enfoque totalmente nuevo.
 
-Creemos que los videos son una forma muy bonita pero muy ineficiente de capacitaciÃ³n.  Sin pretender forzar a los _milenials_, realmente esperamos que los _centenials_ retomen la idea de leer... como lo hicieron las generaciones precedentes por mucho tiempo.  Mientras alguien no invente una interfaz como la de la pelÃ­cula Matrix, que nos permita aprender cualquier cosa en un par de segundos, necesitamos una forma mÃ¡s rÃ¡pida para localizar el procedimiento correcto y resolver un problema.
+Creemos que los videos son una forma muy bonita pero muy ineficiente de capacitaci¨®n.  Sin pretender forzar a los _milenials_, realmente esperamos que los _centenials_ retomen la idea de leer... como lo hicieron las generaciones precedentes por mucho tiempo.  Mientras alguien no invente una interfaz como la de la pel¨ªcula Matrix, que nos permita aprender cualquier cosa en un par de segundos, necesitamos una forma m¨ªs r¨ªpida para localizar el procedimiento correcto y resolver un problema.
 
-Estamos convencidos de que el Ã©xito de una empresa de servicios de Odoo a largo plazo depende de la velocidad con que puedan mover su informaciÃ³n de donde estÃ¡, a donde se necesita.
+Estamos convencidos de que el ¨¦xito de una empresa de servicios de Odoo a largo plazo depende de la velocidad con que puedan mover su informaci¨®n de donde est¨ª, a donde se necesita.
 
-Como hizo _Euclides_ hace como 2,300 aÃ±os, nosotros no procucimos videos, sino que seleccionamos los mejores y redactamos el _&#x03C8;Code_ correspondiente en forma de _guÃ­as_ de procedimientos.  Como una ventaja extra, las ligas de nuestras guÃ­as apuntan directamente al inicio y fin del procedimiento dentro del video.
+Como hizo _Euclides_ hace como 2,300 a?os, nosotros no procucimos videos, sino que seleccionamos los mejores y redactamos el _&#x03C8;Code_ correspondiente en forma de _gu¨ªas_ de procedimientos.  Como una ventaja extra, las ligas de nuestras gu¨ªas apuntan directamente al inicio y fin del procedimiento dentro del video.
 
-Queremos respetar los derechos de los creadores de contenidos.  Todos nuestras ligas a videos incluyen el nombre y direcciÃ³n del creador original, para cumplir con las polÃ­ticas del _juego limpio_.
+Queremos respetar los derechos de los creadores de contenidos.  Todos nuestras ligas a videos incluyen el nombre y direcci¨®n del creador original, para cumplir con las pol¨ªticas del _juego limpio_.
 
-Nosotros recibiremos, contestaremos, verificaremos y por supuesto que agradeceremos mucho cualquier guÃ­a que nos hagan llegar.  La vamos a incluir aquÃ­, para apoyar nuestra comunidad de Odoo lo mejor que podamos.<br><br>
+Nosotros recibiremos, contestaremos, verificaremos y por supuesto que agradeceremos mucho cualquier gu¨ªa que nos hagan llegar.  La vamos a incluir aqu¨ª, para apoyar nuestra comunidad de Odoo lo mejor que podamos.<br><br>
 
 Gracias.
 
@@ -36,48 +36,48 @@ Gracias.
 
 # Estructura del Repositorio
 
-Para facilitar su uso, todos nuestros archivos se pueden accesar mediante ligas en menÃºs.  No se necesita entrar a cada carpeta para buscar informaciÃ³n.  En estos tiempos, hay varias versiones activas de Odoo, mismo que viene en dos formas: _CE_ (EdiciÃ³n de la Comunidad) y _EE_ (EdiciÃ³n Empresarial), asÃ­ que nuestros menÃºs estÃ¡n organizados por versiÃ³n y por ediciÃ³n.
+Para facilitar su uso, todos nuestros archivos se pueden accesar mediante ligas en men¨²s.  No se necesita entrar a cada carpeta para buscar informaci¨®n.  En estos tiempos, hay varias versiones activas de Odoo, mismo que viene en dos formas: _CE_ (Edici¨®n de la Comunidad) y _EE_ (Edici¨®n Empresarial), as¨ª que nuestros men¨²s est¨ªn organizados por versi¨®n y por edici¨®n.
 
-Este archivo README es la base del proyecto y contiene nuestros objetivos, explicaciones tÃ©cnicas y nuestra informaciÃ³n de contacto.
+Este archivo README es la base del proyecto y contiene nuestros objetivos, explicaciones t¨¦cnicas y nuestra informaci¨®n de contacto.
 
-El Ã¡rbol de carpetas estÃ¡ ordenado por _versiÃ³n_ / _ediciÃ³n_ / _mÃ³dulo_ / _guÃ­a_.
-Conforme el proyecto vaya creciendo, se podrÃ¡ agregar un _menÃº_ antes de _guÃ­a_, pero todos los archivos que correspondan a un mismo mÃ³dulo se alojarÃ¡n dentro de la carpeta del mÃ³dulo.
+El ¨ªrbol de carpetas est¨ª ordenado por _versi¨®n_ / _edici¨®n_ / _m¨®dulo_ / _gu¨ªa_.
+Conforme el proyecto vaya creciendo, se podr¨ª agregar un _men¨²_ antes de _gu¨ªa_, pero todos los archivos que correspondan a un mismo m¨®dulo se alojar¨ªn dentro de la carpeta del m¨®dulo.
 
-Si no puedes encontrar lo que buscas en ningÃºn _menÃº_, o si encuentras algÃºn error en nuestro _&#x03C8;Code_, por favor no dudes en enviarnos un correo mencionando tu preocupaciÃ³n de manera razonable... de preferencia con una liga a un video donde se explique mejor el tema.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
+Si no puedes encontrar lo que buscas en ning¨²n _men¨²_, o si encuentras alg¨²n error en nuestro _&#x03C8;Code_, por favor no dudes en enviarnos un correo mencionando tu preocupaci¨®n de manera razonable... de preferencia con una liga a un video donde se explique mejor el tema.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
 
 <br>
 
-# ExplicaciÃ³n bÃ¡sica del _&#x03C8;Code_
+# Explicaci¨®n b¨ªsica del _&#x03C8;Code_
 
-Esta es una explicaciÃ³n bÃ¡sica sobre el _&#x03C8;Code_.  Su Ãºnico propÃ³sito es indicarte los pasos necesarios en un orden correcto y ayudarte a encontrar el objeto en pantalla donde cada paso debe ser realizado:
+Esta es una explicaci¨®n b¨ªsica sobre el _&#x03C8;Code_.  Su ¨²nico prop¨®sito es indicarte los pasos necesarios en un orden correcto y ayudarte a encontrar el objeto en pantalla donde cada paso debe ser realizado:
 
-- GuÃ­as
-  - Cada guÃ­a consta de una liga a un video, seguida del _&#x03C8;Code_ de su procedimiento
+- Gu¨ªas
+  - Cada gu¨ªa consta de una liga a un video, seguida del _&#x03C8;Code_ de su procedimiento
   - Cada liga incluye:  
     - Nombre del video
-    - NÃºmero de versiÃ³n de Odoo  
-    - EdiciÃ³n de Odoo (CE or EE)  
+    - N¨²mero de versi¨®n de Odoo  
+    - Edici¨®n de Odoo (CE or EE)  
     - Creador Origina  
     - Idioma (n/v=no voz)  
-    - DuraciÃ³n del video  
-  - Cuando un video contiene varios procedimientos, se mostrarÃ¡n en forma de lista debajo de la liga al video completo
-  - Cada procedimiento tendrÃ¡ su propia liga, pero sÃ³lo apuntarÃ¡ al procedimiento indicado dentro del video
-  - DespuÃ©s de cada liga al procedimiento, seguirÃ¡ su _&#x03C8;Code_
+    - Duraci¨®n del video  
+  - Cuando un video contiene varios procedimientos, se mostrar¨ªn en forma de lista debajo de la liga al video completo
+  - Cada procedimiento tendr¨ª su propia liga, pero s¨®lo apuntar¨ª al procedimiento indicado dentro del video
+  - Despu¨¦s de cada liga al procedimiento, seguir¨ª su _&#x03C8;Code_
 - Pasos
-  - El elemento fundamental de una guÃ­a de _&#x03C8;Code_ es el _PASO_, una tarea aislada a realizar dentro de la pantalla.  
-  - Cada paso se separa de los demÃ¡s mediante una _BARRA VERTICAL_ |  
+  - El elemento fundamental de una gu¨ªa de _&#x03C8;Code_ es el _PASO_, una tarea aislada a realizar dentro de la pantalla.  
+  - Cada paso se separa de los dem¨ªs mediante una _BARRA VERTICAL_ |  
   - Los pasos relacionados normalmente aparecen en el mismo _RENGLÃ“N_, a menos que no quepan y se necesiten separar en varios renglones  
-  - Algunos pasos van agrupados lÃ³gicamente, encerrados entre _CORCHETES_.  Si son mutuamente exclusivos (opciones), aparecen separados por _DOS BARRAS VERTICALES_ || (uno de los sÃ­mbolos de OR).  Si las tareas del grupo se pueden repetir, un superÃ­ndice lo indica a la derecha del corchete que se cierra: \[ \]&#x207F;  
+  - Algunos pasos van agrupados l¨®gicamente, encerrados entre _CORCHETES_.  Si son mutuamente exclusivos (opciones), aparecen separados por _DOS BARRAS VERTICALES_ || (uno de los s¨ªmbolos de OR).  Si las tareas del grupo se pueden repetir, un super¨ªndice lo indica a la derecha del corchete que se cierra: \[ \]&#x207F;  
   - Existen varios _ICONOS_ semejantes a los que Odoo muestra en pantalla
-    - ![apps](/doc/img/apps.png)&nbsp;&nbsp;representa el icono de cuadritos de _APPS_ en la parte superior izquierda de la ventana de Odoo, en la barra de navegaciÃ³n (_navbar_)  
-	- &#x23BD;/&#x23BD;/&nbsp;&nbsp;representa la lista de accessos directos a los mÃ³dulos y elementos que el usuario haya abierto previemente en Odoo, que aparece debajo de la navbar
-	- Los campos de tipo fecha tienen el caracter &#x25BC; a su derecha y permiten abrir el objeto &#x1F4C5; para seleccionarla fÃ¡cilmente  
-    - Los demÃ¡s sÃ­mbolos son los mismos que Odoo muestra en la pantalla
-	- Algunos pasos son precedidos por una letra y dos puntos, lo cual indica el tipo de elemento (objeto) que deberÃ¡s buscar en pantalla para realizar la tarea
-    - _**_a:_**_ &nbsp;significa _ACTION_ _(ACCIÃ“N)_ y es el Ãºnico elemento que no se refiere a un solo paso.  Corresponde a una tarea compleja de varios pasos que se indican como si fuera uno solo, para facilitar la lectura de la guÃ­a, usualmente porque ya fueron explicados previamente o porque se explican en otra guÃ­a
-	- **_i:_** &nbsp;&nbsp;significa _ITEM_ _(ELEMENTO)_ y representa a cualquier objeto que no estÃ© en esta lista
-    - Los otros tipos de elemento usados en pantalla son: _**b:** Button (BotÃ³n), **d:** Dialog (Cuadro de DiÃ¡logo), **f:** Field (Campo), **l:** Link (HipervÃ­nculo), **m:** Menu (MenÃº), **o:** Option (OpciÃ³n), **s:** SmartButton (BotÃ³n Inteligente), **t:** Tab (PestaÃ±a), **v:** View (Vista) y **w:** Window (Ventana)_.
-    - A continuaciÃ³n se muestra la lista completa de sÃ­mbolos que se utilizan en las guÃ­as y su significado.
+    - ![apps](/doc/img/apps.png)&nbsp;&nbsp;representa el icono de cuadritos de _APPS_ en la parte superior izquierda de la ventana de Odoo, en la barra de navegaci¨®n (_navbar_)  
+	- &#x23BD;/&#x23BD;/&nbsp;&nbsp;representa la lista de accessos directos a los m¨®dulos y elementos que el usuario haya abierto previemente en Odoo, que aparece debajo de la navbar
+	- Los campos de tipo fecha tienen el caracter &#x25BC; a su derecha y permiten abrir el objeto &#x1F4C5; para seleccionarla f¨ªcilmente  
+    - Los dem¨ªs s¨ªmbolos son los mismos que Odoo muestra en la pantalla
+	- Algunos pasos son precedidos por una letra y dos puntos, lo cual indica el tipo de elemento (objeto) que deber¨ªs buscar en pantalla para realizar la tarea
+    - _**_a:_**_ &nbsp;significa _ACTION_ _(ACCIÃ“N)_ y es el ¨²nico elemento que no se refiere a un solo paso.  Corresponde a una tarea compleja de varios pasos que se indican como si fuera uno solo, para facilitar la lectura de la gu¨ªa, usualmente porque ya fueron explicados previamente o porque se explican en otra gu¨ªa
+	- **_i:_** &nbsp;&nbsp;significa _ITEM_ _(ELEMENTO)_ y representa a cualquier objeto que no est¨¦ en esta lista
+    - Los otros tipos de elemento usados en pantalla son: _**b:** Button (Bot¨®n), **d:** Dialog (Cuadro de Di¨ªlogo), **f:** Field (Campo), **l:** Link (Hiperv¨ªnculo), **m:** Menu (Men¨²), **o:** Option (Opci¨®n), **s:** SmartButton (Bot¨®n Inteligente), **t:** Tab (Pesta?a), **v:** View (Vista) y **w:** Window (Ventana)_.
+    - A continuaci¨®n se muestra la lista completa de s¨ªmbolos que se utilizan en las gu¨ªas y su significado.
 
 ####
 [***Sync***]: # (homepCodeBrief_spa)  
@@ -86,67 +86,67 @@ Esta es una explicaciÃ³n bÃ¡sica sobre el _&#x03C8;Code_.  Su Ãºnico propÃ³sito 
 
 | Icono | Significado | Icono | Significado | 
 | :---: | :--- | :---: | :--- |
-| paso | paso | &#x2026; row &#x2026; | agrupaciÃ³n lÃ³gica de pasos |
+| paso | paso | &#x2026; row &#x2026; | agrupaci¨®n l¨®gica de pasos |
 | \| | separador de pasos | \[ x \| y ] | grupo de pasos |
 | _(etiqueta)_ | etiqueta | &nbsp;\[ x \| y \]&#x207F; | pasos repetibles n-veces |
 | &#x23BD;/&#x23BD;/ | historial de ventana | \[ x \|\| y ] | pasos optativos |
-| ![apps](/doc/img/apps.png) | icono de apps en _barranav_ | &#x2630; | icono de menÃº de la app |
-| &#x2807; | icono de menÃº de la lista | &#x2716; | quitar etiqueta / cerrar |
-| &#x1F5F9; | opciÃ³n marcada con palomita | &#x2610; | opciÃ³n desmarcada |
+| ![apps](/doc/img/apps.png) | icono de apps en _barranav_ | &#x2630; | icono de men¨² de la app |
+| &#x2807; | icono de men¨² de la lista | &#x2716; | quitar etiqueta / cerrar |
+| &#x1F5F9; | opci¨®n marcada con palomita | &#x2610; | opci¨®n desmarcada |
 | &#x25C9; | encendido | &#x2B58; | apagado |
-| &#x25BC; | abrir combo y seleccionar opciÃ³n | **&#x2B73;** | descargar |
-| &#x21C4; | tabla dinÃ¡mica: intercambiar ejes | &#x2725; | tabla dinÃ¡mica: expandir todo |
+| &#x25BC; | abrir combo y seleccionar opci¨®n | **&#x2B73;** | descargar |
+| &#x21C4; | tabla din¨ªmica: intercambiar ejes | &#x2725; | tabla din¨ªmica: expandir todo |
 | &#x1F41E; | opciones del desarrollador | ![warning](/doc/img/warning.png) | alerta |
 | &#x1F6E0; | abrir Odoo studio | &#x1F557; | actividades |
-| &#x1F5ED; | conversaciones | &#x1F50D; | bÃºsqueda avanzada |
+| &#x1F5ED; | conversaciones | &#x1F50D; | b¨²squeda avanzada |
 | &#x1F4C5; | calendario | &#x2B50; | favoritos |
 | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presente \|\| ausente | &#x1F870; \|\| &#x1F872; | retroceder \|\| avanzar |
 | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | agregar \|\| eliminar | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancelar |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | activo \|\| inactivo | ![phone_receiver](/doc/img/phone_receiver.png) | confirmar |
 | ![view_kanban](/doc/img/view_kanban.png) | vista kanban | ![view_list](/doc/img/view_list.png) | vista de lista |
-| ![view_activity](/doc/img/view_activity.png) | vista de actividades | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| vista de mapa y localizaciÃ³n |
-| ![show_catalog](/doc/img/show_catalog.png) | mostrar catÃ¡logo | ![filter](/doc/img/filter.png) | filtrar |
-| _**a:** AcciÃ³n_ | acciÃ³n (varios pasos) | **b:** Button | botÃ³n |
-| **d:** Dialogo | alerta o cuadro de diÃ¡logo | **f:** Field | campo de captura |
-| **i:** Item | elemento en pantalla | **l:** Liga | hipervÃ­nculo |
-| **m:** Menu | menu | **o:** OpciÃ³n | opciÃ³n |
-| **s:** SmartButton | botÃ³n inteligente | **t:** Tab | pestaÃ±a |
+| ![view_activity](/doc/img/view_activity.png) | vista de actividades | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| vista de mapa y localizaci¨®n |
+| ![show_catalog](/doc/img/show_catalog.png) | mostrar cat¨ªlogo | ![filter](/doc/img/filter.png) | filtrar |
+| _**a:** Acci¨®n_ | acci¨®n (varios pasos) | **b:** Button | bot¨®n |
+| **d:** Dialogo | alerta o cuadro de di¨ªlogo | **f:** Field | campo de captura |
+| **i:** Item | elemento en pantalla | **l:** Liga | hiperv¨ªnculo |
+| **m:** Menu | menu | **o:** Opci¨®n | opci¨®n |
+| **s:** SmartButton | bot¨®n inteligente | **t:** Tab | pesta?a |
 | **v:** View | vista | **w:** Window | window |
 
 <br>
 
-# El Enfoque _QuÃ©-DÃ³nde_
-![Ligas a videos y guÃ­as en _&#x03C8;Code_ aprovechar Odoo](/doc/img/logo_odoo_guides_mini.jpg)
+# El Enfoque _Qu¨¦-D¨®nde_
+![Ligas a videos y gu¨ªas en _&#x03C8;Code_ aprovechar Odoo](/doc/img/logo_odoo_guides_mini.jpg)
 
-Es parte de la teorÃ­a de _knowledgeware_.  En el contexto de las interfaces de usuario, se refiere a que la capacitaciÃ³n puede reducirse a explicar Ãºnicamente _quÃ©_ hacer y _dÃ³nde_ hacerlo.  Esto implica que el usuario ya conoce _por quÃ©_ debe hacerlo, por lo cual no necesita ser parte de la explicaciÃ³n.  Esto minimiza el tiempo, informaciÃ³n y esfuerzo necesarios para adquirir nuevo conocimiento.
+Es parte de la teor¨ªa de _knowledgeware_.  En el contexto de las interfaces de usuario, se refiere a que la capacitaci¨®n puede reducirse a explicar ¨²nicamente _qu¨¦_ hacer y _d¨®nde_ hacerlo.  Esto implica que el usuario ya conoce _por qu¨¦_ debe hacerlo, por lo cual no necesita ser parte de la explicaci¨®n.  Esto minimiza el tiempo, informaci¨®n y esfuerzo necesarios para adquirir nuevo conocimiento.
 
-En esta era _hiper-gamificada_, muchas interfaces de sistemas son designadas como si fueran video juegos, donde uno tiene que _descubrir_ por sÃ­ mismo dÃ³nde y cÃ³mo debe usar los elementos de la pantalla para realizar sus tareas, ya que el estilo _minimalista_ requiere el uso de interfaces _sencillas_.
+En esta era _hiper-gamificada_, muchas interfaces de sistemas son designadas como si fueran video juegos, donde uno tiene que _descubrir_ por s¨ª mismo d¨®nde y c¨®mo debe usar los elementos de la pantalla para realizar sus tareas, ya que el estilo _minimalista_ requiere el uso de interfaces _sencillas_.
 
-Esto es muy comÃºn e incluso entendible en la industria de los celulares, pero recientemente se comenzÃ³ a hacer lo mismo en los sistemas empresariales usados en computadoras de escritorio y portÃ¡tiles.  En estos dÃ­as es muy raro encontrar un _diseÃ±ador_ que estÃ© pidiendo retroalimentaciÃ³n y corrigiendo los problemas que tienen los usuarios al utilizar su sistema en el dÃ­a a dÃ­a.
+Esto es muy com¨²n e incluso entendible en la industria de los celulares, pero recientemente se comenz¨® a hacer lo mismo en los sistemas empresariales usados en computadoras de escritorio y port¨ªtiles.  En estos d¨ªas es muy raro encontrar un _dise?ador_ que est¨¦ pidiendo retroalimentaci¨®n y corrigiendo los problemas que tienen los usuarios al utilizar su sistema en el d¨ªa a d¨ªa.
 
-Es muy costoso capacitar usuarios en un nuevo sistema con una interfaz que parece video juego, donde tienen que _descubrir_ dÃ³nde estan las cosas.  El porcenaje de uso (y peÃ³r aun, de uso _correcto_) de los sistemas en la actualiadad es muy bajo, porque las interfaces tienden a ser confusas y cambiar mucho entre plataformas, marcas e incluso versiones.  Es sabido que muchos usuarios nativos de Windows-8 que se burlaban de sus compaÃ±eros de trabajo (principalmente aquellos que conocÃ­an Windows desde antes de la versiÃ³n 7), terminaron quejÃ¡ndose de lo mismo cuando fueron forzados a _actualizarse_ a Windows-10.
+Es muy costoso capacitar usuarios en un nuevo sistema con una interfaz que parece video juego, donde tienen que _descubrir_ d¨®nde estan las cosas.  El porcenaje de uso (y pe¨®r aun, de uso _correcto_) de los sistemas en la actualiadad es muy bajo, porque las interfaces tienden a ser confusas y cambiar mucho entre plataformas, marcas e incluso versiones.  Es sabido que muchos usuarios nativos de Windows-8 que se burlaban de sus compa?eros de trabajo (principalmente aquellos que conoc¨ªan Windows desde antes de la versi¨®n 7), terminaron quej¨ªndose de lo mismo cuando fueron forzados a _actualizarse_ a Windows-10.
 
-De cualquier modo, esta tÃ©cnica es muy Ãºtil para ayudar a la gente que mÃ¡s o menos sabe _quÃ©_ necesita hacer.  Les explica cÃ³mo hacerlo con las instrucciones mÃ­nimas indispensables sobre _dÃ³nde_ realizar las cosas en pantalla y sobre todo, haciÃ©ndolo en el _Ã³rden_ correcto.
+De cualquier modo, esta t¨¦cnica es muy ¨²til para ayudar a la gente que m¨ªs o menos sabe _qu¨¦_ necesita hacer.  Les explica c¨®mo hacerlo con las instrucciones m¨ªnimas indispensables sobre _d¨®nde_ realizar las cosas en pantalla y sobre todo, haci¨¦ndolo en el _¨®rden_ correcto.
 
 <br>
 
 # Aportaciones de _&#x03C8;Code_
 
-| id | Nombre | Grupo | PaÃ­s | GuÃ­as |
+| id | Nombre | Grupo | Pa¨ªs | Gu¨ªas |
 | :---: | :--- | :---: | :---: | :---: |
 | [@oldyguy](mailto:pcode@appti.mx) | $og | appti | MX | all |
 
 #### Notas para las Aportaciones:
-  - A veces una guÃ­a debe ir en varios menÃºs.  Para asegurarnos de que se sincronizan todas cada vez que hay una actualizaciÃ³n, se debe agregar el siguiente comentario inmediatamente despuÃ©s del renglÃ³n con la liga:
-    _\[\*\*\*Sync\*\*\*\] # \(ll-cc-o[08..13]-[ce]e-[iddelmÃ³dulo]-[nombredelarchivo])_
-  - Todas las referencias al _&#x03C8;Code_ como nombre de archivo, deben ser convertidas a _pCode_ debido a las limitaciones del cÃ³digo ASCII
-  - Se debe agregar _&nocount_ al final de la liga a un video con mÃºltiples procedimientos, para eliminarlo de la cuenta total de guÃ­as
-  - Para agregar una nueva traducciÃ³n, se debe usar el nombre de 5-caracteres formado por _ii-cc_, tomÃ¡ndolos de las siguientes listas oficiales:
-    - __cc__: CÃ³digo de paÃ­s: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-    - __ii__: CÃ³digo de idioma: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-	- Los iconos de las bandeas deben ser de (250x150) pixeles en estilo _fly breeze_, tomÃ¡ndolos de [_aquÃ­_](https://amazon.com)
+  - A veces una gu¨ªa debe ir en varios men¨²s.  Para asegurarnos de que se sincronizan todas cada vez que hay una actualizaci¨®n, se debe agregar el siguiente comentario inmediatamente despu¨¦s del rengl¨®n con la liga:
+    _\[\*\*\*Sync\*\*\*\] # \(ll-cc-o[08..13]-[ce]e-[iddelm¨®dulo]-[nombredelarchivo])_
+  - Todas las referencias al _&#x03C8;Code_ como nombre de archivo, deben ser convertidas a _pCode_ debido a las limitaciones del c¨®digo ASCII
+  - Se debe agregar _&nocount_ al final de la liga a un video con m¨²ltiples procedimientos, para eliminarlo de la cuenta total de gu¨ªas
+  - Para agregar una nueva traducci¨®n, se debe usar el nombre de 5-caracteres formado por _ii-cc_, tom¨ªndolos de las siguientes listas oficiales:
+    - __ii__: C¨®digo de idioma: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+    - __cc__: C¨®digo de pa¨ªs: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+	- Los iconos de las bandeas deben ser de (250x150) pixeles en estilo _fly breeze_, tom¨ªndolos de [_aqu¨ª_](https://amazon.com)
 
 
 <br><br>
-#### Guías Odoo - v6_01 &nbsp; 2019-07-31
+#### Gu¨ªs Odoo - v6_01 &nbsp; 2019-07-31
  
