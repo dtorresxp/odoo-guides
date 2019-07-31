@@ -1,5 +1,5 @@
 ## O13 - EE - PYR - Payroll (NÃ³mina)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)  
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![pyr](/doc/img/hr_payroll.png)
 
 #### [HR Payroll (O13 - EE - Odoo Mates - xx - xx - 03:53 - NÃ³mina)](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=0&end=0&rel=0&nocount)  
@@ -69,4 +69,4 @@
  
 <br>
 	
-###### Guías Odoo - v1_02 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)  
+###### Guías Odoo - v1_02 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  

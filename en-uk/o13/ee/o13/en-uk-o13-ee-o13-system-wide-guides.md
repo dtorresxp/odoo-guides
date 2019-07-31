@@ -1,5 +1,5 @@
 ## O13 - EE - O13 - System Wide (Funciones Globales)
-#### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides_menu.md)  
+#### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![o13](/doc/img/odoo13.png)
 
 #### [Better Error Handling (O13 - EE - Odoo Mates - xx - xx - 01:09 - Mejor manejo de errores)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
@@ -52,4 +52,4 @@ b:Save
 
 <br>
 
-###### Odoo Guides - v3_04 &nbsp; 2019-07-31  [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides_menu.md)  
+###### Odoo Guides - v3_04 &nbsp; 2019-07-31  [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  

@@ -1,5 +1,5 @@
 ## O13 - CE - PYR - Payroll (NÃ³mina)
-#### [_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides_menu.md)  
+#### [_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)  
 ### ![pyr](/doc/img/hr_payroll.png)
 
 #### [HR Payroll Removed from Community Edition (O13 - CE - Odoo Mates - xx - xx - 01:24 - NÃ³mina eliminada de Ed. Comunidad)](https://youtube.com/embed/ssrMiPrdbQQ?autoplay=1&start=0&end=0&rel=0)  
@@ -7,4 +7,4 @@
 
 <br>
 	
-###### Guías Odoo - v1_03 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides_menu.md)  
+###### Guías Odoo - v1_03 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)  

@@ -6,8 +6,8 @@ Odoo useful video links and _&#x03C8;Code_ guides.
 # Guides
 
 # ![o13](/doc/img/odoo13.png)
-- [Community Edition](/en-uk/o13/ce/en-uk-o13-ce-guides_menu.md)
-- [Enterprise Edition](/en-uk/o13/ee/en-uk-o13-ee-guides_menu.md)
+- [Community Edition](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md)
+- [Enterprise Edition](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)
 
 <br>
 

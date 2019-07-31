@@ -1,5 +1,5 @@
 ## O13 - EE - FSV - Field Service (Servicio en Sitio)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)  
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![fsv](/doc/img/field_service.png)
 
 #### [Field Service Management (O13 - EE - Odoo Mates - xx - xx - 06:12 - Control de Servicio en Sitio)](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=3&end=0&rel=0&nocount)<br>
@@ -36,4 +36,4 @@
 
 <br>
 
-###### Guías Odoo - v1_02 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)  
+###### Guías Odoo - v1_02 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  

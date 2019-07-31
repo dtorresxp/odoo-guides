@@ -1,5 +1,5 @@
 ## O13 - EE - SVY - Survey (Encuestas)
-#### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides_menu.md)  
+#### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![svy](/doc/img/survey.png)
 
 #### [Survey Features (O13 - EE - Odoo Mates - xx - xx - 08:20 - Funcionalidad de Encuestas)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0&nocount)<br>
@@ -47,4 +47,4 @@
 
 <br>
 
-###### Odoo Guides - v3_02 &nbsp; 2019-07-31  [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides_menu.md)  
+###### Odoo Guides - v3_02 &nbsp; 2019-07-31  [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  

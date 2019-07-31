@@ -1,5 +1,5 @@
 ## O13 - EE - MRP - Manufacturing (Manufactura)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)  
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![mrp](/doc/img/mrp.png)
 
 #### [How to activate MRP Workorder (O13 - EE - Odoo Mates - xx - xx - 01:22 - Activar Orden de Trabajo MRP)](https://youtube.com/embed/Xrw-bAZ82xA?autoplay=1&start=0&end=1m7s&rel=0)  
@@ -13,4 +13,4 @@ b:Edit | f:BoM Type | o: Subcontracting &#x25C9; | f:Subcontractors &#x25BC; | _
 
 <br>
 	
-###### Guías Odoo - v1_03 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)  
+###### Guías Odoo - v1_03 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  

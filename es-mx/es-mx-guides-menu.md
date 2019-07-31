@@ -6,8 +6,8 @@ Ligas a videos y guías en _&#x03C8;Code_ para Odoo.
 # Guides
 
 # ![o13](/doc/img/odoo13.png)
-- [Edición de la Comunidad](/es-mx/o13/ce/es-mx-o13-ce-guides_menu.md)
-- [Edición Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides_menu.md)
+- [Edición de la Comunidad](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)
+- [Edición Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
 
 <br>
 
