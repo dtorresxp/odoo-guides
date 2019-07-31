@@ -9,7 +9,7 @@ Please select desired language:
 
 | English | Expañol MX |
 | :---: | :---: |
-| [ ![en-uk](/doc/img/en-uk_flag_button_150.png)](/en-uk/en-uk-guides-menu.md) | [![es-mx](/doc/img/es-mx_flag_button_150.png)](/es-mx/es-mx-guides-menu.md) |
+| [ ![en-uk](/doc/img/en-uk_flag_button_big.png)](/en-uk/en-uk-guides-menu.md) | [![es-mx](/doc/img/es-mx_flag_button_big.png)](/es-mx/es-mx-guides-menu.md) |
 
 
 <br><br>
