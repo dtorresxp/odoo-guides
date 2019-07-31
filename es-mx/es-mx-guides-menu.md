@@ -80,7 +80,6 @@ Esta es una explicación básica sobre el _&#x03C8;Code_.  Su único propósito 
     - A continuación se muestra la lista completa de símbolos que se utilizan en las guías y su significado.
 
 ####
-[***Sync***]: # (homepCodeBrief_spa)  
 [***Sync***]: # (es-mx-o13-ce-guides_menu)  
 [***Sync***]: # (es-mx-o13-ee-guides_menu)  
 
