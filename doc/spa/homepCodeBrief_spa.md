@@ -47,7 +47,7 @@ Esta es nuestra explicación básica sobre el _&#x03C8;Code_.  Su único propós
 | \| | step separator | separador de pasos |
 | &#x2026; row &#x2026; | logical bound steps | agrupación lógica de pasos |
 | \[ x \| y ] | grouped steps | grupo de pasos |
-| \[ x \| y ]&#x207F; | n-times repeatable steps | pasos repetibles n-veces |
+| &nbsp;\[ x \| y ]&#x207F; | n-times repeatable steps | pasos repetibles n-veces |
 | \[ x \|\| y ] | option steps | pasos optativos |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
 | _(tag)_ | tag | etiqueta |
