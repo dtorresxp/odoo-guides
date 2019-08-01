@@ -1,7 +1,6 @@
-## O13 - EE - APT - Appointments (Citas)
-#### 
-**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
+# O13 - EE - APT - Appointments &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/apt/en-uk-o13-ee-apt-appointments-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/apt/es-mx-o13-ee-apt-appointments-guides.md)
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![apt](/doc/img/appointments.png)
 	
-###### Guías Odoo - v1_02 &nbsp; 2019-07-28  
+###### Odoo Guides - V2_01 &nbsp; 2019-07-31  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

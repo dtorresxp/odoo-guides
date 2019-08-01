@@ -1,9 +1,8 @@
-## O13 - EE - IVC - Invoicing - (FacturaciÃ³n)
-#### 
-**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
+# O13 - EE - IVC - Invoicing &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/ivc/en-uk-o13-ee-ivc-invoicing-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/ivc/es-mx-o13-ee-ivc-invoicing-guides.md)
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![ivc](/doc/img/account_invoicing.png)
 
-#### [Odoo13 Website Form Builder Moved to C.Ed. (O13 - EE - Odoo Mates - xx-xx - 01:26 - Form Builder movido a CE)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=1m11s&rel=0)  
+#### [Odoo13 Website Form Builder Moved to C.Ed. (O13 - EE - Odoo Mates - xx-xx - 01:26](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=1m11s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Invoicing | _a:Select PAID invoice_ | _a:Notice the green PAID ribbon on top right of preview_  
 &#x23BD;/&#x23BD;/:Invoices | _a:Select NOT PAID invoice_ | _a:Notice there is no ribbon on preview_  
 _a:Test:_  
@@ -11,5 +10,5 @@ _a:Test:_
   - _a:Notice the green PAID ribbon on preview_  
 <br>
 
-###### Guías Odoo - v1_04 &nbsp; 2019-07-31  
+###### Odoo Guides - v2_01 &nbsp; 2019-07-31  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

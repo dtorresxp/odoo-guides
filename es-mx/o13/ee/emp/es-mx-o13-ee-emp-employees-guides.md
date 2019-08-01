@@ -1,6 +1,5 @@
-## O13 - EE - EMP - Employees (Empleados)
-#### 
-**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
+# O13 - EE - EMP - Employees &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/emp/en-uk-o13-ee-emp-employees-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/emp/es-mx-o13-ee-emp-employees-guides.md)
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![emp](/doc/img/hr_employees.png)
 
 #### [Create Employee while Creating User (O13 - EE - Odoo Mates - xx-xx - 01:18 - Crear Empleado al crear Usuario)](https://youtube.com/embed/fhaB5pnTp9Q?autoplay=1&start=0&end=0&rel=0)
@@ -10,5 +9,5 @@ w:CreateEmployee | _a:Input Employee data_ | b:Save
 
 <br>
 
-###### Guías Odoo - v3_02 &nbsp; 2019-07-31  
+###### Odoo Guides - V4_01 &nbsp; 2019-07-31  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
