@@ -34,7 +34,8 @@
   ![apps](/doc/img/apps.png) | o:Comida | m:MiComida | o:CuentaDeMiComida
 
 - [Control del app de Comidas](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=5m38s&end=6m02s&rel=0)  
-  ![apps](/doc/img/apps.png) | o:Comida | m:Gerente | \[ o:ÓrdenesDelDía || o:ÓrdenesPorProveedor || o:ControlDeCuentas || o:PagosDeEmpleados ]
+  ![apps](/doc/img/apps.png) | o:Comida | m:Gerente  
+  \[ o:ÓrdenesDelDía || o:ÓrdenesPorProveedor || o:ControlDeCuentas || o:PagosDeEmpleados ]
   
 <br>
 	
