@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![svy](/doc/img/survey.png)
 
-#### [Survey Features (O13 - EE - Odoo Mates - xx - xx - 08:20 - Funcionalidad de Encuestas)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0&nocount)<br>
+#### [Survey Features (O13 - EE - Odoo Mates - xx-xx - 08:20 - Funcionalidad de Encuestas)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Create Survey (Crear Encuesta)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=1m14s&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Surveys | \[ b:Create || b:Edit \] | f:Title  
