@@ -28,7 +28,7 @@
       f:NewContractDocumentTempalte | ContractUpdateDocumentTemplate | f:Notes  
       f:WorkSchedule ![show_catalog](/doc/img/show_catalog.png) | w:Abrir:WorkingSchedule | t:WorkingHours | t:GlobalTimeOff | _a:Cerrar window_ &#x2716;  
     - t:SalaryInformation | i:MonthlyAdvantagesInCash | i:EmpleadoCosts | i:MonthlyBenefitInKind | i:YearlyAdvantages  
-    - t:PersonalDocumentos | f:IdCardCopy | f:Photo | f:DrivingLicense  
+    - t:PersonalDocumentos | f:IdCardCopiar | f:Photo | f:DrivingLicense  
     - t:AdjuntoOfSalary | f:Descripción | f:GarnishedTipo | f:From | f:To | f:Amount  
   - b:Guardar  
 

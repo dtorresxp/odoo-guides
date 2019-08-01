@@ -6,7 +6,7 @@
 ![apps](/doc/img/apps.png) | o:Facturación | _a:Seleccionar PAID invoice_ | _a:Notice the green PAID ribbon on top right of preview_  
 &#x23BD;/&#x23BD;/:Facturas | _a:Seleccionar NOT PAID invoice_ | _a:Notice there is no ribbon on preview_  
 _a:Prueba:_  
-  - b:RegisterPayment | w:RegisterPayment | _a:Verify payment fields_ | b:Validar  
+  - b:RegisterPayment | w:RegisterPayment | _a:Verificar payment fields_ | b:Validar  
   - _a:Notice the green PAID ribbon on preview_  
 <br>
 

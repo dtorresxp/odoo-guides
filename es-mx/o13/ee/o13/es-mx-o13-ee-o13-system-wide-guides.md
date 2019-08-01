@@ -3,7 +3,7 @@
 ### ![o13](/doc/img/odoo13.png)
 
 #### [Mejor manejo de Errores &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:09)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Cotizaciones | i:ConfigurationPanel &#x2716; | d:RemoveConfigurationTips? | \[ b:Remove || b:Discard ]  
+![apps](/doc/img/apps.png) | o:Ventas | m:Orders | o:Cotizaciones | i:ConfigurationPanel &#x2716; | d:RemoveConfigurationTips? | \[ b:Remove || b:Discard ]  
 _a:Seleccionar Cotización_ | s:Delivery | t:Operations | b:Validar | d:UserError  
 b:Editar | f:Done | w:Abrir:StockMovesNotInPackage | b:Cerrar | b:CheckAvailability | b:Guardar  
 b:Validar | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;  
@@ -29,7 +29,7 @@ f:Email | _a:Definir a right one_ | b:Guardar
 w:LoadATranslation | &#x25BC; Language | &#x1F5F9; Overwrite Existing | b:Load | b:Cerrar  
 ![apps](/doc/img/apps.png) | o:Configuración | m:Users&Companies | o:Users | _a:Seleccionar User_ | b:Editar | t:Preferences  
 i:Localization | &#x25BC; f:Language | _a:Seleccionar language_ | b:Guardar  
-&#x25BC; m:YoMismo | o:Logout | _a:Login as localized User_ | _a:Verify new language is ok_  
+&#x25BC; m:YoMismo | o:Logout | _a:Login as localized User_ | _a:Verificar new language is ok_  
 
 #### [Nuevo Widget Multi-Compañía &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:17)](https://youtube.com/embed/5HU8dJfTmpc?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Seleccionar o:Module_ | m:Company &#x25BC; | \[ _a:Mark o:Company_ \]&#x207F;

@@ -23,7 +23,7 @@ _a:Mark every present i:Empleado with_ &#x1F5F9;
 - [Verificar Disponibilidad](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4s&end=31s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Empleados | _a:Filtro employees by Company/Department_  
 _a:Revisar employee availability: \[ ![presence_yes](/doc/img/presence_yes.png) = yes || ![presence_no](/doc/img/presence_no.png) = no ] in top-right of every i:employee_  
-_a:Verify on ![warning](/doc/img/warning.png) that there is nothing wrong with employee presence configuration_  
+_a:Verificar on ![warning](/doc/img/warning.png) that there is nothing wrong with employee presence configuration_  
 
 - [Marcar Asistencia](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=2m34s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Attendance | o:EmpleadoPresence | _a:Seleccionar Empleado_ | i:Empleado | b:TimeOff | w:Empleado'sPresenceToDefinir  
