@@ -28,7 +28,7 @@ _a:Pasar el ratón sobre cada ![warning](/doc/img/warning.png) para validar que 
 - [Marcar Asistencia](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=2m34s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Asistencia | o:PresenciaDelEmpleado | _a:Seleccionar Empleado_  
 i:Empleado | b:TiempoDef | w:Definir presencia del Empleado  
-f:DefinirTipoDeTiempo &#x25BC; \[ Pagado || Compensado || NoPagado || HorasExtras || TrabajoDesdeCasa || Enfermo ]
+f:DefinirTipoDeTiempo &#x25BC; \[ Pagado || Compensado || NoPagado || HorasExtras || TrabajoDesdeCasa || Enfermo ]  
 f:De &#x1F4C5; | f:A &#x1F4C5; | b:Autorizar | _a:Comunicarse por: [ b:SMS || b:Correo ] | b:Registrar_  
 
 - [Registrar Permisos](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=37s&rel=0)  
