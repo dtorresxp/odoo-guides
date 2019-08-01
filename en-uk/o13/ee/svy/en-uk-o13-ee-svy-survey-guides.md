@@ -1,8 +1,8 @@
-## O13 - EE - SVY - Survey (Encuestas)
+## O13 - EE - SVY - Survey &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/en-uk-o13-ee-svy-survey-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/es-mx-o13-ee-svy-survey-guides-menu.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![svy](/doc/img/survey.png)
 
-#### [Survey Features (O13 - EE - Odoo Mates - xx-xx - 08:20 - Funcionalidad de Encuestas)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0&nocount)<br>
+#### [Survey Features (O13 - EE - Odoo Mates - xx-xx - 08:20](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Create Survey (Crear Encuesta)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=1m14s&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Surveys | \[ b:Create || b:Edit \] | f:Title  
