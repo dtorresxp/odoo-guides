@@ -2,12 +2,13 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![ivc](/doc/img/account_invoicing.png)
 
-#### [Formateador del SitioWeb movido a Ed. de la Comunidad &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=1m11s&rel=0)  
-![apps](/doc/img/apps.png) | o:Facturación | _a:Seleccionar PAID invoice_ | _a:Notice the green PAID ribbon on top right of preview_  
-&#x23BD;/&#x23BD;/:Facturas | _a:Seleccionar NOT PAID invoice_ | _a:Notice there is no ribbon on preview_  
+#### [Nuevo Widget de Cintillos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/Adg5rrfXl0Y?autoplay=1&start=0&end=1m11s&rel=0)  
+![apps](/doc/img/apps.png) | o:Facturación | _a:Seleccionar una Factura pagada_  
+_a:Notar el cintilo verde que dice PAGADO en la esquina superior derecha de la vista previa del documento_  
+&#x23BD;/&#x23BD;/:Facturas | _a:Seleccionar una Factura NO PAGADA_ | _a:Notar que no hay cintillo en la vista previa_  
 _a:Prueba:_  
-  - b:RegisterPayment | w:RegisterPayment | _a:Verificar payment fields_ | b:Validar  
-  - _a:Notice the green PAID ribbon on preview_  
+  - b:RegistrarPago | w:RegistrarPago | _a:Verificar campos del pago_ | b:Validar  
+  - _a:Notar la cinta verde PAGADO que ahora aparece en la vista previa_  
 <br>
 
 ###### Guías Odoo - v2_01 &nbsp; 2019-07-31  

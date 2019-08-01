@@ -3,13 +3,13 @@
 ### ![mrp](/doc/img/mrp.png)
 
 #### [Cómo activar una Orden de Trabajo MRP &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:22)](https://youtube.com/embed/Xrw-bAZ82xA?autoplay=1&start=0&end=1m7s&rel=0)  
-![apps](/doc/img/apps.png) | o:Manufacturing | m:Configuration | o:Configuración | i:Operations | f:Work Orders &#x1F5F9; | b:Guardar  
-_a:Revisar Configuration:_ | m:Master Datos | o:Routings | o:Work Centers  
+![apps](/doc/img/apps.png) | o:Manufactura | m:Configuración | o:Configuración | i:Operaciones | f:ÓrdenesDeTrabajo &#x1F5F9; | b:Guardar  
+_a:Revisar Configuración:_ | m:Datos Maestros | o:Rutas | o:CentrosDeTrabajo  
 
 #### [Subcontratación en Manufactura &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:32)](https://youtube.com/embed/R7TAnL1h1y8?autoplay=1&start=14&end=1m12s&rel=0)  
-![apps](/doc/img/apps.png) | o:Manufacturing | m:Configuration | o:Configuración | i:Operations | f:Subcontracting &#x1F5F9; | b:Guardar  
-m:Master Datos | o:CobrosOfMaterials | _a:Seleccionar Item_  
-b:Editar | f:BoM Tipo | o: Subcontracting &#x25C9; | f:Subcontractors &#x25BC; | _a:Seleccionar or Crear Subcontractor_  
+![apps](/doc/img/apps.png) | o:Manufactura | m:Configuración | o:Configuración | i:Operaciones | f:Subcontratación &#x1F5F9; | b:Guardar  
+m:Datos Maestros | o:CobrosDeMaterials | _a:Seleccionar Item_  
+b:Editar | f:BoM Tipo | o: Subcontratación &#x25C9; | f:Subcontractors &#x25BC; | _a:Seleccionar o Crear Subcontratista_  
 
 <br>
 	

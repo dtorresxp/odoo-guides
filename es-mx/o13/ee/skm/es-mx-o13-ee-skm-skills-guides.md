@@ -3,11 +3,12 @@
 ### ![skm](/doc/img/hr_skills.png)
 
 #### [Control de Competencias de Empleados in Odoo13 &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:52)](https://youtube.com/embed/E09XNr7hhYE?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | o:Apps | i:SkillManagement | b:Instalar  
-![apps](/doc/img/apps.png) | o:Empleados | v:Department | _a:Seleccionar employee_  
-i:Skills | \[ b:Add | w:CrearSkills | f:SkillTipo &#x25BC; | f:Skill &#x25BC; | f:SkillLevel &#x25BC; | b:Guardar \]&#x207F;  
-\[ i:Experience || i:Education \]  
-\[ b:Add | w:CrearResuméLines | f:Name | f:Tipo \[ Exp || Edu \] | f:DateIniciar &#x1F4C5; | f:DateEnd &#x1F4C5; | f:Descripción | b:Guardar \]&#x207F;  
+![apps](/doc/img/apps.png) | o:Apps | i:ControlDeCompetencias | b:Instalar  
+![apps](/doc/img/apps.png) | o:Empleados | v:Departmento | _a:Seleccionar Empleado_  
+i:Competencias | \[ b:Agregar | w:CrearCompetencias | f:TipoDeCompetencia &#x25BC; | f:Competencia &#x25BC; | f:NivelDeCompetencia &#x25BC; | b:Guardar \]&#x207F;  
+\[ i:Experiencia || i:Educación \]  
+\[ b:Agregar | w:CrearEntradasDeCurrículum | f:Nombre  
+f:Tipo \[ Experiencia || Educación \] | f:FechaDeInicio &#x1F4C5; | f:FechaDeFin &#x1F4C5; | f:Descripción | b:Guardar \]&#x207F;  
 
 <br>
 

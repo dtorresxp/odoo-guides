@@ -1,46 +1,46 @@
-# O13 - EE - PSC - Asistencias &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/psc/en-uk-o13-ee-psc-presence-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/psc/es-mx-o13-ee-psc-presence-guides.md)
+# O13 - EE - PSC - Asistencias &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/psc/en-uk-o13-ee-psc-presencia-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/psc/es-mx-o13-ee-psc-presencia-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
-### ![psc](/doc/img/hr_presence.png)
+### ![psc](/doc/img/hr_presencia.png)
 
 #### [Nueva app de Control de Asistencias &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:10)](https://youtube.com/embed/5flykV7VCzo?autoplay=1&start=4&end=0&rel=0&nocount)<br>
 
-- [Instalar Presence module](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m39s&end=3m50s&rel=0)  
-![apps](/doc/img/apps.png) | o:Apps | f:Buscar... presence | _(apps)_ &#x2716; | i:EmpleadoPresence | b:Instalar  
+- [Instalar Presencia module](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m39s&end=3m50s&rel=0)  
+![apps](/doc/img/apps.png) | o:Apps | f:Buscar... presence | _(apps)_ &#x2716; | i:PresenciaDelEmpleado | b:Instalar  
 
 - [Configuración](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m11s&end=3m31s&rel=0)  
-  - ![apps](/doc/img/apps.png) | o:Configuración | o:Empleados | &#x1F5F9; f:Control presence of employees  
-  - _a:Definir presence according to:_  
-    - f:System login (User status on chat)  
-    - [ f:Amount of sent emails | f: At least # of sent emails ]  
-    - [ f:IP address | [f: IP List (comma separated) ]  
-    - f:Attendance module_  
+  - ![apps](/doc/img/apps.png) | o:Configuración | o:Empleados | &#x1F5F9; f:ControlDePresenciaDeEmpleados  
+  - _a:Definir presencia según:_  
+    - f:Ingreso a Odoo (Status del Usuario en el Chat)  
+    - \[ f:Cantidad de Correos enviados | f:MínimoDeCorreosEnviados ]  
+    - \[ f:DirecciónIP | [f:ListaDeIPs (separadas por comas) ]  
+    - f:MóduloDeAsistencia_  
   - b:Guardar  
 
 - [Establecer Asistencia](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=2m32s&end=2m56s&rel=0)  
-![apps](/doc/img/apps.png) | o:Empleados | m:Reporting | o:EmpleadoPresence  
-_a:Mark every present i:Empleado with_ &#x1F5F9;  
+![apps](/doc/img/apps.png) | o:Empleados | m:Reportes | o:PresenciaDelEmpleado  
+_a:Marcar cada i:Empleado presente con_ &#x1F5F9;  
 
 - [Verificar Disponibilidad](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4s&end=31s&rel=0)  
-![apps](/doc/img/apps.png) | o:Empleados | _a:Filtro employees by Company/Department_  
-_a:Revisar employee availability: \[ ![presence_yes](/doc/img/presence_yes.png) = yes || ![presence_no](/doc/img/presence_no.png) = no ] in top-right of every i:employee_  
-_a:Verificar on ![warning](/doc/img/warning.png) that there is nothing wrong with employee presence configuration_  
+![apps](/doc/img/apps.png) | o:Empleados | _a:Filtrar empleados por Compañía/Departmento_  
+_a:Revisar disponibilidad del empleado: \[ ![presencia_yes](/doc/img/presencia_yes.png) = si || ![presencia_no](/doc/img/presencia_no.png) = no ] en la esquina superior de cada i:Empleado_  
+_a:Pasar el ratón sobre cada ![warning](/doc/img/warning.png) para validar que no haya nada incorrecto en la configuración de presencia del empleado_  
 
 - [Marcar Asistencia](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=2m34s&rel=0)  
-![apps](/doc/img/apps.png) | o:Attendance | o:EmpleadoPresence | _a:Seleccionar Empleado_ | i:Empleado | b:TimeOff | w:Empleado'sPresenceToDefinir  
-f:TimeOffTipo &#x25BC; \ [ Paid || Compensatory || Unpaid || Overtime || HomeWorking || Sick ] | f:From &#x1F4C5; | f:To &#x1F4C5; | b:Approve  
-_a:Communicate: [ b:SMS || b:Mail ] | b:Log_  
+![apps](/doc/img/apps.png) | o:Asistencia | o:PresenciaDelEmpleado | _a:Seleccionar Empleado_ | i:Empleado | b:TiempoDef | w:Definir presencia del Empleado  
+f:DefinirTipoDeTiempo &#x25BC; \ [ Pagado || Compensado || NoPagado || HorasExtras || TrabajoDesdeCasa || Enfermo ] | f:De &#x1F4C5; | f:A &#x1F4C5; | b:Autorizar  
+_a:Comunicarse por: [ b:SMS || b:Correo ] | b:Registrar_  
 
 - [Registrar Permisos](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=37s&rel=0)  
-![apps](/doc/img/apps.png) | o:Empleados | o:Reporting | o:EmpleadoPresence | i:ClickToCheckIn  
+![apps](/doc/img/apps.png) | o:Empleados | o:Reportes | o:PresenciaDelEmpleado | i:ClickParaValidarPresencia  
 
 - [Controlar Asistencias](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=37s&end=1m4s&rel=0)  
-  - ![apps](/doc/img/apps.png) | o:Attendance | m:ManageAttendances | o:Attendances  
+  - ![apps](/doc/img/apps.png) | o:Asistencia | m:ControlarAsistencias | o:Asistencias  
   - _a:Prueba_: 
-    - b:Crear | a:Seleccionar f:Empleado &#x25BC; | f:CheckIn &#x1F4C5; | b:Guardar  
-    - ![apps](/doc/img/apps.png) | o:Empleados | _a:Revisar Presence status must be Available ![presence_yes](/doc/img/presence_yes.png) _  
+    - b:Crear | _a:Seleccionar f:Empleado_ &#x25BC; | f:VerificarEn &#x1F4C5; | b:Guardar  
+    - ![apps](/doc/img/apps.png) | o:Empleados | _a:Revisar que el status de Presencia sea disponible ![presencia_yes](/doc/img/presencia_yes.png) _  
 
 - [Reportes de Asistencias](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m4s&end=1m16s&rel=0)  
-  \[ ![apps](/doc/img/apps.png) | o:Attendance | m:Reporting | o:EmpleadoPresence
+  \[ ![apps](/doc/img/apps.png) | o:Asistencia | m:Reportes | o:PresenciaDelEmpleado
 
 <br>
 

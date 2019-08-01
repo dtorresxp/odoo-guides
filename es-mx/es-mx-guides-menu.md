@@ -105,6 +105,7 @@ Esta es una explicación básica sobre el _&#x03C8;Code_.  Su único propósito 
 | ![view_kanban](/doc/img/view_kanban.png) | vista kanban | ![view_list](/doc/img/view_list.png) | vista de lista |
 | ![view_activity](/doc/img/view_activity.png) | vista de actividades | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| vista de mapa y localización |
 | ![show_catalog](/doc/img/show_catalog.png) | mostrar catálogo | ![filter](/doc/img/filter.png) | filtrar |
+| ![button_squared_add](/doc/img/button_squared_add.png) | acercar zoom | ![button_squared_sub](/doc/img/button_squared_sub.png) | alejar zoom |
 | _**a:** Acción_ | acción (varios pasos) | **b:** Button | botón |
 | **d:** Dialogo | alerta o cuadro de diálogo | **f:** Field | campo de captura |
 | **i:** Item | elemento en pantalla | **l:** Liga | hipervínculo |

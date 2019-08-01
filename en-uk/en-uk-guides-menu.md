@@ -76,64 +76,38 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
     - Bellow is the full list of symbols used in all guides and their meanings
 
 ####
-[***Sync***]: # (homepCodeBrief_spa)  
 [***Sync***]: # (en-uk-o13-ce-guides-menu)  
 [***Sync***]: # (en-uk-o13-ee-guides-menu)  
 
-| Symbol | Meaning | Significado |
-| :---: | :--- | :--- |
-| step | step | paso |
-| \| | step separator | separador de pasos |
-| &#x2026; row &#x2026; | logical bound steps | agrupación lógica de pasos |
-| \[ x \| y ] | grouped steps | grupo de pasos |
-| &nbsp;\[ x \| y ]&#x207F; | n-times repeatable steps | pasos repetibles n-veces |
-| \[ x \|\| y ] | option steps | pasos optativos |
-| &#x23BD;/&#x23BD;/ | breadcrumbs | historial de ventanas |
-| _(tag)_ | tag | etiqueta |
-| &#x1F870; &#x1F872; | back \|\| advance | retroceder \|\| avanzar |
-| ![apps](/doc/img/apps.png) | apps icon on _navbar_ (top of screen) | icono de apps en \<barranav\> |
-| &#x2630; | app menu icon | icono de menú de la aplicación |
-| &#x2807; | list menu icon | icono de menú de la lista |
-| &#x1F5F9; | checked mark | opción marcada con palomita |
-| &#x2610; | unchecked mark | opción desmarcada |
-| &#x25C9; | set option | encendido |
-| &#x2B58; | clear option | apagado |
-| &#x2716; | remove tag from list | quitar etiqueta |
-| &#x25BC; | open comobobox to select option | abrir combo y seleccionar opción |
-| **&#x2B73;** | download | descargar |
-| &#x21C4; | pivot: flip axis | tabla dinámica: intercambiar ejes |
-| &#x2725; | pivot: expand all | tabla dinámica: expandir todo | 
-| &#x1F41E; | open developer tools | opciones del desarrollador |
-| &#x1F6E0; | open studio | abrir studio |
-| &#x1F557; | activities (navbar) | actividades (navbar) |
-| &#x1F5ED; | conversations (navbar) | conversaciones (navbar) |
-| &#x1F50D; | advanced search | búsqueda avanzada |
-| &#x1F4C5; | show calendar | mostrar calendario |
-| &#x2B50; | favorite searches | búsquedas favoritas |
-| ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | asistencia \|\| ausencia |
-| ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | agregar \|\| eliminar |
-| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | activo \|\| inactivo |
-| ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel | cancelar |
-| ![phone_receiver](/doc/img/phone_receiver.png) | confirm | confirmar |
-| ![warning](/doc/img/warning.png) | warning | atención |
-| ![view_kanban](/doc/img/view_kanban.png) | kanban view | vista kanban | 
-| ![view_list](/doc/img/view_list.png) | list view | vista de lista | 
-| ![view_activity](/doc/img/view_activity.png) | activity view | vista por actividades |
-| ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png) | map view & location | vista de mapa y ubicación |
-| ![show_catalog](/doc/img/show_catalog.png) | show catalog | mostrar catálogo |
-| ![filter](/doc/img/filter.png) | filter | filtrar |
-| _**a:** Action_ | action (several steps as one) | acción (varios pasos) |
-| **b:** Button | button | botón |
-| **d:** Dialog | warning or action dialog | diálogo de precaución |
-| **f:** Field | field to enter some value | campo a capturar |
-| **i:** Item | item on screen | elemento en pantalla |
-| **l:** Link | link | hipervínculo |
-| **m:** Menu | menu | menú |
-| **o:** Option | option | opción |
-| **s:** SmartButton | smart-button | botón-inteligente |
-| **t:** Tab | tab | pestaña |
-| **v:** View | view | vista |
-| **w:** Window | window | ventana |
+| Symbol | Meaning | Symbol | Meaning | 
+| :---: | :--- | :---: | :--- |
+| step | step | &#x2026; row &#x2026; | logical bound steps |
+| \| | step sepparator | \[ x \| y ] | grouped steps |
+| _(tag)_ | tag | &nbsp;\[ x \| y \]&#x207F; | n-times repeatable steps |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | \[ x \|\| y ] | option steps |
+| ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon |
+| &#x2807; | list menu icon | &#x2716; | remove tag / close |
+| &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
+| &#x25C9; | set option | &#x2B58; | clear option |
+| &#x25BC; | open comobobox | **&#x2B73;** | download |
+| &#x21C4; | pivot: flip axis | &#x2725; | pivot: expand all |
+| &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) | warning |
+| &#x1F6E0; | open studio | &#x1F557; | activities |
+| &#x1F5ED; | conversations | &#x1F50D; | advanced search |
+| &#x1F4C5; | calendar | &#x2B50; | favorites |
+| ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | &#x1F870; \|\| &#x1F872; | back \|\| advance |
+| ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
+| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | confirm |
+| ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
+| ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| map view & location|
+| ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
+| ![button_squared_add](/doc/img/button_squared_add.png) | zoom in | ![button_squared_sub](/doc/img/button_squared_sub.png) | zoom out |
+| _**a:** Action_ | action (several steps as one) | **b:** Button | button |
+| **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
+| **i:** Item | item on screen | **l:** Link | link |
+| **m:** Menu | menu | **o:** Option | option | 
+| **s:** SmartButton | smart-button | **t:** Tab | tab | v:View |
+| **v:** view | vista | **w:** Window | window |
 
 <br>
 

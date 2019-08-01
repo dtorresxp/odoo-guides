@@ -7,7 +7,8 @@
 - [Settings](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=1m52s&end=2m14s&rel=0)  
   ![apps](/doc/img/apps.png) | o:Payroll | m:Settings  
   - o:WorkEntryTypes  
-  - o:StructureTypes | f:StructureType | f:Country | f:DefaultScheduledPay | f:DefaultWorkingHours | f:DefaultWorkEntryType  
+  - o:StructureTypes | f:StructureType | f:Country  
+    f:DefaultScheduledPay | f:DefaultWorkingHours | f:DefaultWorkEntryType  
   - o:Structures | f:Name | f:SalaryRules | f:Country | f:RegularPay  
   - o:Rules | f:Name | f:Code | f:Category | f:Partner  
   - o:RuleParameters | f:Name | f:Code  
