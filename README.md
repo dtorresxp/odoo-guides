@@ -1,4 +1,4 @@
-# Odoo Guides
+# Guías Odoo
 Odoo useful video links and _&#x03C8;Code_ guides.
 
 ![Odoo useful links & guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg)
@@ -13,5 +13,5 @@ Please select your desired language:
 
 
 <br><br>
-#### Odoo Guides - v6_01 &nbsp; 2019-07-31
+#### Guías Odoo - v6_01 &nbsp; 2019-07-31
  
