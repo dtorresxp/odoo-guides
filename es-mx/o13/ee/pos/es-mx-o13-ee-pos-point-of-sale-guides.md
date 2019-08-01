@@ -3,11 +3,14 @@
 ### ![pos](/doc/img/point-of-sale.png)
 
 #### [Múltiples Vendedores por Terminal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:41)](https://youtube.com/embed/Nmafl3gA8aI?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | o:PuntoDeVenta | &#x2807; | o:Configuración | f:IngresarConEmpleados &#x1F5F9; | f:EmpleadosPermitidos | \[ &#x25BC; | _a:Seleccionar Empleado_ ]&#x207F; | b:Guardar  
-&#x23BD;/&#x23BD;/:PuntoDeVenta | i:Tienda | b:Continuar | _a:Esperar_ | w:EntrarALaTienda | b:SeleccionarCajero | w:CambiarCajero | _a:Seleccionar Cajero_  
+![apps](/doc/img/apps.png) | o:PuntoDeVenta | &#x2807; | o:Configuración | f:IngresarConEmpleados &#x1F5F9;  
+f:EmpleadosPermitidos | \[ &#x25BC; | _a:Seleccionar Empleado_ ]&#x207F; | b:Guardar  
+&#x23BD;/&#x23BD;/:PuntoDeVenta | i:Tienda | b:Continuar | _a:Esperar_ | w:EntrarALaTienda  
+b:SeleccionarCajero | w:CambiarCajero | _a:Seleccionar Cajero_  
 
 #### [Restringir Categorías &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:54)](https://youtube.com/embed/EO-j2h2AUw4?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | o:PuntoDeVenta | i:Tienda | &#x2807; | o:Configuración | f:RestringirCategoríasDisponiblesDeProductos &#x1F5F9; | \[ f:Categoría &#x25BC; \]&#x207F; | b:Guardar  
+![apps](/doc/img/apps.png) | o:PuntoDeVenta | i:Tienda | &#x2807; | o:Configuración  
+f:RestringirCategoríasDisponiblesDeProductos &#x1F5F9; | \[ f:Categoría &#x25BC; \]&#x207F; | b:Guardar  
 
 <br>
 
