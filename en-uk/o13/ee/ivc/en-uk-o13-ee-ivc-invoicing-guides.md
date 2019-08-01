@@ -10,4 +10,5 @@ _a:Test:_
   - _a:Notice the green PAID ribbon on preview_  
 <br>
 
-###### Odoo Guides - v1_04 &nbsp; 2019-07-31  [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
+###### Odoo Guides - v1_04 &nbsp; 2019-07-31
+###### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
