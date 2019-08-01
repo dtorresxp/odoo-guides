@@ -8,7 +8,7 @@
 ![apps](/doc/img/apps.png) | o:Apps | f:Buscar... rental | _(apps)_ &#x2716; | i:Renta | b:Instalar  
 
 - [Configuración de Rentas](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4m21s&end=0&rel=0)  
-\[ &#x23BD;/&#x23BD;/:ÓrdenesDeRenta || ![apps](/doc/img/apps.png) | o:Renta ] | m:Configuración | o:Configuración
+\[ &#x23BD;/&#x23BD;/:ÓrdenesDeRenta || ![apps](/doc/img/apps.png) | o:Renta ] | m:Configuración | o:Configuración  
 _a:Configurar el Tiempo Default de Márgen_ | _a:Definir Firma_ | _a:Ingresar Costos de Retraso_ | b:Guardar  
 
 - [Crear Renta](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=24s&end=2m30s&rel=0)  
