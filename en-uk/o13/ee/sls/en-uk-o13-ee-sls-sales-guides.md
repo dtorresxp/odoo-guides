@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![sls](/doc/img/sale.png)
 
-#### [Product Configurator&nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
+#### [Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Products | b:Edit | o:ConfigureAProduct | w:ConfigureAProduct | f:Product &#x25BC; | _a:Select product_  
 \[ _a:Select optional features_ | b:Add | w:Configure \]&#x207F; | b:Confirm | d:LowStockWarning | b:Ok | w:Quotations | b:Save  
 
@@ -10,7 +10,7 @@
 
 #### Coupons & Promotions
 
-#### [Sales Coupon and Promotion Program&nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 06:55)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0&nocount)
+#### [Sales Coupon and Promotion Program &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 06:55)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0&nocount)
 
 - [Settings](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=31&rel=0)  
 ![apps](/doc/img/apps.png) | o:Apps | f:Search... coupon | _(apps) &#x2716;  

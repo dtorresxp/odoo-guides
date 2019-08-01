@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![rnt](/doc/img/rental.png)
 
-#### [New Rental App&nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:58)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0&nocount)<br>
+#### [New Rental App &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:58)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Install Rent app](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=24s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Apps | f:Search... rental | _(apps)_ &#x2716; | i:Rental | b:Install  
