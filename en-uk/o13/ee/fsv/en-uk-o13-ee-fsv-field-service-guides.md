@@ -1,4 +1,4 @@
-## O13 - EE - FSV - Field Service (Servicio en Sitio)
+# O13 - EE - FSV - Field Service &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/fsv/en-uk-o13-ee-fsv-field-service-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/fsv/es-mx-o13-ee-fsv-field-service-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![fsv](/doc/img/field-service.png)
 
@@ -36,5 +36,5 @@
 
 <br>
 
-###### Odoo Guides - v1_02 &nbsp; 2019-07-31  
+###### Odoo Guides - V2_01 &nbsp; 2019-07-31  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

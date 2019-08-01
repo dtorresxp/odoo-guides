@@ -1,6 +1,6 @@
-## O13 - EE - HDK - HelpDesk (Mesa de Ayuda)
+# O13 - EE - HDK - HelpDesk &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/hdk/en-uk-o13-ee-hdk-helpdesk-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/hdk/es-mx-o13-ee-hdk-helpdesk-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![hdk](/doc/img/helpdesk.png)
 	
-###### Odoo Guides - v1_02 &nbsp; 2019-07-28  
+###### Odoo Guides - V2_01 &nbsp; 2019-07-31  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

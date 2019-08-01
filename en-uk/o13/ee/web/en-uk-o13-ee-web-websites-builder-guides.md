@@ -1,4 +1,4 @@
-## O13 - EE - WEB - Websites Builder &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/web/en-uk-o13-ee-web-websites-builder-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/web/es-mx-o13-ee-web-websites-builder-guides.md)
+# O13 - EE - WEB - Websites Builder &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/web/en-uk-o13-ee-web-websites-builder-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/web/es-mx-o13-ee-web-websites-builder-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)
 ### ![web](/doc/img/website.png)
 
@@ -21,5 +21,5 @@ i:Form Builder | b:MoreInfo | b:Install
 
 <br>
 
-###### Odoo Guides - v2_06 &nbsp; 2019-07-31  
+###### Odoo Guides - v3_01 &nbsp; 2019-07-31  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
