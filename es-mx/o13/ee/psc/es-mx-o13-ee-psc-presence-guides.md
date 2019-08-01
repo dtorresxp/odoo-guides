@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![psc](/doc/img/hr_presence.png)
 
-#### [New Employee Presence (O13 - EE - Odoo Mates - xx-xx - 04:10)](https://youtube.com/embed/5flykV7VCzo?autoplay=1&start=4&end=0&rel=0&nocount)<br>
+#### [New Employee Presence&nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:10)](https://youtube.com/embed/5flykV7VCzo?autoplay=1&start=4&end=0&rel=0&nocount)<br>
 
 - [Install Presence module](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m39s&end=3m50s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Apps | f:Search... presence | _(apps)_ &#x2716; | i:EmployeePresence | b:Install  
