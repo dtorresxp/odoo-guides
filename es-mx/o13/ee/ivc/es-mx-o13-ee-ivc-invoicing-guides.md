@@ -2,11 +2,11 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![ivc](/doc/img/account_invoicing.png)
 
-#### [Formateador del Website movido a Ed. de la Comunidad &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=1m11s&rel=0)  
-![apps](/doc/img/apps.png) | o:Invoicing | _a:Select PAID invoice_ | _a:Notice the green PAID ribbon on top right of preview_  
-&#x23BD;/&#x23BD;/:Invoices | _a:Select NOT PAID invoice_ | _a:Notice there is no ribbon on preview_  
-_a:Test:_  
-  - b:RegisterPayment | w:RegisterPayment | _a:Verify payment fields_ | b:Validate  
+#### [Formateador del SitioWeb movido a Ed. de la Comunidad &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=1m11s&rel=0)  
+![apps](/doc/img/apps.png) | o:Facturación | _a:Seleccionar PAID invoice_ | _a:Notice the green PAID ribbon on top right of preview_  
+&#x23BD;/&#x23BD;/:Facturas | _a:Seleccionar NOT PAID invoice_ | _a:Notice there is no ribbon on preview_  
+_a:Prueba:_  
+  - b:RegisterPayment | w:RegisterPayment | _a:Verify payment fields_ | b:Validar  
   - _a:Notice the green PAID ribbon on preview_  
 <br>
 

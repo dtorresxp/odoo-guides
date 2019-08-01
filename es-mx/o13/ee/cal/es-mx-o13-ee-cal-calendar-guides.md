@@ -3,7 +3,7 @@
 ### ![cal](/doc/img/calendar.png)
 
 #### [Vista mejorada de Calendario &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:41)](https://youtube.com/embed/F0sivQZKT54?autoplay=1&start=6&end=1m23s&rel=0)  
-![apps](/doc/img/apps.png) | o:Calendar | _a:More modern and easy dialog objects_
+![apps](/doc/img/apps.png) | o:Calendario | _a:Objetos más modernos y cuadros de diálogo más fáciles de usar_
 
 <br>
 	
