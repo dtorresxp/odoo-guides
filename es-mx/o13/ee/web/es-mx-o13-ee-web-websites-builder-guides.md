@@ -4,8 +4,9 @@
 
 #### [Agregar opción de Adjuntar en el Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:29)](https://youtube.com/embed/tZZXvJYX5qY?autoplay=1&start=0&end=0&rel=0)
    ![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | m:YoMismo &#x25BC; | o:MiCuenta | w:Documentos  
-   _a:Seleccionar Documento_ \[ i:Tareas || i:Cotizaciones || i:ÓrdenesDeVenta || i:Facturas&Cobros || Proyectos || Tareas || Horarios ]  
-   _a:Seleccionar Item_ | i:Historial | f:Mensaje | b:Adjuntar | _a:Seleccionar archivo_ | b:Enviar
+   _a:Seleccionar Documento_  
+   [ i:Tareas || i:Cotizaciones || i:ÓrdenesDeVenta || i:Facturas&Cobros || Proyectos || Tareas || Horarios ]  
+   _a:Seleccionar Item_ | i:Historial | f:Mensaje | b:Adjuntar | _a:Seleccionar archivo_ | b:Enviar  
 
 #### [Cusros y Certificaciones en-línea &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:37)](https://youtube.com/embed/Ehoe2QK4Mgg?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:SitioWeb | m:Cursos | \[ i:TodosLosCursos &nbsp;||&nbsp; i:Certificaciones ]  
@@ -17,7 +18,8 @@
 [***Sync***]: # (es-mx-o13-ce-web-websites-builder-guides)  
 ![apps](/doc/img/apps.png) | o:Apps | f:Buscar... form-builder | _(apps)_ &#x2716;  
 i:FormBuilder | b:MásInformación | b:Instalar  
-![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | b:Editar | _a:Abrir el Menu_ | _a:Arrastrar i:FormBuilder to form_ | _a:Construya la forma que necesite_ | b:Guardar  
+![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | b:Editar | _a:Abrir el Menu_  
+_a:Arrastrar i:FormBuilder to form_ | _a:Construya la forma que necesite_ | b:Guardar  
 
 <br>
 
