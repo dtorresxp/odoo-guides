@@ -3,7 +3,8 @@
 ### ![o13](/doc/img/odoo13.png)
 
 #### [Mejor manejo de Errores &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:09)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | o:Ventas | m:Órdenes | o:Cotizaciones | i:PanelDeConfiguración &#x2716; | d:EliminarLosTipsDeConfiguración? | \[ b:Eliminar || b:Descartar ]  
+![apps](/doc/img/apps.png) | o:Ventas | m:Órdenes | o:Cotizaciones | i:PanelDeConfiguración &#x2716;  
+d:EliminarLosTipsDeConfiguración? | \[ b:Eliminar || b:Descartar ]  
 _a:Seleccionar Cotización_ | s:Entrega | t:Operaciones | b:Validar | d:ErrorDeUsuario  
 b:Editar | f:Entregado | w:Abrir:MovimientosDeInventarioNoDisponible | b:Cerrar | b:VerificarDisponibilidad | b:Guardar  
 b:Validar | w:TransferirInmediatamente? | b:Aplicar | d:ErrorDeUsuario &#x2716;  
@@ -16,11 +17,13 @@ b:Validar | w:TransferirInmediatamente? | b:Aplicar | d:ErrorDeUsuario &#x2716;
 ![apps](/doc/img/apps.png) | o:Configuración | i:Desactivar el modo de desarrollador  
 
 #### [Cómo corregir el error _Unable to log message_ &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:55)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)  
-\[ m:YoMismo &#x25BC; | o:MiPerfil \] &nbsp; || &nbsp; \[ ![apps](/doc/img/apps.png) | o:Configuración | m:Usuarios&Compañías | o:Usuarios | _a:Seleccionar Usuario_ | b:Editar \]  
-f:Email | _a:Definir uno adecuado_ | b:Guardar  
+\[ m:YoMismo &#x25BC; | o:MiPerfil \] &nbsp; ||  
+&nbsp; \[ ![apps](/doc/img/apps.png) | o:Configuración | m:Usuarios&Compañías | o:Usuarios | _a:Seleccionar Usuario_ | b:Editar \]  
+f:Email | _a:Ingresar un Correo válido_ | b:Guardar  
 
 #### [Cómo generar Plantillas de Impmortación &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 00:55)](https://youtube.com/embed/Sl3-EhT4qwk?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | _a:Seleccionar o:Módulo con la lista requerida_ | b:Importar | **&#x2B73;** Importar Plantilla para o:Module | &#x25C9; Guardar Archivo | b:Aceptar  
+![apps](/doc/img/apps.png) | _a:Seleccionar o:Módulo con la lista requerida_ | b:Importar  
+**&#x2B73;** Importar Plantilla para o:Module | &#x25C9; Guardar Archivo | b:Aceptar  
 
 #### [Cómo configurar diferentes Idiomas para los Usuarios &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:11)](https://youtube.com/embed/8-UhC8VI7is?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Configuración | i:Activar el modo de desarrollador  

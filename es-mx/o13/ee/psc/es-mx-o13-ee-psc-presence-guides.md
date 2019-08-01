@@ -22,7 +22,7 @@ _a:Marcar cada i:Empleado presente con_ &#x1F5F9;
 
 - [Verificar Disponibilidad](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4s&end=31s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Empleados | _a:Filtrar empleados por Compañía/Departmento_  
-_a:Revisar disponibilidad del empleado: \[ ![presencia_yes](/doc/img/presencia_yes.png) = si || ![presencia_no](/doc/img/presencia_no.png) = no ] en la esquina superior de cada i:Empleado_  
+_a:Revisar disponibilidad del empleado: \[ ![presence_yes](/doc/img/presence_yes.png) = si || ![presence_no](/doc/img/presence_no.png) = no ] en la esquina superior de cada i:Empleado_  
 _a:Pasar el ratón sobre cada ![warning](/doc/img/warning.png) para validar que no haya nada incorrecto en la configuración de presencia del empleado_  
 
 - [Marcar Asistencia](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=2m34s&rel=0)  
@@ -37,7 +37,7 @@ _a:Comunicarse por: [ b:SMS || b:Correo ] | b:Registrar_
   - ![apps](/doc/img/apps.png) | o:Asistencia | m:ControlarAsistencias | o:Asistencias  
   - _a:Prueba_: 
     - b:Crear | _a:Seleccionar f:Empleado_ &#x25BC; | f:VerificarEn &#x1F4C5; | b:Guardar  
-    - ![apps](/doc/img/apps.png) | o:Empleados | _a:Revisar que el status de Presencia sea disponible ![presencia_yes](/doc/img/presencia_yes.png) _  
+    - ![apps](/doc/img/apps.png) | o:Empleados | _a:Revisar que el status de Presencia sea disponible ![presence_yes](/doc/img/presence_yes.png) _  
 
 - [Reportes de Asistencias](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m4s&end=1m16s&rel=0)  
   \[ ![apps](/doc/img/apps.png) | o:Asistencia | m:Reportes | o:PresenciaDelEmpleado
