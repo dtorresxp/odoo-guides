@@ -3,8 +3,9 @@
 ### ![sls](/doc/img/sale.png)
 
 #### [Configurador de Productos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
-![apps](/doc/img/apps.png) | o:Ventas | m:Productos | o:Productos | b:Editar | o:ConfigureAProducto | w:ConfigureAProducto | f:Producto &#x25BC; | _a:Seleccionar product_  
-\[ _a:Seleccionar optional features_ | b:Add | w:Configure \]&#x207F; | b:Confirmar | d:LowStockWarning | b:Ok | w:Cotizaciones | b:Guardar  
+![apps](/doc/img/apps.png) | o:Ventas | m:Productos | o:Productos | b:Editar | o:ConfigureAProducto | w:ConfigureAProducto  
+f:Producto &#x25BC; | _a:Seleccionar producto_ | \[ _a:Seleccionar características optionales_  
+b:Add | w:Configure \]&#x207F; | b:Confirmar | d:LowStockWarning | b:Ok | w:Cotizaciones | b:Guardar  
 
 <br>
 
