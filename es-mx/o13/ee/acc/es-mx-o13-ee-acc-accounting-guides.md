@@ -5,8 +5,8 @@
 #### [Ya no se usa el Modelo _account.invoice_ &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:56)](https://youtube.com/embed/Ap7IPh23rsQ?autoplay=1&start=6&end=1m&rel=0)
 ![apps](/doc/img/apps.png) | o:Configuración | i:Activar el modo de desarrollador  
 ![apps](/doc/img/apps.png) | o:Facturación | m:Clientes | o:Factura | _a:Seleccionar Factura  
-i:Cliente | d:Cliente/Vendedor | _a: f:El objeto muestra account.move_ |
-&#x1F41E; | o:EditarVista:Forma | _a f:El modelo muestra account.move_ | b:Cerrar 
+i:Cliente | d:Cliente/Vendedor | _a: f:El objeto muestra account.move_  
+&#x1F41E; | o:EditarVista:Forma | _a f:El modelo muestra account.move_ | b:Cerrar  
 
 <br>
 
