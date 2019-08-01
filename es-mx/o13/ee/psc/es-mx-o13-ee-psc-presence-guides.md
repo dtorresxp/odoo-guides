@@ -1,5 +1,6 @@
 ## O13 - EE - PSC - Presence (Asistencias)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### 
+**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
 ### ![psc](/doc/img/hr_presence.png)
 
 #### [New Employee Presence (O13 - EE - Odoo Mates - xx-xx - 04:10 - Nuevo mÃ³dulo de Asistencias)](https://youtube.com/embed/5flykV7VCzo?autoplay=1&start=4&end=0&rel=0&nocount)<br>
@@ -44,4 +45,5 @@ _a:Communicate: [ b:SMS || b:Mail ] | b:Log_
 
 <br>
 
-###### Guías Odoo - v1_02 &nbsp; 2019-07-31 [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+###### Guías Odoo - v1_02 &nbsp; 2019-07-31 
+**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

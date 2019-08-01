@@ -1,5 +1,6 @@
 ## O13 - EE - LUN - Lunch (Comidas)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### 
+**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
 ### ![lun](/doc/img/lunch.png)
 
 #### [Lunch Enhancements (O13 - EE - Odoo Mates - xx-xx - 06:29 - Mejoras a Comidas)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=4&end=0&rel=0)<br>
@@ -37,4 +38,5 @@
   
 <br>
 	
-###### Guías Odoo - v1_02 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+###### Guías Odoo - v1_02 &nbsp; 2019-07-31  
+**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

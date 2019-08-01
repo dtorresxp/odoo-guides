@@ -1,5 +1,6 @@
 ## O13 - EE - SKM - Skills Management (Competencias RRHH)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### 
+**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
 ### ![skm](/doc/img/hr_skills.png)
 
 #### [Employee Skill Management in Odoo13 (O13 - EE - Odoo Mates - xx-xx - 02:52 - Control de Competencias de Empleados)](https://youtube.com/embed/E09XNr7hhYE?autoplay=1&start=0&end=0&rel=0)  
@@ -11,4 +12,5 @@ i:Skills | \[ b:Add | w:CreateSkills | f:SkillType &#x25BC; | f:Skill &#x25BC; |
 
 <br>
 
-###### Guías Odoo - v3_02 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+###### Guías Odoo - v3_02 &nbsp; 2019-07-31  
+**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

@@ -1,5 +1,6 @@
 ## O13 - EE - POS - Point of Sale (Punto de Venta)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### 
+**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
 ### ![pos](/doc/img/point-of-sale.png)
 
 #### [Login with Employee (O13 - EE - Odoo Mates - xx-xx - 01:41 - Varios Vendedores por Terminal)](https://youtube.com/embed/Nmafl3gA8aI?autoplay=1&start=0&end=0&rel=0)  
@@ -11,4 +12,5 @@
 
 <br>
 
-###### Guías Odoo - v3_02 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+###### Guías Odoo - v3_02 &nbsp; 2019-07-31  
+**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

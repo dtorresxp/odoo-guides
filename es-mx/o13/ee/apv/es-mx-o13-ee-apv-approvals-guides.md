@@ -1,5 +1,6 @@
 ## O13 - EE - APV - Approval (Autorizaciones)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### 
+**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
 ### ![apv](/doc/img/approval.png)
 
 #### [New Approval App (O13 - EE - Odoo Mates - xx-xx - 03:19 - Nueva App de Autorizaciones)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0&nocount)<br>
@@ -27,4 +28,5 @@ _a:Authorize Request | \[ b:Approve || b:Refuse || b:Cancel ] | b:Approve | &#x2
 
 <br>
 
-###### Guías Odoo - v1_04 &nbsp; 2019-07-31  [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+###### Guías Odoo - v1_04 &nbsp; 2019-07-31  
+**[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
