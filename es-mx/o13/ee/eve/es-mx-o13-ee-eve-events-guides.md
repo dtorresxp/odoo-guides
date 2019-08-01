@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![eve](/doc/img/event.png)
 	
-###### Guías Odoo - V2_01 &nbsp; 2019-07-31  
+###### GuÃ­as Odoo - V2_01 &nbsp; 2019-07-31  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
 
 
