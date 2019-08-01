@@ -46,8 +46,8 @@ t:Arquitectura | _a:Desplazar hasta el final, antes de_ \</kanban\> | _a:Agregar
 b:Guardar  
 
 #### [Ver Reglas y Derechos fácilmente &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:12)](https://youtube.com/embed/FLKaAKfhq_Y?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | o:Configuración| i:Activar el modo de desarrollador | ![apps](/doc/img/apps.png) | Configuración | m:Usuarios&Compañías | o:Usuarios | _a:Seleccionar Usuario_  
-\[ s:Grupos || s:Derechos || s:Reglas \]  
+![apps](/doc/img/apps.png) | o:Configuración| i:Activar el modo de desarrollador  
+![apps](/doc/img/apps.png) | Configuración | m:Usuarios&Compañías | o:Usuarios | _a:Seleccionar Usuario_ | \[ s:Grupos || s:Derechos || s:Reglas \]  
 
 #### [Visibilidad opcional de Campos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:52)](https://youtube.com/embed/_lYDpTZ3Bfo?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Abrir módulo con v:list_ | _a:Abrir v:list_ | o:Productos | &#x22EE; | \[ _a:Mostrar campo opcional con &#x1F5F9;_ ]&#x207F; | _a:Hacer clic fuera de la ventana de campos_  
