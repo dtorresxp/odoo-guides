@@ -11,7 +11,7 @@ Ligas a videos y guías en _&#x03C8;Code_ para Odoo.
 
 <br>
 
-# Objetivos del Proyecto _&#x03C8;
+# Objetivos del Proyecto _&#x03C8;Code_
 
 ¡Bienvenid@s al proyecto _&#x03C8;Code_!<br>
 
