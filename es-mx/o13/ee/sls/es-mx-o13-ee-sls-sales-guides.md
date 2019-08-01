@@ -38,7 +38,8 @@
   ![apps](/doc/img/apps.png) | o:Ventas | m:Productos | o:ProgramasDePromoción | \[ b:Crear || b:Editar \]  
   i:Condiciones | _a:Generar Programa con datos de f:BasadoEnProductos_  
   f:NombreDeCampo &#x25BC; | f:Operador &#x25BC; | f:TextoDeLaRegla | _a:Verificar que sea algo así como i:nombre contiene xxx_  
-  \[ _a:Usar ![add](/doc/img/button_add.png) para agregar más condiciones_ | _a:Agregar regla como se indica anteriormente_ ]&#x207F; \] | _a:Configurar Validéz y Bonos_ | b:Guardar  
+  \[ _a:Usar ![add](/doc/img/button_add.png) para agregar más condiciones_ | _a:Agregar regla como se indica anteriormente_ ]&#x207F; \]  
+  _a:Configurar Validéz y Bonos_ | b:Guardar  
   ![apps](/doc/img/apps.png) | o:Ventas | m:Órdenes | o:Cotizaciones | b:Crear | _a:Ingresar Cotización_ | b:Guardar  
   b:ActualizarPromociones | _a:Verificar Orden_ | b:Confirmar  
 
@@ -46,7 +47,8 @@
   ![apps](/doc/img/apps.png) | o:Ventas | m:Productos | o:ProgramasDePromoción | \[ b:Crear || b:Editar \]  
   _a:Crear programa como se indica anteriormente, con f:BasadoOnProductos_  
   f:NombreDeCampo &#x25BC; | f:Operador &#x25BC; | f:TextoDeLaRegla | _a:Verificar que sea algo así como i:Puede ser Vendido es verdadero_  
-  ![apps](/doc/img/apps.png) | o:Ventas | m:Órdenes | o:Cotizaciones | b:Crear | _a:Ingresar Cotización_ | b:Guardar | b:Actualizar Promociones | _a:Verificar Orden_ | b:Confirmar   
+  ![apps](/doc/img/apps.png) | o:Ventas | m:Órdenes | o:Cotizaciones | b:Crear | _a:Ingresar Cotización_ | b:Guardar  
+  b:Actualizar Promociones | _a:Verificar Orden_ | b:Confirmar   
 
 <br>
 
