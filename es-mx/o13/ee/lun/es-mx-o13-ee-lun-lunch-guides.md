@@ -17,7 +17,8 @@
   - m:Configuración | o:CategoriasDeProducto | _a:Revisar Categories de Productos para Comida_  
   - m:Configuración | o:Alertas | _a:Revisar Alertas de Comida_
     \[ f:Activo ![active](/doc/img/active.png) | f:Nombre | f:EstáDisponibleHoy &#x1F5F9;  
-    b:Crear | w:EspecialesDeComida | f:Ubicación | f:SeOfreceEnEsaUbicaciónHasta | f:Mensaje | F:DíaDeSemana \[ &#x1F5F9;	|| &#x2610; ] | b:Guardar
+    b:Crear | w:EspecialesDeComida | f:Ubicación | f:SeOfreceEnEsaUbicaciónHasta | f:Mensaje  
+	f:DíaDeSemana \[ &#x1F5F9;	|| &#x2610; ] | b:Guardar
 
 - [Ordenar Comida](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=3m21s&end=5m14s&rel=0)  
   ![apps](/doc/img/apps.png) | o:Comida | m:MiComida | o:NuevaOrden  
