@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![apv](/doc/img/approval.png)
 
-#### [New Approval App (O13 - EE - Odoo Mates - xx-xx - 03:19](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0&nocount)<br>
+#### [New Approval App (O13 - EE - Odoo Mates - xx-xx - 03:19)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Install Approval app](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=30s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Apps | f:Search... approval | _(apps)_ &#x2716; | i:Approval | b:Install  

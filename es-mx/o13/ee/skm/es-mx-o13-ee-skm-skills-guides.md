@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![skm](/doc/img/hr_skills.png)
 
-#### [Employee Skill Management in Odoo13 (O13 - EE - Odoo Mates - xx-xx - 02:52](https://youtube.com/embed/E09XNr7hhYE?autoplay=1&start=0&end=0&rel=0)  
+#### [Employee Skill Management in Odoo13 (O13 - EE - Odoo Mates - xx-xx - 02:52)](https://youtube.com/embed/E09XNr7hhYE?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Apps | i:SkillManagement | b:Install  
 ![apps](/doc/img/apps.png) | o:Employees | v:Department | _a:Select employee_  
 i:Skills | \[ b:Add | w:CreateSkills | f:SkillType &#x25BC; | f:Skill &#x25BC; | f:SkillLevel &#x25BC; | b:Save \]&#x207F;  

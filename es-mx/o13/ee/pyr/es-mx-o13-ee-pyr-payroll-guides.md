@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![pyr](/doc/img/hr_payroll.png)
 
-#### [HR Payroll (O13 - EE - Odoo Mates - xx-xx - 03:53](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=0&end=0&rel=0&nocount)  
+#### [HR Payroll (O13 - EE - Odoo Mates - xx-xx - 03:53)](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=0&end=0&rel=0&nocount)  
 
 - [Settings](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=1m52s&end=2m14s&rel=0)  
   ![apps](/doc/img/apps.png) | o:Payroll | m:Settings  

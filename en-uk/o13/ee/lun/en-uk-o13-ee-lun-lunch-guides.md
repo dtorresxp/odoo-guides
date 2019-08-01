@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![lun](/doc/img/lunch.png)
 
-#### [Lunch Enhancements (O13 - EE - Odoo Mates - xx-xx - 06:29](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=4&end=0&rel=0)<br>
+#### [Lunch Enhancements (O13 - EE - Odoo Mates - xx-xx - 06:29)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=4&end=0&rel=0)<br>
 
 - [Install Lunch app](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=0&end=24s&rel=0)  
   ![apps](/doc/img/apps.png) | o:Apps | f:Search... lunch | _(apps)_ &#x2716; | i:Lunch | b:Install  
