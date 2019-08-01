@@ -4,7 +4,8 @@
 
 #### [Mostrar campo de Términos y Condiciones &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:51)](https://youtube.com/embed/KntH3ZHd9dE?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:SitioWeb | m:Personalizar | m:Pago | o:AceptarTérminos&Condiciones &#x1F5F9;  
-![apps](/doc/img/apps.png) | o:SitioWeb | _a:ConfirmarOrden_ | b:PagarCon | _a:Ahora bajo b:PagarAhora muestra la leyenda &#x2610; Acepto los términos y condiciones_  
+![apps](/doc/img/apps.png) | o:SitioWeb | _a:ConfirmarOrden_ | b:PagarCon | _a:Ahora bajo b:PagarAhora muestra la leyenda:_
+&#x2610; Acepto los términos y condiciones_  
 
 #### [Permitir Reordenar listas &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:23)](https://youtube.com/embed/Oe5zPbHGdjk?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | m:Tienda | m:Personalizar | m:Producto | o:ShowSortBy &#x1F5F9;  
