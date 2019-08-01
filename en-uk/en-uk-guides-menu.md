@@ -1,7 +1,7 @@
 # Odoo Guides &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/en-uk-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/es-mx-guides-menu.md)
 Odoo useful video links and _&#x03C8;Code_ guides.
 
-![Odoo useful links & guides in &#x03C8;Code](/doc/img/logo_odoo-guides_mini.jpg)
+![Odoo useful links & guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg)
 
 # Guides
 
@@ -23,7 +23,7 @@ We think videos are a nice but very inefficient way of training.  Without forcin
 
 We truly believe a partner's success in the long run depends on the speed to which they can move their info from where it is, to where it's needed.
 
-As _Euclides_ did about 2,300 years ago, we don't produce videos but select the best ones and redacted their _&#x03C8;Code_ in form of procedural -guides_.  As a bonus, our guides are bound with the exact start and end time in the video.
+As _Euclides_ did about 2,300 years ago, we don't produce videos but select the best ones and redacted their _&#x03C8;Code_ in form of procedural _guides_.  As a bonus, our guides are bound with the exact start and end time in the video.
 
 We want to respect the originator rights.  So, all our video links include the original creator name and address, honoring the _fair play_.
 
