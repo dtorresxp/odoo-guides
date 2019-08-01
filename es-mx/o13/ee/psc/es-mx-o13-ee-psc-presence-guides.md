@@ -23,7 +23,7 @@ _a:Marcar cada i:Empleado presente con_ &#x1F5F9;
 - [Verificar Disponibilidad](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4s&end=31s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Empleados | _a:Filtrar empleados por Compañía/Departmento_  
 _a:Revisar disponibilidad del empleado: \[ ![presence_yes](/doc/img/presence_yes.png) = si || ![presence_no](/doc/img/presence_no.png) = no ] en la esquina superior de cada i:Empleado_  
-_a:Pasar el ratón sobre cada ![warning](/doc/img/warning.png) para validar que no haya nada incorrecto en la configuración de presencia del empleado_  
+_a:Pasar el ratón sobre cada ![warning](/doc/img/warning.png) para validar que no haya errores en la configuración de presencia del empleado_  
 
 - [Marcar Asistencia](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=2m34s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Asistencia | o:PresenciaDelEmpleado | _a:Seleccionar Empleado_  
