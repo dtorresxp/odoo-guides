@@ -50,7 +50,7 @@ b:Guardar
 ![apps](/doc/img/apps.png) | Configuración | m:Usuarios&Compañías | o:Usuarios | _a:Seleccionar Usuario_ | \[ s:Grupos || s:Derechos || s:Reglas \]  
 
 #### [Visibilidad opcional de Campos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:52)](https://youtube.com/embed/_lYDpTZ3Bfo?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | _a:Abrir módulo con v:list_ | _a:Abrir v:list_ | o:Productos | **&#x22EE;**  
+![apps](/doc/img/apps.png) | _a:Abrir módulo con v:list_ | _a:Abrir v:list_ | o:Productos | **&#x2807;**  
 \[ _a:Mostrar campo opcional con &#x1F5F9;_ ]&#x207F; | _a:Hacer clic fuera de la ventana de campos_  
 
 <br>
