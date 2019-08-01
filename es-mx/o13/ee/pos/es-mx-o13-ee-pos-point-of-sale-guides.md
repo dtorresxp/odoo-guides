@@ -1,6 +1,6 @@
 # O13 - EE - POS - Punto de Venta &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/pos/en-uk-o13-ee-pos-point-of-sale-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/pos/es-mx-o13-ee-pos-point-of-sale-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
-### ![pos](/doc/img/point-of-sale.png)
+### ![pos](/doc/img/point_of_sale.png)
 
 #### [Múltiples Vendedores por Terminal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:41)](https://youtube.com/embed/Nmafl3gA8aI?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:PuntoDeVenta | &#x2807; | o:Configuración | f:IngresarConEmpleados &#x1F5F9;  
