@@ -6,7 +6,7 @@
 # ![o13](/doc/img/odoo13.png) &nbsp;EE
 | Icon | Description | Icon | Description | Icon | Description |
 | :---: | --- | :---: | --- | :---: | --- |
-| ![o13](/doc/img/odoo13.jpg)               | [System](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-system_wide-guides.md)          | | | |
+| ![o13](/doc/img/odoo13.jpg)               | [System](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-system-wide-guides.md)          | | | |
 | ![acc](/doc/img/account_accountant.jpg)   | [Accounting](/en-uk/o13/ee/acc/en-uk-o13-ee-acc-accounting-guides.md)       | ![apt](/doc/img/appointments.jpg)         | [Appointments](/en-uk/o13/ee/apt/en-uk-o13-ee-apt-appointments-guides.md)                   | ![apr](/doc/img/hr_appraisal.jpg)         | [Appraisal](/en-uk/o13/ee/apr/en-uk-o13-ee-apr-appraisal-guides.md)                 |
 | ![apv](/doc/img/approval.jpg)             | [Approvals](/en-uk/o13/ee/apv/en-uk-o13-ee-apv-approvals-guides.md)         | ![blg](/doc/img/website_blog.jpg)         | [Blog](/en-uk/o13/ee/blg/en-uk-o13-ee-blg-blog-guides.md)                                   | ![cal](/doc/img/calendar.jpg)             | [Calendar](/en-uk/o13/ee/cal/en-uk-o13-ee-cal-calendar-guides.md)                   |
 | ![ctc](/doc/img/contacts.jpg)             | [Contacts](/en-uk/o13/ee/ctc/en-uk-o13-ee-ctc-contacts-guides.md)           | ![crm](/doc/img/crm.jpg)                  | [CRM](/en-uk/o13/ee/crm/en-uk-o13-ee-crm-crm-guides.md)                                     | ![dsc](/doc/img/discuss.jpg)              | [Discuss](/en-uk/o13/ee/dsc/en-uk-o13-ee-dsc-discuss-guides.md)                     |

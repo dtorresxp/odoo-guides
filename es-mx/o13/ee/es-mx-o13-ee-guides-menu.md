@@ -6,7 +6,7 @@
 # ![o13](/doc/img/odoo13.png) &nbsp;EE
 | Icono | Significado | Icono | Significado | Icono | Significado |
 | :---: | --- | :---: | --- | :---: | --- |
-| ![o13](/doc/img/odoo13.jpg)               | [Globales](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-system_wide-guides.md)          | | | |
+| ![o13](/doc/img/odoo13.jpg)               | [Globales](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-system-wide-guides.md)          | | | |
 | ![acc](/doc/img/account_accountant.jpg)   | [Contabilidad](/es-mx/o13/ee/acc/es-mx-o13-ee-acc-accounting-guides.md)       | ![apt](/doc/img/appointments.jpg)         | [Citas](/es-mx/o13/ee/apt/es-mx-o13-ee-apt-appointments-guides.md)                        | ![apr](/doc/img/hr_appraisal.jpg)         | [Evaluaciones](/es-mx/o13/ee/apr/es-mx-o13-ee-apr-appraisal-guides.md)           |
 | ![apv](/doc/img/approval.jpg)             | [Autorizaciones](/es-mx/o13/ee/apv/es-mx-o13-ee-apv-approvals-guides.md)      | ![blg](/doc/img/website_blog.jpg)         | [Blog](/es-mx/o13/ee/blg/es-mx-o13-ee-blg-blog-guides.md)                                 | ![cal](/doc/img/calendar.jpg)             | [Calendario](/es-mx/o13/ee/cal/es-mx-o13-ee-cal-calendar-guides.md)              |
 | ![ctc](/doc/img/contacts.jpg)             | [Contactos](/es-mx/o13/ee/ctc/es-mx-o13-ee-ctc-contacts-guides.md)            | ![crm](/doc/img/crm.jpg)                  | [Clientes](/es-mx/o13/ee/crm/es-mx-o13-ee-crm-crm-guides.md)                              | ![dsc](/doc/img/discuss.jpg)              | [Comentarios](/es-mx/o13/ee/dsc/es-mx-o13-ee-dsc-discuss-guides.md)              |
