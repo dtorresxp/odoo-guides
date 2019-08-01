@@ -26,9 +26,10 @@ _a:Revisar disponibilidad del empleado: \[ ![presence_yes](/doc/img/presence_yes
 _a:Pasar el ratón sobre cada ![warning](/doc/img/warning.png) para validar que no haya nada incorrecto en la configuración de presencia del empleado_  
 
 - [Marcar Asistencia](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=2m34s&rel=0)  
-![apps](/doc/img/apps.png) | o:Asistencia | o:PresenciaDelEmpleado | _a:Seleccionar Empleado_ | i:Empleado | b:TiempoDef | w:Definir presencia del Empleado  
-f:DefinirTipoDeTiempo &#x25BC; \ [ Pagado || Compensado || NoPagado || HorasExtras || TrabajoDesdeCasa || Enfermo ] | f:De &#x1F4C5; | f:A &#x1F4C5; | b:Autorizar  
-_a:Comunicarse por: [ b:SMS || b:Correo ] | b:Registrar_  
+![apps](/doc/img/apps.png) | o:Asistencia | o:PresenciaDelEmpleado | _a:Seleccionar Empleado_  
+i:Empleado | b:TiempoDef | w:Definir presencia del Empleado  
+f:DefinirTipoDeTiempo &#x25BC; \[ Pagado || Compensado || NoPagado || HorasExtras || TrabajoDesdeCasa || Enfermo ]
+f:De &#x1F4C5; | f:A &#x1F4C5; | b:Autorizar | _a:Comunicarse por: [ b:SMS || b:Correo ] | b:Registrar_  
 
 - [Registrar Permisos](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=37s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Empleados | o:Reportes | o:PresenciaDelEmpleado | i:ClickParaValidarPresencia  
@@ -37,7 +38,7 @@ _a:Comunicarse por: [ b:SMS || b:Correo ] | b:Registrar_
   - ![apps](/doc/img/apps.png) | o:Asistencia | m:ControlarAsistencias | o:Asistencias  
   - _a:Prueba_: 
     - b:Crear | _a:Seleccionar f:Empleado_ &#x25BC; | f:VerificarEn &#x1F4C5; | b:Guardar  
-    - ![apps](/doc/img/apps.png) | o:Empleados | _a:Revisar que el status de Presencia sea disponible ![presence_yes](/doc/img/presence_yes.png) _  
+    - ![apps](/doc/img/apps.png) | o:Empleados | _a:Revisar que el status de Presencia sea disponible:_ ![presence_yes](/doc/img/presence_yes.png)  
 
 - [Reportes de Asistencias](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m4s&end=1m16s&rel=0)  
   \[ ![apps](/doc/img/apps.png) | o:Asistencia | m:Reportes | o:PresenciaDelEmpleado
