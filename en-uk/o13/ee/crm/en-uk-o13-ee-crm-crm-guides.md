@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![crm](/doc/img/crm.png)
 	
-###### Odoo Guides - V2_01 &nbsp; 2019-07-31  
+###### Odoo Guides - V2_01 &nbsp; 2019-08-01  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
 
 

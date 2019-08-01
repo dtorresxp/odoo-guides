@@ -8,5 +8,5 @@
 
 <br>
 	
-###### Guías Odoo - V2_01 &nbsp; 2019-07-31  
+###### Guías Odoo - V2_01 &nbsp; 2019-08-01  
 **[_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)**  

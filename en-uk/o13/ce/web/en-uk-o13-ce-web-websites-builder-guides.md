@@ -10,5 +10,5 @@ i:Form Builder | b:More Info | b:Install
 
 <br>
 	
-###### Odoo Guides - v3_04 &nbsp; 2019-07-31  
+###### Odoo Guides - v3_04 &nbsp; 2019-08-01  
 **[_&#x23CE; menu_](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md)**  

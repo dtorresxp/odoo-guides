@@ -11,5 +11,5 @@
 
 <br>
 
-###### Guías Odoo - V4_01 &nbsp; 2019-07-31  
+###### Guías Odoo - V4_01 &nbsp; 2019-08-01  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

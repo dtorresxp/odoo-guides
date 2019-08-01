@@ -10,5 +10,5 @@ _a:Use b:ViewInGoogleMaps to see it outside Odoo_
 
 <br>
 	
-###### Odoo Guides - v2_01 &nbsp; 2019-07-31  
+###### Odoo Guides - v2_01 &nbsp; 2019-08-01  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-calendar-guides-menu.md)**  

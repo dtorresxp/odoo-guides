@@ -142,5 +142,5 @@ Anyway, this technique is very useful to help people who already knows **_what_*
 
 
 <br><br>
-#### Odoo Guides - v6_01 &nbsp; 2019-07-31
+#### Odoo Guides - v6_01 &nbsp; 2019-08-01
  

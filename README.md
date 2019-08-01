@@ -13,5 +13,5 @@ Please select your desired language:
 
 
 <br><br>
-#### Odoo Guides - v6_01 &nbsp; 2019-07-31
+#### Odoo Guides - v6_01 &nbsp; 2019-08-01
  

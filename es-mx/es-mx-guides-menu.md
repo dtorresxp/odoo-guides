@@ -148,5 +148,5 @@ De cualquier modo, esta técnica es muy útil para ayudar a la gente que más o 
 
 
 <br><br>
-#### Guías Odoo - v6_01 &nbsp; 2019-07-31
+#### Guías Odoo - v6_01 &nbsp; 2019-08-01
  
