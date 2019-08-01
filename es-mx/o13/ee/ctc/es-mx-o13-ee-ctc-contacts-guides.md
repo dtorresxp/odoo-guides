@@ -5,7 +5,8 @@
 #### [Nueva vista de Mapa para socios &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:53)](https://youtube.com/embed/1y3uHWG7nDQ?autoplay=1&start=0&end=54s&rel=0)  
 ![apps](/doc/img/apps.png) | o:Contactos | _a:Seleccionar vista de Mapa_ ![view_map](/doc/img/view_map.png) | _a:Usar b:_![zoom_in](/doc/img/button_squared_add.png) || _b:_![zoom_out](/doc/img/button_squared_sub.png) to zoom map_  
 _a:Pase el ratón sobre cada ![map_location](/doc/img/map_location.png) en el mapa para ver los datos del Contacto_  
-_a:Usar b:Editar para modificar el contacto normalmente_ | _a:Usar b:VerEnGoogleMaps para ver el mapa fuera de Odoo_  
+_a:Usar b:Editar para modificar el contacto normalmente_  
+_a:Usar b:VerEnGoogleMaps para ver el mapa fuera de Odoo_  
 
 
 <br>
