@@ -47,30 +47,30 @@ If you can't find help in any -menu_, or you find any errors in our _&#x03C8;Cod
 # _&#x03C8;Code_ Brief
 
 This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
-- Example
-  - #### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
-    ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b:![view_list](/doc/img/view_list.png) |  
-    [ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts |  _a:Verify Merging_
-    w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close
-  - Video link shows video description, Odoo version & edition, Creator, no-voice & time length
-    All those signs means in Odoo 13 you've to do this steps to _merge_ your contacts
-    You can click on the top link to see the video, were you'll see how to this steps:
-    - Click on _apps_ icon
-    - Option: Click on _Contacts_ option in menu
-    - Action: Look for the Contacts total number at the top right of Odoo window
-    - Button: Click on ![view_list](/doc/img/view_list.png) button to see list view
-	- Action: Mark as &#x1F5F9; the name of a Contact you need to merge
-	- Repeat: Do this two or more times, to get Contacts to merge
-	- Button: Click on _Action_ button at the top center of Odoo window
-	- Option: Select _Merge Contacts_ option in the new menu
-	- Window: The _Merge Contacts_ window will appear and next steps will be done there
-	- Field:  Click on the down arrow in _Destination Contact_ to open list
-	- Action: Select the contact name that will be the one that remains after merging all of them
-	- Group:  Next steps are optional, select one of them:
-	  Button: Click on _Merge Contacts_ button to do the task, or
-	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on _Cancel_ button to abort
-	- Button: Click on _Close_ button to finish your task
-	- Action: Review your contacts and now you'll see only the _Resultant_ one
+- Example:
+  #### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
+  ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b:![view_list](/doc/img/view_list.png) |  
+  [ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts |  _a:Verify Merging_
+  w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close  
+  - Video link shows video description, Odoo version & edition, Creator, no-voice & time length  
+    All those signs means in Odoo 13 you've to do this steps to _merge_ your contacts  
+    You can click on the top link to see the video, were you'll see how to this steps:  
+    - Click on _apps_ icon  
+    - Option: Click on _Contacts_ option in menu  
+    - Action: Look for the Contacts total number at the top right of Odoo window  
+    - Button: Click on ![view_list](/doc/img/view_list.png) button to see list view  
+	- Action: Mark as &#x1F5F9; the name of a Contact you need to merge  
+	- Repeat: Do this two or more times, to get Contacts to merge  
+	- Button: Click on _Action_ button at the top center of Odoo window  
+	- Option: Select _Merge Contacts_ option in the new menu  
+	- Window: The _Merge Contacts_ window will appear and next steps will be done there  
+	- Field:  Click on the down arrow in _Destination Contact_ to open list  
+	- Action: Select the contact name that will be the one that remains after merging all of them  
+	- Group:  Next steps are optional, select one of them:  
+	  Button: Click on _Merge Contacts_ button to do the task, or  
+	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on _Cancel_ button to abort  
+	- Button: Click on _Close_ button to finish your task  
+	- Action: Review your contacts and now you'll see only the _Resultant_ one  
 - Guides  
   - A guide consists of a link to a video, followed by the _&#x03C8;Code_ of its procedure  
   - Every link includes:  
@@ -153,12 +153,12 @@ Anyway, this technique is very useful to help people who already knows **_what_*
 _To solve once and for all, the documentation gap_
 
 #### Actual benefits:
-  - Odoo Guides give you right & easy to follow instructions
-  - They're very useful for both Technicians and Users
-  - Short and focused
+  - Right & easy to follow instructions
+  - Very useful for both Technicians and Users
+  - Short and focused guides
   - Indexable and Searchable
-  - Work with very few symbols, mostly icons
-  - 100% screen oriented
+  - Use very few symbols, mostly icons
+  - 100% Screen oriented
   - Video friendly
   - Mobile friendly
   - Very simple syntax rules
@@ -170,13 +170,12 @@ _To solve once and for all, the documentation gap_
   - Easy to maintain
   - Easy to translate
   - Easy to upgrade actual documentation to new versions
-  - Enforce community collaboration
+  - Enforces community collaboration
   - Handwriting friendly
   - Kinda shorthand language
   - Useful for both technical and functional procedures
   - Allow to document Odoo before its new version arrives
-  - Good for any kind of apps: official, commercial, customized and private
-  - Works with any platform: ubuntu, windows, on-premise, cloud, saas, sh, etc...
+  - Good for any kind of apps: official, commercial or private
   - Royalty Free
 
 #### Short term Proposals
