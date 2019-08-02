@@ -48,7 +48,8 @@ b:Save
 \[ s:groups || s:access rights || s:record rules \]  
 
 #### [Optional Field Visibility &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:52)](https://youtube.com/embed/_lYDpTZ3Bfo?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | _a:Open module with v:list_ | _a:Open v:list_ | o:Products | &#x22EE; | \[ _a:Show optional field with &#x1F5F9;_ ]&#x207F; | _a:Click outside fields window_  
+![apps](/doc/img/apps.png) | _a:Open module with v:list_ | _a:Open v:list_ | o:Products | &nbsp;**&#x2807;** |  
+\[ _a:Show optional field with_ &#x1F5F9; ]&#x207F; | _a:Click outside fields window_  
 
 <br>
 
