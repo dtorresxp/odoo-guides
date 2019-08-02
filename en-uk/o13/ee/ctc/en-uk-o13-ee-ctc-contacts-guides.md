@@ -7,8 +7,14 @@
 _a:Hover on every ![map_location](/doc/img/map_location.png) on map to see contact's data_ | _a:Use b:Edit to modify contact as usual_ |  
 _a:Use b:ViewInGoogleMaps to see it outside Odoo_  
 
+#### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
+![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b:![view_list](/doc/img/view_list.png) |  
+[ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts |   
+w:MergeContacts | f:DestinationContact &#x25BC; | _Select resultant contact_ | b:MergeContacts | b:Close
+
 
 <br>
 	
 ###### Odoo Guides - v2_01 &nbsp; 2019-08-01  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-calendar-guides-menu.md)**  
+
