@@ -71,7 +71,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Button**: Click on _Merge Contacts_ _**button**_ to do the _merge_, or  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on _Cancel_ _**button**_ to abort  
     - **Button**: Click on _Close_ _**button**_ to finish your task  
-    - **Action**: Finally, review your _**merged**_ contacts and now you'll see only the _Resultant_ one  
+    - **Action**: Finally, review your _**merged**_ contacts and now you'll see only the _Resultant_ one<br><br>  
 - Guides  
   - A guide consists of a link to a video, followed by the _&#x03C8;Code_ of its procedure  
   - Every link includes:  
@@ -83,7 +83,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
     - Time lenght  
   - When a video contains several procedures, you'll see a bulleted list below the initial (full video) link  
   - Every bullet has its own video link, but instead it only links to related procedure inside the video  
-  - Every procedure link is followed by its _&#x03C8;Code_  
+  - Every procedure link is followed by its _&#x03C8;Code_<br><br>  
 - Steps
   - The main component of the _&#x03C8;Code_ guide is _STEP_, an atomic task to do in the screen  
   - Every step is separated from others by the _PIPE_ character |  
@@ -100,7 +100,10 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
     - Other type of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window_
     - Bellow is the full list of symbols used in all guides and their meanings
 
-####
+<br>
+
+# _&#x03C8;Code_ Symbols
+
 [***Sync***]: # (en-uk-o13-ce-guides-menu)  
 [***Sync***]: # (en-uk-o13-ee-guides-menu)  
 
@@ -217,5 +220,5 @@ _To solve once and for all, the documentation gap_
 
 
 <br><br>
-#### Odoo Guides - v6_01 &nbsp; 2019-08-01
+#### Odoo Guides - v6_02 &nbsp; 2019-08-02
  
