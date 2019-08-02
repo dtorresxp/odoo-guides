@@ -20,7 +20,7 @@ Creamos un pseudo lenguaje simple llamado _&#x03C8;Code_, para ayudar a la gente
 
 Es un esfuerzo comunitario, diseñado para reducir la brecha entre los gurús y los que están comenzando a aprender Odoo.  A pesar del gran esfuerzo que Odoo ha estado haciendo en estos últimos años para documentar su sistema, creemos que el volúmen de desarrollo y la llegada de nuevar versiones cada año (y eso sin mencionar todas las localizaciones en cada idioma), requiere un enfoque totalmente nuevo.
 
-Creemos que los videos son una forma muy bonita pero muy ineficiente de capacitación.  Sin pretender forzar a los _milenials_, realmente esperamos que los _centenials_ retomen la idea de leer... como lo han venido haciendo las generaciones precedentes por largo tiempo.  Mientras alguien no invente una interfaz como la de la película Matrix, que nos permita aprender cualquier cosa en un par de segundos, necesitamos una forma más rápida para localizar el procedimiento correcto y resolver un problema.
+Creemos que los videos son una forma muy bonita, pero muy ineficiente de capacitación.  Sin pretender forzar a los _milenials_, realmente esperamos que los _centenials_ retomen la idea de leer... como lo han venido haciendo las generaciones precedentes por largo tiempo.  Mientras alguien no invente una interfaz como la de la película Matrix, que nos permita aprender cualquier cosa en un par de segundos, necesitamos una forma más rápida para localizar el procedimiento correcto y resolver un problema.
 
 Estamos convencidos de que el éxito de una empresa de servicios de Odoo a largo plazo depende de la velocidad con que puedan mover su información de donde está, a donde se necesita.
 
