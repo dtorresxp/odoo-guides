@@ -98,6 +98,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
     - _**_a:_**_ &nbsp;means _ACTION_ and is the only one that's not atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or were in another guide  
     - **_i:_** &nbsp;&nbsp;means _ITEM_ which represents any other object that's not in this list  
     - Other type of items used on screen are: _**b:** Button, **d:** Dialog, **f:** Field, **l:** Link, **m:** Menu, **o:** Option, **s:** SmartButton, **t:** Tab, **v:** View and **w:** Window_
+    - In many languages the item's name initial letter will not be the same as the English one.  We decided to maintain the same letter accross all languages as we're using them as icons and this way it's easier to read translations (not to mention _half-way_ translations). 
     - Bellow is the full list of symbols used in all guides and their meanings
 
 <br>
