@@ -56,7 +56,7 @@ A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_
 ![apps](/doc/img/apps.png) | o:Contactos | _a:Ver el contador de Contactos en la ventana de Odoo_ | b: ![view_list](/doc/img/view_list.png) |  
 [ _a:Seleccionar Contacto to Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos |  _a:Verify Merging_  
 w:CombinarContactos | f:ContactoDeDestino &#x25BC; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] | b:Cerrar<br><br>  
-  - La liga de video muestra su Descripción, Versión y edición de Odoo, Nombre del creador, Idioma y País (o sin voz, cokmo en este caso) y su duración.  Abajo de la liga aparecen unas sencillas instruccioes.  
+  - La liga de video muestra su Descripción, Versión y edición de Odoo, Nombre del creador, Idioma y País (o sin voz, como en este caso) y su duración.  Abajo de la liga aparecen unas sencillas instruccioes.  
   - Estos son todos los pasos que tienes que realizar en Odoo 13 para _Combinar_ Contactos  
   - Puedes hacer clic directamente en la liga para ver el video (¡considera que este es _bastante corto_!)  
   - Pero te recomendamos que primero leas los tres renglones de instrucciones para saber que tiens que hacer.  Cuando vayas adquiriendo más experiencia en Odoo ya no vas a necesitar ver todo el video, sino que vas a comprender fácilmente lo que dicen la guía:  
