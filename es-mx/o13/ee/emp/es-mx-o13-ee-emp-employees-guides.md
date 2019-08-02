@@ -3,8 +3,8 @@
 ### ![emp](/doc/img/hr_employees.png)
 
 #### [Crear Empleados al dar de alta Usuarios &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:18)](https://youtube.com/embed/fhaB5pnTp9Q?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | o:Configuración | m:Usuarios&Compañías | o:Usuarios | b:Crear | _a:Capturar datos del Usuario_ | b:Guardar  
-d:No olvide crear el empleado ligado al usuario.  Haga clic aquí para crearlo  
+![apps](/doc/img/apps.png) | o:Configuración | m:Usuarios&Compañías | o:Usuarios | b:Crear | _a:Capturar datos del Usuario_ | b:Guardar |  
+d:No olvide crear el empleado ligado al usuario.  Haga clic aquí para crearlo |  
 w:CrearEmpleado | _a:Capturar datos del Empleado_ | b:Guardar  
 
 <br>

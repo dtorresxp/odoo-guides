@@ -5,40 +5,40 @@
 #### [Nueva app de Control de Asistencias &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:10)](https://youtube.com/embed/5flykV7VCzo?autoplay=1&start=4&end=0&rel=0&nocount)<br>
 
 - [Instalar Presencia module](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m39s&end=3m50s&rel=0)  
-![apps](/doc/img/apps.png) | o:Apps | f:Buscar... presence | _(apps)_ &#x2716; | i:PresenciaDelEmpleado | b:Instalar  
+  ![apps](/doc/img/apps.png) | o:Apps | f:Buscar... presence | _(apps)_ &#x2716; | i:PresenciaDelEmpleado | b:Instalar  
 
 - [Configuración](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=3m11s&end=3m31s&rel=0)  
-  - ![apps](/doc/img/apps.png) | o:Configuración | o:Empleados | &#x1F5F9; f:ControlDePresenciaDeEmpleados  
-  - _a:Definir presencia según:_  
-    - f:Ingreso a Odoo (Status del Usuario en el Chat)  
-    - \[ f:Cantidad de Correos enviados | f:MínimoDeCorreosEnviados ]  
-    - \[ f:DirecciónIP | [f:ListaDeIPs (separadas por comas) ]  
-    - f:MóduloDeAsistencia_  
+  - ![apps](/doc/img/apps.png) | o:Configuración | o:Empleados | &#x1F5F9; f:ControlDePresenciaDeEmpleados |  
+  - _a:Definir presencia según:_ |  
+    - f:Ingreso a Odoo (Status del Usuario en el Chat) |  
+    - \[ f:Cantidad de Correos enviados | f:MínimoDeCorreosEnviados ] |  
+    - \[ f:DirecciónIP | \[f:ListaDeIPs (separadas por comas) ] |  
+    - f:MóduloDeAsistencia_ |  
   - b:Guardar  
 
 - [Establecer Asistencia](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=2m32s&end=2m56s&rel=0)  
-![apps](/doc/img/apps.png) | o:Empleados | m:Reportes | o:PresenciaDelEmpleado  
-_a:Marcar cada i:Empleado presente con_ &#x1F5F9;  
+  ![apps](/doc/img/apps.png) | o:Empleados | m:Reportes | o:PresenciaDelEmpleado |  
+  _a:Marcar cada i:Empleado presente con_ &#x1F5F9;  
 
 - [Verificar Disponibilidad](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=4s&end=31s&rel=0)  
-![apps](/doc/img/apps.png) | o:Empleados | _a:Filtrar empleados por Compañía/Departmento_  
-_a:Revisar disponibilidad del empleado: \[ ![presence_yes](/doc/img/presence_yes.png) = si || ![presence_no](/doc/img/presence_no.png) = no ] en la esquina superior de cada i:Empleado_  
-_a:Pasar el ratón sobre cada ![warning](/doc/img/warning.png) para validar que no haya errores en la configuración de presencia del empleado_  
+  ![apps](/doc/img/apps.png) | o:Empleados | _a:Filtrar empleados por Compañía/Departmento_ |  
+  _a:Revisar disponibilidad del empleado: \[ ![presence_yes](/doc/img/presence_yes.png) = si || ![presence_no](/doc/img/presence_no.png) = no ] en la esquina superior de cada i:Empleado_ |  
+  _a:Pasar el ratón sobre cada ![warning](/doc/img/warning.png) para validar que no haya errores en la configuración de presencia del empleado_ |  
 
 - [Marcar Asistencia](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=2m34s&rel=0)  
-![apps](/doc/img/apps.png) | o:Asistencia | o:PresenciaDelEmpleado | _a:Seleccionar Empleado_  
-i:Empleado | b:TiempoDef | w:Definir presencia del Empleado  
-f:DefinirTipoDeTiempo &#x25BC; \[ Pagado || Compensado || NoPagado || HorasExtras || TrabajoDesdeCasa || Enfermo ]  
-f:De &#x1F4C5; | f:A &#x1F4C5; | b:Autorizar | _a:Comunicarse por: [ b:SMS || b:Correo ] | b:Registrar_  
+  ![apps](/doc/img/apps.png) | o:Asistencia | o:PresenciaDelEmpleado | _a:Seleccionar Empleado_ |  
+  i:Empleado | b:TiempoDef | w:Definir presencia del Empleado |  
+  f:DefinirTipoDeTiempo &#x25BC; \[ Pagado || Compensado || NoPagado || HorasExtras || TrabajoDesdeCasa || Enfermo ] |  
+  f:De &#x1F4C5; | f:A &#x1F4C5; | b:Autorizar | _a:Comunicarse por: [ b:SMS || b:Correo ] | b:Registrar_ |  
 
 - [Registrar Permisos](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m23s&end=37s&rel=0)  
-![apps](/doc/img/apps.png) | o:Empleados | o:Reportes | o:PresenciaDelEmpleado | i:ClickParaValidarPresencia  
+  ![apps](/doc/img/apps.png) | o:Empleados | o:Reportes | o:PresenciaDelEmpleado | i:ClickParaValidarPresencia  
 
 - [Controlar Asistencias](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=37s&end=1m4s&rel=0)  
-  - ![apps](/doc/img/apps.png) | o:Asistencia | m:ControlarAsistencias | o:Asistencias  
-  - _a:Prueba_: 
-    - b:Crear | _a:Seleccionar f:Empleado_ &#x25BC; | f:VerificarEn &#x1F4C5; | b:Guardar  
-    - ![apps](/doc/img/apps.png) | o:Empleados | _a:Revisar que el status de Presencia sea disponible:_ ![presence_yes](/doc/img/presence_yes.png)  
+  - ![apps](/doc/img/apps.png) | o:Asistencia | m:ControlarAsistencias | o:Asistencias |  
+  - _a:Prueba_: |  
+    - b:Crear | _a:Seleccionar f:Empleado_ &#x25BC; | f:VerificarEn &#x1F4C5; | b:Guardar |  
+    - ![apps](/doc/img/apps.png) | o:Empleados | _a:Revisar que el status de Presencia sea disponible:_ ![presence_yes](/doc/img/presence_yes.png)
 
 - [Reportes de Asistencias](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=1m4s&end=1m16s&rel=0)  
   \[ ![apps](/doc/img/apps.png) | o:Asistencia | m:Reportes | o:PresenciaDelEmpleado

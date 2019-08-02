@@ -11,27 +11,27 @@
   ![apps](/doc/img/apps.png) | o:FieldService | f:Search... | _(MyTasks)_ &#x2716; | _(ToDo)_ &#x2716; | _(Future)_ &#x2716; | m:Planning | \[ o:ByUser || o:ByProject ]  
 
 - [Create Task](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=32s&end=1m18s&rel=0)  
-  ![apps](/doc/img/apps.png) | o:FieldService | b:Create | f:Title | f:Customer &#x25BC; | _a:Type eMail with Task description_  
-  f:WorksheetTemplate | \[ &#x25BC; _a:Select Template_ || ![show_catalog](/doc/img/show_catalog.png) | w:Open:WorksheetTemplate | f:Name | b:Save ]  
-  | f:Project | f:Date &#x1F4C5; | f:AssignedTo | b:Save  
+  ![apps](/doc/img/apps.png) | o:FieldService | b:Create | f:Title | f:Customer &#x25BC; | _a:Type eMail with Task description_ |  
+  f:WorksheetTemplate | \[ &#x25BC; _a:Select Template_ || ![show_catalog](/doc/img/show_catalog.png) | w:Open:WorksheetTemplate | f:Name | b:Save ] |  
+  f:Project | f:Date &#x1F4C5; | f:AssignedTo | b:Save  
   
 - [Start Service](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=1m19s&end=1m36s&rel=0)  
   ![apps](/doc/img/apps.png) | o:FieldService | m:MyTasks | _a:Select Task_ | b:Start | _a:See started Timer in upper-right corner_  
   
 - [Creating Worksheet](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=1m35s&end=4m2s&rel=0)  
-  _a:Start Task_ | s:Worksheet | \[ b:Create | f:Description | f:Duration | b:Save ]&#x207F;  
-  &#x23BD;/&#x23BD;/:StartedTask | _a:See s:Time showing total registered time_ | s:Worksheet  
-  f:ContactPerson | f:InterventionType &#x25BC; \[ Functional || Technical ]  
-  f:Comments | f:WorkerSignature | f:CustomerSignature | b:Save  
-  s:Products | \[ _a:Add products to task \[ + || - ] ]&#x207F;_ | &#x23BD;/&#x23BD;/:StartedTask | _a:See s:Products showing Totals_  
-  t:LogNote | _a:Enter f:Log text_ | b:Log  
-  t:SendMessage | _a:Enter f:MessageText for followers of i:StartedTask_ | b:Send  
+  _a:Start Task_ | s:Worksheet | \[ b:Create | f:Description | f:Duration | b:Save ]&#x207F; |  
+  &#x23BD;/&#x23BD;/:StartedTask | _a:See s:Time showing total registered time_ | s:Worksheet |  
+  f:ContactPerson | f:InterventionType &#x25BC; \[ Functional || Technical ] |  
+  f:Comments | f:WorkerSignature | f:CustomerSignature | b:Save |  
+  s:Products | \[ _a:Add products to task \[ + || - ] ]&#x207F;_ | &#x23BD;/&#x23BD;/:StartedTask | _a:See s:Products showing Totals_ |  
+  t:LogNote | _a:Enter f:Log text_ | b:Log |  
+  t:SendMessage | _a:Enter f:MessageText for followers of i:StartedTask_ | b:Send |  
   b:Stop | w:Log | f:Time | f:Description | b:Save  
   
 - [Creating Quotations & Invoices](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=4m7s&end=5m&rel=0)  
-  _a:Select Task_ | b:NewQuotation | \[ o:AddAProduct | f:Product &#x25BC; | f:Quantity ]&#x207F; | b:Save  
-  _a:See s:Quotations showing number of quotations_ | b:Validate  
-  b:CreateInvoice | w:Invoicing | f:CreateInvoice \[ &#x25C9; Regular || Percentage || Ammount ]  
+  _a:Select Task_ | b:NewQuotation | \[ o:AddAProduct | f:Product &#x25BC; | f:Quantity ]&#x207F; | b:Save |  
+  _a:See s:Quotations showing number of quotations_ | b:Validate |  
+  b:CreateInvoice | w:Invoicing | f:CreateInvoice \[ &#x25C9; Regular || Percentage || Ammount ] |  
   b:CreateAndViewInvoice | w:InvoicePreview | b:Validate  
 
 <br>

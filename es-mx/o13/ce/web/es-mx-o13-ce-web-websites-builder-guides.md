@@ -3,11 +3,11 @@
 ### ![web](/doc/img/website.png)
 
 #### [El Form Builder de Sitios Web se movió a la Ed. de la Comunidad &nbsp;&nbsp; (O13 - CE - Odoo Mates - xx-xx - 01:19)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=0&rel=0)  
-[***Sync***]: # (es-mx-o13-ee-web-websites-builder-guides)  
-![apps](/doc/img/apps.png) | o:Apps | f:Buscar... form-builder | _(apps)_ &#x2716;  
-i:Form Builder | b:Más Info | b:Instalar  
-![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | b:Editar  
-_a:Desplazar menú hasta abajo_ | _a:Arrastrar i:FormBuilder a la forma_ | _a:Construir la forma como se requiera_  
+[***Sync***]: # (es-mx-o13-ee-web-websites-builder-guides) |  
+![apps](/doc/img/apps.png) | o:Apps | f:Buscar... form-builder | _(apps)_ &#x2716; |  
+i:Form Builder | b:Más Info | b:Instalar |  
+![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | b:Editar |  
+_a:Desplazar menú hasta abajo_ | _a:Arrastrar i:FormBuilder a la forma_ | _a:Construir la forma como se requiera_ |  
 b:Guardar  
 
 <br>

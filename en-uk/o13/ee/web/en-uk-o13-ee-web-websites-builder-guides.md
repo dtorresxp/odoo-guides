@@ -3,8 +3,8 @@
 ### ![web](/doc/img/website.png)
 
 #### [Add Attachment Option in Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:29)](https://youtube.com/embed/tZZXvJYX5qY?autoplay=1&start=0&end=0&rel=0)
-   ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | m:MySelf &#x25BC; | o:MyAccount | w:Documents  
-   _a:Select Document_ \[ i:Tasks || i:Quotations || i:SalesOrders || i:Invoices&Bills || Projects || Tasks || Timesheets ]  
+   ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | m:MySelf &#x25BC; | o:MyAccount | w:Documents |  
+   _a:Select Document_ \[ i:Tasks || i:Quotations || i:SalesOrders || i:Invoices&Bills || Projects || Tasks || Timesheets ] |  
    _a:Select Item_ | i:History | f:Message | b:Attachment | _a:Select file_ | b:Send
 
 #### [Online Course/Certifications &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:37)](https://youtube.com/embed/Ehoe2QK4Mgg?autoplay=1&start=0&end=0&rel=0)  
@@ -14,8 +14,8 @@
 ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | m:MySelf | o:MyAccount | i:Timesheets
 
 #### [Website Form Builder Moved to CE &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:19)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=0&rel=0)  
-[***Sync***]: # (en-uk-o13-ce-web-websites-builder-guides) | ![apps](/doc/img/apps.png) | o:Apps | f:Search... form-builder | _(apps)_ &#x2716;  
-i:Form Builder | b:MoreInfo | b:Install  
+[***Sync***]: # (en-uk-o13-ce-web-websites-builder-guides) | ![apps](/doc/img/apps.png) | o:Apps | f:Search... form-builder | _(apps)_ &#x2716; |  
+i:Form Builder | b:MoreInfo | b:Install |  
 ![apps](/doc/img/apps.png) | o:Website | b:GotoWebsite | b:Edit | _a:Slide down Menu_ | _a:Drag i:FormBuilder to form_ | _a:Build form accordingly_ | b:Save  
 
 <br>
