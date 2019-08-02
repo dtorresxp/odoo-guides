@@ -45,21 +45,23 @@ Conforme el proyecto vaya creciendo, se podrá agregar un _menú_ antes de _guí
 
 Si no puedes encontrar lo que buscas en ningún _menú_, o si encuentras algún error en nuestro _&#x03C8;Code_, por favor no dudes en enviarnos un correo mencionando tu preocupación de manera razonable... de preferencia con una liga a un video donde se explique mejor el tema.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
 
+Los iconos de las traducciones (banderas) aparecen en el orden en que han sido creadas.
+
 <br>
 
 # Explicación sencilla del _&#x03C8;Code_
 
 A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_.  Sirve para mostarte los pasos necesarios para realizar tu tarea en orden correcto y ayudarte a encontrar el objeto en pantalla donde hay que realizar cada paso:
 
-- Ejemplo típico:
-  #### [Combinar Contactos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&Inicio=0&end=0&rel=0)  
-  ![apps](/doc/img/apps.png) | o:Contactos | _a:Ver el contador de Contactos en la ventana de Odoo_ | b: ![view_list](/doc/img/view_list.png) |  
-  [ _a:Seleccionar Contacto to Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos |  _a:Verify Merging_  
-  w:CombinarContactos | f:ContactoDeDestino &#x25BC; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] | b:Cerrar<br><br>  
-  - La liga de video muestra su Descripción, Versión y edición de Odoo, Nombre del creador, Idioma y País (o sin voz, cokmo en este caso) y su duración.  Abajo de la liga aparecen unas sencillas instruccioes.  
+### Ejemplo típico
+#### [Combinar Contactos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&Inicio=0&end=0&rel=0)  
+![apps](/doc/img/apps.png) | o:Contactos | _a:Ver el contador de Contactos en la ventana de Odoo_ | b: ![view_list](/doc/img/view_list.png) |  
+[ _a:Seleccionar Contacto to Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos | w:CombinarContactos | f:ContactoDeDestino &#x25BC; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] |  
+b:Cerrar | _a:Vericar Contactos combinados_<br><br>  
+  - La liga de video muestra su Descripción, Versión y edición de Odoo, Nombre del creador, Idioma y País (o sin voz, como en este caso) y su duración.  Abajo de la liga aparecen unas sencillas instruccioes.  
   - Estos son todos los pasos que tienes que realizar en Odoo 13 para _Combinar_ Contactos  
   - Puedes hacer clic directamente en la liga para ver el video (¡considera que este es _bastante corto_!)  
-  - Pero te recomendamos que primero leas los tres renglones de instrucciones para saber que tiens que hacer.  Cuando vayas adquiriendo más experiencia en Odoo ya no vas a necesitar ver todo el video, sino que vas a comprender fácilmente lo que dicen la guía:  
+  - Pero te recomendamos que primero leas la guía para saber lo que tienes que hacer.  Cuando vayas adquiriendo más experiencia en Odoo ya no vas a necesitar ver todo el video, sino que vas a comprender fácilmente lo que dicen la guía:  
     - **Inicio**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has clic en el icono de _**apps**_ para _**iniciar**_ este procedimiento  
     - **Opción**: &nbsp;&nbsp;Has clic en _Contactos_ _**Opción**_ en el menú  
     - **Acción**: &nbsp;&nbsp;&nbsp;Busca el _**contador**_ de Contactos en la parte superior derecha de la ventana de Odoo  
@@ -75,8 +77,9 @@ A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Botón**: Has clic en el _**botón**_ _Combinar Contactos_ para _Combinarlos_, o  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has clic en el _**botón**_ _Cancelar_ para cancelar la combinación  
     - **Botón**: &nbsp;&nbsp;&nbsp;&nbsp;Has clic en el _**botón**_ _Cerrar_ para finalizar el procedimiento  
-    - **Acción**: &nbsp;&nbsp;&nbsp;Al terminar, puedes revisar tus Contactos _combinados_, ya sólo aparecerá el nombre del _resultante_<br><br>  
-- Guías
+    - **Acción**: &nbsp;&nbsp;&nbsp;Al terminar, puedes revisar tus Contactos _combinados_, ya sólo aparecerá el nombre del _resultante_
+    
+### Guías
   - Cada guía consta de una liga a un video, seguida del _&#x03C8;Code_ de su procedimiento
   - Cada liga incluye:  
     - Nombre del video
@@ -88,7 +91,8 @@ A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_
   - Cuando un video contiene varios procedimientos, se mostrarán en forma de lista debajo de la liga al video completo
   - Cada procedimiento tendrá su propia liga, pero sólo apuntará al procedimiento indicado dentro del video
   - Después de cada liga al procedimiento, seguirá su _&#x03C8;Code_
-- Pasos
+  
+### Pasos
   - El elemento fundamental de una guía de _&#x03C8;Code_ es el _PASO_, una tarea aislada a realizar dentro de la pantalla.  
   - Cada paso se separa de los demás mediante una _BARRA VERTICAL_ |  
   - Los pasos relacionados normalmente aparecen en el mismo _RENGLÓN_, a menos que no quepan y se necesiten separar en varios renglones  
@@ -102,11 +106,13 @@ A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_
     - _**_a:_**_ &nbsp;significa _ACTION_ _(ACCIÓN)_ y es el único elemento que no se refiere a un solo paso.  Corresponde a una tarea compleja de varios pasos que se indican como si fuera uno solo, para facilitar la lectura de la guía, usualmente porque ya fueron explicados previamente o porque se explican en otra guía
 	- **_i:_** &nbsp;&nbsp;significa _ITEM_ _(ELEMENTO)_ y representa a cualquier objeto que no esté en esta lista
     - Los otros tipos de elemento usados en pantalla son: _**b:** Botón (Button), **d:** Cuadro de Diálogo (Dialog), **f:** Campo (Campo), **l:** Hipervínculo (Link), **m:** Menú (Menu), **o:** Opción (Option), **s:** Botón Inteligente (SmartButton), **t:** Pestaña (Tab), **v:** Vista (View) y **w:** Ventana (Ventana)_.
-    - In many languages the item's name initial letter will not be the same as English.  We decided to maintain the same letter accross translations as we're using them as icons.  This way it's easier to translate guides and use _half-way_ Odoo translations.  
+    - En muchos lenguajes, la inicial del tipo de objeto en pantalla no es la misma que la del inglés.  Decidimos mantener las mismas letras para todas las traducciones, ya que las estamos usando como íconos.  De ese modo es más fácil traducir las guías y utilizar traducciones incompletas de Odoo.  
     - A continuación se muestra la lista completa de símbolos que se utilizan en las guías y su significado.
 
+<br>
 
-####
+# Símbolos usados en _&#x03C8;Code_
+
 [***Sync***]: # (es-mx-o13-ce-guides-menu)  
 [***Sync***]: # (es-mx-o13-ee-guides-menu)  
 

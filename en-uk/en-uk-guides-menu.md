@@ -42,6 +42,8 @@ As our project continues growing, -menu_ could be added before _guide_, but all 
 
 If you can't find help in any -menu_, or you find any errors in our _&#x03C8;Code_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
 
+Language icons (flags) are in the order of translation creation.
+
 <br>
 
 # _&#x03C8;Code_ Brief
@@ -50,12 +52,11 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
 - Basic example:
   #### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
   ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b: ![view_list](/doc/img/view_list.png) |  
-  [ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts |  _a:Verify Merging_
-  w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close<br><br>  
+  [ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts | w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close | _a:Verify Merging_<br><br>  
   - Video link shows Video description, Odoo version & edition, Creator name, language & country (or without voice, like this case) and Video lenght.  Then you can see a few instructions below the link.
   - These are all steps you need to do in Odoo 13 to _merge_ contacts  
   - You can go directly to the link to see the video (and notice this is a _very_ short one!)
-  - But first, we recomend you to read the nest three rows to get all you need do do at once.  With enough experience, you will not need to see the full video but just reading the guide, like this:  
+  - But first, we recomend you to read the guide to get all you need do do at once.  With enough experience, you will not need to see the full video but just reading the guide, like this:  
     - **Start**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click on _**apps**_ icon to _**start**_ this procedure
     - **Option**: &nbsp;&nbsp;Click on _Contacts_ _**option**_ in menu  
     - **Action**: &nbsp;&nbsp;&nbsp;Look for the Contacts _**total**_ number at the top right of Odoo window  
