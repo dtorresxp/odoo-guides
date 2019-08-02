@@ -18,7 +18,7 @@ _a:Install modules_ \[ Coupons & Promotions || Sale Coupon || Sale Coupon Delive
 ![apps](/doc/img/apps.png) | o:Sales | m:Configuration | o:Settings | i:Pricing | f:Coupons&Promotions &#x1F5F9; |  
 \[ &#x1F872; Promotion Programs || Coupon Programs \]
 
-- [Discount Coupon](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=31&end=2m7s&rel=0)  
+- [Discount Coupon](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=31&end=127&rel=0)  
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Coupon Programs | \[ b:Create || b:Edit \] |  
 f:ProgramName | i:Conditions | i:Validity | i:Rewards: Discount | b:Save | b:Generate Coupon |  
 w:NumberoOfCouponsToGenerate | f:Generation Type | f:NumberOfCoupons | b:Generate Coupons |  
@@ -27,14 +27,14 @@ w:CouponName | s:Coupons | _a:Select coupon_ | _a:Copy valid coupon number_ |
 b:Apply Coupon | w:EnterCouponCode | f:Coupon | _a:Paste valid coupon number_ | b:Apply Coupon  |  
 w:Quotation Number | _a:Verify discount appearing as a new negative detail row_
 
-- [Free Product Coupon](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=2m7s&end=3m48s&rel=0)  
+- [Free Product Coupon](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=127&end=228&rel=0)  
 _a:Create Promotion Program as above with Rewards: Free Product_ | _a:Copy valid coupon number_|  
 d:The reward products should be in the sales order lines to apply the discount |  
 _a:Open quotation_ | _a:Add the free product_ | b:Save |  
 b:Apply Coupon | w:Enter Coupon Code | f:Coupon | _a:Paste valid coupon number_ | b:Apply Coupon  |  
 _a:Verify discount appearing as a new negative detail row_  
 
-- [Buy 3 & get one free Promotion](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=3m48s&end=5m20s&rel=0)  
+- [Buy 3 & get one free Promotion](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=228&end=320&rel=0)  
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Promotion Programs | \[ b:Create || b:Edit \] |  
 i:Conditions | _a:Generate Program with f:BasedOnProducts data_ |  
 f:FieldName &#x25BC; | f:Operator &#x25BC; | f:RuleText | _a:Verify it's something like i:name contains xxx_ |  
@@ -42,7 +42,7 @@ f:FieldName &#x25BC; | f:Operator &#x25BC; | f:RuleText | _a:Verify it's somethi
 ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | _a:Enter quotation_ | b:Save |  
 b:Update Promotions | _a:Verify order_ | b:Confirm   
 
-- [10% off in orders Promotion](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=5m20s&end=0&rel=0)  
+- [10% off in orders Promotion](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=320&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Promotion Programs | \[ b:Create || b:Edit \] | _a:Create program as above with f:BasedOnProducts_ |  
 f:FieldName &#x25BC; | f:Operator &#x25BC; | f:RuleText | _a:Verify it's something like i:Can be Sold is set (true)_ |  
 ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | _a:Enter Quotation_ | b:Save | b:Update Promotions | _a:Verify order_ | b:Confirm   

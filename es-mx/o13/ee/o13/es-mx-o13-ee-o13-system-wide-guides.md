@@ -11,9 +11,9 @@ b:Validar | w:TransferirInmediatamente? | b:Aplicar | d:ErrorDeUsuario &#x2716;
 
 #### [Cómo Activar el Modo de Desarrollador &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 00:52)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=0&rel=0&nocount)  
 
-- [Activar (Activar)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=18s&rel=0)  
+- [Activar (Activar)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=18&rel=0)  
 ![apps](/doc/img/apps.png) | o:Configuración | i:Activar el modo de desarrollador  
-- [Desactivar (Desactivar)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=24&end=39s&rel=0)  
+- [Desactivar (Desactivar)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=24&end=39&rel=0)  
 ![apps](/doc/img/apps.png) | o:Configuración | i:Desactivar el modo de desarrollador  
 
 #### [Cómo corregir el error _Unable to log message_ &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:55)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)  

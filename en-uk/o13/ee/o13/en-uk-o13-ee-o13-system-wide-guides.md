@@ -10,10 +10,10 @@ b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;
 
 #### [How to Activate Developer Mode &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 00:52)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=0&rel=0&nocount)  
 
-- [Activate](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=18s&rel=0)  
+- [Activate](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=18&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings | i:Activate the developer mode  
 
-- [Deactivate](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=24&end=39s&rel=0)  
+- [Deactivate](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=24&end=39&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings | i:Deactivate the developer mode  
 
 #### [How to fix Unable to log message &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:55)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)  

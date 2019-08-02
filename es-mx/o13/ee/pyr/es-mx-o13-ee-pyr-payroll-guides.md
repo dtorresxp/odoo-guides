@@ -8,7 +8,7 @@
 
 #### [Nómina &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 03:53)](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=0&end=0&rel=0&nocount)  
 
-- [Configuración](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=1m52s&end=2m14s&rel=0)  
+- [Configuración](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=112&end=134&rel=0)  
   ![apps](/doc/img/apps.png) | o:Nómina | m:Configuración |  
   - o:TiposDeTrabajoDeNuevoIngreso |  
   - o:TiposDeEstructura | f:TipoDeEstructura | f:País |  
@@ -18,11 +18,11 @@
   - o:RuleParámetros | f:Nombre | f:Código |  
   - o:OtrosTiposDeIngreso | f:Descripción | f:Código | f:DisponibilidadEnEstructura  
   
-- [Configurar los Roles de Usuarios de Nómina](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=3m19s&end=3m38s&rel=0)  
+- [Configurar los Roles de Usuarios de Nómina](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=199&end=218&rel=0)  
   ![apps](/doc/img/apps.png) | o:Configuración | m:Usuarios&Companies | o:Usuarios |  
   _a:Seleccionar Usuario_ | t:DerechosDeAcceso | _a:Desplazar hacia abajo hasta i:RecursosHumanos | f:Nómina &#x25BC; | \[ Ninguno || Administrador || Oficial ]  
   
-- [Contratos](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=0&end=1m14s&rel=0)  
+- [Contratos](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=0&end=74&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Nómina | m:Empleados | o:Contratos | _a:Seleccionar Contrato_ | b:Editar |  
   - f:Empleado | f:Departmento | f:Compañía | f:SalarioTipoDeEstructura | f:ContratoTipo | f:PuestoDeTrabajo | f:PlantillaDeContrato |  
   - t:AdjuntoDeSalario | i:Contabilidad |  
@@ -34,16 +34,16 @@
     - t:EmbargosAlSalario | f:Descripción | f:TipoDeDeducción | f:De | f:A | f:Monto |  
   - b:Guardar  
 
-- [Asistencias](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=1m15s&end=1m34s&rel=0)  
+- [Asistencias](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=75&end=94&rel=0)  
   ![apps](/doc/img/apps.png) | o:Nómina | m:RegistroDeEntradas | o:RegistroDeEntradas |  
   b:Previo &#x1F870; | b:Hoy | &#x1F872; b:Siguiente | b:Día | b:Semana | b:Mes | b:GenerarRecibos |  
   b:VerMalla | b:VerCalendario | b:VerLista | b:VerTablaDinámica  
   
-- [Incidencias](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=1m35s&end=1m45s&rel=0)  
+- [Incidencias](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=95&end=105&rel=0)  
   ![apps](/doc/img/apps.png) | o:Nómina | m:RegistroDeEntradas | o:Incidencias |  
   b:Medidas | &#x21C4; b:TablaDinámica_RotarEjes | &#x2725; b:TablaDinámica_ExpandirTodo | **&#x2B73;** b:TablaDinámica_DescargarXLS  
   
-- [Menú de Recibos](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=2m43s&end=2m48s&rel=0)  
+- [Menú de Recibos](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=223&end=228&rel=0)  
   ![apps](/doc/img/apps.png) | o:Nómina | m:Recibos |  
   - o:APagar | b:Crear | b:Importar | b:Imprimir |  
     f:Referencia | f:Empleado | f:NombreDelLote | f:De | f:A | f:IngresoBásico | f:StatusDeIngresoNeto | f:Compañía |  
@@ -51,19 +51,19 @@
     f:Referencia | f:Empleado | f:NombreDelLote | f:De | f:A | f:IngresoBásico | f:StatusDeIngresoNeto | f:Compañía |  
   - o:Lotes | b:Crear | b:Importar | f:Nombre | f:FechaDe | f:FechaA | f:NotaDeCrédito | f:Status | f:Compañía
 
-- [Recibos](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=1m45s&end=1m52s&rel=0)  
+- [Recibos](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=105&end=112&rel=0)  
   ![apps](/doc/img/apps.png) | o:Nómina | m:RegistroDeEntradas | o:APagar |  
   _a:Seleccionar Empleado_ | _a:Revisar Recibo_ |  
   b:CalcularHoja | b:CancelarRecibo | b:Imprimir  
   
-- [Generar Recibos](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=2m49&end=3m16s&rel=0)  
+- [Generar Recibos](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=169&end=196&rel=0)  
   ![apps](/doc/img/apps.png) | o:Nómina | m:RegistroDeEntradas | o:RegistroDeEntradas |  
   _a:Seleccionar periodo de Nómina_ | b:Semana | b:GenerarRecibos |  
   b:CrearPrevioDeEntrada | s:Recibos | _a:Seleccionar Recibo_ |  
   _a:Revisar Recibo_ | t:DíasEIngresosTrabajados | t:CálculoSalario | t:InformaciónDeLaCuenta | t:ReembolsoDeGastos |  
   \[ b:CancelarRecibo | b:Imprimir ]  
   
-- [Reportes de Nómina](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=2m15s&end=2m43s&rel=0)  
+- [Reportes de Nómina](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=135&end=223&rel=0)  
   ![apps](/doc/img/apps.png) | o:Nómina | m:Reporting |  
   - o:Nómina | b:VerTablero | b:VerTablaDinámica | b:VerGráfica |  
   - o:AsignaciónDePermisosConGoceDeSueldo | w:AsignaciónDePermisosConGoceDeSueldo | i:PeriodoDeReferencia | f:De | f:A | f:TipoDeEstructura |  

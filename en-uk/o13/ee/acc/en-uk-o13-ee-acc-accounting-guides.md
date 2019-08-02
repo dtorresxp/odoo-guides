@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![acc](/doc/img/account_accountant.png)
 
-#### [No account.invoice Model &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:56)](https://youtube.com/embed/Ap7IPh23rsQ?autoplay=1&start=6&end=1m&rel=0)
+#### [No account.invoice Model &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:56)](https://youtube.com/embed/Ap7IPh23rsQ?autoplay=1&start=6&end=60&rel=0)
 ![apps](/doc/img/apps.png) | o:Settings | i:Activate the developer mode | ![apps](/doc/img/apps.png) | o:Invoicing | m:Customers | o:Invoice | _a:Select Invoice |
 i:Customer | d:Customer/Vendor | _a: f:Object shows account.move_ |
 &#x1F41E; | o:EditView:Form | _a f:Model shows account.move_ | b:Close 
