@@ -107,8 +107,10 @@ w:CombinarContactos | f:ContactoDeDestino &#x25BC; | _a:Seleccionar Contacto res
     - En muchos lenguajes, la inicial del tipo de objeto en pantalla no es la misma que la del inglés.  Decidimos mantener las mismas letras para todas las traducciones, ya que las estamos usando como íconos.  De ese modo es más fácil traducir las guías y utilizar traducciones incompletas de Odoo.  
     - A continuación se muestra la lista completa de símbolos que se utilizan en las guías y su significado.
 
+<br>
 
-####
+# Símbolos usados en _&#x03C8;Code_
+
 [***Sync***]: # (es-mx-o13-ce-guides-menu)  
 [***Sync***]: # (es-mx-o13-ee-guides-menu)  
 
