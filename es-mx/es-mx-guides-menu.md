@@ -225,7 +225,7 @@ Todos sabemos que es una de las legras griegas menos conocidas (por lo menos, fu
 
 Así que nos pusimos a pensar fuerte en como reemplazar la _p_ con cualquier otra cosa.  Comenzamos con las tres letras de 'psi' de _&#x3c8;&#x3b5;&#x3c5;&#x3b4;&#x3bf;_ en _pseudo código_ (la idea detrás del proyecto). &nbsp;Pero no, eran demasiadas. &nbsp;Entonces fué cuando volteamos a ver el griego y comenzamos con la obvia _&#x3C0;_ ya que el sonido _p_ en inglés es muy semejante al nombre de la letra _&#x3c0;_ en Español.
 
-Pero &#x2015; y este es un gran _pero_ &#x2015; no queríamos que nuestro profesor de Etimologías Greco-latinas (el gran _Chango_ de la ULSA en la Cd. de México), se revolcara en su tumba, porque obviamente &#x2015; de nuevo, cualquiera lo sabe &#x2015; _&#x3C0;_ no tiene nada que ver con _pseudo_.
+Pero, &#x2013; y este es un gran _pero_ &#x2013; no queríamos que nuestro profesor de Etimologías Greco-latinas (el gran _Chango_ de la ULSA en la Cd. de México), se revolcara en su tumba, porque obviamente &#x2013; de nuevo, cualquiera lo sabe &#x2013; claro que _&#x3C0;_ no tiene nada que ver con _pseudo_.
 
 Así que, _**&#x03C8;**_ pegó y ahora tienes _**&#x03C8;Code**_.  
 
