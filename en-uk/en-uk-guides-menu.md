@@ -52,7 +52,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
   ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b: ![view_list](/doc/img/view_list.png) |  
   [ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts |  _a:Verify Merging_
   w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close<br><br>  
-  - Video link shows Video description, Odoo version & edition, Creator name, language & country (or no-voice, like this) and Video lenght.  Then you can see a few instructions below the link.
+  - Video link shows Video description, Odoo version & edition, Creator name, language & country (or without voice, like this case) and Video lenght.  Then you can see a few instructions below the link.
   - These are all steps you need to do in Odoo 13 to _merge_ contacts  
   - You can go directly to the link to see the video (and notice this is a _very_ short one!)
   - But first, we recomend you to read the nest three rows to get all you need do do at once.  With enough experience, you will not need to see the full video but just reading the guide, like this:  
