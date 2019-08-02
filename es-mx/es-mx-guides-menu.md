@@ -232,13 +232,13 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
 ... dalay  
 <br>
 
-# Aportadores de _&#x03C8;Code_
+# Colaboradores de _&#x03C8;Code_
 
 | id | Nombre | Grupo | País | Guías |
 | :---: | :--- | :---: | :---: | :---: |
 | [@oldyguy](mailto:pcode@appti.mx) | $og | appti | MX | all |
 
-#### Notas para los Aportadores:
+#### Notas para los Colaboradores:
   - A veces una guía debe ir en varios menús.  Para asegurarnos de que se sincronizan todas cada vez que hay una actualización, se debe agregar el siguiente comentario en el renglón bajo el hipervínculo:  
     _\[\*\*\*Sync\*\*\*\] # \(ii-pp-o[08..13]-[ce]e-[iddelmódulo]-[nombredelarchivo])_
   - Todas las referencias al _&#x03C8;Code_ como nombre de archivo, deben ser convertidas a _pCode_ debido a las limitaciones del código ASCII
