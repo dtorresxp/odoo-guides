@@ -158,6 +158,7 @@ _Resolver de una vez por todas la falta de documentación_
   - Usan reglas semejantes a las de _taquigrafía_
   - Sirven para procedimientos técnicos y funcionales
   - Permiten documentar el sistema, antes de que salga una nueva versión
+  - Funcionan con cualquier plataforma: ubuntu, windows, on-premise, cloud, saas, sh, etc...
   - Son úties para apps oficiales, comerciales, personalizadas y privadas
   - ¡Son gratuitas!
 
