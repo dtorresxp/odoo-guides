@@ -40,9 +40,9 @@ i:Localización | &#x25BC; f:Idioma | _a:Seleccionar idioma_ | b:Guardar |
 #### [Nuevo pánel de Búsqueda en la vista Kanban &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:21)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Configuración | i:Activar el modo de desarrollador | ![apps](/doc/img/apps.png) | _a:Abrir app con v:Kanban_ | &#x1F41E; | o:EditarVista:Kanban |  
 t:Arquitectura | _a:Desplazar hasta el final, antes de_ \</kanban\> | _a:Agregar_ |  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\<searchpanel\> |  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[ <field name="xxx" \[ groups="xxx.xxx" || select="multi" || \<nil\> \] icon="fa-xxx"/> \]&#x207F; |  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\</searchpanel\>** |  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\<searchpanel\>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[ <field name="xxx" \[ groups="xxx.xxx" || select="multi" || \<nil\> \] icon="fa-xxx"/> \]&#x207F;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\</searchpanel\>**  
 b:Guardar  
 
 #### [Ver Reglas y Derechos fácilmente &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:12)](https://youtube.com/embed/FLKaAKfhq_Y?autoplay=1&start=0&end=0&rel=0)  
