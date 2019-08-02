@@ -215,7 +215,7 @@ So we turned to think hard on how to replace the _p_ with a better thing.  We st
 
 But, and this is really a very big _but_, we didn't want our Greco-Latin Etymologies professor (the great _Chango_ from ULSA in México) to wallow in his grave, because obviously &#x2015; again, everybody _knows_ &#x2015; _&#x3C0;_ has nothing to do with _pseudo_.  
 
-So, _&#x03C8;_ it is, and now _&#x03C8;Code_ you've.  
+So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.  
 
 ... dalay  
 <br>
