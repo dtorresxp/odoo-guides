@@ -4,7 +4,7 @@
 
 #### [Control de Servicio en Sitio &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 06:12 - Control de Servicio en Sitio)](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=3&end=0&rel=0&nocount)<br>
 
-- [Instalar el app de Servicio](https://youtube.com/embed/AjG16B-DTYY?start=3&end=16)  
+- [Instalar el app de Servicio](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=3&end=16&rel=0)  
   ![apps](/doc/img/apps.png) | o:Apps | f:Buscar... Servicio en sitio | i:ServicioEnSitio | b:Instalar  
 
 - [Ver Tareas](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=17s&end=31s&rel=0)  
