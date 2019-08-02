@@ -60,6 +60,8 @@
 | **s:** SmartButton | smart-button | **t:** Tab | tab | v:View |
 | **v:** view | vista | **w:** Window | window |
 
+![login](/doc/img/login.png)
+
 <br>  
   
 ###### Odoo Guides - v6_01 &nbsp; 2019-08-01  [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  
