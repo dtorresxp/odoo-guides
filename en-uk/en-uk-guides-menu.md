@@ -72,9 +72,9 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on _Cancel_ _**button**_ to abort  
     - **Button**: &nbsp;&nbsp;Click on _Close_ _**button**_ to finish your task  
     - **Action**: &nbsp;&nbsp;&nbsp;Finally, review your _**merged**_ contacts and now you'll see only the _Resultant_ one<br><br>  
-- Guides  
+- Guides interpretation 
   - A guide consists of a link to a video, followed by the _&#x03C8;Code_ of its procedure  
-  - Every link includes:  
+  - As we mentioned, every video link includes:  
     - Video name  
     - Odoo version  
     - Edition (CE or EE)  
@@ -84,7 +84,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
   - When a video contains several procedures, you'll see a bulleted list below the initial (full video) link  
   - Every bullet has its own video link, but instead it only links to related procedure inside the video  
   - Every procedure link is followed by its _&#x03C8;Code_<br><br>  
-- Steps
+- Steps meaning
   - The main component of the _&#x03C8;Code_ guide is _STEP_, an atomic task to do in the screen  
   - Every step is separated from others by the _PIPE_ character |  
   - Related steps tend to be in the same _ROW_, unless there are plenty and need to be separated into several rows  
