@@ -171,7 +171,7 @@ _Resolver de una vez por todas la falta de documentación_
   - Pedir orientación a la OCA para la propuesta del modo Tracking de odoo
   - Modo Tracking de Odoo
     - 80% menos esfuerzo para documentar cualquier procedimiento
-    - Datos duros sobre el uso de Odoo
+    - Datos duros sobre el uso de Odoo:
       - Reporte de uso y tendencias por apps
       - Analisis para volver a capacitar Usuarios
       - Analisis para aumentar las oportunidades de negocios de los Socios
