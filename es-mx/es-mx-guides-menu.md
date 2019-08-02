@@ -45,6 +45,8 @@ Conforme el proyecto vaya creciendo, se podrá agregar un _menú_ antes de _guí
 
 Si no puedes encontrar lo que buscas en ningún _menú_, o si encuentras algún error en nuestro _&#x03C8;Code_, por favor no dudes en enviarnos un correo mencionando tu preocupación de manera razonable... de preferencia con una liga a un video donde se explique mejor el tema.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
 
+Los iconos de las traducciones (banderas) aparecen en el orden en que han sido creadas.
+
 <br>
 
 # Explicación sencilla del _&#x03C8;Code_
