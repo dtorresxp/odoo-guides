@@ -58,23 +58,23 @@ A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_
   w:CombinarContactos | f:ContactoDeDestino &#x25BC; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] | b:Cerrar<br><br>  
   - La liga de video muestra su Descripción, Versión y edición de Odoo, Nombre del creador, Idioma y País (o sin voz, cokmo en este caso) y su duración.  Abajo de la liga aparecen unas sencillas instruccioes.  
   - Estos son todos los pasos que tienes que realizar en Odoo 13 para _Combinar_ Contactos  
-  - Puedes hacer clic directamente en la liga para ver el video (¡aun tomando en cuenta que este es uno _bastante corto_!)  
-  - Pero te recomendamos que primero leas los tres renglones de instrucciones para saber que vas a hacer.  Conforme vayas adquiriendo experiencia en Odoo, no vas a necesitar ver todo el video sino que vas a comprender fácilmente lo que dice la gúia:  
-    - **Inicio**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has clic en el icono de _**apps**_ para _**iniciar**_ este procedimiento  
+  - Puedes hacer clic directamente en la liga para ver el video (¡considera que este es _bastante corto_!)  
+  - Pero te recomendamos que primero leas los tres renglones de instrucciones para saber que vas a hacer.  Conforme vayas adquiriendo experiencia en Odoo, no vas a necesitar ver todo el video sino que vas a comprender fácilmente lo que dice la guía:  
+    - **Inicio**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has clic en el icono de _**apps**_ para _**iniciar**_ este procedimiento  
     - **Opción**: &nbsp;&nbsp;Has clic en _Contactos_ _**Opción**_ en el menú  
     - **Acción**: &nbsp;&nbsp;&nbsp;Busca el _**contador**_ de Contactos en la parte superior derecha de la ventana de Odoo  
-    - **Botón**: &nbsp;&nbsp;Has clic en el _**botón**_ ![view_list](/doc/img/view_list.png) para abrir la vista de tipo lista  
+    - **Botón**: &nbsp;&nbsp;&nbsp;&nbsp;Has clic en el _**botón**_ ![view_list](/doc/img/view_list.png) para abrir la vista de tipo lista  
     - **Acción**: &nbsp;&nbsp;&nbsp;_**Marca**_ como &#x1F5F9; el nombre del Contacto que quieras Combinar  
     - **Repetir**: &nbsp;&nbsp;Has esto este _**dos o más veces**_, para seleccionar los Contactos que quieras Combinar en uno solo  
-    - **Botón**: &nbsp;&nbsp;Has clic en el _**botón**_ _Acción_ al centro de la parte superior de la ventana de Odoo  
+    - **Botón**: &nbsp;&nbsp;&nbsp;&nbsp;Has clic en el _**botón**_ _Acción_ al centro de la parte superior de la ventana de Odoo  
     - **Opción**: &nbsp;&nbsp;Selecciona la _**opción**_ _Combinar Contactos_ del menú  
-    - **Ventana**: Aparecerá la _**ventana**_ _Combinar Contactos_, donde deberás realizar los siguientes pasos  
-    - **Campo**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has clic en the down arrow in _Destination Contacto_ _**Campo**_ to open list  
+    - **Ventana**: &nbsp;Aparecerá la _**ventana**_ _Combinar Contactos_, donde deberás realizar los siguientes pasos  
+    - **Campo**: &nbsp;&nbsp; Has clic en the down arrow in _Destination Contacto_ _**Campo**_ to open list  
     - **Acción**: &nbsp;&nbsp;&nbsp;Seleccionar the Contacto name that will be the one that will _**remain**_ after merging all of them  
-    - **Grupo**: &nbsp;&nbsp;&nbsp;Los siguientes pasos son parte de un _**grupo**_ de opciones, separadas por ||, elije la que quieras realizar:  
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Botón**: Has clic en el _**botón**_ _Combinar Contactos_ para _Combinarlos_, o  
+    - **Grupo**: &nbsp;&nbsp;&nbsp;&nbsp;Los siguientes pasos son parte de un _**grupo**_ de opciones, separadas por ||, elije la que quieras realizar:  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Botón**: Has clic en el _**botón**_ _Combinar Contactos_ para _Combinarlos_, o  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has clic en el _**botón**_ _Cancelar_ para cancelar la combinación  
-    - **Botón**: &nbsp;&nbsp;Has clic en el _**botón**_ _Cerrar_ para finalizar el procedimiento  
+    - **Botón**: &nbsp;&nbsp;&nbsp;&nbsp;Has clic en el _**botón**_ _Cerrar_ para finalizar el procedimiento  
     - **Acción**: &nbsp;&nbsp;&nbsp;Al terminar, puedes revisar tus Contactos _combinados_, ya sólo aparecerá el nombre del _resultante_<br><br>  
 - Guías
   - Cada guía consta de una liga a un video, seguida del _&#x03C8;Code_ de su procedimiento
