@@ -61,7 +61,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
   - La liga de video muestra su Descripción, Versión y edición de Odoo, Nombre del creador, Idioma y País (o sin voz, como en este caso) y su duración.  Abajo de la liga aparecen unas sencillas instruccioes.  
   - Estos son todos los pasos que tienes que realizar en Odoo 13 para _Combinar_ Contactos  
   - Puedes hacer clic directamente en la liga para ver el video (¡considera que este es _bastante corto_!)  
-  - Pero te recomendamos que primero veas la guía para saber que vas a hacer.  Cuando tengas más experiencia en Odoo ya no vas a necesitar ver todo el video, sino que vas captar fácilmente lo que dice la guía:  
+  - Pero te recomendamos que primero veas la guía para saber que vas a hacer.  Cuando tengas más experiencia en Odoo, ya no va a ser necesario que veas todos los videos, porque captarás fácilmente lo que dicen las guías:  
     - **Inicio**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has clic en el icono de _**apps**_ para _**iniciar**_ este procedimiento  
     - **Opción**: &nbsp;&nbsp;Has clic en _Contactos_ _**Opción**_ en el menú  
     - **Acción**: &nbsp;&nbsp;&nbsp;Busca el _**contador**_ de Contactos en la parte superior derecha de la ventana de Odoo  
