@@ -207,6 +207,14 @@ _To solve once and for all, the documentation gap_
 
 <br>
 
+# The _&#x03C8;_ Affaire
+
+Everybody knows it's one of the least known Greek letters in this days (outside Greek world), but has a great history behind.  Not just the letter itself, but in our project.  Originally our project's name began with a humble _p_, however there are a lot of _pCodes_ out there and we didn't wanna any misunderstanding after all this effort.  
+So we turned to think hard on how to replace the _p_ with a better thing... maybe just the three letters like 'psi' from _&#x3c8;&#x3b5;&#x3c5;&#x3b4;&#x3bf;_ in _pseudo code_ (the project's idea), but they were just too much.  Then we turned Greek and started with the obvious _pi_ because of the sound _p_ is very similar to _pi_ in Spanish.  But, and this is a very big _but_, we didn't want our Greco-Latin Etymologies professor (the great _Chango_ from ULSA) to wallow in his grave, because obviously &#x2015; again, everybody knows &#x2015; _&#x3C0;_ has nothing to do with _pseudo_... so, _&#x03C8;_ it is and now _&#x03C8;Code_ it is.  
+
+...dalay  
+<br>
+
 # _&#x03C8;Code_ Contributors
 
 | id | Name | Team | Country | Guides |
