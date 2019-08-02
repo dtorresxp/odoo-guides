@@ -209,10 +209,15 @@ _To solve once and for all, the documentation gap_
 
 # The _&#x03C8;_ Affaire
 
-Everybody knows it's one of the least known Greek letters in this days (at least, outside Greek world), but has a great history behind.  Not just about the letter itself, but in our project.  Originally our project's name began with a humble _p_, however there are a lot of _pCodes_ out there and we didn't wanna any misunderstanding after all this heavy effort.  
-So we turned to think hard on how to replace the _p_ with a better thing... maybe just the three letters like 'psi' from _&#x3c8;&#x3b5;&#x3c5;&#x3b4;&#x3bf;_ in _pseudo code_ (the project's idea). &nbsp;But no, they were just too much.  Then we turned Greek and started with the obvious _pi_ because of the sound _p_ in English is very close to _&#x3c0;_ in Spanish.  But, and this is really a very big _but_, we didn't want our Greco-Latin Etymologies professor (the great _Chango_ from ULSA in México) to wallow in his grave, because obviously &#x2015; again, everybody knows &#x2015; _&#x3C0;_ has nothing to do with _pseudo_... so, _&#x03C8;_ it is, and now _&#x03C8;Code_ you've.  
+Everybody knows it's one of the least known Greek letters in this days (at least, outside Greek world), but has a great history behind.  Not just the letter itself, but in our project.  Originally our project's name began with a humble _p_, however there are a lot of _pCodes_ out there and we didn't wanna any misunderstanding after all this heavy effort.  
 
-...dalay  
+So we turned to think hard on how to replace the _p_ with a better thing.  We started with three letters like 'psi' from _&#x3c8;&#x3b5;&#x3c5;&#x3b4;&#x3bf;_ in _pseudo code_ (the project's idea). &nbsp;But no, they were too much.  Then we turned Greek and started with the obvious _pi_ because of the sound _p_ in English is very close to _&#x3c0;_ in Spanish.  
+
+But, and this is really a very big _but_, we didn't want our Greco-Latin Etymologies professor (the great _Chango_ from ULSA in México) to wallow in his grave, because obviously &#x2015; again, everybody _knows_ &#x2015; _&#x3C0;_ has nothing to do with _pseudo_.  
+
+So, _&#x03C8;_ it is, and now _&#x03C8;Code_ you've.  
+
+... dalay  
 <br>
 
 # _&#x03C8;Code_ Contributors
