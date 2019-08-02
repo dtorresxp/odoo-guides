@@ -165,11 +165,11 @@ _To solve once and for all, the documentation gap_
   - Odoo Tracking mode
     - 80% less effort to document any given procedure
     - Odoo usage hard data
-      - Module usage slug report
-      - Analysis for User retraining
-      - Analysis for Partner's business opportunities
+      - Report of module usage and tendencies
+      - Analysis for Users retraining
+      - Analysis to get new Partner's business opportunities
       - Analysis for GUI retooling
-      - Analysis for new functionality considerations
+      - Analysis to measure and evaluate new functionalities
 
 <br>
 
