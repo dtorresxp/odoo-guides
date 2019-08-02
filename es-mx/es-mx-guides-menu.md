@@ -51,11 +51,11 @@ Si no puedes encontrar lo que buscas en ningún _menú_, o si encuentras algún 
 
 A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_.  Sirve para mostarte los pasos necesarios para realizar tu tarea en orden correcto y ayudarte a encontrar el objeto en pantalla donde hay que realizar cada paso:
 
-- Ejemplo típico:
-  #### [Combinar Contactos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&Inicio=0&end=0&rel=0)  
-  ![apps](/doc/img/apps.png) | o:Contactos | _a:Ver el contador de Contactos en la ventana de Odoo_ | b: ![view_list](/doc/img/view_list.png) |  
-  [ _a:Seleccionar Contacto to Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos |  _a:Verify Merging_  
-  w:CombinarContactos | f:ContactoDeDestino &#x25BC; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] | b:Cerrar<br><br>  
+### Ejemplo típico
+#### [Combinar Contactos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&Inicio=0&end=0&rel=0)  
+![apps](/doc/img/apps.png) | o:Contactos | _a:Ver el contador de Contactos en la ventana de Odoo_ | b: ![view_list](/doc/img/view_list.png) |  
+[ _a:Seleccionar Contacto to Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos |  _a:Verify Merging_  
+w:CombinarContactos | f:ContactoDeDestino &#x25BC; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] | b:Cerrar<br><br>  
   - La liga de video muestra su Descripción, Versión y edición de Odoo, Nombre del creador, Idioma y País (o sin voz, cokmo en este caso) y su duración.  Abajo de la liga aparecen unas sencillas instruccioes.  
   - Estos son todos los pasos que tienes que realizar en Odoo 13 para _Combinar_ Contactos  
   - Puedes hacer clic directamente en la liga para ver el video (¡considera que este es _bastante corto_!)  
@@ -75,8 +75,9 @@ A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Botón**: Has clic en el _**botón**_ _Combinar Contactos_ para _Combinarlos_, o  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has clic en el _**botón**_ _Cancelar_ para cancelar la combinación  
     - **Botón**: &nbsp;&nbsp;&nbsp;&nbsp;Has clic en el _**botón**_ _Cerrar_ para finalizar el procedimiento  
-    - **Acción**: &nbsp;&nbsp;&nbsp;Al terminar, puedes revisar tus Contactos _combinados_, ya sólo aparecerá el nombre del _resultante_<br><br>  
-- Guías
+    - **Acción**: &nbsp;&nbsp;&nbsp;Al terminar, puedes revisar tus Contactos _combinados_, ya sólo aparecerá el nombre del _resultante_
+    
+### Guías
   - Cada guía consta de una liga a un video, seguida del _&#x03C8;Code_ de su procedimiento
   - Cada liga incluye:  
     - Nombre del video
@@ -88,7 +89,8 @@ A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_
   - Cuando un video contiene varios procedimientos, se mostrarán en forma de lista debajo de la liga al video completo
   - Cada procedimiento tendrá su propia liga, pero sólo apuntará al procedimiento indicado dentro del video
   - Después de cada liga al procedimiento, seguirá su _&#x03C8;Code_
-- Pasos
+  
+### Pasos
   - El elemento fundamental de una guía de _&#x03C8;Code_ es el _PASO_, una tarea aislada a realizar dentro de la pantalla.  
   - Cada paso se separa de los demás mediante una _BARRA VERTICAL_ |  
   - Los pasos relacionados normalmente aparecen en el mismo _RENGLÓN_, a menos que no quepan y se necesiten separar en varios renglones  
