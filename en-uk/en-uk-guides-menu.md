@@ -42,6 +42,8 @@ As our project continues growing, -menu_ could be added before _guide_, but all 
 
 If you can't find help in any -menu_, or you find any errors in our _&#x03C8;Code_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
 
+Language icons (flags) are in the order of translation creation.
+
 <br>
 
 # _&#x03C8;Code_ Brief
