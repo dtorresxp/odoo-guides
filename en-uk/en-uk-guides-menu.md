@@ -49,10 +49,11 @@ Language icons (flags) are in the order of translation creation.
 # _&#x03C8;Code_ Brief
 
 This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
-- Basic example:
-  #### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
-  ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b: ![view_list](/doc/img/view_list.png) |  
-  [ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts | w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close | _a:Verify Merging_<br><br>  
+
+### Basic example:
+#### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
+![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b: ![view_list](/doc/img/view_list.png) |  
+[ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts | w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close | _a:Verify Merging_<br><br>  
   - Video link shows Video description, Odoo version & edition, Creator name, language & country (or without voice, like this case) and Video lenght.  Then you can see a few instructions below the link.
   - These are all steps you need to do in Odoo 13 to _merge_ contacts  
   - You can go directly to the link to see the video (and notice this is a _very_ short one!)
@@ -73,7 +74,8 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on _Cancel_ _**button**_ to abort  
     - **Button**: &nbsp;&nbsp;Click on _Close_ _**button**_ to finish your task  
     - **Action**: &nbsp;&nbsp;&nbsp;Finally, review your _**merged**_ contacts and now you'll see only the _Resultant_ one<br><br>  
-- Guides interpretation 
+    
+### Guides
   - A guide consists of a link to a video, followed by the _&#x03C8;Code_ of its procedure  
   - As we mentioned, every video link includes:  
     - Video name  
@@ -85,7 +87,8 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
   - When a video contains several procedures, you'll see a bulleted list below the initial (full video) link  
   - Every bullet has its own video link, but instead it only links to related procedure inside the video  
   - Every procedure link is followed by its _&#x03C8;Code_<br><br>  
-- Steps meaning
+  
+### Steps
   - The main component of the _&#x03C8;Code_ guide is _STEP_, an atomic task to do in the screen  
   - Every step is separated from others by the _PIPE_ character |  
   - Related steps tend to be in the same _ROW_, unless there are plenty and need to be separated into several rows  
