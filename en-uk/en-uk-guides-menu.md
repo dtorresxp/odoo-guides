@@ -54,23 +54,24 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
   w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close<br><br>  
   - Video link shows video description, Odoo version & edition, Creator, no-voice & time length  
     All those signs means in Odoo 13 you've to do this steps to _merge_ your contacts  
-    You can click on the top link to see the video, were you'll see how to this steps:  
-    - Click on _apps_ icon  
-    - **Option**: Click on _Contacts_ option in menu  
-    - **Action**: Look for the Contacts total number at the top right of Odoo window  
-    - **Button**: Click on ![view_list](/doc/img/view_list.png) button to see list view  
-    - **Action**: Mark as &#x1F5F9; the name of a Contact you need to merge  
-    - **Repeat**: Do this two or more times, to get Contacts to merge  
-    - **Button**: Click on _Action_ button at the top center of Odoo window  
-    - **Option**: Select _Merge Contacts_ option in the new menu  
-    - **Window**: The _Merge Contacts_ window will appear and next steps will be done there  
-    - **Field**: &nbsp; Click on the down arrow in _Destination Contact_ to open list  
-    - **Action**: Select the contact name that will be the one that remains after merging all of them  
-    - **Group**: &nbsp;  Next steps are optional, select one of them:  
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Button: Click on _Merge Contacts_ button to do the task, or  
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on _Cancel_ button to abort  
-    - Button: Click on _Close_ button to finish your task  
-    - Action: Review your contacts and now you'll see only the _Resultant_ one  
+    You can click on the top link to see the video, or  
+    In just four text rows, you get all needed steps:  
+    - **Start**: &nbsp;Click on _**apps**_ icon to _**start**_ this procedure
+    - **Option**: Click on _Contacts_ _**option**_ in menu  
+    - **Action**: Look for the Contacts _**total**_ number at the top right of Odoo window  
+    - **Button**: Click on ![view_list](/doc/img/view_list.png) _**button**_ to see list view  
+    - **Action**: _**Mark**_ as &#x1F5F9; the name of a Contact you need to merge  
+    - **Repeat**: Do this _**two or more times**_, to get Contacts to merge  
+    - **Button**: Click on _Action_ _**button**_ at the top center of Odoo window  
+    - **Option**: Select _Merge Contacts_ _**option**_ in the new menu  
+    - **Window**: The _Merge Contacts_ _**window**_ will appear and next steps will be done there  
+    - **Field**: &nbsp; Click on the down arrow in _Destination Contact_ _**field**_ to open list  
+    - **Action**: Select the contact name that will be the one that will _**remain**_ after merging all of them  
+    - **Group**: &nbsp;Next steps are a optional, select one of the _**group**_:  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Button**: Click on _Merge Contacts_ _**button**_ to do the _merge_, or  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on _Cancel_ _**button**_ to abort  
+    - **Button**: Click on _Close_ _**button**_ to finish your task  
+    - **Action**: Finally, review your _**merged**_ contacts and now you'll see only the _Resultant_ one  
 - Guides  
   - A guide consists of a link to a video, followed by the _&#x03C8;Code_ of its procedure  
   - Every link includes:  
