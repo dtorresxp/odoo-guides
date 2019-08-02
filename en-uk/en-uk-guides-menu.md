@@ -49,11 +49,10 @@ If you can't find help in any -menu_, or you find any errors in our _&#x03C8;Cod
 This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
 - Example:
   #### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
-  ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b:![view_list](/doc/img/view_list.png) |  
+  ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b: ![view_list](/doc/img/view_list.png) |  
   [ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts |  _a:Verify Merging_
   w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close<br><br>  
-  - Video link shows video description, Odoo version & edition, Creator, no-voice & time length  
-    All those signs means in Odoo 13 you've to do this steps to _merge_ your contacts  
+  - Video link shows the Video description, Odoo version & edition, Creator name, language (or no-voice) & Video duration.  Bellow the link you can see several icons & instructions meaning the steps you've to do in Odoo 13 to _merge_ contacts  
   - You can click the link to the video (and this is a very _short_ one!), or read four rows to get all you need:  
     - **Start**: &nbsp;Click on _**apps**_ icon to _**start**_ this procedure
     - **Option**: Click on _Contacts_ _**option**_ in menu  
