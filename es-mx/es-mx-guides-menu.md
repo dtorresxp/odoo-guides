@@ -69,7 +69,7 @@ Esta es una explicación básica sobre el _&#x03C8;Code_.  Su único propósito 
   - Los pasos relacionados normalmente aparecen en el mismo _RENGLÓN_, a menos que no quepan y se necesiten separar en varios renglones  
   - Algunos pasos van agrupados lógicamente, encerrados entre _CORCHETES_.  Si son mutuamente exclusivos (opciones), aparecen separados por _DOS BARRAS VERTICALES_ || (uno de los símbolos de OR).  Si las tareas del grupo se pueden repetir, un superíndice lo indica a la derecha del corchete que se cierra: \[ \]&#x207F;  
   - Existen varios _ICONOS_ semejantes a los que Odoo muestra en pantalla
-    - ![apps](/doc/img/apps.png)&nbsp;&nbsp;representa el icono de cuadritos de _APPS_ en la parte superior izquierda de la ventana de Odoo, en la barra de navegación (_navbar_)  
+    - ![apps](/doc/img/apps.png)&nbsp;&nbsp;representa el icono de cuadritos de _APPS_ en la parte superior izquierda de la ventana de Odoo, en la barra de navegación (_navbar_).  Tambien significa que has ingresado a Odoo, sobre todo, con permisos suficientes para realizar las tareas indicadas en la guía.  
 	- &#x23BD;/&#x23BD;/&nbsp;&nbsp;representa la lista de accessos directos a los módulos y elementos que el usuario haya abierto previemente en Odoo, que aparece debajo de la navbar
 	- Los campos de tipo fecha tienen el caracter &#x25BC; a su derecha y permiten abrir el objeto &#x1F4C5; para seleccionarla fácilmente  
     - Los demás símbolos son los mismos que Odoo muestra en la pantalla
