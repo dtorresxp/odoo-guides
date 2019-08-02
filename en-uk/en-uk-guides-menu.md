@@ -67,7 +67,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
     - **Window**: The _Merge Contacts_ _**window**_ will appear and next steps will be done there  
     - **Field**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on the down arrow in _Destination Contact_ _**field**_ to open list  
     - **Action**: &nbsp;&nbsp;&nbsp;Select the contact name that will be the one that will _**remain**_ after merging all of them  
-    - **Group**: &nbsp;&nbsp;&nbsp;Next steps are a _**group**_ of options separated by ||, choice one:  
+    - **Group**: &nbsp;&nbsp;&nbsp;Next steps are a _**group**_ of options separated by ||, choose the rigth one to do:  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Button**: Click on _Merge Contacts_ _**button**_ to do the _merge_, or  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on _Cancel_ _**button**_ to abort  
     - **Button**: &nbsp;&nbsp;Click on _Close_ _**button**_ to finish your task  
