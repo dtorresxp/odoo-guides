@@ -151,6 +151,7 @@ _To solve once and for all, the documentation gap_
   - Kinda shorthand language
   - Useful for both technical and functional procedures
   - Allow to document Odoo before its new version arrives
+  - Good for any kind of apps: official, commercial or private
   - Royalty Free
 
 #### Short term Proposals
