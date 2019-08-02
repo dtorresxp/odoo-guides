@@ -104,7 +104,7 @@ w:CombinarContactos | f:ContactoDeDestino &#x25BC; | _a:Seleccionar Contacto res
     - _**_a:_**_ &nbsp;significa _ACTION_ _(ACCIÓN)_ y es el único elemento que no se refiere a un solo paso.  Corresponde a una tarea compleja de varios pasos que se indican como si fuera uno solo, para facilitar la lectura de la guía, usualmente porque ya fueron explicados previamente o porque se explican en otra guía
 	- **_i:_** &nbsp;&nbsp;significa _ITEM_ _(ELEMENTO)_ y representa a cualquier objeto que no esté en esta lista
     - Los otros tipos de elemento usados en pantalla son: _**b:** Botón (Button), **d:** Cuadro de Diálogo (Dialog), **f:** Campo (Campo), **l:** Hipervínculo (Link), **m:** Menú (Menu), **o:** Opción (Option), **s:** Botón Inteligente (SmartButton), **t:** Pestaña (Tab), **v:** Vista (View) y **w:** Ventana (Ventana)_.
-    - In many languages the item's name initial letter will not be the same as English.  We decided to maintain the same letter accross translations as we're using them as icons.  This way it's easier to translate guides and use _half-way_ Odoo translations.  
+    - En muchos lenguajes, la inicial del tipo de objeto en pantalla no es la misma que la del inglés.  Decidimos mantener las mismas letras para todas las traducciones, ya que las estamos usando como íconos.  De ese modo es más fácil traducir las guías y utilizar traducciones incompletas de Odoo.  
     - A continuación se muestra la lista completa de símbolos que se utilizan en las guías y su significado.
 
 
