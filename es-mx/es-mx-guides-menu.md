@@ -47,10 +47,35 @@ Si no puedes encontrar lo que buscas en ningún _menú_, o si encuentras algún 
 
 <br>
 
-# Explicación básica del _&#x03C8;Code_
+# Explicación sencilla del _&#x03C8;Code_
 
-Esta es una explicación básica sobre el _&#x03C8;Code_.  Su único propósito es indicarte los pasos necesarios en un orden correcto y ayudarte a encontrar el objeto en pantalla donde cada paso debe ser realizado:
+A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_.  Sirve para mostarte los pasos necesarios para realizar tu tarea en orden correcto y ayudarte a encontrar el objeto en pantalla donde hay que realizar cada paso:
 
+- Ejemplo típico:
+  #### [Combinar Contactos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&Inicio=0&end=0&rel=0)  
+  ![apps](/doc/img/apps.png) | o:Contactos | _a:Ver el contador de Contactos en la ventana de Odoo_ | b: ![view_list](/doc/img/view_list.png) |  
+  [ _a:Seleccionar Contacto to Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos |  _a:Verify Merging_  
+  w:CombinarContactos | f:ContactoDeDestino &#x25BC; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] | b:Cerrar<br><br>  
+  - La liga de video muestra su Descripción, Versión y edición de Odoo, Nombre del creador, Idioma y País (o sin voz, cokmo en este caso) y su duración.  Abajo de la liga aparecen unas sencillas instruccioes.  
+  - Estos son todos los pasos que tienes que realizar en Odoo 13 para _Combinar_ Contactos  
+  - Puedes hacer clic directamente en la liga para ver el video (¡aun tomando en cuenta que este es uno _bastante corto_!)  
+  - Pero te recomendamos que primero leas los tres renglones de instrucciones para saber que vas a hacer.  Conforme vayas adquiriendo experiencia en Odoo, no vas a necesitar ver todo el video sino que vas a comprender fácilmente lo que dice la gúia:  
+    - **Inicio**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has clic en el icono de _**apps**_ para _**iniciar**_ este procedimiento  
+    - **Opción**: &nbsp;&nbsp;Has clic en _Contactos_ _**Opción**_ en el menú  
+    - **Acción**: &nbsp;&nbsp;&nbsp;Busca el _**contador**_ de Contactos en la parte superior derecha de la ventana de Odoo  
+    - **Botón**: &nbsp;&nbsp;Has clic en el _**botón**_ ![view_list](/doc/img/view_list.png) para abrir la vista de tipo lista  
+    - **Acción**: &nbsp;&nbsp;&nbsp;_**Marca**_ como &#x1F5F9; el nombre del Contacto que quieras Combinar  
+    - **Repetir**: &nbsp;&nbsp;Has esto este _**dos o más veces**_, para seleccionar los Contactos que quieras Combinar en uno solo  
+    - **Botón**: &nbsp;&nbsp;Has clic en el _**botón**_ _Acción_ al centro de la parte superior de la ventana de Odoo  
+    - **Opción**: &nbsp;&nbsp;Selecciona la _**opción**_ _Combinar Contactos_ del menú  
+    - **Ventana**: Aparecerá la _**ventana**_ _Combinar Contactos_, donde deberás realizar los siguientes pasos  
+    - **Campo**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has clic en the down arrow in _Destination Contacto_ _**Campo**_ to open list  
+    - **Acción**: &nbsp;&nbsp;&nbsp;Seleccionar the Contacto name that will be the one that will _**remain**_ after merging all of them  
+    - **Grupo**: &nbsp;&nbsp;&nbsp;Los siguientes pasos son parte de un _**grupo**_ de opciones, separadas por ||, elije la que quieras realizar:  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Botón**: Has clic en el _**botón**_ _Combinar Contactos_ para _Combinarlos_, o  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has clic en el _**botón**_ _Cancelar_ para cancelar la combinación  
+    - **Botón**: &nbsp;&nbsp;Has clic en el _**botón**_ _Cerrar_ para finalizar el procedimiento  
+    - **Acción**: &nbsp;&nbsp;&nbsp;Al terminar, puedes revisar tus Contactos _combinados_, ya sólo aparecerá el nombre del _resultante_<br><br>  
 - Guías
   - Cada guía consta de una liga a un video, seguida del _&#x03C8;Code_ de su procedimiento
   - Cada liga incluye:  
@@ -76,8 +101,10 @@ Esta es una explicación básica sobre el _&#x03C8;Code_.  Su único propósito 
 	- Algunos pasos son precedidos por una letra y dos puntos, lo cual indica el tipo de elemento (objeto) que deberás buscar en pantalla para realizar la tarea
     - _**_a:_**_ &nbsp;significa _ACTION_ _(ACCIÓN)_ y es el único elemento que no se refiere a un solo paso.  Corresponde a una tarea compleja de varios pasos que se indican como si fuera uno solo, para facilitar la lectura de la guía, usualmente porque ya fueron explicados previamente o porque se explican en otra guía
 	- **_i:_** &nbsp;&nbsp;significa _ITEM_ _(ELEMENTO)_ y representa a cualquier objeto que no esté en esta lista
-    - Los otros tipos de elemento usados en pantalla son: _**b:** Botón (Button), **d:** Cuadro de Diálogo (Dialog), **f:** Campo (Field), **l:** Hipervínculo (Link), **m:** Menú (Menu), **o:** Opción (Option), **s:** Botón Inteligente (SmartButton), **t:** Pestaña (Tab), **v:** Vista (View) y **w:** Ventana (Window)_.
+    - Los otros tipos de elemento usados en pantalla son: _**b:** Botón (Button), **d:** Cuadro de Diálogo (Dialog), **f:** Campo (Campo), **l:** Hipervínculo (Link), **m:** Menú (Menu), **o:** Opción (Option), **s:** Botón Inteligente (SmartButton), **t:** Pestaña (Tab), **v:** Vista (View) y **w:** Ventana (Ventana)_.
+    - In many languages the item's name initial letter will not be the same as English.  We decided to maintain the same letter accross translations as we're using them as icons.  This way it's easier to translate guides and use _half-way_ Odoo translations.  
     - A continuación se muestra la lista completa de símbolos que se utilizan en las guías y su significado.
+
 
 ####
 [***Sync***]: # (es-mx-o13-ce-guides-menu)  
@@ -107,11 +134,11 @@ Esta es una explicación básica sobre el _&#x03C8;Code_.  Su único propósito 
 | ![show_catalog](/doc/img/show_catalog.png) | mostrar catálogo | ![filter](/doc/img/filter.png) | filtrar |
 | ![button_squared_add](/doc/img/button_squared_add.png) | acercar zoom | ![button_squared_sub](/doc/img/button_squared_sub.png) | alejar zoom |
 | _**a:** Acción_ | acción (varios pasos) | **b:** Button | botón |
-| **d:** Dialogo | alerta o cuadro de diálogo | **f:** Field | campo de captura |
+| **d:** Dialogo | alerta o cuadro de diálogo | **f:** Campo | campo de captura |
 | **i:** Item | elemento en pantalla | **l:** Liga | hipervínculo |
 | **m:** Menu | menu | **o:** Opción | opción |
 | **s:** SmartButton | botón inteligente | **t:** Tab | pestaña |
-| **v:** View | vista | **w:** Window | window |
+| **v:** View | vista | **w:** Ventana | Ventana |
 
 <br>
 
@@ -124,7 +151,7 @@ En esta era _hiper-gamificada_, muchas interfaces de sistemas son designadas com
 
 Esto es muy común e incluso entendible en la industria de los celulares, pero recientemente se comenzó a hacer lo mismo en los sistemas empresariales usados en computadoras de escritorio y portátiles.  En estos días es muy raro encontrar un _diseñador_ que esté pidiendo retroalimentación y corrigiendo los problemas que tienen los usuarios al utilizar su sistema en el día a día.
 
-Es muy costoso capacitar usuarios en un nuevo sistema con una interfaz que parece video juego, donde tienen que _descubrir_ dónde estan las cosas.  El porcenaje de uso (y peór aun, de uso _correcto_) de los sistemas en la actualiadad es muy bajo, porque las interfaces tienden a ser confusas y cambiar mucho entre plataformas, marcas e incluso versiones.  Es sabido que muchos usuarios nativos de Windows-8 que se burlaban de sus compañeros de trabajo (principalmente aquellos que conocían Windows desde antes de la versión 7), terminaron quejándose de lo mismo cuando fueron forzados a _actualizarse_ a Windows-10.
+Es muy costoso capacitar usuarios en un nuevo sistema con una interfaz que parece video juego, donde tienen que _descubrir_ dónde estan las cosas.  El porcenaje de uso (y peór aun, de uso _correcto_) de los sistemas en la actualiadad es muy bajo, porque las interfaces tienden a ser confusas y cambiar mucho entre plataformas, marcas e incluso versiones.  Es sabido que muchos usuarios nativos de Ventanas-8 que se burlaban de sus compañeros de trabajo (principalmente aquellos que conocían Ventanas desde antes de la versión 7), terminaron quejándose de lo mismo cuando fueron forzados a _actualizarse_ a Ventanas-10.
 
 De cualquier modo, esta técnica es muy útil para ayudar a la gente que más o menos sabe _qué_ necesita hacer.  Les explica cómo hacerlo con las instrucciones mínimas indispensables sobre _dónde_ realizar las cosas en pantalla y sobre todo, haciéndolo en el _órden_ correcto.
 
@@ -158,7 +185,7 @@ _Resolver de una vez por todas la falta de documentación_
   - Usan reglas semejantes a las de _taquigrafía_
   - Sirven para procedimientos técnicos y funcionales
   - Permiten documentar el sistema, antes de que salga una nueva versión
-  - Funcionan con cualquier plataforma: ubuntu, windows, on-premise, cloud, saas, sh, etc...
+  - Funcionan con cualquier plataforma: ubuntu, Ventanas, on-premise, cloud, saas, sh, etc...
   - Son úties para apps oficiales, comerciales, personalizadas y privadas
   - ¡Son gratuitas!
 
@@ -204,5 +231,5 @@ _Resolver de una vez por todas la falta de documentación_
 
 
 <br><br>
-#### Guías Odoo - v6_01 &nbsp; 2019-08-01
+#### Guías Odoo - v6_02 &nbsp; 2019-08-02
  
