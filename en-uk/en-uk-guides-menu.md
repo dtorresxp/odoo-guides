@@ -153,12 +153,12 @@ Anyway, this technique is very useful to help people who already knows **_what_*
 _To solve once and for all, the documentation gap_
 
 #### Actual benefits:
-  - Right & easy to follow instructions
-  - Very useful for both Technicians and Users
-  - Short and focused guides
+  - Odoo Guides give you right & easy to follow instructions
+  - They're very useful for both Technicians and Users
+  - Short and focused
   - Indexable and Searchable
-  - Use very few symbols, mostly icons
-  - 100% Screen oriented
+  - Work with very few symbols, mostly icons
+  - 100% screen oriented
   - Video friendly
   - Mobile friendly
   - Very simple syntax rules
@@ -170,12 +170,13 @@ _To solve once and for all, the documentation gap_
   - Easy to maintain
   - Easy to translate
   - Easy to upgrade actual documentation to new versions
-  - Enforces community collaboration
+  - Enforce community collaboration
   - Handwriting friendly
   - Kinda shorthand language
   - Useful for both technical and functional procedures
   - Allow to document Odoo before its new version arrives
-  - Good for any kind of apps: official, commercial or private
+  - Good for any kind of apps: official, commercial, customized and private
+  - Works with any platform: ubuntu, windows, on-premise, cloud, saas, sh, etc...
   - Royalty Free
 
 #### Short term Proposals
