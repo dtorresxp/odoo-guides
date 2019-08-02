@@ -52,24 +52,26 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
   ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b: ![view_list](/doc/img/view_list.png) |  
   [ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts |  _a:Verify Merging_
   w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close<br><br>  
-  - Video link shows the Video description, Odoo version & edition, Creator name, language (or no-voice) & Video duration.  Bellow the link you can see a few icons & instructions meaning the steps you've to do in Odoo 13 to _merge_ contacts  
-  - You can click the link to see the video (and this is a _short_ one!), or read _three_ rows to get all you need at once:  
-    - **Start**: &nbsp;Click on _**apps**_ icon to _**start**_ this procedure
-    - **Option**: Click on _Contacts_ _**option**_ in menu  
-    - **Action**: Look for the Contacts _**total**_ number at the top right of Odoo window  
-    - **Button**: Click on ![view_list](/doc/img/view_list.png) _**button**_ to see list view  
-    - **Action**: _**Mark**_ as &#x1F5F9; the name of a Contact you need to merge  
-    - **Repeat**: Do this _**two or more times**_, to get Contacts to merge  
-    - **Button**: Click on _Action_ _**button**_ at the top center of Odoo window  
-    - **Option**: Select _Merge Contacts_ _**option**_ in the new menu  
+  - Video link shows Video description, Odoo version & edition, Creator name, language & country (or no-voice, like in this case) and Video lenght.  Then you can see a few instructions below the link.
+  - These are all steps you need to do in Odoo 13 to _merge_ contacts  
+  - You can click the link to see the video... and this is a _very short_ one!)
+  - Or, better yet, just read _three_ rows to get all you need do do at once:  
+    - **Start**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click on _**apps**_ icon to _**start**_ this procedure
+    - **Option**: &nbsp;&nbsp;Click on _Contacts_ _**option**_ in menu  
+    - **Action**: &nbsp;&nbsp;&nbsp;Look for the Contacts _**total**_ number at the top right of Odoo window  
+    - **Button**: &nbsp;&nbsp;Click on ![view_list](/doc/img/view_list.png) _**button**_ to see list view  
+    - **Action**: &nbsp;&nbsp;&nbsp;_**Mark**_ as &#x1F5F9; the name of a Contact you need to merge  
+    - **Repeat**: &nbsp;&nbsp;Do this _**two or more times**_, to get Contacts to merge  
+    - **Button**: &nbsp;&nbsp;Click on _Action_ _**button**_ at the top center of Odoo window  
+    - **Option**: &nbsp;&nbsp;Select _Merge Contacts_ _**option**_ in the new menu  
     - **Window**: The _Merge Contacts_ _**window**_ will appear and next steps will be done there  
-    - **Field**: &nbsp; Click on the down arrow in _Destination Contact_ _**field**_ to open list  
-    - **Action**: Select the contact name that will be the one that will _**remain**_ after merging all of them  
-    - **Group**: &nbsp;Next steps are a optional, select one of the _**group**_:  
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Button**: Click on _Merge Contacts_ _**button**_ to do the _merge_, or  
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on _Cancel_ _**button**_ to abort  
-    - **Button**: Click on _Close_ _**button**_ to finish your task  
-    - **Action**: Finally, review your _**merged**_ contacts and now you'll see only the _Resultant_ one<br><br>  
+    - **Field**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on the down arrow in _Destination Contact_ _**field**_ to open list  
+    - **Action**: &nbsp;&nbsp;&nbsp;Select the contact name that will be the one that will _**remain**_ after merging all of them  
+    - **Group**: &nbsp;&nbsp;&nbsp;Next steps are a optional, select one of the _**group**_:  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Button**: Click on _Merge Contacts_ _**button**_ to do the _merge_, or  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on _Cancel_ _**button**_ to abort  
+    - **Button**: &nbsp;&nbsp;Click on _Close_ _**button**_ to finish your task  
+    - **Action**: &nbsp;&nbsp;&nbsp;Finally, review your _**merged**_ contacts and now you'll see only the _Resultant_ one<br><br>  
 - Guides  
   - A guide consists of a link to a video, followed by the _&#x03C8;Code_ of its procedure  
   - Every link includes:  
