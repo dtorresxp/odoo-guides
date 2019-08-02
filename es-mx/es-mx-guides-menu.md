@@ -135,30 +135,31 @@ De cualquier modo, esta técnica es muy útil para ayudar a la gente que más o 
 _Resolver de una vez por todas la falta de documentación_
 
 #### Beneficios reales
-  - Instrucciones correctas y fáciles de seguir
-  - Muy útil, tanto para Técnicos, como para Usuarios
-  - Guías cortas y enfocadas en un solo punto
-  - Se puede Indexar y permite Buscar
-  - Usa muy pocos símbolos y la mayoría son iconos
-  - 100% orientado a la vista en pantalla
-  - Compatible con los videos existentes
-  - Fácil de usar en los móbiles
+  - Las guías dan instrucciones correctas y muy fáciles de seguir
+  - Son muy útiles, para Técnicos y Usuarios
+  - Las guías son cortas y enfocadas en un solo punto
+  - Se pueden Indexar y permiten buscar palabras
+  - Las ligas apuntan directamente al procedimiento, dentro del video
+  - Usan muy pocos símbolos y la mayoría son iconos
+  - 100% orientadas para verse en pantalla
+  - Compatibles con los videos existentes
+  - Fáciles de usar en los móviles
   - Reglas de uso muy simples
-  - Funciona para todo el sistema
-  - Sirve con cualquier versión de Odoo
-  - Sirve con cualquier idioma
-  - Fácil de aprender
-  - Fácil de usar
-  - Fácil de mantener
-  - Fácil de traducir
-  - Fácil de actualizar la documentación existente a las nuevas versiones de Odoo
-  - Fomenta la colaboración de la comunidad
-  - Se puede escribir a mano, si no tienes computadora
-  - Usa reglas semejantes a las de la taquigrafía
-  - Útil para procedimientos técnicos y funcionales
-  - Permite documentar el sistema, antes de que salga una nueva versión
-  - Util para apps oficiales, comerciales y privadas
-  - ¡Es gratuito!
+  - Funcionan en todas las partes del sistema
+  - Sirven con cualquier versión de Odoo
+  - Se pueden crear en cualquier idioma
+  - Fáciles de aprender
+  - Fáciles de usar
+  - Fáciles de mantener
+  - Fáciles de traducir
+  - Fáciles de actualizar la documentación existente a las nuevas versiones de Odoo
+  - Fomentan la colaboración de la comunidad
+  - Las puedes escribir a mano, si no tienes una computadora disponible
+  - Usan reglas semejantes a las de _taquigrafía_
+  - Sirven para procedimientos técnicos y funcionales
+  - Permiten documentar el sistema, antes de que salga una nueva versión
+  - Son úties para apps oficiales, comerciales, personalizadas y privadas
+  - ¡Son gratuitas!
 
 #### Propuestas a Corto Plazo
   - Obtener ayuda para traducir las guías existentes al Francés, como ejemplo
