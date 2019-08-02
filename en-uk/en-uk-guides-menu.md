@@ -124,6 +124,55 @@ Anyway, this technique is very useful to help people who already knows **_what_*
 
 <br>
 
+# _&#x03C8;Code_ Project Goals
+
+_To solve once and for all, the documentation gap_
+
+#### Actual benefits:
+  - Right & easy to follow instructions
+  - Very useful for both Technicians and Users
+  - Short and focused guides
+  - Indexable and Searchable
+  - Use very few symbols, mostly icons
+  - 100% Screen oriented
+  - Video friendly
+  - Mobile friendly
+  - Very simple syntax rules
+  - System wide helpful
+  - Odoo version independent
+  - Language independent
+  - Easy to learn
+  - Easy to use
+  - Easy to maintain
+  - Easy to translate
+  - Easy to upgrade actual documentation to new versions
+  - Enforces community collaboration
+  - Handwriting friendly
+  - Kinda shorthand language
+  - Useful for both technical and functional procedures
+  - Allow to document Odoo before its new version arrives
+  - Royalty Free
+
+#### Short term Proposals
+  - Get help to translate actual guides to French as an example
+  - pCode project promotion
+  - Continue creating guides for Odoo v13
+  - Get help to create guides for Odoo v12
+	
+#### Mid term Proposals
+  - Get help to create guides for previous Odoo versions
+  - Ask OCA's advice for Tracking mode proposal
+  - Odoo Tracking mode
+    - 80% less effort to document any given procedure
+    - Odoo usage hard data
+      - Module usage slug report
+      - Analysis for User retraining
+      - Analysis for Partner's business opportunities
+      - Analysis for GUI retooling
+      - Analysis for new functionality considerations
+
+<br>
+
 # _&#x03C8;Code_ Contributors
 
 | id | Name | Team | Country | Guides |
