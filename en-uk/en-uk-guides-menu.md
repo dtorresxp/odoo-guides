@@ -65,7 +65,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
   - Related steps tend to be in the same _ROW_, unless there are plenty and need to be separated into several rows  
   - Some steps are grouped, so they're enclosed in _SQUARE BRACKETS_.  If they're mutually exclusive (options), they appear separated by _DOUBLE PIPE_ || (the OR sign).  If the group is repeatable, a super index appears after a closing bracket: \[ \]&#x207F;  
   - There are several _ICONS_ that mimic the Odoo ones on screen  
-    - ![apps](/doc/img/apps.png)&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_).  It also means you're logged into Odoo, and more important, that you've enough credentials to do the task.  
+    - ![apps](/doc/img/apps.png)&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_).  It also means that you've logged into Odoo, and more important, with enough access rights to do the task.  
     - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcrumbs list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar
     - Date fields have &#x25BC; to their right and it opens a &#x1F4C5; dialog  
     - All other symbols are the same ones as Odoo's on screen  
