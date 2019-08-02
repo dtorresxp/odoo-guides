@@ -130,6 +130,60 @@ De cualquier modo, esta técnica es muy útil para ayudar a la gente que más o 
 
 <br>
 
+# Expectativas del Proyecto _&#x03C8;Code_
+
+_Resolver de una vez por todas la falta de documentación_
+
+#### Beneficios reales
+  - Instrucciones correctas y fáciles de seguir
+  - Muy útil, tanto para Técnicos, como para Usuarios
+  - Guías cortas y enfocadas en un solo punto
+  - Se puede Indexar y permite Buscar
+  - Usa muy pocos símbolos y la mayoría son iconos
+  - 100% orientado a la vista en pantalla
+  - Compatible con los videos existentes
+  - Fácil de usar en los móbiles
+  - Reglas de uso muy simples
+  - Funciona para todo el sistema
+  - Sirve con cualquier versión de Odoo
+  - Sirve con cualquier idioma
+  - Fácil de aprender
+  - Fácil de usar
+  - Fácil de mantener
+  - Fácil de traducir
+  - Fácil de actualizar la documentación existente a las nuevas versiones de Odoo
+  - Fomenta la colaboración de la comunidad
+  - Se puede escribir a mano, si no tienes computadora
+  - Usa reglas semejantes a las de la taquigrafía
+  - Útil para procedimientos técnicos y funcionales
+  - Permite documentar el sistema, antes de que salga una nueva versión
+  - Util para apps oficiales, comerciales y privadas
+  - ¡Es gratuito!
+
+#### Propuestas a Corto Plazo
+  - Obtener ayuda para traducir las guías existentes al Francés, como ejemplo
+  - Promover el proyecto _&#x03C8;Code_ en la comunidad
+  - Continuar creando guías para el Odoo v13
+  - Obtener colaboradores para crear guías para Odoo v12
+	
+#### Propuestas a Mediano Plazo
+  - Obtener colaboradores para hacer guías de versiones anteriores de Odoo
+  - Pedir orientación a la OCA para la propuesta del modo Tracking de odoo
+  - Modo Tracking de Odoo
+    - 80% menos esfuerzo para documentar cualquier procedimiento
+    - Datos duros sobre el uso de Odoo
+      - Reporte de uso y tendencias por apps
+      - Analisis para volver a capacitar Usuarios
+      - Analisis para aumentar las oportunidades de negocios de los Socios
+      - Analisis para la mejora de interfaces
+      - Analisis para fundamentar propuestas sobre nuevas funcionalidades
+
+#### Propuestas a Largo Plazo
+  - Automatización
+  - Simulación
+
+<br>
+
 # Aportadores de _&#x03C8;Code_
 
 | id | Nombre | Grupo | País | Guías |
