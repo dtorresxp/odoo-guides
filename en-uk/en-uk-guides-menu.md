@@ -1,5 +1,5 @@
 # Odoo Guides &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/en-uk-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/es-mx-guides-menu.md)
-Odoo useful video links and _&#x03C8;Code_ guides.
+Odoo useful video links and _**&#x03C8;Code**_ guides.
 
 ![Odoo useful links & guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg)
 
@@ -13,9 +13,9 @@ Odoo useful video links and _&#x03C8;Code_ guides.
 
 # _&#x03C8;Code_ Project objectives
 
-Welcome to the _&#x03C8;Code_ project, intended to assist you on Odoo's support, daily use, training & certification.
+Welcome to the _**&#x03C8;Code**_ project, intended to assist you on Odoo's support, daily use, training & certification.
 
-We created a simple pseudo language named _&#x03C8;Code_ to help people to work as soon as possible, based in a "what-where" technique of knowledgewere.  Our idea is to mix the new video training style with something lighter than the big manuals, but recovering all indexing, searching and efficiency capabilities of the traditional training. Our goal is to get the very best of both worlds, privileging "along with" over "instead off".
+We created a simple pseudo language named _**&#x03C8;Code**_ to help people to work as soon as possible, based in a "what-where" technique of knowledgewere.  Our idea is to mix the new video training style with something lighter than the big manuals, but recovering all indexing, searching and efficiency capabilities of the traditional training. Our goal is to get the very best of both worlds, privileging "along with" over "instead off".
 
 It is a community effort designed to close the gap between Odoo gurus and rookies.  In spite of the very demanding effort Odoo has been doing in recent years documenting their system, we think the amount of development and yearly arrival of new versions (not to mention the increasing number of localizations) requires an out of the box approach.
 
@@ -23,7 +23,7 @@ We think videos are a nice but very inefficient way of training.  Without forcin
 
 We truly believe a partner's success in the long run depends on the speed to which they can move their info from where it is, to where it's needed.
 
-As _Euclides_ did about 2,300 years ago, we don't produce videos but select the best ones and redacted their _&#x03C8;Code_ in form of procedural _guides_.  As a bonus, our guides are bound with the exact start and end time in the video.
+As _Euclides_ did about 2,300 years ago, we don't produce videos but select the best ones and redacted their _**&#x03C8;Code**_ in form of procedural _guides_.  As a bonus, our guides are bound with the exact start and end time in the video.
 
 We want to respect the originator rights.  So, all our video links include the original creator name and address, honoring the _fair play_.
 
@@ -40,7 +40,7 @@ This README file is the project's home and it includes our mission statement, te
 Folders are arranged as / _language-country_ /_version_ / _edition_ / _module_ / _guide_.  
 As our project continues growing, -menu_ could be added before _guide_, but all files belonging to the module will be in the module's folder.  
 
-If you can't find help in any -menu_, or you find any errors in our _&#x03C8;Code_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
+If you can't find help in any -menu_, or you find any errors in our _**&#x03C8;Code**_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
 
 Language icons (flags) are in the order of translation creation.
 
@@ -48,7 +48,7 @@ Language icons (flags) are in the order of translation creation.
 
 # _&#x03C8;Code_ Brief
 
-This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
+This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to indicate all necessary steps in a valid order and help people to find the object on screen where every step has to be done:  
 
 ### Basic example:
 #### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
@@ -76,7 +76,7 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
     - **Action**: &nbsp;&nbsp;&nbsp;Finally, review your _**merged**_ contacts and now you'll see only the _Resultant_ one<br><br>  
     
 ### Guides
-  - A guide consists of a link to a video, followed by the _&#x03C8;Code_ of its procedure  
+  - A guide consists of a link to a video, followed by the _**&#x03C8;Code**_ of its procedure  
   - As we mentioned, every video link includes:  
     - Video name  
     - Odoo version  
@@ -86,10 +86,10 @@ This is the basic explanation about _&#x03C8;Code_.  Its only purpose is to indi
     - Time lenght  
   - When a video contains several procedures, you'll see a bulleted list below the initial (full video) link  
   - Every bullet has its own video link, but instead it only links to related procedure inside the video  
-  - Every procedure link is followed by its _&#x03C8;Code_<br><br>  
+  - Every procedure link is followed by its _**&#x03C8;Code**_<br><br>  
   
 ### Steps
-  - The main component of the _&#x03C8;Code_ guide is _STEP_, an atomic task to do in the screen  
+  - The main component of the _**&#x03C8;Code**_ guide is _STEP_, an atomic task to do in the screen  
   - Every step is separated from others by the _PIPE_ character |  
   - Related steps tend to be in the same _ROW_, unless there are plenty and need to be separated into several rows  
   - Some steps are grouped, so they're enclosed in _SQUARE BRACKETS_.  If they're mutually exclusive (options), they appear separated by _DOUBLE PIPE_ || (the OR sign).  If the group is repeatable, a super index appears after a closing bracket: \[ \]&#x207F;  
@@ -229,7 +229,7 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
 #### Notes to Contributors:
   - Sometimes, one guide needs to be in several places.  To assure manual synchronization, add this comment just below link row:
     _\[\*\*\*Sync\*\*\*\] # \(ll-cc-o[08..13]-[ce]e-[moduleid]-[filename])_
-  - Any reference to _&#x03C8;Code_ as a filename, must be converted to _pCode_ because of ASCII code limitations
+  - Any reference to _**&#x03C8;Code**_ as a filename, must be converted to _pCode_ because of ASCII code limitations
   - Add _&nocount_ at end of every multi-procedural video link to substract it from total count
   - To include any new locale-language translation, use this 5-character format _ll-cc_ from:
     - __ll__: &nbsp; Language code: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
