@@ -43,7 +43,7 @@ Este archivo README es la base del proyecto y contiene nuestros objetivos, expli
 El árbol de carpetas está ordenado por _versión_ / _edición_ / _módulo_ / _guía_.
 Conforme el proyecto vaya creciendo, se podrá agregar un _menú_ antes de _guía_, pero todos los archivos que correspondan a un mismo módulo se alojarán dentro de la carpeta del módulo.
 
-Si no puedes encontrar lo que buscas en ningún _menú_, o si encuentras algún error en nuestro _**&#x03C8;Code**_, por favor no dudes en enviarnos un correo mencionando tu preocupación de manera razonable... de preferencia con una liga a un video donde se explique mejor el tema.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
+Si encuentras la ayuda que necesitas en ningún menú, o si encuentras algún error en nuestro _**&#x03C8;Code**_, por favor no dudes en enviarnos un correo mencionando tu requerimiento de manera razonable... de preferencia con una liga a un video donde hayas encontrado la solución.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
 
 Los iconos de las traducciones (banderas) aparecen en el orden en que han sido creadas.
 
