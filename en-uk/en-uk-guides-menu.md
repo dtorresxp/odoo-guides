@@ -40,7 +40,7 @@ This README file is the project's home and it includes our mission statement, te
 Folders are arranged as / _language-country_ /_version_ / _edition_ / _module_ / _guide_.  
 As our project continues growing, -menu_ could be added before _guide_, but all files belonging to the module will be in the module's folder.  
 
-If you can't find help in any -menu_, or you find any errors in our _**&#x03C8;Code**_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
+If you can't find help here, or you find any errors in our _**&#x03C8;Code**_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
 
 Language icons (flags) are in the order of translation creation.
 
