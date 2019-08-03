@@ -40,7 +40,7 @@ This README file is the project's home and it includes our mission statement, te
 Folders are arranged as / _language-country_ /_version_ / _edition_ / _module_ / _guide_.  
 As our project continues growing, -menu_ could be added before _guide_, but all files belonging to the module will be in the module's folder.  
 
-If you can't find help in any -menu_, or you find any errors in our _**&#x03C8;Code**_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
+If you can't find help here, or you find any errors in our _**&#x03C8;Code**_, please feel free to send us a gently mail to tell us about it... preferably with a link to an explanatory video.  We offer you to treat your suggestions with higher priority to improve our community.
 
 Language icons (flags) are in the order of translation creation.
 
@@ -234,7 +234,7 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
   - To include any new locale-language translation, use this 5-character format _ll-cc_ from:
     - __ll__: &nbsp; Language code: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
     - __cc__: Country code: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-	- Flag icons are (250x150) fly breeze style got from [_here_](https://amazon.com)
+	- Flag icons are round (150x150) button style
 
 
 <br><br>

@@ -43,7 +43,7 @@ Este archivo README es la base del proyecto y contiene nuestros objetivos, expli
 El árbol de carpetas está ordenado por _versión_ / _edición_ / _módulo_ / _guía_.
 Conforme el proyecto vaya creciendo, se podrá agregar un _menú_ antes de _guía_, pero todos los archivos que correspondan a un mismo módulo se alojarán dentro de la carpeta del módulo.
 
-Si no puedes encontrar lo que buscas en ningún _menú_, o si encuentras algún error en nuestro _**&#x03C8;Code**_, por favor no dudes en enviarnos un correo mencionando tu preocupación de manera razonable... de preferencia con una liga a un video donde se explique mejor el tema.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
+Si encuentras la ayuda que necesitas en ningún menú, o si encuentras algún error en nuestro _**&#x03C8;Code**_, por favor no dudes en enviarnos un correo mencionando tu requerimiento de manera razonable... de preferencia con una liga a un video donde hayas encontrado la solución.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
 
 Los iconos de las traducciones (banderas) aparecen en el orden en que han sido creadas.
 
@@ -246,7 +246,7 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
   - Para agregar una nueva traducción, se debe usar el nombre de 5-caracteres formado por _ii-cc_, tomándolos de las siguientes listas oficiales:
     - __ii__: &nbsp;&nbsp;Código de idioma: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
     - __pp__: Código de país: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-    - Los iconos de las banderas deben ser de (250x150) pixeles en estilo _fly breeze_, tomándolos de [_aquí_](https://amazon.com)
+    - Los iconos de las banderas deben ser redondos de (150x150) estilo botón.
 
 
 <br><br>
