@@ -33,7 +33,7 @@
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
 | step | step | &#x2026; row &#x2026; | logical bound steps |
-| \| | step sepparator | \[ x \| y ] | grouped steps |
+| \| | step separator | \[ x \| y ] | grouped steps |
 | _(tag)_ | tag | &nbsp;\[ x \| y \]&#x207F; | n-times repeatable steps |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | \[ x \|\| y ] | option steps |
 | ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon |
@@ -47,12 +47,12 @@
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
 | &#x1F4C5; | calendar | &#x2B50; | favorites |
 | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | &#x1F870; \|\| &#x1F872; | back \|\| advance |
-| ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| substract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
+| ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| subtract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | confirm |
-![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
+| ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png)| zoom in \|\| out | **&#x2713;** option | active option |
+| ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
 | ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| map view & location|
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
-| ![button_squared_add](/doc/img/button_squared_add.png) | zoom in | ![button_squared_sub](/doc/img/button_squared_sub.png) | zoom out |
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
 | **i:** Item | item on screen | **l:** Link | link |
@@ -63,4 +63,4 @@
 
 <br>  
   
-###### Odoo Guides - v6_01 &nbsp; 2019-08-01  [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  
+###### Odoo Guides - v6_02 &nbsp; 2019-08-02  [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  

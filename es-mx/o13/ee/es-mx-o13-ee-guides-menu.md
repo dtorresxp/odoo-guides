@@ -49,17 +49,18 @@
 | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presente \|\| ausente | &#x1F870; \|\| &#x1F872; | retroceder \|\| avanzar |
 | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | agregar \|\| eliminar | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancelar |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | activo \|\| inactivo | ![phone_receiver](/doc/img/phone_receiver.png) | confirmar |
+| ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png)| zoom + \|\| - | **&#x2713;** opción | opción activa |
 | ![view_kanban](/doc/img/view_kanban.png) | vista kanban | ![view_list](/doc/img/view_list.png) | vista de lista |
 | ![view_activity](/doc/img/view_activity.png) | vista de actividades | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| vista de mapa y localización |
 | ![show_catalog](/doc/img/show_catalog.png) | mostrar catálogo | ![filter](/doc/img/filter.png) | filtrar |
 | ![button_squared_add](/doc/img/button_squared_add.png) | acercar zoom | ![button_squared_sub](/doc/img/button_squared_sub.png) | alejar zoom |
 | _**a:** Acción_ | acción (varios pasos) | **b:** Button | botón |
-| **d:** Dialogo | alerta o cuadro de diálogo | **f:** Field | campo de captura |
+| **d:** Dialogo | alerta o cuadro de diálogo | **f:** Campo | campo de captura |
 | **i:** Item | elemento en pantalla | **l:** Liga | hipervínculo |
 | **m:** Menu | menu | **o:** Opción | opción |
 | **s:** SmartButton | botón inteligente | **t:** Tab | pestaña |
-| **v:** View | vista | **w:** Window | window |
+| **v:** View | vista | **w:** Ventana | Ventana |
 
 <br>  
   
-###### Guías Odoo - v6_01 &nbsp; 2019-08-01  [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
+###### Guías Odoo - v6_02 &nbsp; 2019-08-02  [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
