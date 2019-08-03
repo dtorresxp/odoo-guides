@@ -21,7 +21,7 @@
   - i:AfterSales | f:Refunds &#x25C9; | f:Returns &#x25C9; | f:Coupons &#x25C9; | f:Repairs &#x25C9;  
   - b:Save  
 
-- [Configuration - Ticket Types](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=35&end=105&rel=0)  
+- [Configuration - Ticket Types](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=35&end=105&rel=0)
   - m:Configuration | _a:Select Helpdesk Team_ | b:Create
     - f:Name | f:Description | f:Location
 
