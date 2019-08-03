@@ -246,7 +246,7 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
   - Para agregar una nueva traducción, se debe usar el nombre de 5-caracteres formado por _ii-cc_, tomándolos de las siguientes listas oficiales:
     - __ii__: &nbsp;&nbsp;Código de idioma: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
     - __pp__: Código de país: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-    - Los iconos de las banderas deben ser de (250x150) pixeles en estilo _fly breeze_, tomándolos de [_aquí_](https://amazon.com)
+    - Los iconos de las banderas deben ser redondos de (150x150) estilo botón.
 
 
 <br><br>
