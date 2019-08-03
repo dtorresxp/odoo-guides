@@ -16,8 +16,8 @@
   
 - [New Time Off Request](https://youtube.com/embed/g08_hJuTuNA?autoplay=1&start=101&end=118&rel=0)  
   ![apps](/doc/img/apps.png) | o:TimeOff | m:MyTimeOff | o:Dashboard | b:NewTimeOffRequest | w:Odoo |  
-  f:TimeOffType | f:From | f:To | f:Duration | f:Description | f:OutOfOfficeMessage | f:Mode | f:Employee | f:Department | f:ReportedInLastPayslips |  
-  f:CommentByManager | b:Save | b:Approve | _a:Review calendar_
+  f:TimeOffType | f:From | f:To | f:Duration | f:Description | f:OutOfOfficeMessage | f:Mode | f:Employee |  
+  f:Department | f:ReportedInLastPayslips | f:CommentByManager | b:Save | b:Approve | _a:Review calendar_
   
 - [Show Time Off Requests](https://youtube.com/embed/g08_hJuTuNA?autoplay=1&start=26&end=35&rel=0)  
   ![apps](/doc/img/apps.png) | o:TimeOff | m:MyTimeOff | o:TimeOffRequests | \[ v:&#x1F4C5; \|\| v:![view_kanban](/doc/img/view_kanban.png) \|\| ![view_activity](/doc/img/view_activity.png) ]  
@@ -25,8 +25,8 @@
 - [Schedule Activities in Time Off](https://youtube.com/embed/g08_hJuTuNA?autoplay=1&start=35&end=42&rel=0)  
   ![apps](/doc/img/apps.png) | o:TimeOff | m:MyTimeOff | o:TimeOffRequests | v:![view_activity](/doc/img/view_activity.png) |  
   _a:Hover on any i:EmployeeOnCopensatoryDays to show d:OverdueWithPendingApprovals_ |  
-  d:OverdueWithPendingApprovals | b:ScheduleAnActivity | w:ScheduleActivity | f:ActivityType | f:Summary | f:DueDate | f:AsignedTo |  
-  \[ b:Schedule || b:MarkAsDone || b:Done&ScheduleNext || b:Discard ]  
+  d:OverdueWithPendingApprovals | b:ScheduleAnActivity | w:ScheduleActivity | f:ActivityType | f:Summary |  
+  f:DueDate | f:AsignedTo | \[ b:Schedule || b:MarkAsDone || b:Done&ScheduleNext || b:Discard ]  
 
 - [Review Employee Time Off Details](https://youtube.com/embed/g08_hJuTuNA?autoplay=1&start=43&end=45&rel=0)  
   ![apps](/doc/img/apps.png) | o:TimeOff | m:MyTimeOff | o:TimeOffRequests | v:![view_activity](/doc/img/view_activity.png) |  
