@@ -234,7 +234,7 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
   - To include any new locale-language translation, use this 5-character format _ll-cc_ from:
     - __ll__: &nbsp; Language code: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
     - __cc__: Country code: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-	- Flag icons are (250x150) fly breeze style got from [_here_](https://amazon.com)
+	- Flag icons are round (150x150) button style
 
 
 <br><br>
