@@ -13,10 +13,13 @@
 #### [New Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:51)](https://youtube.com/embed/TgAbV7xG2wo?autoplay=1&start=18&end=0&rel=0&nocount)
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Products | f:Search... desk | _a:Select item with variants |  
 t:Variants | _a:Review data_ | m:Orders | o:Quotations | b:Create |  
-f:Customer | &#x25BC; | f:Expiration &#x1F4C5; | t:OrderLines | i:AddAProduct | f:Product &#x1F4C5; | _a:Select Product with Variants_ |  
-w:ConfigureAProduct | f:Product | _a:Configure variants_ | b:Add | b:Close
-
-
+f:Customer | &#x25BC; | f:Expiration &#x1F4C5; | t:OrderLines | i:AddAProduct |  
+f:Product &#x1F4C5; | _a:Select Product with Variants_ | w:ConfigureAProduct | f:Product | _a:Configure variants_ | b:Add | b:Close |  
+b:![edit](/doc/img/edit.png) | _a:Opens the same product configurator window_ | b:Confirm |  
+_a:Notice Odoo can check if desired combination is available_ |  
+_a:Review your product configuration on Order Line_ |  
+_a:Configurator also shows optional products_ |  
+b:Save  
 
 #### [Sales Coupon and Promotion Program &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 06:55)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0&nocount)
 
