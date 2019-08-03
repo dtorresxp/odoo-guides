@@ -1,5 +1,5 @@
 # Guías Odoo &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/en-uk-guides-menu.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/es-mx-guides-menu.md)
-Ligas a videos y guías en _&#x03C8;Code_ para Odoo.
+Ligas a videos y guías en _**&#x03C8;Code**_ para Odoo.
 
 ![Ligas a videos y guías en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo_guides_mini.jpg)
 
@@ -13,10 +13,10 @@ Ligas a videos y guías en _&#x03C8;Code_ para Odoo.
 
 # Objetivos del Proyecto _&#x03C8;Code_
 
-¡Bienvenid@s al proyecto _&#x03C8;Code_!<br>
+¡Bienvenid@s al proyecto _**&#x03C8;Code**_!<br>
 
 Nuestra intenciones apoyar el soporte, uso, capacitación y certificación en Odoo.<br><br>
-Creamos un pseudo lenguaje simple llamado _&#x03C8;Code_, para ayudar a la gente a trabajar lo más pronto posible, basándonos en la técnica "qué-dónde" del _Knowledgeware_.  La idea es integrar las nuevas técnicas de capacitación mediante videos con algo más simple que los pesados manuales de sistema, pero retomando todas las ventajas de indexamiento, búsqueda y eficiencia de la capacitación tradicional.  Nuestro objetivo es tomar lo mejor de ambos mundos, privilegiando el "junto con", sobre el "en vez de".
+Creamos un pseudo lenguaje simple llamado _**&#x03C8;Code**_, para ayudar a la gente a trabajar lo más pronto posible, basándonos en la técnica "qué-dónde" del _Knowledgeware_.  La idea es integrar las nuevas técnicas de capacitación mediante videos con algo más simple que los pesados manuales de sistema, pero retomando todas las ventajas de indexamiento, búsqueda y eficiencia de la capacitación tradicional.  Nuestro objetivo es tomar lo mejor de ambos mundos, privilegiando el "junto con", sobre el "en vez de".
 
 Es un esfuerzo comunitario, diseñado para reducir la brecha entre los gurús y los que están comenzando a aprender Odoo.  A pesar del gran esfuerzo que Odoo ha estado haciendo en estos últimos años para documentar su sistema, creemos que el volúmen de desarrollo y la llegada de nuevar versiones cada año (y eso sin mencionar todas las localizaciones en cada idioma), requiere un enfoque totalmente nuevo.
 
@@ -24,7 +24,7 @@ Creemos que los videos son una forma muy bonita, pero muy ineficiente de capacit
 
 Estamos convencidos de que el éxito de una empresa de servicios de Odoo a largo plazo depende de la velocidad con que puedan mover su información de donde está, a donde se necesita.
 
-Como hizo _Euclides_ hace como 2,300 años, nosotros no procucimos videos, sino que seleccionamos los mejores y redactamos el _&#x03C8;Code_ correspondiente en forma de _guías_ de procedimientos.  Como una ventaja extra, las ligas de nuestras guías apuntan directamente al inicio y fin del procedimiento dentro del video.
+Como hizo _Euclides_ hace como 2,300 años, nosotros no procucimos videos, sino que seleccionamos los mejores y redactamos el _**&#x03C8;Code**_ correspondiente en forma de _guías_ de procedimientos.  Como una ventaja extra, las ligas de nuestras guías apuntan directamente al inicio y fin del procedimiento dentro del video.
 
 Queremos respetar los derechos de los creadores de contenidos.  Todos nuestras ligas a videos incluyen el nombre y dirección del creador original, para cumplir con las políticas del _juego limpio_.
 
@@ -43,7 +43,7 @@ Este archivo README es la base del proyecto y contiene nuestros objetivos, expli
 El árbol de carpetas está ordenado por _versión_ / _edición_ / _módulo_ / _guía_.
 Conforme el proyecto vaya creciendo, se podrá agregar un _menú_ antes de _guía_, pero todos los archivos que correspondan a un mismo módulo se alojarán dentro de la carpeta del módulo.
 
-Si no puedes encontrar lo que buscas en ningún _menú_, o si encuentras algún error en nuestro _&#x03C8;Code_, por favor no dudes en enviarnos un correo mencionando tu preocupación de manera razonable... de preferencia con una liga a un video donde se explique mejor el tema.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
+Si no puedes encontrar lo que buscas en ningún _menú_, o si encuentras algún error en nuestro _**&#x03C8;Code**_, por favor no dudes en enviarnos un correo mencionando tu preocupación de manera razonable... de preferencia con una liga a un video donde se explique mejor el tema.  Te ofrecemos darle una mayor prioridad a tus sugerencias, con el fin de atender mejor a nuestra comunidad.
 
 Los iconos de las traducciones (banderas) aparecen en el orden en que han sido creadas.
 
@@ -51,7 +51,7 @@ Los iconos de las traducciones (banderas) aparecen en el orden en que han sido c
 
 # Explicación sencilla del _&#x03C8;Code_
 
-A continuación te mostraremos una sencilla explicación sobre el _&#x03C8;Code_.  Sirve para mostarte los pasos necesarios para realizar tu tarea en orden correcto y ayudarte a encontrar el objeto en pantalla donde hay que realizar cada paso:
+A continuación te mostraremos una sencilla explicación sobre el _**&#x03C8;Code**_.  Sirve para mostarte los pasos necesarios para realizar tu tarea en orden correcto y ayudarte a encontrar el objeto en pantalla donde hay que realizar cada paso:
 
 ### Ejemplo típico
 #### [Combinar Contactos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&Inicio=0&end=0&rel=0)  
@@ -80,7 +80,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
     - **Acción**: &nbsp;&nbsp;&nbsp;Al terminar, puedes revisar tus Contactos _combinados_, ya sólo aparecerá el nombre del _resultante_
     
 ### Guías
-  - Cada guía consta de una liga a un video, seguida del _&#x03C8;Code_ de su procedimiento
+  - Cada guía consta de una liga a un video, seguida del _**&#x03C8;Code**_ de su procedimiento
   - Cada liga incluye:  
     - Nombre del video
     - Número de versión de Odoo  
@@ -90,10 +90,10 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
     - Duración del video  
   - Cuando un video contiene varios procedimientos, se mostrarán en forma de lista debajo de la liga al video completo
   - Cada procedimiento tendrá su propia liga, pero sólo apuntará al procedimiento indicado dentro del video
-  - Después de cada liga al procedimiento, seguirá su _&#x03C8;Code_
+  - Después de cada liga al procedimiento, seguirá su _**&#x03C8;Code**_
   
 ### Pasos
-  - El elemento fundamental de una guía de _&#x03C8;Code_ es el _PASO_, una tarea aislada a realizar dentro de la pantalla.  
+  - El elemento fundamental de una guía de _**&#x03C8;Code**_ es el _PASO_, una tarea aislada a realizar dentro de la pantalla.  
   - Cada paso se separa de los demás mediante una _BARRA VERTICAL_ |  
   - Los pasos relacionados normalmente aparecen en el mismo _RENGLÓN_, a menos que no quepan y se necesiten separar en varios renglones  
   - Algunos pasos van agrupados lógicamente, encerrados entre _CORCHETES_.  Si son mutuamente exclusivos (opciones), aparecen separados por _DOS BARRAS VERTICALES_ || (uno de los símbolos de OR).  Si las tareas del grupo se pueden repetir, un superíndice lo indica a la derecha del corchete que se cierra: \[ \]&#x207F;  
@@ -149,7 +149,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
 <br>
 
 # El Enfoque _Qué-Dónde_
-![Ligas a videos y guías en _&#x03C8;Code_ aprovechar Odoo](/doc/img/logo_odoo_guides_mini.jpg)
+![Ligas a videos y guías en _**&#x03C8;Code**_ aprovechar Odoo](/doc/img/logo_odoo_guides_mini.jpg)
 
 Es parte de la teoría de _knowledgeware_.  En el contexto de las interfaces de usuario, se refiere a que la capacitación puede reducirse a explicar únicamente _qué_ hacer y _dónde_ hacerlo.  Esto implica que el usuario ya conoce _por qué_ debe hacerlo, por lo cual no necesita ser parte de la explicación.  Esto minimiza el tiempo, información y esfuerzo necesarios para adquirir nuevo conocimiento.
 
@@ -241,7 +241,7 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
 #### Notas para los Colaboradores:
   - A veces una guía debe ir en varios menús.  Para asegurarnos de que se sincronizan todas cada vez que hay una actualización, se debe agregar el siguiente comentario en el renglón bajo el hipervínculo:  
     _\[\*\*\*Sync\*\*\*\] # \(ii-pp-o[08..13]-[ce]e-[iddelmódulo]-[nombredelarchivo])_
-  - Todas las referencias al _&#x03C8;Code_ como nombre de archivo, deben ser convertidas a _pCode_ debido a las limitaciones del código ASCII
+  - Todas las referencias al _**&#x03C8;Code**_ como nombre de archivo, deben ser convertidas a _pCode_ debido a las limitaciones del código ASCII
   - Se debe agregar _&nocount_ al final de la liga a un video con múltiples procedimientos, para eliminarlo de la cuenta total de guías
   - Para agregar una nueva traducción, se debe usar el nombre de 5-caracteres formado por _ii-cc_, tomándolos de las siguientes listas oficiales:
     - __ii__: &nbsp;&nbsp;Código de idioma: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
