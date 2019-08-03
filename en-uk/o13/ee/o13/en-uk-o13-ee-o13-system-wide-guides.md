@@ -9,12 +9,11 @@ b:Edit | f:Done | w:Open:StockMovesNotInPackage | b:Close | b:CheckAvailability 
 b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;  
 
 #### [How to Activate Developer Mode &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 00:52)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=0&rel=0&nocount)  
-
 - [Activate](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=18&rel=0)  
-![apps](/doc/img/apps.png) | o:Settings | i:Activate the developer mode  
+  ![apps](/doc/img/apps.png) | o:Settings | i:Activate the developer mode  
 
 - [Deactivate](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=24&end=39&rel=0)  
-![apps](/doc/img/apps.png) | o:Settings | i:Deactivate the developer mode  
+  ![apps](/doc/img/apps.png) | o:Settings | i:Deactivate the developer mode  
 
 #### [How to fix Unable to log message &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:55)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)  
 \[ m:MySelf &#x25BC; | o:MyProfile \] &nbsp; || &nbsp; \[ ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ | b:Edit \] |  
@@ -31,6 +30,13 @@ w:LoadATranslation | &#x25BC; Language | &#x1F5F9; Overwrite Existing | b:Load |
 ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ | b:Edit | t:Preferences |  
 i:Localization | &#x25BC; f:Language | _a:Select language_ | b:Save |  
 &#x25BC; m:MySelf | o:Logout | _a:Login as localized User_ | _a:Verify new language is ok_  
+
+#### [List View Improvements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:41)](https://youtube.com/embed/J9NNVrAc9Us?autoplay=1&start=0&end=0&rel=0)  
+_a:Assign same value to several records at once_  
+![apps](/doc/img/apps.png) | o:Contacts | v:![view_list](/doc/img/view_list.png) | _a:Select 3 test Contacts without Salesperson_ |  
+_a:Select f:Salesperson &#x25BC; in one of them_ | d:Confirmation  
+_a:Do you want to set the value on the 3 valid selected records?_ | \[ b:Ok \|\| b:Cancel ]  
+_a:Review changes_ | b:GroupBy &#x25BC; | **&#x2713;** o:Salesperson | _a:Check your contacts now've the right f:Salesperson_   
 
 #### [New Multi Company Widget &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:17)](https://youtube.com/embed/5HU8dJfTmpc?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Select o:Module_ | m:Company &#x25BC; | \[ _a:Mark o:Company_ \]&#x207F;
@@ -53,5 +59,5 @@ b:Save
 
 <br>
 
-###### Odoo Guides - v4_01 &nbsp; 2019-08-01  
+###### Odoo Guides - v4_03 &nbsp; 2019-08-03  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
