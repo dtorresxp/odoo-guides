@@ -11,14 +11,14 @@
   i:CustomerCare | **&#x2807;** | _a:Select Ticket color_ |  
 
 - [Configuration - Teams](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=35&end=105&rel=0)  
-  - m:Configuration | o:HelpdeskTeam  
-    b:Create | f:Name | f:Description | f:Location  
-    - i:Productivity | f:TeamMembers &#x207F; | [ _a:Select Member_ ]&#x207F; | f:AssignMethod &#x207F; \[ o:Manually \|\| Randomly \|\| Balanced ]  
-    - i:Channels | \[ f:EMailAlias &#x25C9; | f:ConfigureDomainName ] | f:LiveChat &#x2B58; | f:WebsiteForm &#x2B58; | f:API &#x2B58;  
-    - i:Sell&TrackHours | f:TimesheetOnTicket &#x2B58;  
-    - i:Performance | f:SLAPolicies &#x2B58; | f:RatingsOnTickets &#x2B58; | f:CannedResponses &#x2B58;  
-    - i:SelfService | f:HelpCenter &#x2B58; | f:eLearning &#x2B58;  
-    - i:AfterSales | f:Refunds &#x25C9; | f:Returns &#x25C9; | f:Coupons &#x25C9; | f:Repairs &#x25C9;  
+  m:Configuration | o:HelpdeskTeam  
+  - b:Create | f:Name | f:Description | f:Location  
+  - i:Productivity | f:TeamMembers &#x207F; | [ _a:Select Member_ ]&#x207F; | f:AssignMethod &#x207F; \[ o:Manually \|\| Randomly \|\| Balanced ]  
+  - i:Channels | \[ f:EMailAlias &#x25C9; | f:ConfigureDomainName ] | f:LiveChat &#x2B58; | f:WebsiteForm &#x2B58; | f:API &#x2B58;  
+  - i:Sell&TrackHours | f:TimesheetOnTicket &#x2B58;  
+  - i:Performance | f:SLAPolicies &#x2B58; | f:RatingsOnTickets &#x2B58; | f:CannedResponses &#x2B58;  
+  - i:SelfService | f:HelpCenter &#x2B58; | f:eLearning &#x2B58;  
+  - i:AfterSales | f:Refunds &#x25C9; | f:Returns &#x25C9; | f:Coupons &#x25C9; | f:Repairs &#x25C9;  
   - b:Save  
 
 - [Configuration - Ticket Types](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=35&end=105&rel=0)  
