@@ -7,7 +7,7 @@
 _a:Notice the opened rows with different warehouses for the product_ |  
 _a:Open Warehouse row_ f:WarehouseName &#x2BC8; |  
 _a:Notice new rows with:_ f:WarehouseName | f:ReservedQuantiey | f:OnHandQuantity | f:Value | f:Company |  
-_a:Notice sum of Warehouses quantities are the same as Product row_ |  
+_a:Notice sum of Warehouses quantities are the same as Product row_  
 
 <br>
 
