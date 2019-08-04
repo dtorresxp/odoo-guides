@@ -4,14 +4,8 @@
 
 #### [Helpdesk Overview (O13 - EE - Odoo Mates - n/v - 05:20)](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=0&end=0&rel=0&nocount)  
 
-- [Overview](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=0&end=35&rel=0)  
-  &#x25A6; | o:Helpdesk | i:MyTickets | i:Ticket | _a:Review pending Tickets_ |  
-  &#x23BD;/&#x23BD;/:HelpdeskOverview | i:AvgOpenHours | _a:Review Ticket analysis graph_ |  
-  &#x23BD;/&#x23BD;/:HelpdeskOverview | _a:Review status_ i:MyPerformance |  
-  i:CustomerCare | **&#x2807;** | _a:Select Ticket color_ |  
-
 - [Configuration - Teams](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=35&end=105&rel=0)
-  - m:Configuration | o:HelpdeskTeam | b:Create | f:Name | f:Description | f:Location  
+  - &#x25A6; | o:Helpdesk | m:Configuration | o:HelpdeskTeam | b:Create | f:Name | f:Description | f:Location  
     - i:Productivity | f:Members &#x207F; | [ _a:Select Member_ ]&#x207F; | f:AssignMethod &#x25BC; \[ o:Manually \|\| Randomly \|\| Balanced ]  
     - i:Channels | \[ f:EMailAlias &#x25C9; | f:ConfigureDomainName ] | f:LiveChat &#x2B58; | f:WebsiteForm &#x2B58; | f:API &#x2B58;  
     - i:Sell&TrackHours | f:TimesheetOnTicket &#x2B58;  
@@ -20,10 +14,23 @@
     - i:AfterSales | f:Refunds &#x25C9; | f:Returns &#x25C9; | f:Coupons &#x25C9; | f:Repairs &#x25C9;  
   - b:Save  
 
-- [Configuration - Ticket Types](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=35&end=105&rel=0)
-  - m:Configuration | _a:Select Helpdesk Team_ | b:Create
-    - f:Name | f:Description | f:Location
+- [Configuration - Ticket Types](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=105&end=118&rel=0)
+  &#x25A6; | o:Helpdesk | m:Configuration |  
+  o:TicketType | b:Create | f:Name | b:Save
 
+- [Configuration - Stages](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=118&end=125&rel=0)
+  &#x25A6; | o:Helpdesk | m:Configuration |  
+  o:TicketType | b:Create | f:Name | f:ClosingKanbanStage \[ &#x25C9;	\|\| &#x2B58; ] | b:Save
+
+- [Overview](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=0&end=35&rel=0)  
+  &#x25A6; | o:Helpdesk | m:Tickets | i:Ticket | _a:Review pending Tickets_ |  
+  &#x23BD;/&#x23BD;/:HelpdeskOverview | i:AvgOpenHours | _a:Review Ticket analysis graph_ |  
+  &#x23BD;/&#x23BD;/:HelpdeskOverview | _a:Review status_ i:MyPerformance |  
+  i:CustomerCare | **&#x2807;** | _a:Select Ticket color_ |  
+
+- [All Tickets Menu](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=125&end=35&rel=0)  
+  &#x25A6; | o:Helpdesk |  
+  o:AllTickets | b:Create | f:Name | f:HelpDeskTeam &#x25C9; | f:AssignedTo &#x25C9; | f:TicketType | f:Priority | 
 
 <br>
 
