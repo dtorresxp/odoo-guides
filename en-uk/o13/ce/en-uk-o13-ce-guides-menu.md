@@ -22,7 +22,7 @@
 | &#x2807; | list menu icon | &#x2716; | remove tag / close |
 | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
 | &#x25C9; | set option | &#x2B58; | clear option |
-| &#x25BC; | open combobox | **&#x2B73;** | download |
+| &#x25BC; \|\| &#x25B6; | open combobox \|\| row | **&#x2B73;** | download |
 | &#x21C4; | pivot: flip axis | &#x2725; | pivot: expand all |
 | &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
 | &#x1F6E0; | open studio | &#x1F557; | activities |
@@ -45,4 +45,4 @@
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v6_08 &nbsp; 2019-08-04  [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  
+###### Odoo Guides - v6_09 &nbsp; 2019-08-04  [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  

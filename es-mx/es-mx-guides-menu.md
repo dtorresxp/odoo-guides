@@ -126,7 +126,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
 | &#x2807; | icono de menú de la lista | &#x2716; | quitar etiqueta / cerrar |
 | &#x1F5F9; | opción marcada con palomita | &#x2610; | opción desmarcada |
 | &#x25C9; | encendido | &#x2B58; | apagado |
-| &#x25BC; | abrir combo y seleccionar opción | **&#x2B73;** | descargar |
+| &#x25BC; \|\| &#x25B6; | abrir combo \|\| renglón | **&#x2B73;** | descargar |
 | &#x21C4; | tabla dinámica: intercambiar ejes | &#x2725; | tabla dinámica: expandir todo |
 | &#x1F41E; | opciones del desarrollador | ![warning](/doc/img/warning.png) \|\| &#x26A0; | alerta \|\| precaución |
 | &#x1F6E0; | abrir Odoo studio | &#x1F557; | actividades |
@@ -252,5 +252,5 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
 
 
 <br><br>
-#### Guías Odoo - v6_08 &nbsp; 2019-08-04
+#### Guías Odoo - v6_09 &nbsp; 2019-08-04
  
