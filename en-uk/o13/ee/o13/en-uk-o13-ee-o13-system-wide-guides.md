@@ -75,7 +75,11 @@ b:Save
 ![apps](/doc/img/apps.png) | _a:Open module with v:list_ | _a:Open v:list_ | o:Products | &nbsp;**&#x2807;** |  
 \[ _a:Show optional field with_ &#x1F5F9; ]&#x207F; | _a:Click outside fields window_  
 
+#### [SuperUser Mode &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:30)](https://youtube.com/embed/pBN3IC9ipWw?autoplay=1&start=21&end=110&rel=0)  
+![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | m:OpenDeveloperTools &#x1F41E; | o:BecomeSuperuser |   
+_a:Notice navbar SuperUser background_ | _a:After completing your SuperUsert tasks, don't forget to LogOut, for security reasons_
+
 <br>
 
-###### Odoo Guides - v4_04 &nbsp; 2019-08-03  
+###### Odoo Guides - v4_05 &nbsp; 2019-08-03  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
