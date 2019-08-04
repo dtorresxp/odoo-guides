@@ -28,7 +28,7 @@
 t:Variants | _a:Review data_ | m:Orders | o:Quotations | b:Create |  
 f:Customer | &#x25BC; | f:Expiration &#x1F4C5; | t:OrderLines | i:AddAProduct |  
 f:Product &#x1F4C5; | _a:Select Product with Variants_ | w:ConfigureAProduct | f:Product | _a:Configure variants_ | b:Add | b:Close |  
-b:![edit](/doc/img/edit.png) | _a:Opens the same product configurator window_ | b:Confirm |  
+b: ![edit](/doc/img/edit.png) | _a:Opens the same product configurator window_ | b:Confirm |  
 _a:Notice Odoo can check if desired combination is available_ |  
 _a:Review your product configuration on Order Line_ |  
 _a:Configurator also shows optional products_ |  
