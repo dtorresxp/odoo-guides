@@ -7,7 +7,7 @@
 #### Product Configurator
 
 #### [How to Activate the Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:34)](https://youtube.com/embed/DWmOGxmof_U?autoplay=1&start=0&end=0&rel=0)
-- _a:Deactivated behavior:_
+- _a:Deactivated behavior:_  
   ![apps](/doc/img/apps.png) | o:Sales | m:Configuration | o:Settings | f:ProductConfigurator &#x2610; |  
   m:Orders | o:Quotations | b:Create | f:Customer &#x25BC; | t:OrderLines | i:AddAProduct &#x25BC; |  
   _a:Notice there aren't configurable products listed_ |  
