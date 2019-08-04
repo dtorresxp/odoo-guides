@@ -124,7 +124,7 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 | &#x25C9; | set option | &#x2B58; | clear option |
 | &#x25BC; | open combobox | **&#x2B73;** | download |
 | &#x21C4; | pivot: flip axis | &#x2725; | pivot: expand all |
-| &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) | warning |
+| &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
 | &#x1F6E0; | open studio | &#x1F557; | activities |
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
 | &#x1F4C5; | calendar | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | star \|\| unstar |  
@@ -240,5 +240,5 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
 
 
 <br><br>
-#### Odoo Guides - v6_06 &nbsp; 2019-08-03
+#### Odoo Guides - v6_08 &nbsp; 2019-08-04
  

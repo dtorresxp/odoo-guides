@@ -24,7 +24,7 @@
 | &#x25C9; | encendido | &#x2B58; | apagado |
 | &#x25BC; | abrir combo y seleccionar opción | **&#x2B73;** | descargar |
 | &#x21C4; | tabla dinámica: intercambiar ejes | &#x2725; | tabla dinámica: expandir todo |
-| &#x1F41E; | opciones del desarrollador | ![warning](/doc/img/warning.png) | alerta |
+| &#x1F41E; | opciones del desarrollador | ![warning](/doc/img/warning.png) \|\| &#x26A0; | alerta \|\| precaución |
 | &#x1F6E0; | abrir Odoo studio | &#x1F557; | actividades |
 | &#x1F5ED; | conversaciones | &#x1F50D; | búsqueda avanzada |
 | &#x1F4C5; | calendario | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | favorecer \|\| desfavorecer |  
@@ -45,4 +45,4 @@
 | **v:** View | vista | **w:** Ventana | Ventana |
 
 <br><br>
-###### Guías Odoo - v6_07 &nbsp; 2019-08-03  [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
+###### Guías Odoo - v6_08 &nbsp; 2019-08-04  [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
