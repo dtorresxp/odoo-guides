@@ -12,6 +12,8 @@
 [***Sync***]: # (es-mx-guides-menu)
 [***Sync***]: # (es-mx-o13-ee-guides-menu)  
 
+| Icono | Significado | Icono | Significado | 
+| :---: | :--- | :---: | :--- |
 | paso | paso | &#x2026; row &#x2026; | agrupación lógica de pasos |
 | \| | separador de pasos | \[ x \| y ] | grupo de pasos |
 | _(etiqueta)_ | etiqueta | &nbsp;\[ x \| y \]&#x207F; | pasos repetibles n-veces |
