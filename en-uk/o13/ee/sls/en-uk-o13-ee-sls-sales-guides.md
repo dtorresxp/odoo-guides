@@ -2,13 +2,23 @@
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![sls](/doc/img/sale.png)
 
+<br>
+#### Product Configurator
+
+#### [How to Activate the Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:34)](https://youtube.com/embed/DWmOGxmof_U?autoplay=1&start=0&end=0&rel=0)
+![apps](/doc/img/apps.png) | o:Sales | m:Configuration | o:Settings | _a:Deactivated configurator_ f:ProductConfigurator &#x2610; |  
+m:Orders | o:Quotations | b:Create | f:Customer &#x25BC; | t:OrderLines | i:AddAProduct &#x25BC; | _a:Notice there aren't configurable products listed_ |
+_a:Close creating product warning dialog_ | _a:Accept warning dialog because of unsaved order_ |   
+ m:Configuration | o:Settings | _a:Activate configurator_ f:ProductConfigurator &#x1F5F9; | b:Save |  
+m:Orders | o:Quotations | b:Create | f:Customer &#x25BC; | t:OrderLines | i:AddAProduct &#x25BC; |  
+_a:Notice now there are configurable products in list_ | _a:Select configurable product | w:ConfigureAProduct | _a:Configure product_ | b:Add | b:Confirm | b:Save
+
+
+ |\|\ &#x2610; Activated ] | b:Save
+
 #### [Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Products | b:Edit | o:ConfigureAProduct | w:ConfigureAProduct | f:Product &#x25BC; | _a:Select product_ |  
 \[ _a:Select optional features_ | b:Add | w:Configure \]&#x207F; | b:Confirm | d:LowStockWarning | b:Ok | w:Quotations | b:Save  
-
-<br>
-
-#### Coupons & Promotions
 
 #### [New Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:51)](https://youtube.com/embed/TgAbV7xG2wo?autoplay=1&start=18&end=0&rel=0&nocount)
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Products | f:Search... desk | _a:Select item with variants |  
@@ -20,6 +30,10 @@ _a:Notice Odoo can check if desired combination is available_ |
 _a:Review your product configuration on Order Line_ |  
 _a:Configurator also shows optional products_ |  
 b:Save  
+
+<br>
+
+#### Coupons & Promotions
 
 #### [Sales Coupon and Promotion Program &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 06:55)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0&nocount)
 
