@@ -36,6 +36,7 @@
 | ![view_kanban](/doc/img/view_kanban.png) | vista kanban | ![view_list](/doc/img/view_list.png) | vista de lista |
 | ![view_activity](/doc/img/view_activity.png) | vista de actividades | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| vista de mapa y localización |
 | ![show_catalog](/doc/img/show_catalog.png) | mostrar catálogo | ![filter](/doc/img/filter.png) | filtrar |
+| ![internet_small](/doc/img/internet_small.png) | navegador de internet | ![quick_connect](/doc/img/quick_connect.png) | quick-connect github  |
 | _**a:** Acción_ | acción (varios pasos) | **b:** Button | botón |
 | **d:** Dialogo | alerta o cuadro de diálogo | **f:** Campo | campo de captura |
 | **i:** Item | elemento en pantalla | **l:** Liga | hipervínculo |
@@ -44,4 +45,4 @@
 | **v:** View | vista | **w:** Ventana | Ventana |
 
 <br><br>
-###### Guías Odoo - v6_04 &nbsp; 2019-08-03  [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
+###### Guías Odoo - v6_07 &nbsp; 2019-08-03  [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
