@@ -28,13 +28,13 @@ f:Email | _a:Define a right one_ | b:Save
   ![apps](/doc/img/apps.png) | o:Settings | _a:Verify you're in Odoo 13.0alpha1 or higher_ | m:MySelf | b:LogOut
 
 - [Connect Enterprise](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=151&end=271&rel=0)  
-  ![internet_small](/doc/img/internet_small.png) [![https://runbot.odoo.com/runbot](https://runbot.odoo.com/runbot) | b:Odoo/enterprise |  
+  ![internet_small](/doc/img/internet_small.png) https://runbot.odoo.com/runbot | b:Odoo/enterprise |  
   i:master ![quick_connect](/doc/img/quick_connect.png) |  
   \[ \[ f:EMail \| _a:Type admin ] | \[ f:Password \| _a:Type admin ] | b:LogIn | _a:Avoid saving test password in your browser_ \] |  
   o:Settings | _a:Verify you're now in Odoo 13.0alpha1+e(Enterprise Edition) or higher_  
 
 - [Get Odoo](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=277&end=297&rel=0)  
-  ![internet_small](/doc/img/internet_small.png) [![https://github.com/odoo/odoo](https://github.com/odoo/odoo) | b:Branch &#x25BC; | o:master | b:Clone or download | b:DownloadZIP |  
+  ![internet_small](/doc/img/internet_small.png) https://github.com/odoo/odoo | b:Branch &#x25BC; | o:master | b:Clone or download | b:DownloadZIP |  
   
 #### [How to get sample import template &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 00:55)](https://youtube.com/embed/Sl3-EhT4qwk?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Select o:Module with desired list_ | b:Import | **&#x2B73;** Import Template for o:Module | &#x25C9; Save File | b:Ok  
@@ -76,5 +76,5 @@ b:Save
 
 <br>
 
-###### Odoo Guides - v4_03 &nbsp; 2019-08-03  
+###### Odoo Guides - v4_04 &nbsp; 2019-08-03  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
