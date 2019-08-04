@@ -16,7 +16,7 @@ b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;
   ![apps](/doc/img/apps.png) | o:Settings | i:Deactivate the developer mode  
 
 #### [How to fix Unable to log message &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:55)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)  
-\[ m:MySelf &#x25BC; | o:MyProfile \] &nbsp; || &nbsp; \[ ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ | b:Edit \] |  
+\[ m:MySelf &#x2BC6; | o:MyProfile \] &nbsp; || &nbsp; \[ ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ | b:Edit \] |  
 f:Email | _a:Define a right one_ | b:Save  
 
 #### [How to Get/Test v13 &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 05:52)](https://youtube.com/embed/DzorSmXzces?autoplay=1&start=70&end=0&rel=0&nocount)  
@@ -35,7 +35,7 @@ f:Email | _a:Define a right one_ | b:Save
   o:Settings | _a:Verify you're now in Odoo 13.0alpha1+e(Enterprise Edition) or higher_  
 
 - [Get Odoo](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=277&end=297&rel=0)  
-  ![internet_small](/doc/img/internet_small.png) https://github.com/odoo/odoo | b:Branch &#x25BC; | o:master | b:Clone or download | b:DownloadZIP |  
+  ![internet_small](/doc/img/internet_small.png) https://github.com/odoo/odoo | b:Branch &#x2BC6; | o:master | b:Clone or download | b:DownloadZIP |  
   
 #### [How to get sample import template &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 00:55)](https://youtube.com/embed/Sl3-EhT4qwk?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Select o:Module with desired list_ | b:Import | **&#x2B73;** Import Template for o:Module | &#x25C9; Save File | b:Ok  
@@ -44,20 +44,20 @@ f:Email | _a:Define a right one_ | b:Save
 ![apps](/doc/img/apps.png) | o:Settings | i:Activate the developer mode |  
 ![apps](/doc/img/apps.png) | o:Settings | m:Translations | Languages | _a:Select language_ | b:Inactive | b:Activate |  
 &#x23BD;/&#x23BD;/:Languages | m:Translations | o:Load Translation |  
-w:LoadATranslation | &#x25BC; Language | &#x1F5F9; Overwrite Existing | b:Load | b:Close |  
+w:LoadATranslation | &#x2BC6; Language | &#x1F5F9; Overwrite Existing | b:Load | b:Close |  
 ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ | b:Edit | t:Preferences |  
-i:Localization | &#x25BC; f:Language | _a:Select language_ | b:Save |  
-&#x25BC; m:MySelf | o:Logout | _a:Login as localized User_ | _a:Verify new language is ok_  
+i:Localization | &#x2BC6; f:Language | _a:Select language_ | b:Save |  
+&#x2BC6; m:MySelf | o:Logout | _a:Login as localized User_ | _a:Verify new language is ok_  
 
 #### [List View Improvements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:41)](https://youtube.com/embed/J9NNVrAc9Us?autoplay=1&start=0&end=0&rel=0)  
 _a:Assign same value to several records at once_  
 ![apps](/doc/img/apps.png) | o:Contacts | v:![view_list](/doc/img/view_list.png) | _a:Select 3 test Contacts without Salesperson_ |  
-_a:Select f:Salesperson &#x25BC; in one of them_ | d:Confirmation  
+_a:Select f:Salesperson &#x2BC6; in one of them_ | d:Confirmation  
 _a:Do you want to set the value on the 3 valid selected records?_ | \[ b:Ok \|\| b:Cancel ]  
-_a:Review changes_ | b:GroupBy &#x25BC; | **&#x2713;** o:Salesperson | _a:Check your contacts now've the right f:Salesperson_   
+_a:Review changes_ | b:GroupBy &#x2BC6; | **&#x2713;** o:Salesperson | _a:Check your contacts now've the right f:Salesperson_   
 
 #### [New Multi Company Widget &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:17)](https://youtube.com/embed/5HU8dJfTmpc?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | _a:Select o:Module_ | m:Company &#x25BC; | \[ _a:Mark o:Company_ \]&#x207F;
+![apps](/doc/img/apps.png) | _a:Select o:Module_ | m:Company &#x2BC6; | \[ _a:Mark o:Company_ \]&#x207F;
 
 #### [New Search Panel in Kanban View &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:21)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings | i:Activate the developer mode | ![apps](/doc/img/apps.png) | _a:Open app with kanban_ | &#x1F41E; | o:EditView:Kanban |  

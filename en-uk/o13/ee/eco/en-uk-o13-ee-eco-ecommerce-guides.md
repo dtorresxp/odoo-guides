@@ -8,7 +8,7 @@
 
 #### [Enable Product Sort Option &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:23)](https://youtube.com/embed/Oe5zPbHGdjk?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Website | b:GotoWebsite | m:Shop | m:Customize | m:Product | o:ShowSortBy &#x1F5F9; |  
-w:Shop | b:SortBy &#x25BC; | _a:Select sort order_  
+w:Shop | b:SortBy &#x2BC6; | _a:Select sort order_  
 
 #### [New 'Buy Now' Button &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/xrxmrFQLkmw?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Website | b:GotoWebsite | m:Shop | m:Customize | m:Product | o:BuyNowButton &#x1F5F9;  

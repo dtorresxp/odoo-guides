@@ -3,7 +3,7 @@
 ### ![web](/doc/img/website.png)
 
 #### [Agregar opción de Adjuntar en el Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:29)](https://youtube.com/embed/tZZXvJYX5qY?autoplay=1&start=0&end=0&rel=0)
-   ![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | m:YoMismo &#x25BC; | o:MiCuenta | w:Documentos |  
+   ![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | m:YoMismo &#x2BC6; | o:MiCuenta | w:Documentos |  
    _a:Seleccionar Documento_ |  
    [ i:Tareas || i:Cotizaciones || i:ÓrdenesDeVenta || i:Facturas&Cobros || Proyectos || Tareas || Horarios ] |  
    _a:Seleccionar Item_ | i:Historial | f:Mensaje | b:Adjuntar | _a:Seleccionar archivo_ | b:Enviar  

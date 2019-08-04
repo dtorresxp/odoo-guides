@@ -15,7 +15,7 @@ i:Approvers | f:Employee's Manager &#x1F5F9; | f:Approvers | f:Minimum Approval 
 
 - [Configure Approval Users](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=139&end=180&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users |  
-_a:Select User_ | i:HumanResources | f:Approvals &#x25BC; | _a:Select \[ o:n/a || o:Approver || o:Administrator ]_ | b:Save  
+_a:Select User_ | i:HumanResources | f:Approvals &#x2BC6; | _a:Select \[ o:n/a || o:Approver || o:Administrator ]_ | b:Save  
 
 - [My Approvals](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=72&end=104&rel=0)  
 \[ &#x23BD;/&#x23BD;/:Approvals || ![apps](/doc/img/apps.png) | o:Approvals ] | _a:Select Approval Type_ | i:BusinessTrip | b:NewRequest |  

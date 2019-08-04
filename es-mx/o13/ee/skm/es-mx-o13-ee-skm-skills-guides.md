@@ -5,7 +5,7 @@
 #### [Control de Competencias de Empleados in Odoo13 &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:52)](https://youtube.com/embed/E09XNr7hhYE?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Apps | i:ControlDeCompetencias | b:Instalar |  
 ![apps](/doc/img/apps.png) | o:Empleados | v:Departmento | _a:Seleccionar Empleado_ | i:Competencias |  
-\[ b:Agregar | w:CrearCompetencias | f:TipoDeCompetencia &#x25BC; | f:Competencia &#x25BC; | f:NivelDeCompetencia &#x25BC; | b:Guardar \]&#x207F; |  
+\[ b:Agregar | w:CrearCompetencias | f:TipoDeCompetencia &#x2BC6; | f:Competencia &#x2BC6; | f:NivelDeCompetencia &#x2BC6; | b:Guardar \]&#x207F; |  
 \[ i:Experiencia || i:Educación \] |  
 \[ b:Agregar | w:CrearEntradasDeCurrículum | f:Nombre |  
 f:Tipo \[ Experiencia || Educación \] | f:FechaDeInicio &#x1F4C5; | f:FechaDeFin &#x1F4C5; | f:Descripción | b:Guardar \]&#x207F;  

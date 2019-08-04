@@ -3,7 +3,7 @@
 ### ![web](/doc/img/website.png)
 
 #### [Add Attachment Option in Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:29)](https://youtube.com/embed/tZZXvJYX5qY?autoplay=1&start=0&end=0&rel=0)
-   ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | m:MySelf &#x25BC; | o:MyAccount | w:Documents |  
+   ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | m:MySelf &#x2BC6; | o:MyAccount | w:Documents |  
    _a:Select Document_ \[ i:Tasks || i:Quotations || i:SalesOrders || i:Invoices&Bills || Projects || Tasks || Timesheets ] |  
    _a:Select Item_ | i:History | f:Message | b:Attachment | _a:Select file_ | b:Send
 

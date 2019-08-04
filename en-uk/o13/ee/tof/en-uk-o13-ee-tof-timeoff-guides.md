@@ -45,7 +45,7 @@
     m:Managers | o:Payroll-TimeOffToReport | \[ v:![view_pivot](/doc/img/view_pivot.png) || v:&#x1F4C5; ] | _a:Review data |  
   - _a:Time Off Report by Department review_  
     m:Reporting | o:TimeOffReportByDepartment | w:TimeOffByDepartment |  
-	\[ f:From &#x1F4C5; | f:TimeOffType &#x25BC; | f:Departments _a:Add a line_ ] | \[ b:Print \|\| b:Cancel ]  
+	\[ f:From &#x1F4C5; | f:TimeOffType &#x2BC6; | f:Departments _a:Add a line_ ] | \[ b:Print \|\| b:Cancel ]  
 
 <br>
 	

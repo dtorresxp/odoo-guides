@@ -20,7 +20,7 @@
   
 - [Configurar los Roles de Usuarios de Nómina](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=199&end=218&rel=0)  
   ![apps](/doc/img/apps.png) | o:Configuración | m:Usuarios&Companies | o:Usuarios |  
-  _a:Seleccionar Usuario_ | t:DerechosDeAcceso | _a:Desplazar hacia abajo hasta i:RecursosHumanos | f:Nómina &#x25BC; | \[ Ninguno || Administrador || Oficial ]  
+  _a:Seleccionar Usuario_ | t:DerechosDeAcceso | _a:Desplazar hacia abajo hasta i:RecursosHumanos | f:Nómina &#x2BC6; | \[ Ninguno || Administrador || Oficial ]  
   
 - [Contratos](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=0&end=74&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Nómina | m:Empleados | o:Contratos | _a:Seleccionar Contrato_ | b:Editar |  

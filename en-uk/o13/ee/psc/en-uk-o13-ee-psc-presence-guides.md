@@ -27,7 +27,7 @@ _a:Verify on ![warning](/doc/img/warning.png) that there is nothing wrong with e
 
 - [Register Attendance](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=83&end=154&rel=0)  
 ![apps](/doc/img/apps.png) | o:Attendance | o:EmployeePresence | _a:Select Employee_ | i:Employee | b:TimeOff | w:Employee'sPresenceToDefine |  
-f:TimeOffType &#x25BC; \ [ Paid || Compensatory || Unpaid || Overtime || HomeWorking || Sick ] | f:From &#x1F4C5; | f:To &#x1F4C5; | b:Approve |  
+f:TimeOffType &#x2BC6; \ [ Paid || Compensatory || Unpaid || Overtime || HomeWorking || Sick ] | f:From &#x1F4C5; | f:To &#x1F4C5; | b:Approve |  
 _a:Communicate: [ b:SMS || b:Mail ] | b:Log_  
 
 - [Register TimeOff](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=83&end=37&rel=0)  
@@ -36,7 +36,7 @@ _a:Communicate: [ b:SMS || b:Mail ] | b:Log_
 - [Manage Attendances](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=37&end=64&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Attendance | m:ManageAttendances | o:Attendances |  
   - _a:Test_: 
-    - b:Create | a:Select f:Employee &#x25BC; | f:CheckIn &#x1F4C5; | b:Save |  
+    - b:Create | a:Select f:Employee &#x2BC6; | f:CheckIn &#x1F4C5; | b:Save |  
     - ![apps](/doc/img/apps.png) | o:Employees | _a:Review Presence status must be Available ![presence_yes](/doc/img/presence_yes.png) _  
 
 - [Reporting Attendance](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=64&end=76&rel=0)  

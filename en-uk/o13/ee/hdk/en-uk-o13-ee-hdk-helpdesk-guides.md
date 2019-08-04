@@ -6,7 +6,7 @@
 
 - [Configuration - Teams](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=35&end=105&rel=0)
   - &#x25A6; | o:Helpdesk | m:Configuration | o:HelpdeskTeam | b:Create | f:Name | f:Description | f:Location  
-    - i:Productivity | f:Members &#x207F; | [ _a:Select Member_ ]&#x207F; | f:AssignMethod &#x25BC; \[ o:Manually \|\| Randomly \|\| Balanced ]  
+    - i:Productivity | f:Members &#x207F; | [ _a:Select Member_ ]&#x207F; | f:AssignMethod &#x2BC6; \[ o:Manually \|\| Randomly \|\| Balanced ]  
     - i:Channels | \[ f:EMailAlias &#x25C9; | f:ConfigureDomainName ] | f:LiveChat &#x2B58; | f:WebsiteForm &#x2B58; | f:API &#x2B58;  
     - i:Sell&TrackHours | f:TimesheetOnTicket &#x2B58;  
     - i:Performance | f:SLAPolicies &#x2B58; | f:RatingsOnTickets &#x2B58; | f:CannedResponses &#x2B58;  

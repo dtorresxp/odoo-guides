@@ -17,7 +17,7 @@ b:Validar | w:TransferirInmediatamente? | b:Aplicar | d:ErrorDeUsuario &#x2716;
 ![apps](/doc/img/apps.png) | o:Configuración | i:Desactivar el modo de desarrollador  
 
 #### [Cómo corregir el error _Unable to log message_ &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:55)](https://youtube.com/embed/VOleoUE-hqM?autoplay=1&start=0&end=0&rel=0)  
-\[ m:YoMismo &#x25BC; | o:MiPerfil \] &nbsp; ||  
+\[ m:YoMismo &#x2BC6; | o:MiPerfil \] &nbsp; ||  
 &nbsp; \[ ![apps](/doc/img/apps.png) | o:Configuración | m:Usuarios&Compañías | o:Usuarios | _a:Seleccionar Usuario_ | b:Editar \] |  
 f:Email | _a:Ingresar un Correo válido_ | b:Guardar  
 
@@ -29,13 +29,13 @@ f:Email | _a:Ingresar un Correo válido_ | b:Guardar
 ![apps](/doc/img/apps.png) | o:Configuración | i:Activar el modo de desarrollador |  
 ![apps](/doc/img/apps.png) | o:Configuración | m:Traducciones | Idiomas | _a:Seleccionar idioma_ | b:Desactivar | b:Activar |  
 &#x23BD;/&#x23BD;/:Idiomas | m:Traducciones | o:Cargar Traducción |  
-w:CargarTraducción | &#x25BC; Idioma | &#x1F5F9; Sobreescribir el existente | b:Cargar | b:Cerrar |  
+w:CargarTraducción | &#x2BC6; Idioma | &#x1F5F9; Sobreescribir el existente | b:Cargar | b:Cerrar |  
 ![apps](/doc/img/apps.png) | o:Configuración | m:Usuarios&Compañías | o:Usuarios | _a:Seleccionar Usuario_ | b:Editar | t:Preferencias |  
-i:Localización | &#x25BC; f:Idioma | _a:Seleccionar idioma_ | b:Guardar |  
-&#x25BC; m:YoMismo | o:Logout | _a:Ingresar como un usuario localizado_ | _a:Verificar que el nuevo idioma sea correcto_  
+i:Localización | &#x2BC6; f:Idioma | _a:Seleccionar idioma_ | b:Guardar |  
+&#x2BC6; m:YoMismo | o:Logout | _a:Ingresar como un usuario localizado_ | _a:Verificar que el nuevo idioma sea correcto_  
 
 #### [Nuevo Widget Multi-Compañía &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:17)](https://youtube.com/embed/5HU8dJfTmpc?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | _a:Seleccionar o:Module_ | m:Compañía &#x25BC; | \[ _a:Marcar o:Compañía_ \]&#x207F;  
+![apps](/doc/img/apps.png) | _a:Seleccionar o:Module_ | m:Compañía &#x2BC6; | \[ _a:Marcar o:Compañía_ \]&#x207F;  
 
 #### [Nuevo pánel de Búsqueda en la vista Kanban &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:21)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Configuración | i:Activar el modo de desarrollador | ![apps](/doc/img/apps.png) | _a:Abrir app con v:Kanban_ | &#x1F41E; | o:EditarVista:Kanban |  

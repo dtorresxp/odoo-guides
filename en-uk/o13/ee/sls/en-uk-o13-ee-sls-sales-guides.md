@@ -9,24 +9,24 @@
 #### [How to Activate the Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:34)](https://youtube.com/embed/DWmOGxmof_U?autoplay=1&start=0&end=0&rel=0)
 - _a:Deactivated behavior:_  
   ![apps](/doc/img/apps.png) | o:Sales | m:Configuration | o:Settings | f:ProductConfigurator &#x2610; |  
-  m:Orders | o:Quotations | b:Create | f:Customer &#x25BC; | t:OrderLines | i:AddAProduct &#x25BC; |  
+  m:Orders | o:Quotations | b:Create | f:Customer &#x2BC6; | t:OrderLines | i:AddAProduct &#x2BC6; |  
   _a:Notice there aren't configurable products listed_ |  
   _a:Close creating product warning dialog_ | _a:Accept warning dialog because of unsaved order_ |  
 - _a:Activated behavior:_  
   \[ ![apps](/doc/img/apps.png) | o:Sales ] |  
   m:Configuration | o:Settings | _a:Activate configurator_ f:ProductConfigurator &#x1F5F9; | b:Save |  
-  m:Orders | o:Quotations | b:Create | f:Customer &#x25BC; | t:OrderLines | i:AddAProduct &#x25BC; |  
+  m:Orders | o:Quotations | b:Create | f:Customer &#x2BC6; | t:OrderLines | i:AddAProduct &#x2BC6; |  
   _a:Notice now there are configurable products in list_ | _a:Select configurable product |  
   w:ConfigureAProduct | _a:Configure product_ | b:Add | b:Confirm | b:Save  
 
 #### [Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
-![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Products | b:Edit | o:ConfigureAProduct | w:ConfigureAProduct | f:Product &#x25BC; | _a:Select product_ |  
+![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Products | b:Edit | o:ConfigureAProduct | w:ConfigureAProduct | f:Product &#x2BC6; | _a:Select product_ |  
 \[ _a:Select optional features_ | b:Add | w:Configure \]&#x207F; | b:Confirm | d:LowStockWarning | b:Ok | w:Quotations | b:Save  
 
 #### [New Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:51)](https://youtube.com/embed/TgAbV7xG2wo?autoplay=1&start=18&end=0&rel=0&nocount)
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Products | f:Search... desk | _a:Select item with variants |  
 t:Variants | _a:Review data_ | m:Orders | o:Quotations | b:Create |  
-f:Customer | &#x25BC; | f:Expiration &#x1F4C5; | t:OrderLines | i:AddAProduct |  
+f:Customer | &#x2BC6; | f:Expiration &#x1F4C5; | t:OrderLines | i:AddAProduct |  
 f:Product &#x1F4C5; | _a:Select Product with Variants_ | w:ConfigureAProduct | f:Product | _a:Configure variants_ | b:Add | b:Close |  
 b: ![edit](/doc/img/edit.png) | _a:Opens the same product configurator window_ | b:Confirm |  
 _a:Notice Odoo can check if desired combination is available_ |  
@@ -65,14 +65,14 @@ _a:Verify discount appearing as a new negative detail row_
 - [Buy 3 & get one free Promotion](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=228&end=320&rel=0)  
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Promotion Programs | \[ b:Create || b:Edit \] |  
 i:Conditions | _a:Generate Program with f:BasedOnProducts data_ |  
-f:FieldName &#x25BC; | f:Operator &#x25BC; | f:RuleText | _a:Verify it's something like i:name contains xxx_ |  
+f:FieldName &#x2BC6; | f:Operator &#x2BC6; | f:RuleText | _a:Verify it's something like i:name contains xxx_ |  
 \[ _a:Use ![add](/doc/img/button_add.png) to add more conditions_ | _a:Add rule as above_ ]&#x207F; \] | _a:Set Validity & Rewards_ | b:Save |  
 ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | _a:Enter quotation_ | b:Save |  
 b:Update Promotions | _a:Verify order_ | b:Confirm   
 
 - [10% off in orders Promotion](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=320&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Promotion Programs | \[ b:Create || b:Edit \] | _a:Create program as above with f:BasedOnProducts_ |  
-f:FieldName &#x25BC; | f:Operator &#x25BC; | f:RuleText | _a:Verify it's something like i:Can be Sold is set (true)_ |  
+f:FieldName &#x2BC6; | f:Operator &#x2BC6; | f:RuleText | _a:Verify it's something like i:Can be Sold is set (true)_ |  
 ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | _a:Enter Quotation_ | b:Save | b:Update Promotions | _a:Verify order_ | b:Confirm   
 
 <br>

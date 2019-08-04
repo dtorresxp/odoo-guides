@@ -10,7 +10,7 @@ _a:Use b:ViewInGoogleMaps to see it outside Odoo_
 #### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b:![view_list](/doc/img/view_list.png) |  
 [ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts |   
-w:MergeContacts | f:DestinationContact &#x25BC; | _Select resultant contact_ | b:MergeContacts | b:Close
+w:MergeContacts | f:DestinationContact &#x2BC6; | _Select resultant contact_ | b:MergeContacts | b:Close
 
 
 <br>

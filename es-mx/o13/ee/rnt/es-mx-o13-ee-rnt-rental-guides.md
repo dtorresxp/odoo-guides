@@ -15,11 +15,11 @@ _a:Configurar el Tiempo Default de Márgen_ | _a:Definir Firma_ | _a:Ingresar Co
 ![apps](/doc/img/apps.png) | o:Apps | f:Buscar... rental | i:Renta | b:Instalar |  
 ![apps](/doc/img/apps.png) | o:Renta | m:Productos | o:RentarProductos | _a:Seleccionar producto_ | b:Editar |  
 _a:Nuevo f:PuedeSerRentado debe ser_ &#x1F5F9; |  
-_a:Nuevo s:UnidadesEnRenta_ | _a:Nuevo s:Más &#x25BC;_ \[ o:PuntosDeCalidad || o:Pasa || o:Falla || o:ArchivosDigitales || o:Activo ] |  
+_a:Nuevo s:UnidadesEnRenta_ | _a:Nuevo s:Más &#x2BC6;_ \[ o:PuntosDeCalidad || o:Pasa || o:Falla || o:ArchivosDigitales || o:Activo ] |  
 t:Renta | i:PrecioDeRenta | \[ f:Duración | f:Unidad | f:Precio \]&#x207F; |  
 i:CostosDeRetraso | f:HoraExtra | f:DíaExtra | i:TiempoDeMárgen | f:AntesDeRecoger | b:Guardar |  
-m:Órdenes | b:Crear | f:Cliente &#x25BC; | _a:Seleccionar Cliente_ |  
-b:AgregarAProducto | f:Producto &#x25BC; | _a:Seleccionar Producto_ | \[ d:NoHayExistencias | b:Ok ] |  
+m:Órdenes | b:Crear | f:Cliente &#x2BC6; | _a:Seleccionar Cliente_ |  
+b:AgregarAProducto | f:Producto &#x2BC6; | _a:Seleccionar Producto_ | \[ d:NoHayExistencias | b:Ok ] |  
 w:RentarProducto | f:FechaDe &#x1F4C5; | f:Hasta &#x1F4C5; | f:Cantidad | f:Duración | f:PrecioUnitario | b:Agregar |  
 \[ d:NoHayExistencias | b:Ok ] | b:Guardar | b:Confirmar | _a:Ahora la orden muestra (Reservado)_  
 

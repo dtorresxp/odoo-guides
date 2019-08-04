@@ -16,7 +16,7 @@
   
 - [Configure Payroll User Rol](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=199&end=218&rel=0)  
   ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users |  
-  _a:Select User_ | t:AccessRights | _a:Scroll down to i:HumanResources | f:Payroll &#x25BC; | \[ None || Administrator || Officer ]  
+  _a:Select User_ | t:AccessRights | _a:Scroll down to i:HumanResources | f:Payroll &#x2BC6; | \[ None || Administrator || Officer ]  
   
 - [Contracts](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=0&end=74&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Payroll | m:Employees | o:Contracts | _a:Select Contract_ | b:Edit |  

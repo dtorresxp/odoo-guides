@@ -9,7 +9,7 @@
 
 #### [Permitir Reordenar listas &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:23)](https://youtube.com/embed/Oe5zPbHGdjk?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | m:Tienda | m:Personalizar | m:Producto | o:ShowSortBy &#x1F5F9; |  
-w:Tienda | b:OrdenarPor &#x25BC; | _a:Seleccionar la forma de ordenar_  
+w:Tienda | b:OrdenarPor &#x2BC6; | _a:Seleccionar la forma de ordenar_  
 
 #### [Nuevo botón _¡Compra Ya!_ &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/xrxmrFQLkmw?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | m:Tienda | m:Personalizar | m:Producto | o:BotónCompararAhora &#x1F5F9;  

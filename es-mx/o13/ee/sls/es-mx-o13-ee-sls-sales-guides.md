@@ -4,7 +4,7 @@
 
 #### [Configurador de Productos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
 ![apps](/doc/img/apps.png) | o:Ventas | m:Productos | o:Productos | b:Editar | o:ConfigureAProducto | w:ConfigureAProducto |  
-f:Producto &#x25BC; | _a:Seleccionar producto_ | \[ _a:Seleccionar características optionales_ |  
+f:Producto &#x2BC6; | _a:Seleccionar producto_ | \[ _a:Seleccionar características optionales_ |  
 b:Add | w:Configure \]&#x207F; | b:Confirmar | d:LowStockWarning | b:Ok | w:Cotizaciones | b:Guardar  
 
 <br>
@@ -38,7 +38,7 @@ b:Add | w:Configure \]&#x207F; | b:Confirmar | d:LowStockWarning | b:Ok | w:Coti
 - [Promoción Paga tres y Llévate uno completamente gratis](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=228&end=320&rel=0)  
   ![apps](/doc/img/apps.png) | o:Ventas | m:Productos | o:ProgramasDePromoción | \[ b:Crear || b:Editar \] |  
   i:Condiciones | _a:Generar Programa con datos de f:BasadoEnProductos_ |  
-  f:NombreDeCampo &#x25BC; | f:Operador &#x25BC; | f:TextoDeLaRegla | _a:Verificar que sea algo así como i:nombre contiene xxx_ |  
+  f:NombreDeCampo &#x2BC6; | f:Operador &#x2BC6; | f:TextoDeLaRegla | _a:Verificar que sea algo así como i:nombre contiene xxx_ |  
   \[ _a:Usar ![add](/doc/img/button_add.png) para agregar más condiciones_ | _a:Agregar regla como se indica anteriormente_ ]&#x207F; \] |  
   _a:Configurar Validéz y Bonos_ | b:Guardar |  
   ![apps](/doc/img/apps.png) | o:Ventas | m:Órdenes | o:Cotizaciones | b:Crear | _a:Ingresar Cotización_ | b:Guardar |  
@@ -47,7 +47,7 @@ b:Add | w:Configure \]&#x207F; | b:Confirmar | d:LowStockWarning | b:Ok | w:Coti
 - [Promoción de descuento del 10%](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=320&end=0&rel=0)  
   ![apps](/doc/img/apps.png) | o:Ventas | m:Productos | o:ProgramasDePromoción | \[ b:Crear || b:Editar \] |  
   _a:Crear programa como se indica anteriormente, con f:BasadoOnProductos_ |  
-  f:NombreDeCampo &#x25BC; | f:Operador &#x25BC; | f:TextoDeLaRegla | _a:Verificar que sea algo así como i:Puede ser Vendido es verdadero_ |  
+  f:NombreDeCampo &#x2BC6; | f:Operador &#x2BC6; | f:TextoDeLaRegla | _a:Verificar que sea algo así como i:Puede ser Vendido es verdadero_ |  
   ![apps](/doc/img/apps.png) | o:Ventas | m:Órdenes | o:Cotizaciones | b:Crear | _a:Ingresar Cotización_ | b:Guardar |  
   b:Actualizar Promociones | _a:Verificar Orden_ | b:Confirmar   
 

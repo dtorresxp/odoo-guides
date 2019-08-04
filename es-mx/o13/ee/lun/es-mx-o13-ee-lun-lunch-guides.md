@@ -11,7 +11,7 @@
   - ![apps](/doc/img/apps.png) | o:Comida | m:Configuración | o:Configuración | i:SaldoPorComida | f:Saldo | b:Guardar |  
   - m:Configuración | o:Proveedores | _a:Seleccionar Proveedor_ | b:Editar | _a:Revisar info de Proveedor_ |  
     i:Disponibilidad | f:Saturday &#x2610; | f:Sunday &#x2610; |  
-    i:Órdenes | f:Ubicación &#x25BC; | \[ _a:Agregar (Ubicación)_ ]&#x207F; | b:Guardar |  
+    i:Órdenes | f:Ubicación &#x2BC6; | \[ _a:Agregar (Ubicación)_ ]&#x207F; | b:Guardar |  
   - m:Configuración | o:Ubicaciones | _a:Revisar Ubicaciones para Comida_ |  
   - m:Configuración | o:Productos | _a:Revisar Productos para Comida_ |  
   - m:Configuración | o:CategoriasDeProducto | _a:Revisar Categories de Productos para Comida_ |  

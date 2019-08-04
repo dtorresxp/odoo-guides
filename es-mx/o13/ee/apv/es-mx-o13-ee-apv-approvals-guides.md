@@ -16,7 +16,7 @@ i:Autorizadores | f:Jefe del Empleado &#x1F5F9; | f:Autorizadores | f:Autorizaci
 
 - [Configurar Autorizadores](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=139&end=180&rel=0)  
 ![apps](/doc/img/apps.png) | o:Configuración | m:Usuarios&Compañías | o:Usuarios |  
-_a:Seleccionar Usuario_ | i:RecursosHumanos | f:Autorizar &#x25BC; |  
+_a:Seleccionar Usuario_ | i:RecursosHumanos | f:Autorizar &#x2BC6; |  
 _a:Seleccionar \[ o:n/a || o:Autorizador || o:Administrador ]_ | b:Guardar  
 
 - [Mis Autorizaciones](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=72&end=104&rel=0)  

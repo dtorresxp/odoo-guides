@@ -28,7 +28,7 @@
 - [Marcar Asistencia](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=83&end=154&rel=0)  
   ![apps](/doc/img/apps.png) | o:Asistencia | o:PresenciaDelEmpleado | _a:Seleccionar Empleado_ |  
   i:Empleado | b:TiempoDef | w:Definir presencia del Empleado |  
-  f:DefinirTipoDeTiempo &#x25BC; \[ Pagado || Compensado || NoPagado || HorasExtras || TrabajoDesdeCasa || Enfermo ] |  
+  f:DefinirTipoDeTiempo &#x2BC6; \[ Pagado || Compensado || NoPagado || HorasExtras || TrabajoDesdeCasa || Enfermo ] |  
   f:De &#x1F4C5; | f:A &#x1F4C5; | b:Autorizar | _a:Comunicarse por: [ b:SMS || b:Correo ] | b:Registrar_ |  
 
 - [Registrar Permisos](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=83&end=37&rel=0)  
@@ -37,7 +37,7 @@
 - [Controlar Asistencias](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=37&end=64&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Asistencia | m:ControlarAsistencias | o:Asistencias |  
   - _a:Prueba_: |  
-    - b:Crear | _a:Seleccionar f:Empleado_ &#x25BC; | f:VerificarEn &#x1F4C5; | b:Guardar |  
+    - b:Crear | _a:Seleccionar f:Empleado_ &#x2BC6; | f:VerificarEn &#x1F4C5; | b:Guardar |  
     - ![apps](/doc/img/apps.png) | o:Empleados | _a:Revisar que el status de Presencia sea disponible:_ ![presence_yes](/doc/img/presence_yes.png)
 
 - [Reportes de Asistencias](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=64&end=76&rel=0)  

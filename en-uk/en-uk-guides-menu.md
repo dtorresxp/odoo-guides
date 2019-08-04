@@ -53,7 +53,7 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 ### Basic example:
 #### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b: ![view_list](/doc/img/view_list.png) |  
-[ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts | w:MergeContacts | f:DestinationContact &#x25BC; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close | _a:Verify Merging_<br><br>  
+[ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts | w:MergeContacts | f:DestinationContact &#x2BC6; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close | _a:Verify Merging_<br><br>  
   - Video link shows Video description, Odoo version & edition, Creator name, language & country (or without voice, like this case) and Video lenght.  Then you can see a few instructions below the link.
   - These are all steps you need to do in Odoo 13 to _merge_ contacts  
   - You can go directly to the link to see the video (and notice this is a _very_ short one!)
@@ -96,7 +96,7 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
   - There are several _ICONS_ that mimic the Odoo ones on screen  
     - ![apps](/doc/img/apps.png)&nbsp;&nbsp;represents the _APPS_ icon of squares in the top-left of the Odoo's window in its navigation bar (_navbar_).  It also means that you've logged into Odoo, and more important, with enough access rights to do all tasks included in the guide.  
     - &#x23BD;/&#x23BD;/&nbsp;&nbsp;represents the breadcrumbs list of direct access to modules and items that the user opened previously in Odoo and appears just below the navbar
-    - Date fields have &#x25BC; to their right and it opens a &#x1F4C5; dialog  
+    - Date fields have &#x2BC6; to their right and it opens a &#x1F4C5; dialog  
     - All other symbols are the same ones as Odoo's on screen  
     - Some steps are preceded by a letter and a colon, meaning the kind of item (object) you should look for on screen to complete your task  
     - _**_a:_**_ &nbsp;means _ACTION_ and is the only one that's not atomic.  It means a complex task of several steps mentioned as one, to facilitate guide comprehension.  Usually, because they've been explained previously or were in another guide  

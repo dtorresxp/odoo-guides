@@ -11,7 +11,7 @@
   - ![apps](/doc/img/apps.png) | o:Lunch | m:Configuration | o:Settings | i:LunchOverdraft | f:Overdraft | b:Save |  
   - m:Configuration | o:Vendors | _a:Select Vendor_ | b:Edit | _a:Review Vendor info_ |  
     i:Availability | f:Saturday &#x2610; | f:Sunday &#x2610; |  
-    i:Orders | f:Location &#x25BC; | \[ _a:Add (Location)_ ]&#x207F; | b:Save |  
+    i:Orders | f:Location &#x2BC6; | \[ _a:Add (Location)_ ]&#x207F; | b:Save |  
   - m:Configuration | o:Locations | _a:Review Lunch Locations_ |  
   - m:Configuration | o:Products | _a:Review Lunch Products_ |  
   - m:Configuration | o:ProductCategories | _a:Review Lunch Product Categories_ |  

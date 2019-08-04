@@ -14,7 +14,7 @@
   - t:Descripción | _a:Add descripción formateada de la encuesta_ |  
   - t:Opciones |  
     - i:Preguntas | f:Formato | \[ f:LímiteDeTiempo | f:Minutos ] | f:Seleccionarion | f:BackButton |  
-    - i:Candidatos | f:ModoDeAcceso &#x25BC; \[ o:Cualquiera || o:Invitado \] |  
+    - i:Candidatos | f:ModoDeAcceso &#x2BC6; \[ o:Cualquiera || o:Invitado \] |  
       \[ f:Login Required | \[ f:LímiteDeIntentos &#x1F5F9; | f:Intentos \] \] |  
     - i:Calificación \[ Ninguno || con Respuestas || sin Respuestas \] |  
 	  f:Aprobatorio% | f:Certificado | f:PlantillaDeCorreo |  

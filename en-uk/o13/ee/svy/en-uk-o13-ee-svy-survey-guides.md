@@ -14,7 +14,7 @@
   - t:Description | _a:Add fully formatted survey description_ |  
   - t:Options |  
     - i:Questions | f:Layout | \[ f:TimeLimit | f:Minutes ] | f:Selection | f:BackButton |  
-    - i:Candidates | f:AccessMode &#x25BC; \[ o:Anyone || o:Invited \] |  
+    - i:Candidates | f:AccessMode &#x2BC6; \[ o:Anyone || o:Invited \] |  
       \[ f:Login Required | \[ f:Attempts Limit &#x1F5F9; | f:Attempts \] \] |  
     - i:Scoring \[ None || \[ w/Answers || w/o Answers \] | f:PassingScore% | f:Certificate | f:EmailTemplate \] \] |  
   - t:Save  

@@ -56,7 +56,7 @@ A continuación te mostraremos una sencilla explicación sobre el _**&#x03C8;Cod
 ### Ejemplo típico
 #### [Combinar Contactos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&Inicio=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Contactos | _a:Ver el contador de Contactos en la ventana de Odoo_ | b: ![view_list](/doc/img/view_list.png) |  
-[ _a:Seleccionar Contacto to Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos | w:CombinarContactos | f:ContactoDeDestino &#x25BC; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] |  
+[ _a:Seleccionar Contacto to Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos | w:CombinarContactos | f:ContactoDeDestino &#x2BC6; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] |  
 b:Cerrar | _a:Vericar Contactos combinados_<br><br>  
   - La liga de video muestra su Descripción, Versión y edición de Odoo, Nombre del creador, Idioma y País (o sin voz, como en este caso) y su duración.  Abajo de la liga aparecen unas sencillas instruccioes.  
   - Estos son todos los pasos que tienes que realizar en Odoo 13 para _Combinar_ Contactos  
@@ -100,7 +100,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
   - Existen varios _ICONOS_ semejantes a los que Odoo muestra en pantalla
     - ![apps](/doc/img/apps.png)&nbsp;&nbsp;representa el icono de cuadritos de _APPS_ en la parte superior izquierda de la ventana de Odoo, en la barra de navegación (_navbar_).  Tambien significa que has ingresado a Odoo y sobre todo, que tienes permisos suficientes para realizar las tareas indicadas en la guía.  
 	- &#x23BD;/&#x23BD;/&nbsp;&nbsp;representa la lista de accessos directos a los módulos y elementos que el usuario haya abierto previemente en Odoo, que aparece debajo de la navbar
-	- Los campos de tipo fecha tienen el caracter &#x25BC; a su derecha y permiten abrir el objeto &#x1F4C5; para seleccionarla fácilmente  
+	- Los campos de tipo fecha tienen el caracter &#x2BC6; a su derecha y permiten abrir el objeto &#x1F4C5; para seleccionarla fácilmente  
     - Los demás símbolos son los mismos que Odoo muestra en la pantalla
 	- Algunos pasos son precedidos por una letra y dos puntos, lo cual indica el tipo de elemento (objeto) que deberás buscar en pantalla para realizar la tarea
     - _**_a:_**_ &nbsp;significa _ACTION_ _(ACCIÓN)_ y es el único elemento que no se refiere a un solo paso.  Corresponde a una tarea compleja de varios pasos que se indican como si fuera uno solo, para facilitar la lectura de la guía, usualmente porque ya fueron explicados previamente o porque se explican en otra guía
