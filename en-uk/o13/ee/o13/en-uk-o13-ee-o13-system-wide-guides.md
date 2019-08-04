@@ -9,10 +9,11 @@ b:Edit | f:Done | w:Open:StockMovesNotInPackage | b:Close | b:CheckAvailability 
 b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;  
 
 #### [Date Filter improvements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:08)](https://youtube.com/embed/VwAKizxl2Go?autoplay=1&start=0&end=98&rel=0)  
-![apps](/doc/img/apps.png) | _a:Open app with views that have Date fields_ | \[ o:CRM \|\| o:Sales \|\| o:Purchase \|\| o:Manufacturing \|\| o:Project \|\| o:Invoicing ] |  
+![apps](/doc/img/apps.png) | _a:Open app with views that have Date fields_ |  
+\[ o:CRM \|\| o:Sales \|\| o:Purchase \|\| o:Manufacturing \|\| o:Project \|\| o:Invoicing ] |  
 _a:Remove previous search filters_ f:Search (MyPipeline) &#x2716; | ![filter](/doc/img/filter.png) b:Filters &#x2BC6; |  
 _a:On Date fields_ \[ o:CreationDate \| o:ExpectedDate \| o:ClosedDate ] |  
-_a:Now options are:_ \[ o:Month \| o:Month+1 \| o:Month+2 \| o:Q1 \| o:Q2 \| o:Q3 \| o:Q4 \| o:Year \| o:Year-1 \| o:Year-2 ]  
+_a:Now options are:_ \[ o:Month \| o:Month+1 \|\| o:Month+2 \|\| o:Q1 \|\| o:Q2 \|\| o:Q3 \|\| o:Q4 \|\| o:Year \|\| o:Year-1 \|\| o:Year-2 ]  
 
 #### [How to Activate Developer Mode &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 00:52)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=0&rel=0&nocount)  
 - [Activate](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=18&rel=0)  
