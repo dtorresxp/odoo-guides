@@ -24,12 +24,12 @@ f:Email | _a:Define a right one_ | b:Save
 - [Connect Community](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=70&end=151&rel=0)  
   ![internet_small](/doc/img/internet_small.png) https://runbot.odoo.com/runbot | _a:Review Branches Status_ |  
   i:master ![quick_connect](/doc/img/quick_connect.png) | _a:Logout from any other Odoo instance_ m:MySelf | o:LogOut |  
-  \[ f:EMail \| _a:Type admin ] | \[ f:Password \| _a:Type admin ] | b:LogIn | _a:Avoid saving test password in your browser_ |  
+  \[ f:EMail \| _a:Type admin ] &nbsp;|&nbsp; \[ f:Password \| _a:Type admin ] | b:LogIn | _a:Avoid saving test password in your browser_ |  
   ![apps](/doc/img/apps.png) | o:Settings | _a:Verify you're in Odoo 13.0alpha1 or higher_ | m:MySelf | b:LogOut
 
 - [Connect Enterprise](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=151&end=271&rel=0)  
   ![internet_small](/doc/img/internet_small.png) https://runbot.odoo.com/runbot | b:Odoo/enterprise | i:master ![quick_connect](/doc/img/quick_connect.png) |  
-  \[ f:EMail \| _a:Enter_ admin ] | \[ f:Password \| _a:Enter_ admin ] | b:LogIn | _a:Avoid saving test password in your browser_ |  
+  \[ f:EMail \| _a:Enter_ admin ] &nbsp;|&nbsp; \[ f:Password \| _a:Enter_ admin ] | b:LogIn | _a:Avoid saving test password in your browser_ |  
   o:Settings | _a:Verify you're now in Odoo 13.0alpha1+e(Enterprise Edition) or higher_  
 
 - [Get Odoo](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=277&end=297&rel=0)  
