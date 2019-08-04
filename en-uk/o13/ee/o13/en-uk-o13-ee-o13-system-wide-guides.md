@@ -22,7 +22,7 @@ f:Email | _a:Define a right one_ | b:Save
 #### [How to Get/Test v13 &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 05:52)](https://youtube.com/embed/DzorSmXzces?autoplay=1&start=70&end=0&rel=0)  
 
 - [Connect Community](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=70&end=151&rel=0)  
-  ![internet_small](/doc/img/internet_small.png) [![https://runbot.odoo.com/runbot](https://runbot.odoo.com/runbot) | _a:Review Branches Status_ |  
+  ![internet_small](/doc/img/internet_small.png) https://runbot.odoo.com/runbot | _a:Review Branches Status_ |  
   i:master ![quick_connect](/doc/img/quick_connect.png) | _a:Logout from any other Odoo instance_ m:MySelf | o:LogOut |  
   \[ f:EMail \| _a:Type admin ] | \[ f:Password \| _a:Type admin ] | b:LogIn | _a:Avoid saving test password in your browser_ |  
   ![apps](/doc/img/apps.png) | o:Settings | _a:Verify you're in Odoo 13.0alpha1 or higher_ | m:MySelf | b:LogOut
