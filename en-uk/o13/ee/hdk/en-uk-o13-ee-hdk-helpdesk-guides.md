@@ -30,7 +30,11 @@
 
 - [All Tickets Menu](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=125&end=35&rel=0)  
   &#x25A6; | o:Helpdesk |  
-  o:AllTickets | b:Create | f:Name | f:HelpDeskTeam &#x25C9; | f:AssignedTo &#x25C9; | f:TicketType | f:Priority | 
+  o:AllTickets | b:Create | f:Name | f:HelpDeskTeam &#x25C9; | f:AssignedTo &#x25C9; | f:TicketType |  
+  f:Priority \[ ![unstar](/doc/img/unstar.png)![unstar](/doc/img/unstar.png)![unstar](/doc/img/unstar.png) \|\|
+  ![star](/doc/img/star.png)![unstar](/doc/img/unstar.png)![unstar](/doc/img/unstar.png) \|\|
+  ![star](/doc/img/star.png)![star](/doc/img/star.png)![unstar](/doc/img/unstar.png)| \|\|
+  ![star](/doc/img/star.png)![star](/doc/img/star.png)![star](/doc/img/star.png)| ] |  
 
 <br>
 
