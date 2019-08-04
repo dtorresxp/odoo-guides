@@ -13,11 +13,11 @@
   _a:Notice there aren't configurable products listed_ |  
   _a:Close creating product warning dialog_ | _a:Accept warning dialog because of unsaved order_ |  
 - _a:Activated behavior:_  
-  \[![apps](/doc/img/apps.png) | o:Sales ] |  
+  \[ ![apps](/doc/img/apps.png) | o:Sales ] |  
   m:Configuration | o:Settings | _a:Activate configurator_ f:ProductConfigurator &#x1F5F9; | b:Save |  
   m:Orders | o:Quotations | b:Create | f:Customer &#x25BC; | t:OrderLines | i:AddAProduct &#x25BC; |  
-  _a:Notice now there are configurable products in list_ | _a:Select configurable product | w:ConfigureAProduct | _a:Configure product_ |  
-  b:Add | b:Confirm | b:Save  
+  _a:Notice now there are configurable products in list_ | _a:Select configurable product |  
+  w:ConfigureAProduct | _a:Configure product_ | b:Add | b:Confirm | b:Save  
 
 #### [Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
 ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Products | b:Edit | o:ConfigureAProduct | w:ConfigureAProduct | f:Product &#x25BC; | _a:Select product_ |  
