@@ -27,7 +27,7 @@
 | &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) | warning |
 | &#x1F6E0; | open studio | &#x1F557; | activities |
 | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
-| &#x1F4C5; | calendar | &#x2B50; | favorites |
+| &#x1F4C5; | calendar | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | star \|\| unstar |  
 | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | &#x1F870; \|\| &#x1F872; | back \|\| advance |
 | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| subtract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | confirm |
@@ -45,4 +45,4 @@
 | **v:** view | vista | **w:** Window | window |
 
 <br><br>
-###### Odoo Guides - v6_03 &nbsp; 2019-08-03  [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  
+###### Odoo Guides - v6_04 &nbsp; 2019-08-03  [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  
