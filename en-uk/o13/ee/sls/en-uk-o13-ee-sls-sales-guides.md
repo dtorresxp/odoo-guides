@@ -76,5 +76,5 @@ f:FieldName &#x25BC; | f:Operator &#x25BC; | f:RuleText | _a:Verify it's somethi
 
 <br>
 
-###### Odoo Guides - v4_01 &nbsp; 2019-08-01  
+###### Odoo Guides - v4_02 &nbsp; 2019-08-04  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
