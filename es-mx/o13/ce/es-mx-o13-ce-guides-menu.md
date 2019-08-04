@@ -12,8 +12,6 @@
 [***Sync***]: # (es-mx-guides-menu)
 [***Sync***]: # (es-mx-o13-ee-guides-menu)  
 
-| Icono | Significado | Icono | Significado | 
-| :---: | :--- | :---: | :--- |
 | paso | paso | &#x2026; row &#x2026; | agrupación lógica de pasos |
 | \| | separador de pasos | \[ x \| y ] | grupo de pasos |
 | _(etiqueta)_ | etiqueta | &nbsp;\[ x \| y \]&#x207F; | pasos repetibles n-veces |
@@ -22,12 +20,12 @@
 | &#x2807; | icono de menú de la lista | &#x2716; | quitar etiqueta / cerrar |
 | &#x1F5F9; | opción marcada con palomita | &#x2610; | opción desmarcada |
 | &#x25C9; | encendido | &#x2B58; | apagado |
-| &#x25BC; \|\| &#x25B6; | abrir combo \|\| renglón | **&#x2B73;** | descargar |
+| &#x1F4C5; | calendario | **&#x2B73;** | descargar |
 | &#x21C4; | tabla dinámica: intercambiar ejes | &#x2725; | tabla dinámica: expandir todo |
 | &#x1F41E; | opciones del desarrollador | ![warning](/doc/img/warning.png) \|\| &#x26A0; | alerta \|\| precaución |
 | &#x1F6E0; | abrir Odoo studio | &#x1F557; | actividades |
 | &#x1F5ED; | conversaciones | &#x1F50D; | búsqueda avanzada |
-| &#x1F4C5; | calendario | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | favorecer \|\| desfavorecer |  
+| &#x2BC6; \|\| &#x2BC8; | abrir combo \|\| renglón | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | favorecer \|\| desfavorecer |  
 | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presente \|\| ausente | &#x1F870; \|\| &#x1F872; | retroceder \|\| avanzar |
 | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | agregar \|\| eliminar | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancelar |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | activo \|\| inactivo | ![phone_receiver](/doc/img/phone_receiver.png) | confirmar |
