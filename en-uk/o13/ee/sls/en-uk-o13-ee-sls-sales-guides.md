@@ -3,6 +3,7 @@
 ### ![sls](/doc/img/sale.png)
 
 <br>
+
 #### Product Configurator
 
 #### [How to Activate the Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:34)](https://youtube.com/embed/DWmOGxmof_U?autoplay=1&start=0&end=0&rel=0)
