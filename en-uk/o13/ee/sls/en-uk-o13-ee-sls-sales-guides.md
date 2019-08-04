@@ -13,6 +13,7 @@
   _a:Notice there aren't configurable products listed_ |  
   _a:Close creating product warning dialog_ | _a:Accept warning dialog because of unsaved order_ |  
 - _a:Activated behavior:_  
+  \[![apps](/doc/img/apps.png) | o:Sales ] |  
   m:Configuration | o:Settings | _a:Activate configurator_ f:ProductConfigurator &#x1F5F9; | b:Save |  
   m:Orders | o:Quotations | b:Create | f:Customer &#x25BC; | t:OrderLines | i:AddAProduct &#x25BC; |  
   _a:Notice now there are configurable products in list_ | _a:Select configurable product | w:ConfigureAProduct | _a:Configure product_ |  
