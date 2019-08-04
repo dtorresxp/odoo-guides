@@ -28,13 +28,22 @@
   &#x23BD;/&#x23BD;/:HelpdeskOverview | _a:Review status_ i:MyPerformance |  
   i:CustomerCare | **&#x2807;** | _a:Select Ticket color_ |  
 
-- [All Tickets Menu](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=125&end=35&rel=0)  
+- [Create Ticket](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=125&end=195&rel=0)  
   &#x25A6; | o:Helpdesk |  
-  o:AllTickets | b:Create | f:Name | f:HelpDeskTeam &#x25C9; | f:AssignedTo &#x25C9; | f:TicketType |  
-  f:Priority \[ ![unstar](/doc/img/unstar.png)![unstar](/doc/img/unstar.png)![unstar](/doc/img/unstar.png) \|\|
-  ![star](/doc/img/star.png)![unstar](/doc/img/unstar.png)![unstar](/doc/img/unstar.png) \|\|
-  ![star](/doc/img/star.png)![star](/doc/img/star.png)![unstar](/doc/img/unstar.png)| \|\|
-  ![star](/doc/img/star.png)![star](/doc/img/star.png)![star](/doc/img/star.png)| ] |  
+  o:AllTickets | b:Create | f:Name | f:HelpDeskTeam &#x25C9; | f:AssignedTo &#x25C9; | f:TicketType &#x25C9; |  
+  f:Priority \[ ![unstar](/doc/img/unstar.png)![unstar](/doc/img/unstar.png)![unstar](/doc/img/unstar.png) \|\|  
+  ![star](/doc/img/star.png)![unstar](/doc/img/unstar.png)![unstar](/doc/img/unstar.png) \|\|  
+  ![star](/doc/img/star.png)![star](/doc/img/star.png)![unstar](/doc/img/unstar.png) \|\|  
+  ![star](/doc/img/star.png)![star](/doc/img/star.png)![star](/doc/img/star.png) ] |  
+  f:Tags &#x25C9; | f:Customer &#x25C9; | f:CustomerName | f:CustomerEMail | f:SalesOrder &#x25C9; | f:Product &#x25C9; |  
+  t:Description | f:Description |  
+  _a:Status Buttons: \[ b:AssignToMe | b:Refund | b:Coupon | b:Return | b:Repair ] |  
+  b:Save  
+
+- [Reports](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=208&end=304&rel=0)  
+  &#x25A6; | o:Helpdesk | m:Reporting | o:Tickets | _a:Review Different Graphs_ \[ v:Bars \|\| v:Lines \|\| v:Pie \|\| v:Stacked \|\| ] |  
+  v:Pivot \[ **&#x21C4;** |\|\ **&#x2725;** |\|\ **&#x2B73;** ] |  
+  
 
 <br>
 
