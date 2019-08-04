@@ -64,4 +64,4 @@
 
 <br>  
   
-###### Odoo Guides - v6_05 &nbsp; 2019-08-03  [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  
+###### Odoo Guides - v6_06 &nbsp; 2019-08-03  [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)  
