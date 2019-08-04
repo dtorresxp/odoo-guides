@@ -20,6 +20,7 @@ b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;
 f:Email | _a:Define a right one_ | b:Save  
 
 #### [How to Get/Test v13 &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 05:52)](https://youtube.com/embed/DzorSmXzces?autoplay=1&start=70&end=0&rel=0&nocount)  
+&#x26A0; _a:We noticed slightly differences after testing this procedure, maybe because of security & stability considerations, but it's still operational_
 
 - [Connect Community](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=70&end=151&rel=0)  
   ![internet_small](/doc/img/internet_small.png) https://runbot.odoo.com/runbot | _a:Review Branches Status_ |  
