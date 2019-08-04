@@ -55,7 +55,6 @@
 | ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| map view & location|
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
 | ![internet_small](/doc/img/internet_small.png) | internet | ![quick_connect](/doc/img/quick_connect.png) | github quick-connect |
-
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
 | **i:** Item | item on screen | **l:** Link | link |
