@@ -8,7 +8,7 @@
 i:Customer | d:Customer/Vendor | _a: f:Object shows account.move_ |  
 &#x1F41E; | o:EditView:Form | _a f:Model shows account.move_ | b:Close  
 
-#### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0)
+#### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
 [***Sync***]: # (o13-ee-inv-invoicing-guides)  
 
 - _a:Configuration:_
