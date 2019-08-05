@@ -54,19 +54,23 @@
 	b:Save | b:Validate |  
 	b:RegisterPayment | w:RegisterPayment | f:Memo | f:PaymentDate &#x1F4C5; | f:PaymentAmount |  
 	f:PaymentJournal &#x2BC6; | _a:Select Journal_ |  
-	b:Validate | _a:Notice "PAID" ribbon shown on Invoice number (top-left corner)_  
+	b:Validate | _a:Notice green **Paid** ribbon shown on Invoice number (top-left corner)_  
 
   - [Review Customer's Bank & Accounting Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=247&end=270&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Customers | o:Customers | b:Edit | t:Invoicing |  
 	f:Bank | f:AccountNumber | f:AccountReceivable | f:AccountPayble | _a:Review data | \[ b:Save \|\| b:Discard ]  
 	
-  - [Review Customer's Bank & Accounting Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=247&end=270&rel=0)  
-    ![apps](/doc/img/apps.png) | o:Invoicing | m:Vendors | o:Bills | _a:Select
-	f:Bank | f:AccountNumber | f:AccountReceivable | f:AccountPayble | _a:Review data | \[ b:Save \|\| b:Discard ]  
+  - [Review Vendors' Bills & Payments](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=247&end=296&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | m:Vendors | o:Bills | _a:Select Unposted Non-Paid Bill_ | b:Validate |  
+	b:RegisterPayment | w:RegisterPayment | _a:Accept Defaults_ | b:Validate | _a:Notice green **Paid** ribbon shown on Bill number (top-left corner)_   
+	
+  - [Review Journal Entries](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=310&end=&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | m:Accounting | i:Miscellaneous | o:JournalEntries | f:Search... (MiscellaneousOperations) &#x2716; |  
+	b:RegisterPayment | w:RegisterPayment | _a:Accept Defaults_ | b:Validate | _a:Notice green **Paid** ribbon shown on Bill number (top-left corner)_   
 	
 	
 	
-2:28 - 3:38    
+   
   
 [***cocacola 1:59***]: # (Odoo13 Accounting Overview)  
 
