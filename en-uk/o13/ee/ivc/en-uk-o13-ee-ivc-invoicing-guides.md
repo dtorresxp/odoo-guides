@@ -49,5 +49,5 @@ _a:Test:_
   
 <br>
 
-###### Odoo Guides - v2_01 &nbsp; 2019-08-01  
+###### Odoo Guides - v2_02 &nbsp; 2019-08-04  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
