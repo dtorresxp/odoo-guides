@@ -15,12 +15,12 @@ i:Customer | d:Customer/Vendor | _a: f:Object shows account.move_ |
   ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ |  
   _a:Scroll Down_ | i:TechnicalSettings | f:ShowFullAccountingFeatures &#x1F5F9; | b:Save
 
-- [Company Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=55&end=54&rel=0)
+- [Company Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=55&end=54&rel=0)  
   ![apps](/doc/img/apps.png) | o:Invoicing | i:CompanyData | b:Let'sStart |  
   w:SetYourCompanyData | f:Logo | f:Name |  
   t:GeneralInformation | f:Partner Address | f:WebsiteLink | f:Phone | f:LocalNumbers | f:Email | f:VAT |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   f:CompanyRegistry | f:Currency | f:ParentCompany | f:CompanyFavicon |  
   b:Apply  
 
