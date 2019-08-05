@@ -216,6 +216,7 @@ _Resolver de una vez por todas la falta de documentación_
       - Analisis para fundamentar propuestas sobre nuevas funcionalidades
 
 #### Propuestas a Largo Plazo
+  - Documentación técnica en Packt
   - Automatización
   - Simulación
 
