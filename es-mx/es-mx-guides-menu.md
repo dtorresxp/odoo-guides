@@ -85,7 +85,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
     - Nombre del video
     - Número de versión de Odoo  
     - Edición de Odoo (CE or EE)  
-    - Creador Origina  
+    - Creador Original  
     - Idioma (n/v=no voz)  
     - Duración del video  
   - Cuando un video contiene varios procedimientos, se mostrarán en forma de lista debajo de la liga al video completo
@@ -216,6 +216,7 @@ _Resolver de una vez por todas la falta de documentación_
       - Analisis para fundamentar propuestas sobre nuevas funcionalidades
 
 #### Propuestas a Largo Plazo
+  - Documentación técnica en Packt
   - Automatización
   - Simulación
 
@@ -252,5 +253,5 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
 
 
 <br><br>
-#### Guías Odoo - v6_09 &nbsp; 2019-08-04
+#### Guías Odoo - v6_11 &nbsp; 2019-08-05
  

@@ -207,6 +207,11 @@ _To solve once and for all, the documentation gap_
       - Analysis for GUI retooling
       - Analysis to measure and evaluate new functionalities
 
+#### Long term Proposals
+  - Technical documentation in Packt
+  - Automation
+  - Simulation
+
 <br>
 
 # The _&#x03C8;_ Affaire
