@@ -5,7 +5,7 @@
 #### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
 [***Sync***]: # (o13-ee-inv-invoicing-guides)  
 
-- **Configuration:**
+- **Configuration:**  
   - [Configuration](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=54&rel=0)  
     ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
     ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ |  
@@ -28,15 +28,46 @@
   - [Chart of Accounts](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=93&end=100&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:ChartOfAccounts | b:Review |  
     &#x23BD;/&#x23BD;/:AccountingOverview |  
-    _a:Notice Bank Account now shows:_ **&#x2713;** Step Completed!  
+    _a:Notice Chart of Accounts now shows:_ **&#x2713;** Step Completed!  
 
-  - [Fiscal Year](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=100&end=108&rel=0)  
+  - [Fiscal Year](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=100&end=108&rel=0)   
     ![apps](/doc/img/apps.png) | o:Invoicing | i:Fiscal Year | b:Configure |  
     w:FiscalYear | f:OpeningDate &#x1F4C5; | f:FiscalYearEnd | f:Day | f:Month | b:Apply |  
     _a:Notice Fiscal Year now shows:_ **&#x2713;** Step Completed!  
-  
-  - i:NiceWork!YourConfigurationIsDone | b:Close
 
+  - i:NiceWork!YourConfigurationIsDone | b:Close  
+    _a: You can find these setup guides also in [Accounting](/en-uk/o13/ee/inv/en-uk-o13-ee-acc-accounting-guides.md#accounting-overview--o13---ee---odoo-mates---xx-xx---0858) app_  
+
+  - [Review new **account.move** model](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=108&end=144&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | m:Customers | o:Invoices | _a:Select Invoice_ |  
+	t:JournalItems | _a:Review Journal registers_ |  
+	t:InvoiceLines | &#x1F41E; | o:EditView:Form | w:EditView:Form |  
+	_a:Review f:Model is **account.move**, actually there isn't invoice model anymore_ |  
+	w:EditView:Form &#x2716;  
+    
+  - [Create a New Invoice & Payment](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=148&end=218&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | b:Create | f:Customer &#x2BC6; |  
+	t:InvoiceLines |  
+	i:AddALine | f:Product &#x2BC6; | _a:Select a Product_ |  
+	i:AddASection | _a:Enter Section Text_ |  
+	i:AddALine | f:Product &#x2BC6; | _a:Select a Product_ |  
+	b:Save | b:Validate |  
+	b:RegisterPayment | w:RegisterPayment | f:Memo | f:PaymentDate &#x1F4C5; | f:PaymentAmount |  
+	f:PaymentJournal &#x2BC6; | _a:Select Journal_ |  
+	b:Validate | _a:Notice "PAID" ribbon shown on Invoice number (top-left corner)_  
+
+  - [Review Customer's Bank & Accounting Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=247&end=270&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | m:Customers | o:Customers | b:Edit | t:Invoicing |  
+	f:Bank | f:AccountNumber | f:AccountReceivable | f:AccountPayble | _a:Review data | \[ b:Save \|\| b:Discard ]  
+	
+  - [Review Customer's Bank & Accounting Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=247&end=270&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | m:Vendors | o:Bills | _a:Select
+	f:Bank | f:AccountNumber | f:AccountReceivable | f:AccountPayble | _a:Review data | \[ b:Save \|\| b:Discard ]  
+	
+	
+	
+2:28 - 3:38    
+  
 [***cocacola 1:59***]: # (Odoo13 Accounting Overview)  
 
 
