@@ -42,8 +42,8 @@ i:Customer | d:Customer/Vendor | _a: f:Object shows account.move_ |
     _a:Notice Fiscal Year now shows:_ **&#x2713;** Step Completed!  
   
   - i:NiceWork!YourConfigurationIsDone | b:Close
-  
-  - &#x26A0; _a: This configuration is actually done in the [Invoicing](/en-uk/o13/ee/inv/en-uk-o13-ee-inv-invoicing-guides.md) app_  
+
+  - &#x26A0; _a: This configuration is actually done in the [Invoicing](/en-uk/o13/ee/inv/en-uk-o13-ee-inv-invoicing-guides.md#accounting-overview--o13---ee---odoo-mates---xx-xx---0858) app_  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They were included here just because of the app name  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer there for further reference  
 
