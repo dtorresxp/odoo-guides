@@ -43,9 +43,9 @@ i:Customer | d:Customer/Vendor | _a: f:Object shows account.move_ |
   
   - i:NiceWork!YourConfigurationIsDone | b:Close
   
-  - &#x26A0; _a:All this configuration is done in [Invoicing](/en-uk/o13/ee/inv/en-uk-o13-ee-inv-invoicing-guides.md) app_  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setup is mentioned here just because name compatibility  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please browse there for more references  
+  - &#x26A0; _a: This configuration is actually done in [Invoicing](/en-uk/o13/ee/inv/en-uk-o13-ee-inv-invoicing-guides.md) app_  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setup is mentioned here just because of the name  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please browse there for more references  
 
 
 <br>
