@@ -5,7 +5,7 @@
 #### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
 [***Sync***]: # (o13-ee-inv-invoicing-guides)  
 
-- _a:Configuration:_
+- **Configuration:**
   - [Configuration](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=54&rel=0)  
     ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
     ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ |  
