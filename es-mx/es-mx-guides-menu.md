@@ -85,7 +85,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
     - Nombre del video
     - Número de versión de Odoo  
     - Edición de Odoo (CE or EE)  
-    - Creador Origina  
+    - Creador Original  
     - Idioma (n/v=no voz)  
     - Duración del video  
   - Cuando un video contiene varios procedimientos, se mostrarán en forma de lista debajo de la liga al video completo
