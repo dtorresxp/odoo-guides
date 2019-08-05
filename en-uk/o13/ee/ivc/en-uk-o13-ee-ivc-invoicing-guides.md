@@ -2,6 +2,44 @@
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![ivc](/doc/img/account_invoicing.png)
 
+#### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
+[***Sync***]: # (o13-ee-inv-invoicing-guides)  
+
+- _a:Configuration:_
+  - [Configuration](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=54&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
+    ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ |  
+    _a:Scroll Down_ | i:TechnicalSettings | f:ShowFullAccountingFeatures &#x1F5F9; | b:Save  
+
+  - [Company Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=55&end=79&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | i:CompanyData | b:Let'sStart |  
+    w:SetYourCompanyData | f:Logo | f:Name |  
+    t:GeneralInformation | f:Partner Address | f:WebsiteLink | f:Phone | f:LocalNumbers | f:Email | f:VAT |  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    f:CompanyRegistry | f:Currency | f:ParentCompany | f:CompanyFavicon |  
+    b:Apply | _a:Notice Company Data now shows:_ **&#x2713;** All done!  
+
+  - [Bank Account](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=80&end=92&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | i:BankAccount | b:AddABank |  
+    w:CreateBankAccount | f:AccountNumber | f:Bank &#x2BC6; | f:Code | f:Journal | b:Create |  
+    _a:Notice Bank Account now shows:_ **&#x2713;** Step Completed!  
+
+  - [Chart of Accounts](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=93&end=100&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | i:ChartOfAccounts | b:Review |  
+    &#x23BD;/&#x23BD;/:AccountingOverview |  
+    _a:Notice Bank Account now shows:_ **&#x2713;** Step Completed!  
+
+  - [Fiscal Year](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=100&end=108&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | i:Fiscal Year | b:Configure |  
+    w:FiscalYear | f:OpeningDate &#x1F4C5; | f:FiscalYearEnd | f:Day | f:Month | b:Apply |  
+    _a:Notice Fiscal Year now shows:_ **&#x2713;** Step Completed!  
+  
+  - i:NiceWork!YourConfigurationIsDone | b:Close
+
+[***cocacola 1:59***]: # (Odoo13 Accounting Overview)  
+
+
 #### [New Widget Ribbon &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/Adg5rrfXl0Y?autoplay=1&start=0&end=71&rel=0)  
 ![apps](/doc/img/apps.png) | o:Invoicing | _a:Select PAID invoice_ | _a:Notice the green PAID ribbon on top right of preview_ |  
 &#x23BD;/&#x23BD;/:Invoices | _a:Select NOT PAID invoice_ | _a:Notice there is no ribbon on preview_ |  
