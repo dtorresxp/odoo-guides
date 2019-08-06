@@ -26,7 +26,7 @@
 
 <br>
 
-## _&#x03C8;Code_ Nomenclature
+# _&#x03C8;Code_ Nomenclature
 [***Sync***]: # (en-uk-guides-menu)  
 [***Sync***]: # (en-uk-o13-ce-guides-menu)  
 
@@ -44,7 +44,7 @@
 
 <br>
 
-## Odoo Icons used in _&#x03C8;Code_ Guides
+# Odoo Icons used in _&#x03C8;Code_ Guides
 [***Sync***]: # (en-uk-guides-menu)  
 [***Sync***]: # (en-uk-o13-ce-guides-menu)  
 
