@@ -8,7 +8,7 @@
   ![apps](/doc/img/apps.png) | o:Apps | f:Buscar... Servicio en sitio | i:ServicioEnSitio | b:Instalar  
 
 - [Ver Tareas](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=17&end=31&rel=0)  
-  ![apps](/doc/img/apps.png) | o:ServicioEnSitio | f:Buscar... | _(MisTareas)_ &#x2716; | _(ToDo)_ &#x2716; | _(Future)_ &#x2716; |  
+  ![apps](/doc/img/apps.png) | o:ServicioEnSitio | f:Buscar... | ![filter](/doc/img/filter.png) _(MisTareas)_ &#x2716; | ![filter](/doc/img/filter.png) _(ToDo)_ &#x2716; | ![filter](/doc/img/filter.png) _(Future)_ &#x2716; |  
   m:Planeación | \[ o:PorUsuario || o:PorProyecto ]  
 
 - [Crear Tarea](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=32&end=78&rel=0)  
@@ -39,5 +39,5 @@
 
 <br>
 
-###### Guías Odoo - V2_01 &nbsp; 2019-08-01  
+###### Guías Odoo - V2_02 &nbsp; 2019-08-05  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

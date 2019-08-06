@@ -5,7 +5,7 @@
 #### [New Employee Presence &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:10)](https://youtube.com/embed/5flykV7VCzo?autoplay=1&start=4&end=0&rel=0&nocount)<br>
 
 - [Install Presence module](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=219&end=230&rel=0)  
-![apps](/doc/img/apps.png) | o:Apps | f:Search... presence | _(apps)_ &#x2716; | i:EmployeePresence | b:Install  
+![apps](/doc/img/apps.png) | o:Apps | f:Search... presence | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:EmployeePresence | b:Install  
 
 - [Configure Presence module](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=191&end=211&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Settings | o:Employees | &#x1F5F9; f:Control presence of employees |  
@@ -44,5 +44,5 @@ _a:Communicate: [ b:SMS || b:Mail ] | b:Log_
 
 <br>
 
-###### Odoo Guides - V2_01 &nbsp; 2019-08-01 
+###### Odoo Guides - V2_02 &nbsp; 2019-08-05 
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

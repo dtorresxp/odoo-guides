@@ -11,7 +11,7 @@ b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;
 #### [Date Filter improvements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:08)](https://youtube.com/embed/VwAKizxl2Go?autoplay=1&start=0&end=98&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Open app with views that have Date fields_ |  
 \[ o:CRM \|\| o:Sales \|\| o:Purchase \|\| o:Manufacturing \|\| o:Project \|\| o:Invoicing ] |  
-_a:Remove previous search filters_ f:Search (MyPipeline) &#x2716; | ![filter](/doc/img/filter.png) b:Filters &#x2BC6; |  
+_a:Remove previous search filters_ | f:Search | ![filter](/doc/img/filter.png) _(MyPipeline)_ &#x2716; |  
 _a:Select any Date filter:_ \[ o:CreationDate \| o:ExpectedDate \| o:ClosedDate ] |  
 _a:Now date options are:_ \[ o:Month \| o:Month+1 \|\| o:Month+2 \|\| o:Q1 \|\| o:Q2 \|\| o:Q3 \|\| o:Q4 \|\| o:Year \|\| o:Year-1 \|\| o:Year-2 ]  
 
@@ -88,5 +88,5 @@ _a:Notice navbar SuperUser background_ | _a:After completing your SuperUsert tas
 
 <br>
 
-###### Odoo Guides - v4_05 &nbsp; 2019-08-03  
+###### Odoo Guides - v4_06 &nbsp; 2019-08-05  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

@@ -5,7 +5,7 @@
 #### [Nueva app de Rentas &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:58)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Instalar la app de Rentas](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=24&rel=0)  
-![apps](/doc/img/apps.png) | o:Apps | f:Buscar... rental | _(apps)_ &#x2716; | i:Renta | b:Instalar |  
+![apps](/doc/img/apps.png) | o:Apps | f:Buscar... rental | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:Renta | b:Instalar |  
 
 - [Configuración de Rentas](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=261&end=0&rel=0)  
 \[ &#x23BD;/&#x23BD;/:ÓrdenesDeRenta || ![apps](/doc/img/apps.png) | o:Renta ] | m:Configuración | o:Configuración |  
@@ -28,7 +28,7 @@ w:RentarProducto | f:FechaDe &#x1F4C5; | f:Hasta &#x1F4C5; | f:Cantidad | f:Dura
 \[ d:No hay existencias suficientes para recoger algunos productos ] | b:Validar | _a:Ahora la orden muestra (Recogido)_  
 
 - [Retornar producto Rentado](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=181&end=211&rel=0)  
-\[ &#x23BD;/&#x23BD;/:ÓrdenesDeRenta || ![apps](/doc/img/apps.png) | o:Renta ] | m:Órdenes | o:Retornar | f:Buscar... | _(ToDoToday)_ &#x2716; |  
+\[ &#x23BD;/&#x23BD;/:ÓrdenesDeRenta || ![apps](/doc/img/apps.png) | o:Renta ] | m:Órdenes | o:Retornar | f:Buscar... | ![filter](/doc/img/filter.png) _(ToDoToday)_ &#x2716; |  
 _a:Seleccionar una Orden retornada_ | b:Retornar | b:Validar  
 
 - [Calendario de Rentas](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=233&end=246&rel=0)  
@@ -40,5 +40,5 @@ f:Buscar... | _(FechaDeConfirmación:Últimos365Días)_ &#x2716;
 
 <br>
 	
-###### Guías Odoo - v3_01 &nbsp; 2019-08-01  
+###### Guías Odoo - v3_02 &nbsp; 2019-08-05  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

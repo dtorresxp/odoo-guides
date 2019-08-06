@@ -14,11 +14,11 @@
 ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | m:MySelf | o:MyAccount | i:Timesheets
 
 #### [Website Form Builder Moved to CE &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:19)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=0&rel=0)  
-[***Sync***]: # (en-uk-o13-ce-web-websites-builder-guides) | ![apps](/doc/img/apps.png) | o:Apps | f:Search... form-builder | _(apps)_ &#x2716; |  
+[***Sync***]: # (en-uk-o13-ce-web-websites-builder-guides) | ![apps](/doc/img/apps.png) | o:Apps | f:Search... form-builder | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; |  
 i:Form Builder | b:MoreInfo | b:Install |  
 ![apps](/doc/img/apps.png) | o:Website | b:GotoWebsite | b:Edit | _a:Slide down Menu_ | _a:Drag i:FormBuilder to form_ | _a:Build form accordingly_ | b:Save  
 
 <br>
 
-###### Odoo Guides - v3_01 &nbsp; 2019-08-01  
+###### Odoo Guides - v3_02 &nbsp; 2019-08-05  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

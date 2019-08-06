@@ -5,7 +5,7 @@
 #### [Lunch Enhancements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 06:29)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=4&end=0&rel=0)<br>
 
 - [Install Lunch app](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=0&end=24&rel=0)  
-  ![apps](/doc/img/apps.png) | o:Apps | f:Search... lunch | _(apps)_ &#x2716; | i:Lunch | b:Install  
+  ![apps](/doc/img/apps.png) | o:Apps | f:Search... lunch | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:Lunch | b:Install  
 
 - [Configure Lunch app](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=27&end=143&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Lunch | m:Configuration | o:Settings | i:LunchOverdraft | f:Overdraft | b:Save |  
@@ -37,5 +37,5 @@
   
 <br>
 	
-###### Odoo Guides - V2_01 &nbsp; 2019-08-01  
+###### Odoo Guides - V2_02 &nbsp; 2019-08-05  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

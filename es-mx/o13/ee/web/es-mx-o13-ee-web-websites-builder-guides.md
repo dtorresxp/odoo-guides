@@ -16,11 +16,11 @@
 
 #### [El Form Builder de Sitios Web se movió a la Ed. de la Comunidad &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:19)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=0&rel=0)  
 [***Sync***]: # (es-mx-o13-ce-web-websites-builder-guides) |  
-![apps](/doc/img/apps.png) | o:Apps | f:Buscar... form-builder | _(apps)_ &#x2716; | i:FormBuilder | b:MásInformación | b:Instalar |  
+![apps](/doc/img/apps.png) | o:Apps | f:Buscar... form-builder | f:Search _(apps)_ &#x2716; | i:FormBuilder | b:MásInformación | b:Instalar |  
 ![apps](/doc/img/apps.png) | o:SitioWeb | b:IrAlSitioWeb | b:Editar | _a:Abrir el Menu_ |  
 _a:Arrastrar i:FormBuilder to form_ | _a:Construya la forma que necesite_ | b:Guardar  
 
 <br>
 
-###### Guías Odoo - v3_01 &nbsp; 2019-08-01  
+###### Guías Odoo - v3_02 &nbsp; 2019-08-05  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

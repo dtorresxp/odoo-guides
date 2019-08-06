@@ -14,7 +14,7 @@ b:Add | w:Configure \]&#x207F; | b:Confirmar | d:LowStockWarning | b:Ok | w:Coti
 #### [Cupon de Ventas y Programas de Promoción &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 06:55)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0&nocount)
 
 - [Configuración](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=31&rel=0)  
-  ![apps](/doc/img/apps.png) | o:Apps | f:Buscar... coupon | _(apps) &#x2716; |  
+  ![apps](/doc/img/apps.png) | o:Apps | f:Buscar... coupon | ![filter](/doc/img/filter.png) _(apps) &#x2716; |  
   _a:Instalar módulos_ \[ Cupones & Promociones || Cupón de Venta || Venta Cupón Entrega || Gratis Entrega with Cupón \] |  
   ![apps](/doc/img/apps.png) | o:Ventas | m:Configuración | o:Configuración | i:Precio | f:CuponesYPromociones &#x1F5F9; |  
   \[ &#x1F872; Promoción Programas || Cupón Programas \]  
@@ -53,5 +53,5 @@ b:Add | w:Configure \]&#x207F; | b:Confirmar | d:LowStockWarning | b:Ok | w:Coti
 
 <br>
 
-###### Guías Odoo - v4_01 &nbsp; 2019-08-01  
+###### Guías Odoo - v4_02 &nbsp; 2019-08-05  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  

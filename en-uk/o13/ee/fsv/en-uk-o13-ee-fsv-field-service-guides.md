@@ -8,7 +8,7 @@
   ![apps](/doc/img/apps.png) | o:Apps | f:Search... field service | i:FieldService | b:Install  
 
 - [View Tasks](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=17&end=31&rel=0)  
-  ![apps](/doc/img/apps.png) | o:FieldService | f:Search... | _(MyTasks)_ &#x2716; | _(ToDo)_ &#x2716; | _(Future)_ &#x2716; | m:Planning | \[ o:ByUser || o:ByProject ]  
+  ![apps](/doc/img/apps.png) | o:FieldService | f:Search... | ![filter](/doc/img/filter.png) _(MyTasks)_ &#x2716; | ![filter](/doc/img/filter.png) _(ToDo)_ &#x2716; | ![filter](/doc/img/filter.png) _(Future)_ &#x2716; | m:Planning | \[ o:ByUser || o:ByProject ]  
 
 - [Create Task](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=32&end=78&rel=0)  
   ![apps](/doc/img/apps.png) | o:FieldService | b:Create | f:Title | f:Customer &#x2BC6; | _a:Type eMail with Task description_ |  
@@ -31,7 +31,7 @@
 - [Creating Quotations & Invoices](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=247&end=300&rel=0)  
   _a:Select Task_ | b:NewQuotation | \[ o:AddAProduct | f:Product &#x2BC6; | f:Quantity ]&#x207F; | b:Save |  
   _a:See s:Quotations showing number of quotations_ | b:Validate |  
-  b:CreateInvoice | w:Invoicing | f:CreateInvoice \[ &#x25C9; Regular || Percentage || Ammount ] |  
+  b:CreateInvoice | w:Invoicing | f:CreateInvoice \[ &#x25C9; Regular || Percentage || Amount ] |  
   b:CreateAndViewInvoice | w:InvoicePreview | b:Validate  
 
 <br>

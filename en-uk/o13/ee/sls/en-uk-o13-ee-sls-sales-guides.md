@@ -41,7 +41,7 @@ b:Save
 #### [Sales Coupon and Promotion Program &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 06:55)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0&nocount)
 
 - [Settings](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=31&rel=0)  
-![apps](/doc/img/apps.png) | o:Apps | f:Search... coupon | _(apps) &#x2716; |  
+![apps](/doc/img/apps.png) | o:Apps | f:Search... coupon | ![filter](/doc/img/filter.png) _(apps) &#x2716; |  
 _a:Install modules_ \[ Coupons & Promotions || Sale Coupon || Sale Coupon Delivery || Free Delivery with Coupon \] |  
 ![apps](/doc/img/apps.png) | o:Sales | m:Configuration | o:Settings | i:Pricing | f:Coupons&Promotions &#x1F5F9; |  
 \[ &#x1F872; Promotion Programs || Coupon Programs \]
@@ -77,5 +77,5 @@ f:FieldName &#x2BC6; | f:Operator &#x2BC6; | f:RuleText | _a:Verify it's somethi
 
 <br>
 
-###### Odoo Guides - v4_02 &nbsp; 2019-08-04  
+###### Odoo Guides - v4_03 &nbsp; 2019-08-05  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

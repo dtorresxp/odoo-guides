@@ -5,9 +5,9 @@
 #### [New Approval App &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 03:19)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Install Approval app](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=30&rel=0)  
-![apps](/doc/img/apps.png) | o:Apps | f:Search... approval | _(apps)_ &#x2716; | i:Approval | b:Install  
+![apps](/doc/img/apps.png) | o:Apps | f:Search... approval | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:Approval | b:Install  
 
-- [Configurar Approval app](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=30&end=65&rel=0)  
+- [Configure Approval app](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=30&end=65&rel=0)  
 ![apps](/doc/img/apps.png) | o:Approvals | m:Configuration | o:Categories | b:Create | f:Name | f:Description |  
 f:Option Settings | _a:Set every option as [ o:No || o:Required || o:Optional ]_ |  
 _a:Available options:_ | [ f:Contact | f:Date | f:Period | f:Items | f:Quantity | f:Amount | f:Reference | f:Payment | f:Location ] |  
@@ -27,5 +27,5 @@ _a:Authorize Request | \[ b:Approve || b:Refuse || b:Cancel ] | b:Approve | &#x2
 
 <br>
 
-###### Odoo Guides - v2_01 &nbsp; 2019-08-01  
+###### Odoo Guides - v2_02 &nbsp; 2019-08-05  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

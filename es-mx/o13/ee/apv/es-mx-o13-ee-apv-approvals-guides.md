@@ -5,7 +5,7 @@
 #### [Nueva app de Autorizacionesl App &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 03:19)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Instalar la app de Autorizaciones](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=30&rel=0)  
-![apps](/doc/img/apps.png) | o:Apps | f:Buscar... approval | _(apps)_ &#x2716; | i:Autorizar | b:Instalar  
+![apps](/doc/img/apps.png) | o:Apps | f:Buscar... approval | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:Autorizar | b:Instalar  
 
 - [Configuración](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=30&end=65&rel=0)  
 ![apps](/doc/img/apps.png) | o:Autorizar | m:Configuración | o:Categories | b:Crear | f:Nombre | f:Descripción |  
@@ -31,5 +31,5 @@ _a:Autorizar Solicitud_ | \[ b:Autorizar || b:Negar || b:Cancel ] | b:Autorizar 
 
 <br>
 
-###### Guías Odoo - v2_01 &nbsp; 2019-08-01  
+###### Guías Odoo - v2_02 &nbsp; 2019-08-05  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
