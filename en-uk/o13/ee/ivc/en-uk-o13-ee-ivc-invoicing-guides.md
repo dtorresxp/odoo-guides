@@ -64,9 +64,11 @@
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Vendors | o:Bills | _a:Select Unposted Non-Paid Bill_ | b:Validate |  
 	b:RegisterPayment | w:RegisterPayment | _a:Accept Defaults_ | b:Validate | _a:Notice green **Paid** ribbon shown on Bill number (top-left corner)_   
 	
-  - [Review Journal Entries](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=310&end=355&rel=0)  
-    ![apps](/doc/img/apps.png) | o:Invoicing | m:Accounting | i:Miscellaneous | o:JournalEntries | f:Search... | ![filter](/doc/img/filter.png) _(MiscellaneousOperations)_ &#x2716; |  
-    _a:Select Posted Entry_ | m:Accounting | i:Miscellaneous |
+  - [Review Accounting Menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=310&end=396&rel=0)  
+    - **Miscellaneous**  
+      ![apps](/doc/img/apps.png) | o:Invoicing | m:Accounting | i:Miscellaneous | o:JournalEntries |  
+	  f:Search... | ![filter](/doc/img/filter.png) _(MiscellaneousOperations)_ &#x2716; |  
+      _a:Select Posted Entry_ | m:Accounting | i:Miscellaneous |
     - **Journals**  
       m:Accounting | i:Journals | o:JournalItems | _a:Review Item data_ |  
       m:Accounting | i:Journals | o:Sales | _a:Review Sales data_ |  
@@ -75,10 +77,16 @@
     _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![view_graph](/doc/img/view_graph.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]
     - **Ledgers**  
       m:Accounting | i:Ledgers | o:GeneralLedger | _a:Open desired account's rows_ &#x2BC8; |  
-    _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![view_graph](/doc/img/view_graph.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]
+    _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![view_graph](/doc/img/view_graph_bars.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]
       m:Accounting | i:Ledgers | o:PartnerLedger | _a:Open desired account's rows_ &#x2BC8;
     - **Actions**  
-      m:Accounting | i:Ledgers | o:GeneralLedger | _a:Open desired account's rows_ &#x2BC8; |  
+      m:Accounting | i:Ledgers | o:Reconciliation | d:Reconciliation | _a:Review number & time spent on reconciliations_ |  
+      m:Accounting | i:Ledgers | o:TaxAdjustment | d:TaxAdjustments | _a:Review number & time spent on tax adjustments_ |  
+	
+  - [Review Reporting menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=396&end=&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | m:Reporting | i:Management | o:Invoices |  
+	_a:Review Invoicing Stats_ | _a:b:Validate |  
+	b:RegisterPayment | w:RegisterPayment | _a:Accept Defaults_ | b:Validate | _a:Notice green **Paid** ribbon shown on Bill number (top-left corner)_   
 	
 	
 	
