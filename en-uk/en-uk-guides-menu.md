@@ -107,38 +107,15 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 
 <br>
 
-# _&#x03C8;Code_ Symbols
-
+## _&#x03C8;Code_ Nomenclature
+[***Sync***]: # (en-uk-guides-menu)  
 [***Sync***]: # (en-uk-o13-ce-guides-menu)  
-[***Sync***]: # (en-uk-o13-ee-guides-menu)  
 
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
 | step | step | &#x2026; row &#x2026; | logical bound steps |
-| \| | step separator | \[ x \| y ] | grouped steps |
+| \| | step separator | \[ x \|\| y ] | option steps |
 | _(tag)_ | tag | &nbsp;\[ x \| y \]&#x207F; | n-times repeatable steps |
-| &#x23BD;/&#x23BD;/ | breadcrumbs | \[ x \|\| y ] | option steps |
-| ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon |
-| &#x2807; | list menu icon | &#x2716; | remove tag / close |
-| &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
-| &#x25C9; | set option | &#x2B58; | clear option |
-| &#x1F4C5; | calendar | **&#x2B73;** | download |
-| &#x21C4; | pivot: flip axis | &#x2725; | pivot: expand all |
-| &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
-| &#x1F6E0; | open studio | &#x1F557; | activities |
-| &#x1F5ED; | conversations | &#x1F50D; | advanced search |
-| &#x2BC6; \|\| &#x2BC8; | open combobox \|\| row | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | star \|\| unstar |  
-| ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | &#x1F870; \|\| &#x1F872; | back \|\| advance |
-| ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| subtract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
-| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | confirm |
-| ![button_squared_add](/doc/img/button_squared_add.png) | zoom in | ![button_squared_sub](/doc/img/button_squared_sub.png)| zoom out |
-|  **&#x2713;** option | active option | ![edit](/doc/img/edit.png) | edit |
-| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | bars chart | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | area chart |
-| ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | pie chart | ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) | stacked chart |
-| ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
-| ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| map view & location|
-| ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
-| ![internet_small](/doc/img/internet_small.png) | internet browsing | ![quick_connect](/doc/img/quick_connect.png) | github quick-connect |
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
 | **i:** Item | item on screen | **l:** Link | link |
@@ -148,6 +125,29 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 
 <br>
 
+## Odoo Icons used in _&#x03C8;Code_ Guides
+[***Sync***]: # (en-uk-guides-menu)  
+[***Sync***]: # (en-uk-o13-ce-guides-menu)  
+
+| Symbol | Meaning | Symbol | Meaning | Symbol | Meaning | 
+| :---: | :--- | :---: | :--- | :---: | :--- |
+| ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon | &#x23BD;/&#x23BD;/ | breadcrumbs |
+| &#x2807; | list menu icon | &#x2716; | remove tag / close | &#x1F5F9; | checked mark |
+| &#x2610; | unchecked mark | &#x25C9; | set option | &#x2B58; | clear option |
+| &#x1F4C5; | calendar | **&#x2B73;** | pivot: flip axis | &#x2725; | pivot: expand all |
+| download | &#x21C4; | &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
+| &#x1F6E0; | open studio | &#x1F557; | activities | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
+| &#x2BC6; \|\| &#x2BC8; | open combobox \|\| row | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | star \|\| unstar | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence |
+| &#x1F870; \|\| &#x1F872; | back \|\| advance | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| subtract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
+| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | ![button_squared_add](/doc/img/button_squared_add.png) | zoom in |
+| ![button_squared_sub](/doc/img/button_squared_sub.png)| zoom out |  **&#x2713;** option | active option | ![edit](/doc/img/edit.png) | edit |
+| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | bars chart | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | area chart | ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | pie chart |
+| ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) | stacked chart | ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
+| ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| map view & location | ![show_catalog](/doc/img/show_catalog.png) | show catalog |
+| ![filter](/doc/img/filter.png) | filter | ![internet_small](/doc/img/internet_small.png) | internet browsing | ![quick_connect](/doc/img/quick_connect.png) | github quick-connect |
+
+<br>  
+  
 # The _What-Where_ Approach
 It's part of the _knowledgeware_ theory.  In the context of user interfaces, it means training can be reduced to explain only _what_ to do and _where_ to do it.  This assumes the user already knows _why_ to do it;  therefore, it doesn't need to be part of the explanation. This will minimize the time, info and effort used to acquire new knowledge.  
 
@@ -247,5 +247,5 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
 
 
 <br><br>
-#### Odoo Guides - v6_10 &nbsp; 2019-08-05
+#### Odoo Guides - v7_01 &nbsp; 2019-08-05
  
