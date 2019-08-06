@@ -19,5 +19,5 @@ _a:Notice sum of Warehouses quantities are the same as Product row_
 
 <br>
 
-###### Odoo Guides - V2_01 &nbsp; 2019-08-01  
+###### Odoo Guides - V2_02 &nbsp; 2019-08-06  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
