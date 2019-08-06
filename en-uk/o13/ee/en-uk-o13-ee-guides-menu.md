@@ -48,7 +48,7 @@
 [***Sync***]: # (en-uk-guides-menu)  
 [***Sync***]: # (en-uk-o13-ce-guides-menu)  
 
-| Symbol | Meaning | Symbol | Meaning | 
+| Symbol | Meaning | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- | :---: | :--- |
 | ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon | &#x23BD;/&#x23BD;/ | breadcrumbs |
 | &#x2807; | list menu icon | &#x2716; | remove tag / close | &#x1F5F9; | checked mark |
