@@ -147,8 +147,8 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
 | &#x1F41E; | opc. desarrollador |  **&#x2713;** option | opción activa | ![edit](/doc/img/edit.png) | editar |
 | ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | gráfica de barras | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | gráfica de áreas | ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | gráfica de pie |
 | ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) | gráfica estacada | ![view_kanban](/doc/img/view_kanban.png) | vista kanban | ![view_list](/doc/img/view_list.png) | vista de lista |
-| ![view_activity](/doc/img/view_activity.png) | vista de actividades | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| vista mapa y ubicación |  ![show_catalog](/doc/img/show_catalog.png) | mostrar catálogo |
-| ![filter](/doc/img/filter.png) | filtrar | ![internet_small](/doc/img/internet_small.png) | navegador de internet | ![quick_connect](/doc/img/quick_connect.png) | quick-connect github  |
+| ![view_activity](/doc/img/view_activity.png) | vista de actividades | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| mapa y ubicación |  ![show_catalog](/doc/img/show_catalog.png) | mostrar catálogo |
+| ![filter](/doc/img/filter.png) | filtrar | ![internet_small](/doc/img/internet_small.png) | navegador internet | ![quick_connect](/doc/img/quick_connect.png) | quick-connect github  |
 
 <br>
 
