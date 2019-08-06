@@ -35,6 +35,21 @@
 | step | step | &#x2026; row &#x2026; | logical bound steps |
 | \| | step separator | \[ x \| y ] | grouped steps |
 | _(tag)_ | tag | &nbsp;\[ x \| y \]&#x207F; | n-times repeatable steps |
+| _**a:** Action_ | action (several steps as one) | **b:** Button | button |
+| **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
+| **i:** Item | item on screen | **l:** Link | link |
+| **m:** Menu | menu | **o:** Option | option | 
+| **s:** SmartButton | smart-button | **t:** Tab | tab | v:View |
+| **v:** view | vista | **w:** Window | window |
+
+<br>
+
+## Odoo Icons used in _&#x03C8;Code_ Guides
+[***Sync***]: # (en-uk-guides-menu)  
+[***Sync***]: # (en-uk-o13-ce-guides-menu)  
+
+| Symbol | Meaning | Symbol | Meaning | 
+| :---: | :--- | :---: | :--- |
 | &#x23BD;/&#x23BD;/ | breadcrumbs | \[ x \|\| y ] | option steps |
 | ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon |
 | &#x2807; | list menu icon | &#x2716; | remove tag / close |
@@ -57,13 +72,6 @@
 | ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| map view & location|
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
 | ![internet_small](/doc/img/internet_small.png) | internet browsing | ![quick_connect](/doc/img/quick_connect.png) | github quick-connect |
-| _**a:** Action_ | action (several steps as one) | **b:** Button | button |
-| **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
-| **i:** Item | item on screen | **l:** Link | link |
-| **m:** Menu | menu | **o:** Option | option | 
-| **s:** SmartButton | smart-button | **t:** Tab | tab | v:View |
-| **v:** view | vista | **w:** Window | window |
-
 
 <br>  
   
