@@ -98,8 +98,8 @@
   - [Review Reporting menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=396&end=419&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Reporting | i:Management |  
 	- **Invoices**  
-	  o:Invoices | _a:Review Invoicing Stats_ | _a:Review different chart types_ |  
-	  \[ ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) \|\|  
+	  o:Invoices | _a:Review Invoicing Stats_ | _a:Review different chart types_ |
+	  \[ ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) \|\|
 	  \[ ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) \|\| ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) ]  
 	- **Product Margins**  
 	  o:ProductMargins | w:ProductMargins | f:From &#x1F4C5; | f:To &#x1F4C5; | f:InvoiceState &#x2BC6; | b:OpenMargins | _a:Review Report_ |  
