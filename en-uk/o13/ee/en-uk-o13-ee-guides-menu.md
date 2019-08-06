@@ -33,7 +33,7 @@
 | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- |
 | step | step | &#x2026; row &#x2026; | logical bound steps |
-| \| | step separator | \[ x \| y ] | grouped steps |
+| \| | step separator | \[ x \|\| y ] | option steps |
 | _(tag)_ | tag | &nbsp;\[ x \| y \]&#x207F; | n-times repeatable steps |
 | _**a:** Action_ | action (several steps as one) | **b:** Button | button |
 | **d:** Dialog | warning or action dialog | **f:** Field | field to enter value |
@@ -49,17 +49,13 @@
 [***Sync***]: # (en-uk-o13-ce-guides-menu)  
 
 | Symbol | Meaning | Symbol | Meaning | 
-| :---: | :--- | :---: | :--- |
-| &#x23BD;/&#x23BD;/ | breadcrumbs | \[ x \|\| y ] | option steps |
-| ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon |
-| &#x2807; | list menu icon | &#x2716; | remove tag / close |
-| &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
-| &#x25C9; | set option | &#x2B58; | clear option |
-| &#x1F4C5; | calendar | **&#x2B73;** | download |
-| &#x21C4; | pivot: flip axis | &#x2725; | pivot: expand all |
-| &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
-| &#x1F6E0; | open studio | &#x1F557; | activities |
-| &#x1F5ED; | conversations | &#x1F50D; | advanced search |
+| :---: | :--- | :---: | :--- | :---: | :--- |
+| ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon | &#x23BD;/&#x23BD;/ | breadcrumbs |
+| &#x2807; | list menu icon | &#x2716; | remove tag / close | &#x1F5F9; | checked mark |
+| &#x2610; | unchecked mark | &#x25C9; | set option | &#x2B58; | clear option |
+| &#x1F4C5; | calendar | **&#x2B73;** | download | &#x21C4; | pivot: flip axis |
+| &#x2725; | pivot: expand all | &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
+| &#x1F6E0; | open studio | &#x1F557; | activities | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
 | &#x2BC6; \|\| &#x2BC8; | open combobox \|\| row | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | star \|\| unstar |  
 | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence | &#x1F870; \|\| &#x1F872; | back \|\| advance |
 | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| subtract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
