@@ -139,8 +139,8 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 | &#x1F6E0; | open studio | &#x1F557; | activities | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
 | &#x2BC6; \|\| &#x2BC8; | open combobox \|\| row | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | star \|\| unstar | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence |
 | &#x1F870; \|\| &#x1F872; | back \|\| advance | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| subtract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
-| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | ![button_squared_add](/doc/img/button_squared_add.png) | zoom in |
-| ![button_squared_sub](/doc/img/button_squared_sub.png)| zoom out |  **&#x2713;** option | active option | ![edit](/doc/img/edit.png) | edit |
+| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![button_squared_add](/doc/img/button_squared_add.png) | zoom in | ![button_squared_sub](/doc/img/button_squared_sub.png)| zoom out |
+| ![phone_receiver](/doc/img/phone_receiver.png) | confirm | **&#x2713;** option | active option | ![edit](/doc/img/edit.png) | edit |
 | ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | bars chart | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | area chart | ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | pie chart |
 | ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) | stacked chart | ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
 | ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| map view & location | ![show_catalog](/doc/img/show_catalog.png) | show catalog |
