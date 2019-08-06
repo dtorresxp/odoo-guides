@@ -102,9 +102,10 @@
 	  \[ ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) \|\|
 	  \[ ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) \|\| ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) ]  
 	- **Product Margins**  
-	  o:ProductMargins | w:ProductMargins | f:From &#x1F4C5; | f:To &#x1F4C5; | f:InvoiceState &#x2BC6; | b:OpenMargins | _a:Review Report_ |  
+	  o:ProductMargins | w:ProductMargins | f:From &#x1F4C5; | f:To &#x1F4C5; |  
+	  f:InvoiceState &#x2BC6; | b:OpenMargins | _a:Review Report_ |  
 
-  - [Review **+** Menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=446&end=513&rel=0)  
+  - [Review **+** (more) Menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=446&end=513&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m: **+** |  
 	i:Accounting | \[ o:ChartOfAccounts | o:Taxes | o:FiscalPositions | o:AddABankAccount | o:Journals | o:JournalGroups | o:Incoterms | o:ReconciliationModels ]
 	i:Management | \[ o:PaymentTerms | o:TaxReport ]
