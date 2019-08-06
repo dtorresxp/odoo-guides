@@ -24,7 +24,7 @@
     w:SetYourCompanyData | f:Logo | f:Name |  
     t:GeneralInformation | f:Partner Address | f:WebsiteLink | f:Phone | f:LocalNumbers | f:Email | f:VAT |  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     f:CompanyRegistry | f:Currency | f:ParentCompany | f:CompanyFavicon |  
     b:Apply | _a:Notice Company Data now shows:_ **&#x2713;** All done!  
 
