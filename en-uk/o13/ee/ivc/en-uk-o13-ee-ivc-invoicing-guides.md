@@ -72,10 +72,10 @@
       m:Accounting | i:Journals | o:Sales | _a:Review Sales data_ |  
       m:Accounting | i:Journals | o:Purchase | _a:Review Purchase data_ |  
       m:Accounting | i:Journals | o:Bank&Cash | _a:Open desired item's rows_ &#x2BC8; |  
-    _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![view_graph](/doc/img/view_graph.png)![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ] |  
+    _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![view_graph](/doc/img/view_graph.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ] |  
     - #### Ledgers
       m:Accounting | i:Ledgers | o:GeneralLedger | _a:Open desired account's rows_ &#x2BC8; |  
-    _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![view_graph](/doc/img/view_graph.png)![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ] |  
+    _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![view_graph](/doc/img/view_graph.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ] |  
       m:Accounting | i:Ledgers | o:PartnerLedger | _a:Open desired account's rows_ &#x2BC8; |  
     - #### Actions
 	
