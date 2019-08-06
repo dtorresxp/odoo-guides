@@ -52,7 +52,7 @@
 | ![button_squared_add](/doc/img/button_squared_add.png) | zoom in | ![button_squared_sub](/doc/img/button_squared_sub.png)| zoom out |
 |  **&#x2713;** option | active option | ![edit](/doc/img/edit.png) | edit |
 | ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | bars chart | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | area chart |
-| ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | pie chart | ![icon_view_chart_stacked_small](/doc/img/icon_view_chart_stacked_small.png) | stacked chart |
+| ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | pie chart | ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) | stacked chart |
 | ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
 | ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| map view & location|
 | ![show_catalog](/doc/img/show_catalog.png) | show catalog | ![filter](/doc/img/filter.png) | filter |
