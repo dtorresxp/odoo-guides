@@ -26,37 +26,15 @@
 
 <br>
 
-## Nomenclatura del _&#x03C8;Code_
-[***Sync***]: # (es-mx-guides-menu)  
+# Nomenclatura de _&#x03C8;Code_
 [***Sync***]: # (es-mx-o13-ce-guides-menu)  
+[***Sync***]: # (es-mx-o13-ee-guides-menu)  
 
 | Icono | Significado | Icono | Significado | 
 | :---: | :--- | :---: | :--- |
 | paso | paso | &#x2026; row &#x2026; | agrupación lógica de pasos |
-| \| | separador de pasos | \[ x \| y ] | grupo de pasos |
+| \| | separador de pasos | \[ x \|\| y ] | pasos optativos |
 | _(etiqueta)_ | etiqueta | &nbsp;\[ x \| y \]&#x207F; | pasos repetibles n-veces |
-| &#x23BD;/&#x23BD;/ | historial de ventana | \[ x \|\| y ] | pasos optativos |
-| ![apps](/doc/img/apps.png) | icono de apps en _barranav_ | &#x2630; | icono de menú de la app |
-| &#x2807; | icono de menú de la lista | &#x2716; | quitar etiqueta / cerrar |
-| &#x1F5F9; | opción marcada con palomita | &#x2610; | opción desmarcada |
-| &#x25C9; | encendido | &#x2B58; | apagado |
-| &#x1F4C5; | calendario | **&#x2B73;** | descargar |
-| &#x21C4; | tabla dinámica: intercambiar ejes | &#x2725; | tabla dinámica: expandir todo |
-| &#x1F41E; | opciones del desarrollador | ![warning](/doc/img/warning.png) \|\| &#x26A0; | alerta \|\| precaución |
-| &#x1F6E0; | abrir Odoo studio | &#x1F557; | actividades |
-| &#x1F5ED; | conversaciones | &#x1F50D; | búsqueda avanzada |
-| &#x2BC6; \|\| &#x2BC8; | abrir combo \|\| renglón | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | favorecer \|\| desfavorecer |  
-| ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presente \|\| ausente | &#x1F870; \|\| &#x1F872; | retroceder \|\| avanzar |
-| ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | agregar \|\| eliminar | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancelar |
-| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | activo \|\| inactivo | ![phone_receiver](/doc/img/phone_receiver.png) | confirmar |
-| ![button_squared_add](/doc/img/button_squared_add.png) | agrandar zoom | ![button_squared_sub](/doc/img/button_squared_sub.png)| disminuir zoom |
-|  **&#x2713;** option | opción activa | ![edit](/doc/img/edit.png) | editar |
-| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | gráfica de barras | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | gráfica de áreas |
-| ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | gráfica de pie | ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) | gráfica estacada |
-| ![view_kanban](/doc/img/view_kanban.png) | vista kanban | ![view_list](/doc/img/view_list.png) | vista de lista |
-| ![view_activity](/doc/img/view_activity.png) | vista de actividades | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| vista de mapa y localización |
-| ![show_catalog](/doc/img/show_catalog.png) | mostrar catálogo | ![filter](/doc/img/filter.png) | filtrar |
-| ![internet_small](/doc/img/internet_small.png) | navegador de internet | ![quick_connect](/doc/img/quick_connect.png) | quick-connect github  |
 | _**a:** Acción_ | acción (varios pasos) | **b:** Button | botón |
 | **d:** Dialogo | alerta o cuadro de diálogo | **f:** Campo | campo de captura |
 | **i:** Item | elemento en pantalla | **l:** Liga | hipervínculo |
@@ -64,6 +42,29 @@
 | **s:** SmartButton | botón inteligente | **t:** Tab | pestaña |
 | **v:** View | vista | **w:** Ventana | Ventana |
 
-<br>  
-  
-###### Guías Odoo - v6_10 &nbsp; 2019-08-05  [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
+<br>
+
+# Iconos de Odoo usados en Guías de _&#x03C8;Code_
+[***Sync***]: # (es-mx-o13-ce-guides-menu)  
+[***Sync***]: # (es-mx-o13-ee-guides-menu)  
+
+| Icono | Significado | Icono | Significado | Icono | Significado |
+| :---: | :--- | :---: | :--- | :---: | :--- |
+| ![apps](/doc/img/apps.png) | icono de apps en _barranav_ | &#x2630; | icono de menú de la app | &#x2807; | icono de menú de la lista |
+| &#x23BD;/&#x23BD;/ | historial de ventanas | &#x1F5F9; | opción marcada con palomita | | &#x2610; | opción desmarcada |
+| &#x2716; | quitar etiqueta / cerrar | &#x25C9; | encendido | &#x2B58; | apagado |
+| &#x1F4C5; | calendario |![phone_receiver](/doc/img/phone_receiver.png) | confirmar | &#x1F50D; | búsqueda avanzada |
+| &#x1F6E0; | abrir Odoo studio | &#x1F557; | actividades | &#x1F5ED; | conversaciones |
+| ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | activo \|\| inactivo | ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png) | zoom agrandar \|\| disminuir | ![warning](/doc/img/warning.png) \|\| &#x26A0; | alerta \|\| precaución |
+| &#x2BC6; \|\| &#x2BC8; | abrir combo \|\| renglón | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | favorecer \|\| desfavorecer | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presente \|\| ausente |
+| &#x1F870; \|\| &#x1F872; | retroceder \|\| avanzar | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | agregar \|\| eliminar | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancelar |
+| **&#x2B73;** | descargar | &#x21C4; | tabla dinámica: intercambiar ejes | &#x2725; | tabla dinámica: expandir todo |
+| &#x1F41E; | opciones del desarrollador |  **&#x2713;** option | opción activa | ![edit](/doc/img/edit.png) | editar |
+| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | gráfica de barras | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | gráfica de áreas | ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | gráfica de pie |
+| ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) | gráfica estacada | ![view_kanban](/doc/img/view_kanban.png) | vista kanban | ![view_list](/doc/img/view_list.png) | vista de lista |
+| ![view_activity](/doc/img/view_activity.png) | vista de actividades | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| vista de mapa y localización |  ![show_catalog](/doc/img/show_catalog.png) | mostrar catálogo |
+| ![filter](/doc/img/filter.png) | filtrar | ![internet_small](/doc/img/internet_small.png) | navegador de internet | ![quick_connect](/doc/img/quick_connect.png) | quick-connect github  |
+
+<br>
+
+###### Guías Odoo - v7_01 &nbsp; 2019-08-05  [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
