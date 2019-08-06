@@ -54,7 +54,7 @@
 | &#x23BD;/&#x23BD;/ | historial de ventanas | &#x1F5F9; | opción marcada | &#x2610; | opción desmarcada |
 | &#x2716; | quitar etiqueta / cerrar | &#x25C9; | encendido | &#x2B58; | apagado |
 | &#x1F4C5; | calendario |![phone_receiver](/doc/img/phone_receiver.png) | confirmar | &#x1F50D; | búsqueda avanzada |
-| &#x1F6E0; | abrir Odoo studio | &#x1F557; | actividades | &#x1F5ED; | conversaciones |
+| ![icon_studio_small](/doc/img/icon_studio_small.png) | abrir Odoo studio | &#x1F557; | actividades | &#x1F5ED; | conversaciones |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | activo \|\| inactivo | ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png) | zoom **+** \|\| **-** | ![warning](/doc/img/warning.png) \|\| &#x26A0; | alerta \|\| precaución |
 | &#x2BC6; \|\| &#x2BC8; | abrir combo \|\| renglón | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | prioridad **+** \|\| **-** | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presente \|\| ausente |
 | &#x1F870; \|\| &#x1F872; | retroceder \|\| avanzar | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | agregar \|\| eliminar | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancelar |
