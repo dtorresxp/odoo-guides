@@ -2,6 +2,44 @@
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![o13](/doc/img/odoo13.png)
 
+#### [New Features &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:57)](https://youtube.com/embed/NLbYN3R07to?autoplay=1&start=0&end=500&rel=0)  
+  - _a:FormBuilder in CE_
+  - _a:Promotions & Coupons in Sales_
+  - _a:New Search Pannel in Kanban & List_
+  - _a:Attendance Status in Kanban_
+  - _a:NewModule: Skills Management_
+  - _a:Leave was renamed as TimeOff_
+  - _a:Preference changed to MyProfile_
+  - _a:Improvements in Calendar_
+  - _a:Partner Map View_
+  - _a:NewApp: Approvals_
+  - _a:No more Payroll in CE_
+  - _a:Now Payroll will be part of EE_
+  - _a:Updated Style for Error Messages_
+  - _a:New UI for Lunch Module_
+  - _a:NewModule: Employee Presence_
+  - _a:NewApp: Rentals_
+  - _a:NewApp: Field Service Management_
+  - _a:Ribbon Widget_
+  - _a:Subcontracting in MRP_
+  - _a:Product Configurator_
+  - _a:Configure Report_
+  - _a:Payroll Planning_
+  - _a:New UI for Forum_
+  - _a:Document Upload: Activity Type_
+  - _a:InApp Purchases: Generate Leads_
+  - _a:Optional Field Visibility in List View_
+  - _a:Calculator Widget_
+  - _a:New BuyNow Button_
+  - _a:Sections & Notes in Purchase_
+  - _a:Inventory Valuation by Location_
+  - _a:Courses_
+  - _a:eLearning_
+  - _a:Survey Improvements_
+  - _a:Date Filter Improvements_
+  - _a:Inventory Forecast_
+  - _a:No **account.invoice** model_
+
 #### [Better Error Handling &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:09)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | i:ConfigurationPanel &#x2716; | d:RemoveConfigurationTips? | \[ b:Remove || b:Discard ] |  
 _a:Select Quotation_ | s:Delivery | t:Operations | b:Validate | d:UserError |  
@@ -88,5 +126,5 @@ _a:Notice navbar SuperUser background_ | _a:After completing your SuperUsert tas
 
 <br>
 
-###### Odoo Guides - v4_06 &nbsp; 2019-08-05  
+###### Odoo Guides - v4_07 &nbsp; 2019-08-06  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
