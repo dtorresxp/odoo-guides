@@ -218,6 +218,8 @@ _Resolver de una vez por todas la falta de documentación_
       - Analisis para fundamentar propuestas sobre nuevas funcionalidades
 
 #### Propuestas a Largo Plazo
+  - App de uso de Odoo
+  - App de documentation
   - Documentación técnica en Packt
   - Automatización
   - Simulación
@@ -255,5 +257,5 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
 
 
 <br><br>
-#### Guías Odoo - v7_01 &nbsp; 2019-08-05
+#### Guías Odoo - v7_02 &nbsp; 2019-08-06
  

@@ -210,6 +210,8 @@ _To solve once and for all, the documentation gap_
       - Analysis to measure and evaluate new functionalities
 
 #### Long term Proposals
+  - Odoo's usage app
+  - Documentation app
   - Technical documentation in Packt
   - Automation
   - Simulation
@@ -247,5 +249,5 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
 
 
 <br><br>
-#### Odoo Guides - v7_01 &nbsp; 2019-08-05
+#### Odoo Guides - v7_02 &nbsp; 2019-08-06
  
