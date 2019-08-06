@@ -132,8 +132,8 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 | Symbol | Meaning | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- | :---: | :--- |
 | ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon | &#x23BD;/&#x23BD;/ | breadcrumbs |
-| &#x2807; | list menu icon | &#x2716; | remove tag / close | &#x1F5F9; | checked mark |
-| &#x2610; | unchecked mark | &#x25C9; | set option | &#x2B58; | clear option |
+| &#x2807; | list menu icon | &#x2716; | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
+| remove tag / close | &#x25C9; | set option | &#x2B58; | clear option |
 | &#x1F4C5; | calendar | &#x21C4; | pivot: flip axis | &#x2725; | pivot: expand all |
 | **&#x2B73;** | download | &#x1F41E; | developer tools | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
 | &#x1F6E0; | open studio | &#x1F557; | activities | &#x1F5ED; | conversations | &#x1F50D; | advanced search |
