@@ -111,7 +111,7 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 [***Sync***]: # (en-uk-guides-menu)  
 [***Sync***]: # (en-uk-o13-ce-guides-menu)  
 
-| Symbol | Meaning | Symbol | Meaning | 
+| Item | Meaning | Item | Meaning | 
 | :---: | :--- | :---: | :--- |
 | step | step | &#x2026; row &#x2026; | logical bound steps |
 | \| | step separator | \[ x \|\| y ] | option steps |

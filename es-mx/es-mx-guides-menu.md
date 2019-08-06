@@ -115,7 +115,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
 [***Sync***]: # (es-mx-o13-ce-guides-menu)  
 [***Sync***]: # (es-mx-o13-ee-guides-menu)  
 
-| Icono | Significado | Icono | Significado | 
+| Elemento | Significado | Elemento | Significado | 
 | :---: | :--- | :---: | :--- |
 | paso | paso | &#x2026; row &#x2026; | agrupación lógica de pasos |
 | \| | separador de pasos | \[ x \|\| y ] | pasos optativos |
