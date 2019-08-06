@@ -87,19 +87,21 @@
     _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]
     - **Ledgers**  
       m:Accounting | i:Ledgers | o:GeneralLedger | _a:Open desired account's rows_ &#x2BC8; |  
-      _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]  
+      _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ] |  
       m:Accounting | i:Ledgers | o:PartnerLedger | _a:Open desired account's rows_ &#x2BC8;
     - **Actions**  
-      m:Accounting | i:Ledgers | o:Reconciliation | d:Reconciliation | _a:Review number & time spent on reconciliations_ |  
-      m:Accounting | i:Ledgers | o:TaxAdjustment | d:TaxAdjustments | _a:Review number & time spent on tax adjustments_ |  
+      m:Accounting | i:Ledgers | o:Reconciliation | d:Reconciliation |  
+	  _a:Review number & time spent on reconciliations_ |  
+      m:Accounting | i:Ledgers | o:TaxAdjustment | d:TaxAdjustments | 
+	  _a:Review number & time spent on tax adjustments_ |  
 	
   - [Review Reporting menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=396&end=419&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Reporting | i:Management |  
-	- **Invoices**
-	  o:Invoices | _a:Review Invoicing Stats_ | _a:Review different chart types_ |
-	  \[ ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) \|\|
-	  \[ ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) \|\| ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) ]
-	- **Product Margins**
+	- **Invoices**  
+	  o:Invoices | _a:Review Invoicing Stats_ | _a:Review different chart types_ |  
+	  \[ ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) \|\|  
+	  \[ ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) \|\| ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) ]  
+	- **Product Margins**  
 	  o:ProductMargins | w:ProductMargins | f:From &#x1F4C5; | f:To &#x1F4C5; | f:InvoiceState &#x2BC6; | b:OpenMargins | _a:Review Report_ |  
 
   - [Review **+** Menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=446&end=513&rel=0)  
