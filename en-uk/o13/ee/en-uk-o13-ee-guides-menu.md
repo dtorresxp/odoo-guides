@@ -58,7 +58,7 @@
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png) | zoom in \|\| out | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
 | &#x2BC6; \|\| &#x2BC8; | open combobox \|\| row | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | star \|\| unstar | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence |
 | &#x1F870; \|\| &#x1F872; | back \|\| advance | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| subtract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
-| **&#x2B73;** | download | &#x21C4; | pivot: flip axis | &#x2725; | pivot: expand all |
+| **&#x2B73;** | download | &#x21C4; | pivot: flip axis | &#x2725; | reorder \|\| expand all |
 | &#x1F41E; | developer tools | **&#x2713;** option | active option | ![edit](/doc/img/edit.png) | edit |
 | ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | bars chart | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | area chart | ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | pie chart |
 | ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) | stacked chart | ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
