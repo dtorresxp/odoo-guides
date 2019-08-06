@@ -11,6 +11,14 @@
     ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ |  
     _a:Scroll Down_ | i:TechnicalSettings | f:ShowFullAccountingFeatures &#x1F5F9; | b:Save  
 
+  - [Review Configuration](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=420&end=444&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | m: **+** | o:Settings | _a:Review Configuration_ |  
+	i:Taxes | i:Currencies | i:CustomerInvoices | i:CustomerPayments | i:VendorBills | i:VendorPayments |  
+	i:Bank&Cash | i:FiscalPeriods | i:AutomatedEntries | i:Analytics |  
+	_a:Notice there are a lot of EE only settings_ |  
+	\[ b:Save | b:Discard ]  
+
+- **Initial Setup:**  
   - [Company Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=55&end=79&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:CompanyData | b:Let'sStart |  
     w:SetYourCompanyData | f:Logo | f:Name |  
@@ -38,6 +46,7 @@
   - i:NiceWork!YourConfigurationIsDone | b:Close  
     _a: You can find these setup guides also in [Accounting](/en-uk/o13/ee/inv/en-uk-o13-ee-acc-accounting-guides.md#accounting-overview--o13---ee---odoo-mates---xx-xx---0858) app_  
 
+- **Review Functionality:**  
   - [Review new **account.move** model](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=108&end=144&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Customers | o:Invoices | _a:Select Invoice_ |  
 	t:JournalItems | _a:Review Journal registers_ |  
@@ -83,19 +92,20 @@
       m:Accounting | i:Ledgers | o:Reconciliation | d:Reconciliation | _a:Review number & time spent on reconciliations_ |  
       m:Accounting | i:Ledgers | o:TaxAdjustment | d:TaxAdjustments | _a:Review number & time spent on tax adjustments_ |  
 	
-  - [Review Reporting menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=396&end=&rel=0)  
-    ![apps](/doc/img/apps.png) | o:Invoicing | m:Reporting | i:Management | o:Invoices |  
-	_a:Review Invoicing Stats_ | _a:b:Validate |  
-	b:RegisterPayment | w:RegisterPayment | _a:Accept Defaults_ | b:Validate | _a:Notice green **Paid** ribbon shown on Bill number (top-left corner)_   
-	
-	
-	
-	
-	
-   
-  
-[***cocacola 1:59***]: # (Odoo13 Accounting Overview)  
+  - [Review Reporting menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=396&end=419&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | m:Reporting | i:Management |  
+	- **Invoices**
+	  o:Invoices | _a:Review Invoicing Stats_ | _a:Review different chart types_ |
+	  \[ ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) \|\|
+	  \[ ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) \|\| ![icon_view_chart_stacked_small](/doc/img/icon_view_chart_stacked_small.png) ]
+	- **Product Margins**
+	  o:ProductMargins | w:ProductMargins | f:From &#x1F4C5; | f:To &#x1F4C5; | f:InvoiceState &#x2BC6; | b:OpenMargins | _a:Review Report_ |  
 
+  - [Review **+** Menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=446&end=513&rel=0)  
+    ![apps](/doc/img/apps.png) | o:Invoicing | m: **+** |  
+	i:Accounting | \[ o:ChartOfAccounts | o:Taxes | o:FiscalPositions | o:AddABankAccount | o:Journals | o:JournalGroups | o:Incoterms | o:ReconciliationModels ]
+	i:Management | \[ o:PaymentTerms | o:TaxReport ]
+	i:Payments | \[ o:PaymentAcquirers | o:SavedPaymentData | o:PaymentIcons | o:PaymentTransactions ]
 
 #### [New Widget Ribbon &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/Adg5rrfXl0Y?autoplay=1&start=0&end=71&rel=0)  
 ![apps](/doc/img/apps.png) | o:Invoicing | _a:Select PAID invoice_ | _a:Notice the green PAID ribbon on top right of preview_ |  
