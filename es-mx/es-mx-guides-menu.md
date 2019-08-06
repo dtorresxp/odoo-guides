@@ -143,7 +143,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | activo \|\| inactivo | ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png) | zoom **+** \|\| **-** | ![warning](/doc/img/warning.png) \|\| &#x26A0; | alerta \|\| precaución |
 | &#x2BC6; \|\| &#x2BC8; | abrir combo \|\| renglón | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | prioridad **+** \|\| **-** | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presente \|\| ausente |
 | &#x1F870; \|\| &#x1F872; | retroceder \|\| avanzar | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | agregar \|\| eliminar | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancelar |
-| **&#x2B73;** | descargar | &#x21C4; | t.din.: cambiar ejes | &#x2725; | reordenar \|\| expander |
+| **&#x2B73;** | descargar | &#x21C4; | t.din.: cambiar ejes | &#x2725; | reordenar \|\| expandir |
 | &#x1F41E; | opc. desarrollador |  **&#x2713;** option | opción activa | ![edit](/doc/img/edit.png) | editar |
 | ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | gráfica de barras | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | gráfica de áreas | ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | gráfica de pie |
 | ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) | gráfica estacada | ![view_kanban](/doc/img/view_kanban.png) | vista kanban | ![view_list](/doc/img/view_list.png) | vista de lista |
