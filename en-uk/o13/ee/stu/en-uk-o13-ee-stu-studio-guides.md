@@ -8,7 +8,7 @@
 ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Orders | ![filter](/doc/img/filter.png) b:Filters &#x2BC6; | **&#x2713;** MyOrders | &#x1F6E0; |  
 i:Monetary | _a:Drag to List | _a:Select **f:NewMonetary** title_ |  
 t:Properties | f:Label | _a:Enter **Test Field** as name_ | _a:Notice there is nothing at the bottom of the field column in list_ |  
-f:Aggregate &#x2BC6; | o:Sum | _a:Notice new sum in bold text at the bottom of the column in list_
+f:Aggregate &#x2BC6; | o:Sum | _a:Notice the new sum at the bottom of the column_
 b:Close
 
 <br>
