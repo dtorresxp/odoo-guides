@@ -50,8 +50,8 @@
 
 | Symbol | Meaning | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- | :---: | :--- |
-| ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon | &#x23BD;/&#x23BD;/ | breadcrumbs |
-| &#x2807; | list menu icon | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
+| ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon | &#x2807; | list menu icon |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
 | &#x2716; | remove tag / close | &#x25C9; | set option | &#x2B58; | clear option |
 | &#x1F4C5; | calendar | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | &#x1F50D; | advanced search |
 | &#x1F6E0; | open studio | &#x1F557; | activities | &#x1F5ED; | conversations |
