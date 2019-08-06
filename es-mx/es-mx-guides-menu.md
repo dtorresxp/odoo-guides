@@ -135,7 +135,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
 
 | Icono | Significado | Icono | Significado | Icono | Significado |
 | :---: | :--- | :---: | :--- | :---: | :--- |
-| ![apps](/doc/img/apps.png) | icono de apps en _barranav_ | &#x2630; | icono de menú de la app | &#x2807; | icono de menú de la lista |
+| ![apps](/doc/img/apps.png) | apps en _barranav_ | &#x2630; | menú de la app | &#x2807; | menú de la lista |
 | &#x23BD;/&#x23BD;/ | historial de ventanas | &#x1F5F9; | opción marcada con palomita | | &#x2610; | opción desmarcada |
 | &#x2716; | quitar etiqueta / cerrar | &#x25C9; | encendido | &#x2B58; | apagado |
 | &#x1F4C5; | calendario |![phone_receiver](/doc/img/phone_receiver.png) | confirmar | &#x1F50D; | búsqueda avanzada |
