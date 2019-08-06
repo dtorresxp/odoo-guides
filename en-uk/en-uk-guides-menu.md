@@ -136,7 +136,7 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 | &#x2716; | remove tag / close | &#x25C9; | set option | &#x2B58; | clear option |
 | &#x1F4C5; | calendar | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | &#x1F50D; | advanced search |
 | &#x1F6E0; | open studio | &#x1F557; | activities | &#x1F5ED; | conversations |
-| &#x1F41E; | developer tools | ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png) | zoom in \|\| out || ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
+| &#x1F41E; | developer tools | ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png) | zoom in \|\| out | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
 | &#x2BC6; \|\| &#x2BC8; | open combobox \|\| row | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | star \|\| unstar | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence |
 | &#x1F870; \|\| &#x1F872; | back \|\| advance | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| subtract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | &#x21C4; | pivot: flip axis | &#x2725; | pivot: expand all |
