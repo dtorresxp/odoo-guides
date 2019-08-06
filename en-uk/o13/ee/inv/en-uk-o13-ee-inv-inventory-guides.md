@@ -5,7 +5,7 @@
 #### [Inventory Forecast (O13 - EE - Odoo Mates - n/v - 01:43)](https://youtube.com/embed/jD7daYG4EF0?autoplay=1&start=0&end=90&rel=0)  
 ![apps](/doc/img/apps.png) | o:Inventory | m:Reporting | o:ForecastedInventory | **&#x2630;** GroupBy &#x2BC6; | i:Date |  
 _a:Review reports selecting different grouping_ \[ **&#x2713;** o:Year || o:Quarter || o:Month || o:Week || o:Day ] |  
-_a:Remove grouping_ | f:Search... | **&#x2630;** _(Date:Day) &#x2716; |  
+_a:Remove grouping_ | f:Search... | **&#x2630;** _(Date:Day)_ &#x2716; |  
 _a:Look for_ &#x1F50D; _in Forecast Columns_ | &#x1F50D; | _Review Forecasted Inventory_ |  
 &#x23BD;/&#x23BD;/:ForecastedInventory | ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | _a:Review Forecasts_ |  
 b:Measures &#x2BC6; | **&#x2713;** o:Count | _a:See different kind of graphs_ \[ o: ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | o:! [icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) ]  
