@@ -67,17 +67,17 @@
   - [Review Journal Entries](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=310&end=355&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Accounting | i:Miscellaneous | o:JournalEntries | f:Search... | ![filter](/doc/img/filter.png) _(MiscellaneousOperations)_ &#x2716; |  
     _a:Select Posted Entry_ | m:Accounting | i:Miscellaneous |
-    - **Journals**
+    - **Journals**  
       m:Accounting | i:Journals | o:JournalItems | _a:Review Item data_ |  
       m:Accounting | i:Journals | o:Sales | _a:Review Sales data_ |  
       m:Accounting | i:Journals | o:Purchase | _a:Review Purchase data_ |  
       m:Accounting | i:Journals | o:Bank&Cash | _a:Open desired item's rows_ &#x2BC8; |  
     _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![view_graph](/doc/img/view_graph.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]
-    - **Ledgers**
+    - **Ledgers**  
       m:Accounting | i:Ledgers | o:GeneralLedger | _a:Open desired account's rows_ &#x2BC8; |  
     _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![view_graph](/doc/img/view_graph.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]
       m:Accounting | i:Ledgers | o:PartnerLedger | _a:Open desired account's rows_ &#x2BC8;
-    - **Actions**
+    - **Actions**  
       m:Accounting | i:Ledgers | o:GeneralLedger | _a:Open desired account's rows_ &#x2BC8; |  
 	
 	
