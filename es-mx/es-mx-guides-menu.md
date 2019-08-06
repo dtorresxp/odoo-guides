@@ -137,6 +137,8 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | activo \|\| inactivo | ![phone_receiver](/doc/img/phone_receiver.png) | confirmar |
 | ![button_squared_add](/doc/img/button_squared_add.png) | agrandar zoom | ![button_squared_sub](/doc/img/button_squared_sub.png)| disminuir zoom |
 |  **&#x2713;** option | opción activa | ![edit](/doc/img/edit.png) | editar |
+| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | gráfica de barras | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | gráfica de áreas |
+| ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | gráfica de pie | ![icon_view_chart_stacked_small](/doc/img/icon_view_chart_stacked_small.png) | gráfica estacada |
 | ![view_kanban](/doc/img/view_kanban.png) | vista kanban | ![view_list](/doc/img/view_list.png) | vista de lista |
 | ![view_activity](/doc/img/view_activity.png) | vista de actividades | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| vista de mapa y localización |
 | ![show_catalog](/doc/img/show_catalog.png) | mostrar catálogo | ![filter](/doc/img/filter.png) | filtrar |
@@ -253,5 +255,5 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
 
 
 <br><br>
-#### Guías Odoo - v6_11 &nbsp; 2019-08-05
+#### Guías Odoo - v6_12 &nbsp; 2019-08-05
  
