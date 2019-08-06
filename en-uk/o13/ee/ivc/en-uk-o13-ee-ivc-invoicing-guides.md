@@ -71,7 +71,8 @@
 	
   - [Review Vendors' Bills & Payments](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=247&end=296&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Vendors | o:Bills | _a:Select Unposted Non-Paid Bill_ | b:Validate |  
-	b:RegisterPayment | w:RegisterPayment | _a:Accept Defaults_ | b:Validate | _a:Notice green **Paid** ribbon shown on Bill number (top-left corner)_   
+	b:RegisterPayment | w:RegisterPayment | _a:Accept Defaults_ | b:Validate |  
+	_a:Notice green **Paid** ribbon shown on Bill number (top-left corner)_   
 	
   - [Review Accounting Menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=310&end=396&rel=0)  
     - **Miscellaneous**  
@@ -86,7 +87,7 @@
     _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]
     - **Ledgers**  
       m:Accounting | i:Ledgers | o:GeneralLedger | _a:Open desired account's rows_ &#x2BC8; |  
-    _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]
+      _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]  
       m:Accounting | i:Ledgers | o:PartnerLedger | _a:Open desired account's rows_ &#x2BC8;
     - **Actions**  
       m:Accounting | i:Ledgers | o:Reconciliation | d:Reconciliation | _a:Review number & time spent on reconciliations_ |  
