@@ -7,12 +7,12 @@
 
 - [Install Rent app](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=24&rel=0)  
   ![apps](/doc/img/apps.png) | o:Apps | f:Search... rental | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:Rental | b:Install  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Rentals Settings](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=261&end=0&rel=0)  
   \[ &#x23BD;/&#x23BD;/:Rental Orders || ![apps](/doc/img/apps.png) | o:Rental ] | m:Configuration | o:Setting|  
   _a:Set Default Padding times_ | _a:Define Signaturing_ | _a:Enter Delay Costs_ | b:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Create Rent](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=24&end=150&rel=0)  
   ![apps](/doc/img/apps.png) | o:Apps | f:Search... rental | i:Rental | b:Install |  
@@ -25,26 +25,26 @@
   b:AddAProduct | f:Product &#x2BC6; | _a:Select Product_ | \[ d:NotEnoughInventory | b:Ok ] |  
   w:RentAProduct | f:DateFrom &#x1F4C5; | f:To &#x1F4C5; | f:Quantity | f:Duration | f:UnitPrice | b:Add |  
   \[ d:NotEnoughInventory | b:Ok ] | b:Save | b:Confirm | _a:Now order shows (Reserved)_  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Pickup Rent](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=150&end=180&rel=0)  
   \[ &#x23BD;/&#x23BD;/:Rental Orders || ![apps](/doc/img/apps.png) | o:Rental ] | m:Orders | o:PickUp | _a:Select Order_ | b:PickUp |  
   \[ d:Some products don't have the requested qty available for pickup ] | b:Validate | _a:Now order shows (Picked-Up)_  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Return Rent](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=181&end=211&rel=0)  
   \[ &#x23BD;/&#x23BD;/:Rental Orders || ![apps](/doc/img/apps.png) | o:Rental ] | m:Orders | o:Return | f:Search... | ![filter](/doc/img/filter.png) _(ToDoToday)_ &#x2716; |  
   _a:Select Picked-Up Order_ | b:Return | b:Validate  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Schedule of Rentals](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=233&end=246&rel=0)  
   \[ &#x23BD;/&#x23BD;/:Rental Orders || ![apps](/doc/img/apps.png) | o:Rental ] | m:Schedule  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Rentals Reporting](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=246&end=260&rel=0)  
   \[ &#x23BD;/&#x23BD;/:Rental Orders || ![apps](/doc/img/apps.png) | o:Rental ] | m:Reporting |  
   f:Search... | ![filter](/doc/img/filter.png) _(ConfirmationDate:Last365Days)_ &#x2716;  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 	

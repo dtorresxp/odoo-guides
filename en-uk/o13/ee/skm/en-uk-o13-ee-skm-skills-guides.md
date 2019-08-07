@@ -9,7 +9,7 @@
   i:Skills | \[ b:Add | w:CreateSkills | f:SkillType &#x2BC6; | f:Skill &#x2BC6; | f:SkillLevel &#x2BC6; | b:Save \]&#x207F; |  
   \[ i:Experience || i:Education \] |  
   \[ b:Add | w:CreateResuméLines | f:Name | f:Type \[ Exp || Edu \] | f:DateStart &#x1F4C5; | f:DateEnd &#x1F4C5; | f:Description | b:Save \]&#x207F;  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 

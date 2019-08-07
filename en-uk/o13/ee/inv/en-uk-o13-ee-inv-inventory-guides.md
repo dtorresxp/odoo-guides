@@ -10,7 +10,7 @@ _a:Remove grouping_ | f:Search... | **&#x2630;** _(Date:Day)_ &#x2716; |
 _a:Look for_ &#x1F50D; _in Forecast Columns_ | &#x1F50D; | _Review Forecasted Inventory_ |  
 &#x23BD;/&#x23BD;/:ForecastedInventory | ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | _a:Review Forecasts_ |  
 b:Measures &#x2BC6; | **&#x2713;** o:Count | _a:Review different kind of graphs_ \[ o: ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | o: ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) ]  
-ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 #### [Inventory Valuation by Location is back (O13 - EE - Odoo Mates - n/v - 02:00)](https://youtube.com/embed/aviF4M7XCcs?autoplay=1&start=0&end=86&rel=0)  
 ![apps](/doc/img/apps.png) | o:Inventory | m:Reporting | o:InventoryReport | _a:Select a Product assigned to different warehouses_ f:Product &#x2BC8; |  
@@ -18,7 +18,7 @@ _a:Notice the opened rows with different warehouses for the product_ |
 _a:Open Warehouse row_ f:WarehouseName &#x2BC8; |  
 _a:Notice new rows with:_ f:WarehouseName | f:ReservedQuantiey | f:OnHandQuantity | f:Value | f:Company |  
 _a:Notice sum of Warehouses quantities are the same as Product row_  
-ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 

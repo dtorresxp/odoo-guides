@@ -18,7 +18,7 @@ b:Edit | \[ i:AddANote | _a:Enter Note text_ | _a:Move Note to desired row with_
 b:Save | b:Print &#x2BC6; | o:PurchaseOrder | w:PrintPurchaseOrder | o:OpenWithDocumentViewer | b:Ok |  
 w:DocumentViewer | _a:Verify notes appeared in italic font and desired order_ |  
 _a:Click on Odoo window_  
-ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 

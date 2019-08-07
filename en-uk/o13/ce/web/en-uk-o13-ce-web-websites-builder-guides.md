@@ -8,7 +8,7 @@
 ![apps](/doc/img/apps.png) | o:Apps | f:Search... form-builder | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; |  
 i:Form Builder | b:More Info | b:Install |  
 ![apps](/doc/img/apps.png) | o:Website | b:GotoWebsite | b:Edit | _a:Slide down menu_ | _a:Drag i:FormBuilder to form_ | _a:Build form accordingly_ | b:Save  
-ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 	

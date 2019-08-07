@@ -19,38 +19,38 @@
       \[ f:Login Required | \[ f:Attempts Limit &#x1F5F9; | f:Attempts \] \] |  
     - i:Scoring \[ None || \[ w/Answers || w/o Answers \] | f:PassingScore% | f:Certificate | f:EmailTemplate \] \] |  
   - t:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Review Answers](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=322&end=384&rel=0)  
   ![apps](/doc/img/apps.png) | o:Surveys | _a:Select Survey_ |  
   \[ _a:Select Question_ | w:Open:SectionsAndQuestions | _a:Review t:Answers \]&#x207F; | \[ b:Save || b:Discard \|  
   _a:Review Description & Option tabs_ | \[ b:Save || b:Discard \]  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
   
 - [Test Survey](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=75&end=148&rel=0)  
   ![apps](/doc/img/apps.png) | o:Surveys | _a:Select Survey_ | b:Test |  
   b:StartSurvey |  _a:Answer accordingly_ | b:SubmitSurvey |  
   &#x1F872; d:This is a test survey. Edit Survey | s:Answers  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [View Survey Results](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=148&end=175&rel=0)   
   ![apps](/doc/img/apps.png) | o:Surveys | _a:Select Survey_ | b:ViewResults | f:Filters |  
   _a:Review results per question type_ \[ Data || Graph ]  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Failed Test Run Survey](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=204&end=270&rel=0)  
   ![apps](/doc/img/apps.png) | o:Surveys | _a:Select Survey w/Scoring_ | b:Share | w:Odoo |  
   f:Survey | _a:Open f:PublicLink in New Browser Tab_ |  
   b:StartCertification | _a:Answer full Survey with wrong answers_ | b:SubmitSurvey |  
   _a:Review score, certification result & attempts left_ | l:ReviewYourAnswers | _a:Review right & wrong answers_  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
   
 - [Accurate Test Run Survey](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=433&end=0&rel=0)  
   ![apps](/doc/img/apps.png) | o:Surveys | _a:Select Survey w/Scoring_ | b:Share | w:Odoo |  
   f:Survey | _a:Open f:PublicLink in New Browser Tab_ |  
   b:StartCertification | _a:Answer full Survey with right answers_ | b:SubmitSurvey |  
   _a:Review score, certification result & attempts left_ | l:ReviewYourAnswers | _a:Review right & wrong answers_  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 

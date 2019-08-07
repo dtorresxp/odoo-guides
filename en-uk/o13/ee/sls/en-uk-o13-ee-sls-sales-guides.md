@@ -19,12 +19,12 @@
   m:Orders | o:Quotations | b:Create | f:Customer &#x2BC6; | t:OrderLines | i:AddAProduct &#x2BC6; |  
   _a:Notice now there are configurable products in list_ | _a:Select configurable product |  
   w:ConfigureAProduct | _a:Configure product_ | b:Add | b:Confirm | b:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 #### [Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
   ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Products | b:Edit | o:ConfigureAProduct | w:ConfigureAProduct | f:Product &#x2BC6; | _a:Select product_ |  
   \[ _a:Select optional features_ | b:Add | w:Configure \]&#x207F; | b:Confirm | d:LowStockWarning | b:Ok | w:Quotations | b:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 #### [New Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:51)](https://youtube.com/embed/TgAbV7xG2wo?autoplay=1&start=18&end=0&rel=0)
   ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Products | f:Search... desk | _a:Select item with variants |  
@@ -36,7 +36,7 @@
   _a:Review your product configuration on Order Line_ |  
   _a:Configurator also shows optional products_ |  
   b:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 
@@ -49,7 +49,7 @@
   _a:Install modules_ \[ Coupons & Promotions || Sale Coupon || Sale Coupon Delivery || Free Delivery with Coupon \] |  
   ![apps](/doc/img/apps.png) | o:Sales | m:Configuration | o:Settings | i:Pricing | f:Coupons&Promotions &#x1F5F9; |  
   \[ &#x1F872; Promotion Programs || Coupon Programs \]  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Discount Coupon](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=31&end=127&rel=0)  
   ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Coupon Programs | \[ b:Create || b:Edit \] |  
@@ -59,7 +59,7 @@
   ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | _a:Enter quotation data_ | b:Save | b:Confirm |  
   b:Apply Coupon | w:EnterCouponCode | f:Coupon | _a:Paste valid coupon number_ | b:Apply Coupon  |  
   w:Quotation Number | _a:Verify discount appearing as a new negative detail row_  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Free Product Coupon](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=127&end=228&rel=0)  
   _a:Create Promotion Program as above with Rewards: Free Product_ | _a:Copy valid coupon number_|  
@@ -67,7 +67,7 @@
   _a:Open quotation_ | _a:Add the free product_ | b:Save |  
   b:Apply Coupon | w:Enter Coupon Code | f:Coupon | _a:Paste valid coupon number_ | b:Apply Coupon  |  
   _a:Verify discount appearing as a new negative detail row_  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Buy 3 & get one free Promotion](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=228&end=320&rel=0)  
   ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Promotion Programs | \[ b:Create || b:Edit \] |  
@@ -76,13 +76,13 @@
   \[ _a:Use ![add](/doc/img/button_add.png) to add more conditions_ | _a:Add rule as above_ ]&#x207F; \] | _a:Set Validity & Rewards_ | b:Save |  
   ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | _a:Enter quotation_ | b:Save |  
   b:Update Promotions | _a:Verify order_ | b:Confirm   
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [10% off in orders Promotion](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=320&end=0&rel=0)  
   ![apps](/doc/img/apps.png) | o:Sales | m:Products | o:Promotion Programs | \[ b:Create || b:Edit \] | _a:Create program as above with f:BasedOnProducts_ |  
   f:FieldName &#x2BC6; | f:Operator &#x2BC6; | f:RuleText | _a:Verify it's something like i:Can be Sold is set (true)_ |  
   ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | _a:Enter Quotation_ | b:Save | b:Update Promotions | _a:Verify order_ | b:Confirm   
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 

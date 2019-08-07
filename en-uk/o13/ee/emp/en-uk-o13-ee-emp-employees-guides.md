@@ -7,7 +7,7 @@
 ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | b:Create | _a:Input User data_ | b:Save |  
 d:Don't forget to create the linked employee. Click here to create it |  
 w:CreateEmployee | _a:Input Employee data_ | b:Save  
-ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 

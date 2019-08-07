@@ -7,21 +7,21 @@
 
 - [Install Presence module](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=3&end=16&rel=0)  
   ![apps](/doc/img/apps.png) | o:Apps | f:Search... field service | i:FieldService | b:Install  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [View Tasks](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=17&end=31&rel=0)  
   ![apps](/doc/img/apps.png) | o:FieldService | f:Search... | ![filter](/doc/img/filter.png) _(MyTasks)_ &#x2716; | ![filter](/doc/img/filter.png) _(ToDo)_ &#x2716; | ![filter](/doc/img/filter.png) _(Future)_ &#x2716; | m:Planning | \[ o:ByUser || o:ByProject ]  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Create Task](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=32&end=78&rel=0)  
   ![apps](/doc/img/apps.png) | o:FieldService | b:Create | f:Title | f:Customer &#x2BC6; | _a:Type eMail with Task description_ |  
   f:WorksheetTemplate | \[ &#x2BC6; _a:Select Template_ || ![show_catalog](/doc/img/show_catalog.png) | w:Open:WorksheetTemplate | f:Name | b:Save ] |  
   f:Project | f:Date &#x1F4C5; | f:AssignedTo | b:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
   
 - [Start Service](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=79&end=95&rel=0)  
   ![apps](/doc/img/apps.png) | o:FieldService | m:MyTasks | _a:Select Task_ | b:Start | _a:See started Timer in upper-right corner_  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
   
 - [Creating Worksheet](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=95&end=242&rel=0)  
   _a:Start Task_ | s:Worksheet | \[ b:Create | f:Description | f:Duration | b:Save ]&#x207F; |  
@@ -32,14 +32,14 @@
   t:LogNote | _a:Enter f:Log text_ | b:Log |  
   t:SendMessage | _a:Enter f:MessageText for followers of i:StartedTask_ | b:Send |  
   b:Stop | w:Log | f:Time | f:Description | b:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
   
 - [Creating Quotations & Invoices](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=247&end=300&rel=0)  
   _a:Select Task_ | b:NewQuotation | \[ o:AddAProduct | f:Product &#x2BC6; | f:Quantity ]&#x207F; | b:Save |  
   _a:See s:Quotations showing number of quotations_ | b:Validate |  
   b:CreateInvoice | w:Invoicing | f:CreateInvoice \[ &#x25C9; Regular || Percentage || Amount ] |  
   b:CreateAndViewInvoice | w:InvoicePreview | b:Validate  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 

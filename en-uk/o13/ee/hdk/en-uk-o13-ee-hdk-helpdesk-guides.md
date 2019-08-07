@@ -14,24 +14,24 @@
     - i:SelfService | f:HelpCenter &#x2B58; | f:eLearning &#x2B58;  
     - i:AfterSales | f:Refunds &#x25C9; | f:Returns &#x25C9; | f:Coupons &#x25C9; | f:Repairs &#x25C9;  
   - b:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Configuration - Ticket Types](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=105&end=118&rel=0)
   &#x25A6; | o:Helpdesk | m:Configuration |  
   o:TicketType | b:Create | f:Name | b:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Configuration - Stages](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=118&end=125&rel=0)
   &#x25A6; | o:Helpdesk | m:Configuration |  
   o:TicketType | b:Create | f:Name | f:ClosingKanbanStage \[ &#x25C9; \|\| &#x2B58; ] | b:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Overview](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=0&end=35&rel=0)  
   &#x25A6; | o:Helpdesk | m:Tickets | i:Ticket | _a:Review pending Tickets_ |  
   &#x23BD;/&#x23BD;/:HelpdeskOverview | i:AvgOpenHours | _a:Review Ticket analysis graph_ |  
   &#x23BD;/&#x23BD;/:HelpdeskOverview | _a:Review status_ i:MyPerformance |  
   i:CustomerCare | **&#x2807;** | _a:Select Ticket color_ |  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Create Ticket](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=125&end=195&rel=0)  
   &#x25A6; | o:Helpdesk |  
@@ -44,12 +44,12 @@
   t:Description | f:Description |  
   _a:Status Buttons: \[ b:AssignToMe | b:Refund | b:Coupon | b:Return | b:Repair ] |  
   b:Save  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Reports](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=208&end=304&rel=0)  
   &#x25A6; | o:Helpdesk | m:Reporting | o:Tickets | _a:Review Different Graphs_ \[ v:Bars \|\| v:Lines \|\| v:Pie \|\| v:Stacked \|\| ] |  
   v:Pivot \[ **&#x21C4;** |\|\ **&#x2725;** |\|\ **&#x2B73;** ] |  
-  ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 

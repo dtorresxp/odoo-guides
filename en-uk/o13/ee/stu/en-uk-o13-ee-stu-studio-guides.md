@@ -11,7 +11,7 @@ i:Monetary | _a:Drag to List | _a:Select **f:NewMonetary** title_ |
 t:Properties | f:Label | _a:Enter **Test Field** as name_ | _a:Notice there is nothing at the bottom of the field column in list_ |  
 f:Aggregate &#x2BC6; | o:Sum | _a:Notice the new sum at the bottom of the column_
 b:Close  
-ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 	
