@@ -6,7 +6,10 @@
 ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
 ![apps](/doc/img/apps.png) | o:Invoicing | m:Customers | o:Invoice | _a:Select Invoice |  
 i:Customer | d:Customer/Vendor | _a: f:Object shows account.move_ |  
-&#x1F41E; | o:EditView:Form | _a f:Model shows account.move_ | b:Close  
+&#x1F41E; | o:EditView:Form | _a f:Model shows account.move_ | b:Close
+```diff
+#: v1_01  2019-08-07  $og
+```
 
 #### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
 [***Sync***]: # (o13-ee-inv-invoicing-guides)  
@@ -16,6 +19,9 @@ i:Customer | d:Customer/Vendor | _a: f:Object shows account.move_ |
     ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
     ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ |  
     _a:Scroll Down_ | i:TechnicalSettings | f:ShowFullAccountingFeatures &#x1F5F9; | b:Save  
+    ```diff
+    #: v1_01  2019-08-07  $og
+    ```
 
   - [Company Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=55&end=79&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:CompanyData | b:Let'sStart |  
@@ -25,27 +31,42 @@ i:Customer | d:Customer/Vendor | _a: f:Object shows account.move_ |
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     f:CompanyRegistry | f:Currency | f:ParentCompany | f:CompanyFavicon |  
     b:Apply | _a:Notice Company Data now shows:_ **&#x2713;** All done!  
+    ```diff
+    #: v1_01  2019-08-07  $og
+    ```
 
   - [Bank Account](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=80&end=92&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:BankAccount | b:AddABank |  
     w:CreateBankAccount | f:AccountNumber | f:Bank &#x2BC6; | f:Code | f:Journal | b:Create |  
     _a:Notice Bank Account now shows:_ **&#x2713;** Step Completed!  
+    ```diff
+    #: v1_01  2019-08-07  $og
+    ```
 
   - [Chart of Accounts](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=93&end=100&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:ChartOfAccounts | b:Review |  
     &#x23BD;/&#x23BD;/:AccountingOverview |  
     _a:Notice Bank Account now shows:_ **&#x2713;** Step Completed!  
+    ```diff
+    #: v1_01  2019-08-07  $og
+    ```
 
   - [Fiscal Year](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=100&end=108&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:Fiscal Year | b:Configure |  
     w:FiscalYear | f:OpeningDate &#x1F4C5; | f:FiscalYearEnd | f:Day | f:Month | b:Apply |  
     _a:Notice Fiscal Year now shows:_ **&#x2713;** Step Completed!  
+    ```diff
+    #: v1_01  2019-08-07  $og
+    ```
   
   - i:NiceWork!YourConfigurationIsDone | b:Close
 
   - &#x26A0; _a: This configuration is actually done in the [Invoicing](/en-uk/o13/ee/inv/en-uk-o13-ee-inv-invoicing-guides.md#accounting-overview--o13---ee---odoo-mates---xx-xx---0858) app_  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They were included here just because of the app name  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer there for further reference  
+    ```diff
+    #: v1_01  2019-08-07  $og
+    ```
 
 
 <br>
