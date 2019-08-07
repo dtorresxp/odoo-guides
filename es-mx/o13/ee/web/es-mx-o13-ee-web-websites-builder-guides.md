@@ -8,7 +8,7 @@
    [ i:Tareas || i:Cotizaciones || i:ÓrdenesDeVenta || i:Facturas&Cobros || Proyectos || Tareas || Horarios ] |  
    _a:Seleccionar Item_ | i:Historial | f:Mensaje | b:Adjuntar | _a:Seleccionar archivo_ | b:Enviar  
 
-#### [Cusros y Certificaciones en-línea &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:37)](https://youtube.com/embed/Ehoe2QK4Mgg?autoplay=1&start=0&end=0&rel=0)  
+#### [Cursos y Certificaciones en-línea &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:37)](https://youtube.com/embed/Ehoe2QK4Mgg?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:SitioWeb | m:Cursos | \[ i:TodosLosCursos &nbsp;||&nbsp; i:Certificaciones ]  
 
 #### [Horas Trabajadas en el Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:16)](https://youtube.com/embed/c0z7STK7UyQ?autoplay=1&start=0&end=0&rel=0)  
@@ -22,5 +22,5 @@ _a:Arrastrar i:FormBuilder to form_ | _a:Construya la forma que necesite_ | b:Gu
 
 <br>
 
-###### Guías Odoo - v3_02 &nbsp; 2019-08-05  
+###### Guías Odoo - v3_03 &nbsp; 2019-08-07  
 **[_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)**  
