@@ -24,7 +24,7 @@
 - [Review Answers](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=322&end=384&rel=0)  
   ![apps](/doc/img/apps.png) | o:Surveys | _a:Select Survey_ |  
   \[ _a:Select Question_ | w:Open:SectionsAndQuestions | _a:Review t:Answers \]&#x207F; | \[ b:Save || b:Discard \|  
-  _a:Review Description & Option tabs_ | \[ b:Save || b:Discard \]
+  _a:Review Description & Option tabs_ | \[ b:Save || b:Discard \]  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
   
 - [Test Survey](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=75&end=148&rel=0)  

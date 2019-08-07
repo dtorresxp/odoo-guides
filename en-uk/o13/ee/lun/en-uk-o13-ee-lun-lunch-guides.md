@@ -19,13 +19,13 @@
   - m:Configuration | o:ProductCategories | _a:Review Lunch Product Categories_ |  
   - m:Configuration | o:Alerts | _a:Review Lunch Alerts_ |  
     \[ f:Active ![active](/doc/img/active.png) | f:Name | f:IsDisplayedToday &#x1F5F9; |  
-    b:Create | w:LunchSpecial | f:Location | f:LocationShowUntil | f:Message | F:DayOfWeek \[ &#x1F5F9;	|| &#x2610; ] | b:Save
+    b:Create | w:LunchSpecial | f:Location | f:LocationShowUntil | f:Message | F:DayOfWeek \[ &#x1F5F9;	|| &#x2610; ] | b:Save  
     ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 - [Order Lunch](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=201&end=314&rel=0)  
   ![apps](/doc/img/apps.png) | o:Lunch | m:MyLunch | o:NewOrder |  
   \[ _a:Select Lunch_ | w:Lunch | f:Supplements | f:SpecialInstructions | b:AddToCart ]&#x207F; |  
-  i:YourOrder | \[ ![trashcan](/doc/img/trashcan.png) cancel || ![sub](/doc/img/button_sub.png) remove || ![add](/doc/img/button_add.png) add || b:OrderNow ] | _a:Now show (Ordered)_   
+  i:YourOrder | \[ ![trashcan](/doc/img/trashcan.png) cancel || ![sub](/doc/img/button_sub.png) remove || ![add](/doc/img/button_add.png) add || b:OrderNow ] | _a:Now show (Ordered)_  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
   
 - [Receive Order](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=315&end=327&rel=0)  
@@ -35,11 +35,11 @@
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
   
 - [Review My Lunch account](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=315&end=334&rel=0)  
-  ![apps](/doc/img/apps.png) | o:Lunch | m:MyLunch | o:MyLunchAccount
+  ![apps](/doc/img/apps.png) | o:Lunch | m:MyLunch | o:MyLunchAccount  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 - [Lunch Manager](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=338&end=362&rel=0)  
-  ![apps](/doc/img/apps.png) | o:Lunch | m:Manager | \[ o:Today'sOrders || o:OrdersByVendor || o:ControlAccounts || o:EmployeePayments ]
+  ![apps](/doc/img/apps.png) | o:Lunch | m:Manager | \[ o:Today'sOrders || o:OrdersByVendor || o:ControlAccounts || o:EmployeePayments ]  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
   
 <br>

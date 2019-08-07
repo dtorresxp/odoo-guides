@@ -11,7 +11,7 @@
 
 - [Rentals Settings](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=261&end=0&rel=0)  
   \[ &#x23BD;/&#x23BD;/:Rental Orders || ![apps](/doc/img/apps.png) | o:Rental ] | m:Configuration | o:Setting|  
-  _a:Set Default Padding times_ | _a:Define Signaturing_ | _a:Enter Delay Costs_ | b:Save
+  _a:Set Default Padding times_ | _a:Define Signaturing_ | _a:Enter Delay Costs_ | b:Save  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 - [Create Rent](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=24&end=150&rel=0)  

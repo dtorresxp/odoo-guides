@@ -48,7 +48,7 @@
   ![apps](/doc/img/apps.png) | o:Apps | f:Search... coupon | ![filter](/doc/img/filter.png) _(apps) &#x2716; |  
   _a:Install modules_ \[ Coupons & Promotions || Sale Coupon || Sale Coupon Delivery || Free Delivery with Coupon \] |  
   ![apps](/doc/img/apps.png) | o:Sales | m:Configuration | o:Settings | i:Pricing | f:Coupons&Promotions &#x1F5F9; |  
-  \[ &#x1F872; Promotion Programs || Coupon Programs \]
+  \[ &#x1F872; Promotion Programs || Coupon Programs \]  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 - [Discount Coupon](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=31&end=127&rel=0)  
@@ -58,7 +58,7 @@
   w:CouponName | s:Coupons | _a:Select coupon_ | _a:Copy valid coupon number_ |  
   ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | _a:Enter quotation data_ | b:Save | b:Confirm |  
   b:Apply Coupon | w:EnterCouponCode | f:Coupon | _a:Paste valid coupon number_ | b:Apply Coupon  |  
-  w:Quotation Number | _a:Verify discount appearing as a new negative detail row_
+  w:Quotation Number | _a:Verify discount appearing as a new negative detail row_  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 - [Free Product Coupon](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=127&end=228&rel=0)  

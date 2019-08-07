@@ -48,7 +48,7 @@
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 - [Reporting Attendance](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=64&end=76&rel=0)  
-  \[ ![apps](/doc/img/apps.png) | o:Attendance | m:Reporting | o:EmployeePresence
+  \[ ![apps](/doc/img/apps.png) | o:Attendance | m:Reporting | o:EmployeePresence  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 <br>

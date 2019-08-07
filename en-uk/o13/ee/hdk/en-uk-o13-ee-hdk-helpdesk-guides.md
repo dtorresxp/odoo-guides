@@ -18,12 +18,12 @@
 
 - [Configuration - Ticket Types](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=105&end=118&rel=0)
   &#x25A6; | o:Helpdesk | m:Configuration |  
-  o:TicketType | b:Create | f:Name | b:Save
+  o:TicketType | b:Create | f:Name | b:Save  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 - [Configuration - Stages](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=118&end=125&rel=0)
   &#x25A6; | o:Helpdesk | m:Configuration |  
-  o:TicketType | b:Create | f:Name | f:ClosingKanbanStage \[ &#x25C9;	\|\| &#x2B58; ] | b:Save
+  o:TicketType | b:Create | f:Name | f:ClosingKanbanStage \[ &#x25C9; \|\| &#x2B58; ] | b:Save  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 - [Overview](https://youtube.com/embed/tZNaNtva3js?autoplay=1&start=0&end=35&rel=0)  

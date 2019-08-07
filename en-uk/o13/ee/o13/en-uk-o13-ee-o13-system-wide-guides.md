@@ -39,7 +39,7 @@
   - _a:Survey Improvements_
   - _a:Date Filter Improvements_
   - _a:Inventory Forecast_
-  - _a:No **account.invoice** model_
+  - _a:No **account.invoice** model_  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 #### [Better Error Handling &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:09)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
@@ -79,7 +79,7 @@ f:Email | _a:Define a right one_ | b:Save
   ![internet_small](/doc/img/internet_small.png) https://runbot.odoo.com/runbot | _a:Review Branches Status_ |  
   i:master ![quick_connect](/doc/img/quick_connect.png) | _a:Logout from any other Odoo instance_ m:MySelf | o:LogOut |  
   \[ f:EMail \| _a:Type admin ] &nbsp;|&nbsp; \[ f:Password \| _a:Type admin ] | b:LogIn | _a:Avoid saving test password in your browser_ |  
-  ![apps](/doc/img/apps.png) | o:Settings | _a:Verify you're in Odoo 13.0alpha1 or higher_ | m:MySelf | b:LogOut
+  ![apps](/doc/img/apps.png) | o:Settings | _a:Verify you're in Odoo 13.0alpha1 or higher_ | m:MySelf | b:LogOut  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 - [Connect Enterprise](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=151&end=271&rel=0)  
@@ -111,11 +111,11 @@ _a:Assign same value to several records at once_
 ![apps](/doc/img/apps.png) | o:Contacts | v:![view_list](/doc/img/view_list.png) | _a:Select 3 test Contacts without Salesperson_ |  
 _a:Select f:Salesperson &#x2BC6; in one of them_ | d:Confirmation  
 _a:Do you want to set the value on the 3 valid selected records?_ | \[ b:Ok \|\| b:Cancel ]  
-_a:Review changes_ | b:GroupBy &#x2BC6; | **&#x2713;** o:Salesperson | _a:Check your contacts now've the right f:Salesperson_   
+_a:Review changes_ | b:GroupBy &#x2BC6; | **&#x2713;** o:Salesperson | _a:Check your contacts now've the right f:Salesperson_  
 ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 #### [New Multi Company Widget &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:17)](https://youtube.com/embed/5HU8dJfTmpc?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | _a:Select o:Module_ | m:Company &#x2BC6; | \[ _a:Mark o:Company_ \]&#x207F;
+![apps](/doc/img/apps.png) | _a:Select o:Module_ | m:Company &#x2BC6; | \[ _a:Mark o:Company_ \]&#x207F;  
 ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 #### [New Search Panel in Kanban View &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:21)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)  
@@ -139,7 +139,8 @@ b:Save
 
 #### [SuperUser Mode &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:30)](https://youtube.com/embed/pBN3IC9ipWw?autoplay=1&start=21&end=110&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | m:OpenDeveloperTools &#x1F41E; | o:BecomeSuperuser |   
-_a:Notice navbar SuperUser background_ | _a:After completing your SuperUsert tasks, don't forget to LogOut, for security reasons_
+_a:Notice navbar SuperUser background_ |  
+_a:After completing your SuperUsert tasks, don't forget to LogOut, for security reasons_  
 ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 <br>

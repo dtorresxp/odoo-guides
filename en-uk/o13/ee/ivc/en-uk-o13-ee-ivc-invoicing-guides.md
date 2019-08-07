@@ -83,13 +83,13 @@
   - [Review Vendors' Bills & Payments](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=247&end=296&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Vendors | o:Bills | _a:Select Unposted Non-Paid Bill_ | b:Validate |  
 	b:RegisterPayment | w:RegisterPayment | _a:Accept Defaults_ | b:Validate |  
-	_a:Notice green **Paid** ribbon shown on Bill number (top-left corner)_   
+	_a:Notice green **Paid** ribbon shown on Bill number (top-left corner)_  
     ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
-	
+
   - [Review Accounting Menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=310&end=396&rel=0)  
     - **Miscellaneous**  
       ![apps](/doc/img/apps.png) | o:Invoicing | m:Accounting | i:Miscellaneous | o:JournalEntries |  
-	  f:Search... | ![filter](/doc/img/filter.png) _(MiscellaneousOperations)_ &#x2716; |  
+      f:Search... | ![filter](/doc/img/filter.png) _(MiscellaneousOperations)_ &#x2716; |  
       _a:Select Posted Entry_ | m:Accounting | i:Miscellaneous |
     - **Journals**  
       m:Accounting | i:Journals | o:JournalItems | _a:Review Item data_ |  
@@ -103,27 +103,27 @@
       m:Accounting | i:Ledgers | o:PartnerLedger | _a:Open desired account's rows_ &#x2BC8;
     - **Actions**  
       m:Accounting | i:Ledgers | o:Reconciliation | d:Reconciliation |  
-	  _a:Review number & time spent on reconciliations_ |  
+      _a:Review number & time spent on reconciliations_ |  
       m:Accounting | i:Ledgers | o:TaxAdjustment | d:TaxAdjustments | 
-	  _a:Review number & time spent on tax adjustments_ |  
+      _a:Review number & time spent on tax adjustments_ |  
       ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
-	
+
   - [Review Reporting menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=396&end=419&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Reporting | i:Management |  
-	- **Invoices**  
-	  o:Invoices | _a:Review Invoicing Stats_ | _a:Review different chart types_ |
-	  \[ ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) \|\|
-	  \[ ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) \|\| ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) ]  
-	- **Product Margins**  
-	  o:ProductMargins | w:ProductMargins | f:From &#x1F4C5; | f:To &#x1F4C5; |  
-	  f:InvoiceState &#x2BC6; | b:OpenMargins | _a:Review Report_ |  
+    - **Invoices**  
+      o:Invoices | _a:Review Invoicing Stats_ | _a:Review different chart types_ |
+      \[ ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) \|\|
+      \[ ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) \|\| ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) ]  
+    - **Product Margins**  
+      o:ProductMargins | w:ProductMargins | f:From &#x1F4C5; | f:To &#x1F4C5; |  
+      f:InvoiceState &#x2BC6; | b:OpenMargins | _a:Review Report_ |  
       ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
   - [Review **+** (more) Menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=446&end=513&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m: **+** |  
-	i:Accounting | \[ o:ChartOfAccounts | o:Taxes | o:FiscalPositions | o:AddABankAccount | o:Journals | o:JournalGroups | o:Incoterms | o:ReconciliationModels ]
-	i:Management | \[ o:PaymentTerms | o:TaxReport ]
-	i:Payments | \[ o:PaymentAcquirers | o:SavedPaymentData | o:PaymentIcons | o:PaymentTransactions ]
+    i:Accounting | \[ o:ChartOfAccounts | o:Taxes | o:FiscalPositions | o:AddABankAccount | o:Journals | o:JournalGroups | o:Incoterms | o:ReconciliationModels ]
+    i:Management | \[ o:PaymentTerms | o:TaxReport ]
+    i:Payments | \[ o:PaymentAcquirers | o:SavedPaymentData | o:PaymentIcons | o:PaymentTransactions ]  
     ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 #### [New Widget Ribbon &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/Adg5rrfXl0Y?autoplay=1&start=0&end=71&rel=0)  
@@ -133,7 +133,7 @@ _a:Test:_
   - b:RegisterPayment | w:RegisterPayment | _a:Verify payment fields_ | b:Validate |  
   - _a:Notice the green PAID ribbon on preview_  
     ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
-  
+
 <br>
 
 ###### Odoo Guides - v3_01 &nbsp; 2019-08-07  

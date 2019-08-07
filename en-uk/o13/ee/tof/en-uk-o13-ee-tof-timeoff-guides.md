@@ -21,7 +21,7 @@
 - [New Time Off Request](https://youtube.com/embed/g08_hJuTuNA?autoplay=1&start=101&end=118&rel=0)  
   ![apps](/doc/img/apps.png) | o:TimeOff | m:MyTimeOff | o:Dashboard | b:NewTimeOffRequest | w:Odoo |  
   f:TimeOffType | f:From | f:To | f:Duration | f:Description | f:OutOfOfficeMessage | f:Mode | f:Employee |  
-  f:Department | f:ReportedInLastPayslips | f:CommentByManager | b:Save | b:Approve | _a:Review calendar_
+  f:Department | f:ReportedInLastPayslips | f:CommentByManager | b:Save | b:Approve | _a:Review calendar_  
   ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
   
 - [Show Time Off Requests](https://youtube.com/embed/g08_hJuTuNA?autoplay=1&start=26&end=35&rel=0)  
