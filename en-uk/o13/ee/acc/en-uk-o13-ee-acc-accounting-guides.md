@@ -5,11 +5,9 @@
 #### [No account.invoice Model &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:56)](https://youtube.com/embed/Ap7IPh23rsQ?autoplay=1&start=6&end=60&rel=0)
 ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
 ![apps](/doc/img/apps.png) | o:Invoicing | m:Customers | o:Invoice | _a:Select Invoice |  
-i:Customer | d:Customer/Vendor | _a: f:Object shows account.move_ |  
-&#x1F41E; | o:EditView:Form | _a f:Model shows account.move_ | b:Close
-```diff
-#: v1_01  2019-08-07  $og
-```
+i:Customer | d:Customer/Vendor | _a:Notice f:Object shows account.move_ |  
+&#x1F41E; | o:EditView:Form | _a:Now f:Model shows account.move_ | b:Close  
+_(v1_01  2019-08-07  $og)_  
 
 #### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
 [***Sync***]: # (o13-ee-inv-invoicing-guides)  
