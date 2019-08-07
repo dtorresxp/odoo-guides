@@ -48,11 +48,11 @@ _(v1_01 &nbsp; 2019-08-04)_
     _(v1_01 &nbsp; 2019-08-04)_  
   
   - i:NiceWork!YourConfigurationIsDone | b:Close
+    _(v1_01 &nbsp; 2019-08-07)_  
 
   - &#x26A0; _a: This configuration is actually done in the [Invoicing](/en-uk/o13/ee/inv/en-uk-o13-ee-inv-invoicing-guides.md#accounting-overview--o13---ee---odoo-mates---xx-xx---0858) app_  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They were included here just because of the app name  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer there for further reference  
-    _(v1_01 &nbsp; 2019-08-07)_  
 
 
 <br>
