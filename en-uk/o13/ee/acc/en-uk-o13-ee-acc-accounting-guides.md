@@ -8,7 +8,7 @@
 ![apps](/doc/img/apps.png) | o:Invoicing | m:Customers | o:Invoice | _a:Select Invoice |  
 i:Customer | d:Customer/Vendor | _a:Notice f:Object shows account.move_ |  
 &#x1F41E; | o:EditView:Form | _a:Now f:Model shows account.move_ | b:Close  
-ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹´⁰⁸´⁰⁴
 
 #### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
 [***Sync***]: # (o13-ee-inv-invoicing-guides)  
@@ -18,7 +18,7 @@ i:Customer | d:Customer/Vendor | _a:Notice f:Object shows account.move_ |
     ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
     ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ |  
     _a:Scroll Down_ | i:TechnicalSettings | f:ShowFullAccountingFeatures &#x1F5F9; | b:Save  
-    ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+    ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹´⁰⁸´⁰⁴
 
   - [Company Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=55&end=79&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:CompanyData | b:Let'sStart |  
@@ -28,25 +28,25 @@ i:Customer | d:Customer/Vendor | _a:Notice f:Object shows account.move_ |
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     f:CompanyRegistry | f:Currency | f:ParentCompany | f:CompanyFavicon |  
     b:Apply | _a:Notice Company Data now shows:_ **&#x2713;** All done!  
-    ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+    ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹´⁰⁸´⁰⁴
 
   - [Bank Account](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=80&end=92&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:BankAccount | b:AddABank |  
     w:CreateBankAccount | f:AccountNumber | f:Bank &#x2BC6; | f:Code | f:Journal | b:Create |  
     _a:Notice Bank Account now shows:_ **&#x2713;** Step Completed!  
-    ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+    ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹´⁰⁸´⁰⁴
 
   - [Chart of Accounts](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=93&end=100&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:ChartOfAccounts | b:Review |  
     &#x23BD;/&#x23BD;/:AccountingOverview |  
     _a:Notice Bank Account now shows:_ **&#x2713;** Step Completed!  
-    ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+    ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹´⁰⁸´⁰⁴
 
   - [Fiscal Year](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=100&end=108&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:Fiscal Year | b:Configure |  
     w:FiscalYear | f:OpeningDate &#x1F4C5; | f:FiscalYearEnd | f:Day | f:Month | b:Apply |  
     _a:Notice Fiscal Year now shows:_ **&#x2713;** Step Completed!  
-    ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
+    ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹´⁰⁸´⁰⁴
   
   - i:NiceWork!YourConfigurationIsDone | b:Close  
 
