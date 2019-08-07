@@ -47,7 +47,7 @@ _(v1_01 &nbsp; 2019-08-04)_
     _a:Notice Fiscal Year now shows:_ **&#x2713;** Step Completed!  
     _(v1_01 &nbsp; 2019-08-04)_  
   
-  - i:NiceWork!YourConfigurationIsDone | b:Close
+  - i:NiceWork!YourConfigurationIsDone | b:Close  
     _(v1_01 &nbsp; 2019-08-07)_  
 
   - &#x26A0; _a: This configuration is actually done in the [Invoicing](/en-uk/o13/ee/inv/en-uk-o13-ee-inv-invoicing-guides.md#accounting-overview--o13---ee---odoo-mates---xx-xx---0858) app_  
