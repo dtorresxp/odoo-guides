@@ -1,6 +1,7 @@
 # O13 - EE - O13 - System Wide &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-system-wide-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-system-wide-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![o13](/doc/img/odoo13.png)
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
 
 #### [New Features &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:57)](https://youtube.com/embed/NLbYN3R07to?autoplay=1&start=0&end=500&rel=0)  
   - _a:FormBuilder in CE_
@@ -100,9 +101,11 @@ _a:Assign same value to several records at once_
 _a:Select f:Salesperson &#x2BC6; in one of them_ | d:Confirmation  
 _a:Do you want to set the value on the 3 valid selected records?_ | \[ b:Ok \|\| b:Cancel ]  
 _a:Review changes_ | b:GroupBy &#x2BC6; | **&#x2713;** o:Salesperson | _a:Check your contacts now've the right f:Salesperson_   
+ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 #### [New Multi Company Widget &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:17)](https://youtube.com/embed/5HU8dJfTmpc?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Select o:Module_ | m:Company &#x2BC6; | \[ _a:Mark o:Company_ \]&#x207F;
+ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 #### [New Search Panel in Kanban View &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:21)](https://youtube.com/embed/38CqLPOlalo?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings | i:Activate the developer mode | ![apps](/doc/img/apps.png) | _a:Open app with kanban_ | &#x1F41E; | o:EditView:Kanban |  
@@ -111,20 +114,24 @@ t:Architecture | _a:Scroll to bottom, before_ \</kanban\> | _a:Add_
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\[ <field name="xxx" \[ groups="xxx.xxx" || select="multi" || \<nil\> \] icon="fa-xxx"/> \]&#x207F;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\</searchpanel\>**  
 b:Save  
+ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 #### [Open Record Rules and Access Rights Easily &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:12)](https://youtube.com/embed/FLKaAKfhq_Y?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings| i:Activate the developer mode | ![apps](/doc/img/apps.png) | Settings | m:Users&Companies | o:Users | _a:Select User_ |  
 \[ s:groups || s:access rights || s:record rules \]  
+ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 #### [Optional Field Visibility &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:52)](https://youtube.com/embed/_lYDpTZ3Bfo?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Open module with v:list_ | _a:Open v:list_ | o:Products | &nbsp;**&#x2807;** |  
 \[ _a:Show optional field with_ &#x1F5F9; ]&#x207F; | _a:Click outside fields window_  
+ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 #### [SuperUser Mode &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:30)](https://youtube.com/embed/pBN3IC9ipWw?autoplay=1&start=21&end=110&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | m:OpenDeveloperTools &#x1F41E; | o:BecomeSuperuser |   
 _a:Notice navbar SuperUser background_ | _a:After completing your SuperUsert tasks, don't forget to LogOut, for security reasons_
+ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 <br>
 
-###### Odoo Guides - v4_07 &nbsp; 2019-08-06  
+###### Odoo Guides - v5_01 &nbsp; 2019-08-07  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

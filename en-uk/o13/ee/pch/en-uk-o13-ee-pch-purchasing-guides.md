@@ -1,6 +1,7 @@
 # O13 - EE - PCH - Purchasing &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/pch/en-uk-o13-ee-pch-purchasing-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/pch/es-mx-o13-ee-pch-purchasing-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![pch](/doc/img/purchase.png)
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
 
 <br>
 
@@ -17,8 +18,9 @@ b:Edit | \[ i:AddANote | _a:Enter Note text_ | _a:Move Note to desired row with_
 b:Save | b:Print &#x2BC6; | o:PurchaseOrder | w:PrintPurchaseOrder | o:OpenWithDocumentViewer | b:Ok |  
 w:DocumentViewer | _a:Verify notes appeared in italic font and desired order_ |  
 _a:Click on Odoo window_  
+ⱽ¹˙⁰¹ &nbsp;²⁰¹⁹˙⁰⁸˙⁰⁴
 
 <br>
 
-###### Odoo Guides - V2_01 &nbsp; 2019-08-01  
+###### Odoo Guides - V3_01 &nbsp; 2019-08-07  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
