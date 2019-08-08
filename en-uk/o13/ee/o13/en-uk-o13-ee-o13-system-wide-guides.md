@@ -63,21 +63,21 @@
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
 
 #### [13 News (O13 - EE - eGlobal - es-es - 07:16)](https://youtube.com/embed/4IckENANIvQ?autoplay=1&start=0&end=0&rel=0)  
-- _a:This version has two main goals: Enhance localizations and Increase sales_  
-- _a:These are Odoo's main changes for the new version:_  
-  - _a:Educative app moved to CE_  
-  - _a:Field Service Management app_  
-  - _a:Payroll app_  
-  - _a:In-App Purchase Service_  
-  - _a:OCR module & Document management_  
-  - _a:Items traceability (fleets, products, stock, etc...)_  
-  - _a:Maintenence app_  
-  - _a:Odoo Bank (financial services for Customers)_  
-  - _a:Profesional Accounting service_  
-  - _a:Recruitment service_  
-  - _a:Booking service (personnel travels management)_  
-  - _a:Development of Vertical Modules enforcement_  
-       ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
+_a:This version has two main goals: Enhance localizations and Increase sales_  
+_a:These are Odoo's main changes for the new version:_  
+ - _a:Educative app moved to CE_  
+ - _a:Field Service Management app_  
+ - _a:Payroll app_  
+ - _a:In-App Purchase Service_  
+ - _a:OCR module & Document management_  
+ - _a:Items traceability (fleets, products, stock, etc...)_  
+ - _a:Maintenence app_  
+ - _a:Odoo Bank (financial services for Customers)_  
+ - _a:Profesional Accounting service_  
+ - _a:Recruitment service_  
+ - _a:Booking service (personnel travels management)_  
+ - _a:Development of Vertical Modules enforcement_  
+   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
 
 <br>
 
