@@ -207,7 +207,7 @@ _Resolver de una vez por todas la falta de documentación_
 	
 #### Propuestas a Mediano Plazo
   - Obtener colaboradores para hacer guías de versiones anteriores de Odoo
-  - Pedir orientación a la OCA para la propuesta del modo Tracking de odoo
+  - Pedir orientación a la OCA para la propuesta del modo Tracking de Odoo
   - Modo Tracking de Odoo
     - 80% menos esfuerzo para documentar cualquier procedimiento
     - Datos duros sobre el uso de Odoo:
