@@ -3,11 +3,13 @@ Odoo useful video links and _**&#x03C8;Code**_ guides.
 
 ![Odoo useful links & guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg)
 
-# Guides
+# Guides  
 
-# ![o13](/doc/img/odoo13.png)
-- [Community Edition](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md)
-- [Enterprise Edition](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)
+|  |
+| :--- |
+| [![o13](/doc/img/odoo13.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
+| &#x25CF;&nbsp; [Community](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md)
+| &#x25CF;&nbsp; [Enterprise](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
 
 <br>
 
@@ -249,5 +251,5 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
 
 
 <br><br>
-#### Odoo Guides - v7_02 &nbsp; 2019-08-06
+#### Odoo Guides - v8_01 &nbsp; 2019-08-07
  
