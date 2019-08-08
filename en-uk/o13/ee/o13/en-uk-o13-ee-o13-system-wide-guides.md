@@ -6,77 +6,77 @@
 ## News  
 
 #### [New Features &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 08:57)](https://youtube.com/embed/NLbYN3R07to?autoplay=1&start=0&end=500&rel=0)  
-  - _a:FormBuilder in CE_
-  - _a:Promotions & Coupons in Sales_
-  - _a:New Search Pannel in Kanban & List_
-  - _a:Attendance Status in Kanban_
-  - _a:NewModule: Skills Management_
-  - _a:Leave was renamed as TimeOff_
-  - _a:Preference changed to MyProfile_
-  - _a:Improvements in Calendar_
-  - _a:Partner Map View_
-  - _a:NewApp: Approvals_
-  - _a:No more Payroll in CE_
-  - _a:Now Payroll will be part of EE_
-  - _a:Updated Style for Error Messages_
-  - _a:New UI for Lunch Module_
-  - _a:NewModule: Employee Presence_
-  - _a:NewApp: Rentals_
-  - _a:NewApp: Field Service Management_
-  - _a:Ribbon Widget_
-  - _a:Subcontracting in MRP_
-  - _a:Product Configurator_
-  - _a:Configure Report_
-  - _a:Payroll Planning_
-  - _a:New UI for Forum_
-  - _a:Document Upload: Activity Type_
-  - _a:InApp Purchases: Generate Leads_
-  - _a:Optional Field Visibility in List View_
-  - _a:Calculator Widget_
-  - _a:New BuyNow Button_
-  - _a:Sections & Notes in Purchase_
-  - _a:Inventory Valuation by Location_
-  - _a:Courses_
-  - _a:eLearning_
-  - _a:Survey Improvements_
-  - _a:Date Filter Improvements_
-  - _a:Inventory Forecast_
-  - _a:No **account.invoice** model_  
+  - FormBuilder in CE
+  - Promotions & Coupons in Sales
+  - New Search Pannel in Kanban & List
+  - Attendance Status in Kanban
+  - NewModule: Skills Management
+  - Leave was renamed as TimeOff
+  - Preference changed to MyProfile
+  - Improvements in Calendar
+  - Partner Map View
+  - NewApp: Approvals
+  - No more Payroll in CE
+  - Now Payroll will be part of EE
+  - Updated Style for Error Messages
+  - New UI for Lunch Module
+  - NewModule: Employee Presence
+  - NewApp: Rentals
+  - NewApp: Field Service Management
+  - Ribbon Widget
+  - Subcontracting in MRP
+  - Product Configurator
+  - Configure Report
+  - Payroll Planning
+  - New UI for Forum
+  - Document Upload: Activity Type
+  - InApp Purchases: Generate Leads
+  - Optional Field Visibility in List View
+  - Calculator Widget
+  - New BuyNow Button
+  - Sections & Notes in Purchase
+  - Inventory Valuation by Location
+  - Courses
+  - eLearning
+  - Survey Improvements
+  - Date Filter Improvements
+  - Inventory Forecast
+  - No **account.invoice** model  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
 #### [What's New - News & Features (O13 - EE - MoldeoInteractive - es-ar - 03:47)](https://youtube.com/embed/NjbjRRqhu5k?autoplay=1&start=0&end=0&rel=0)  
-  - _a:FormBuilder moved to CE_  
-  - _a:Sales Coupons_  
-  - _a:Sales Promotions_  
-  - _a:Barcode scanner with mobiles_  
-  - _a:Signature widget_  
-  - _a:JavaScript lazy-loading (asynchronous)_  
-  - _a:ChromeHeadless (PDF render) will replace wkhtmltopdf_  
-  - _a:Use of Chart.js library (dynamic charts)_  
-  - _a:NoAvailable state in internal Chat_  
-  - _a:New User Profile interface_  
-  - _a:Checklists allowed in HTML editor_  
-  - _a:Timers in Surveys and MRP orders_  
-  - _a:Adding videos to eComerce pages_  
-  - _a:New search panel in Kanban view_  
-  - _a:jQuery (websites management) upgraded to v3_  
+  - FormBuilder moved to CE  
+  - Sales Coupons  
+  - Sales Promotions  
+  - Barcode scanner with mobiles  
+  - Signature widget  
+  - JavaScript lazy-loading (asynchronous)  
+  - ChromeHeadless (PDF render) will replace wkhtmltopdf  
+  - Use of Chart.js library (dynamic charts)  
+  - NoAvailable state in internal Chat  
+  - New User Profile interface  
+  - Checklists allowed in HTML editor  
+  - Timers in Surveys and MRP orders  
+  - Adding videos to eComerce pages  
+  - New search panel in Kanban view  
+  - jQuery (websites management) upgraded to v3  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
 
 #### [13 News (O13 - EE - eGlobal - es-es - 07:16)](https://youtube.com/embed/4IckENANIvQ?autoplay=1&start=0&end=0&rel=0)  
-_a:This version has two main goals: Enhance localizations and Increase sales_  
-_a:These are Odoo's main changes for the new version:_  
- - _a:Educative app moved to CE_  
- - _a:Field Service Management app_  
- - _a:Payroll app_  
- - _a:In-App Purchase Service_  
- - _a:OCR module & Document management_  
- - _a:Items traceability (fleets, products, stock, etc...)_  
- - _a:Maintenence app_  
- - _a:Odoo Bank (financial services for Customers)_  
- - _a:Profesional Accounting service_  
- - _a:Recruitment service_  
- - _a:Booking service (personnel travels management)_  
- - _a:Development of Vertical Modules enforcement_  
+This version has two main goals: Enhance localizations and Increase sales  
+These are Odoo's main changes for the new version:  
+ - Educative app moved to CE  
+ - Field Service Management app  
+ - Payroll app  
+ - In-App Purchase Service  
+ - OCR module & Document management  
+ - Items traceability (fleets, products, stock, etc...)  
+ - Maintenence app  
+ - Odoo Bank (financial services for Customers)  
+ - Profesional Accounting service  
+ - Recruitment service  
+ - Booking service (personnel travels management)  
+ - Development of Vertical Modules enforcement  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
 
 <br>
