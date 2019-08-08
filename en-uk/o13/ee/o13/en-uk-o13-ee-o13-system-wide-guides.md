@@ -40,7 +40,7 @@
   - _a:Date Filter Improvements_
   - _a:Inventory Forecast_
   - _a:No **account.invoice** model_  
-  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
 #### [Better Error Handling &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:09)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | i:ConfigurationPanel &#x2716; | d:RemoveConfigurationTips? | \[ b:Remove || b:Discard ] |  
@@ -55,7 +55,7 @@ b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;
 _a:Remove previous search filters_ | f:Search | ![filter](/doc/img/filter.png) _(MyPipeline)_ &#x2716; |  
 _a:Select any Date filter:_ \[ o:CreationDate \| o:ExpectedDate \| o:ClosedDate ] |  
 _a:Now date options are:_ \[ o:Month \| o:Month+1 \|\| o:Month+2 \|\| o:Q1 \|\| o:Q2 \|\| o:Q3 \|\| o:Q4 \|\| o:Year \|\| o:Year-1 \|\| o:Year-2 ]  
-ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
 #### [How to Activate Developer Mode &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 00:52)](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=0&rel=0&nocount)  
 - [Activate](https://youtube.com/embed/0TpeNKFK7wk?autoplay=1&start=0&end=18&rel=0)  
@@ -118,7 +118,7 @@ _a:Review changes_ | b:GroupBy &#x2BC6; | **&#x2713;** o:Salesperson | _a:Check 
 ![apps](/doc/img/apps.png) | o:Settings | m:MySelf | o:MyProfile |  
 _a:Notice option name was **Preferences** in previos versions_  
 _a:Now you can review your data in same window_ | b:Edit | _a:Update your profile as needed_ | b:Save  
-ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁷
 
 #### [New Multi Company Widget &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:17)](https://youtube.com/embed/5HU8dJfTmpc?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Select o:Module_ | m:Company &#x2BC6; | \[ _a:Mark o:Company_ \]&#x207F;  
@@ -147,7 +147,7 @@ b:Save
 ![apps](/doc/img/apps.png) | o:Open module with SmartButtons in its form_ | _a:Open Contact_ | _a:Notice SmartButtons are arranged along the form's top_ |  
 m:More &#x2BC6; | _a:Review the other SmartButtons_ |  
 _a:Notice in previous versions SmartButtons was arranged only on form's top-right corner |  
-ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁷
 
 #### [SuperUser Mode &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:30)](https://youtube.com/embed/pBN3IC9ipWw?autoplay=1&start=21&end=110&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | m:OpenDeveloperTools &#x1F41E; | o:BecomeSuperuser |   

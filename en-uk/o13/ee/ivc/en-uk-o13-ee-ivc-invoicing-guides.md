@@ -11,7 +11,7 @@
     ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
     ![apps](/doc/img/apps.png) | o:Settings | m:Users&Companies | o:Users | _a:Select User_ |  
     _a:Scroll Down_ | i:TechnicalSettings | f:ShowFullAccountingFeatures &#x1F5F9; | b:Save  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
   - [Review Configuration](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=420&end=444&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m: **+** | o:Settings | _a:Review Configuration_ |  
@@ -19,7 +19,7 @@
 	i:Bank&Cash | i:FiscalPeriods | i:AutomatedEntries | i:Analytics |  
 	_a:Notice there are a lot of EE only settings_ |  
 	\[ b:Save | b:Discard ]  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
 - **Initial Setup:**  
   - [Company Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=55&end=79&rel=0)  
@@ -30,29 +30,29 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     f:CompanyRegistry | f:Currency | f:ParentCompany | f:CompanyFavicon |  
     b:Apply | _a:Notice Company Data now shows:_ **&#x2713;** All done!  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
   - [Bank Account](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=80&end=92&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:BankAccount | b:AddABank |  
     w:CreateBankAccount | f:AccountNumber | f:Bank &#x2BC6; | f:Code | f:Journal | b:Create |  
     _a:Notice Bank Account now shows:_ **&#x2713;** Step Completed!  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
   - [Chart of Accounts](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=93&end=100&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | i:ChartOfAccounts | b:Review |  
     &#x23BD;/&#x23BD;/:AccountingOverview |  
     _a:Notice Chart of Accounts now shows:_ **&#x2713;** Step Completed!  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
   - [Fiscal Year](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=100&end=108&rel=0)   
     ![apps](/doc/img/apps.png) | o:Invoicing | i:Fiscal Year | b:Configure |  
     w:FiscalYear | f:OpeningDate &#x1F4C5; | f:FiscalYearEnd | f:Day | f:Month | b:Apply |  
     _a:Notice Fiscal Year now shows:_ **&#x2713;** Step Completed!  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
   - i:NiceWork!YourConfigurationIsDone | b:Close  
     _a: You can find these setup guides also in [Accounting](/en-uk/o13/ee/inv/en-uk-o13-ee-acc-accounting-guides.md#accounting-overview--o13---ee---odoo-mates---xx-xx---0858) app_  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
 - **Review Functionality:**  
   - [Review new **account.move** model](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=108&end=144&rel=0)  
@@ -61,7 +61,7 @@
 	t:InvoiceLines | &#x1F41E; | o:EditView:Form | w:EditView:Form |  
 	_a:Review f:Model is **account.move**, actually there isn't invoice model anymore_ |  
 	w:EditView:Form &#x2716;  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
     
   - [Create a New Invoice & Payment](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=148&end=218&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | b:Create | f:Customer &#x2BC6; |  
@@ -73,18 +73,18 @@
 	b:RegisterPayment | w:RegisterPayment | f:Memo | f:PaymentDate &#x1F4C5; | f:PaymentAmount |  
 	f:PaymentJournal &#x2BC6; | _a:Select Journal_ |  
 	b:Validate | _a:Notice green **Paid** ribbon shown on Invoice number (top-left corner)_  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
   - [Review Customer's Bank & Accounting Data](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=247&end=270&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Customers | o:Customers | b:Edit | t:Invoicing |  
 	f:Bank | f:AccountNumber | f:AccountReceivable | f:AccountPayble | _a:Review data | \[ b:Save \|\| b:Discard ]  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 	
   - [Review Vendors' Bills & Payments](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=247&end=296&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Vendors | o:Bills | _a:Select Unposted Non-Paid Bill_ | b:Validate |  
 	b:RegisterPayment | w:RegisterPayment | _a:Accept Defaults_ | b:Validate |  
 	_a:Notice green **Paid** ribbon shown on Bill number (top-left corner)_  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
   - [Review Accounting Menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=310&end=396&rel=0)  
     - **Miscellaneous**  
@@ -106,7 +106,7 @@
       _a:Review number & time spent on reconciliations_ |  
       m:Accounting | i:Ledgers | o:TaxAdjustment | d:TaxAdjustments | 
       _a:Review number & time spent on tax adjustments_ |  
-      ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+      ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
   - [Review Reporting menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=396&end=419&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Reporting | i:Management |  
@@ -117,14 +117,14 @@
     - **Product Margins**  
       o:ProductMargins | w:ProductMargins | f:From &#x1F4C5; | f:To &#x1F4C5; |  
       f:InvoiceState &#x2BC6; | b:OpenMargins | _a:Review Report_ |  
-      ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+      ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
   - [Review **+** (more) Menu](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=446&end=513&rel=0)  
     ![apps](/doc/img/apps.png) | o:Invoicing | m: **+** |  
     i:Accounting | \[ o:ChartOfAccounts | o:Taxes | o:FiscalPositions | o:AddABankAccount | o:Journals | o:JournalGroups | o:Incoterms | o:ReconciliationModels ]
     i:Management | \[ o:PaymentTerms | o:TaxReport ]
     i:Payments | \[ o:PaymentAcquirers | o:SavedPaymentData | o:PaymentIcons | o:PaymentTransactions ]  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
 #### [New Widget Ribbon &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/Adg5rrfXl0Y?autoplay=1&start=0&end=71&rel=0)  
 ![apps](/doc/img/apps.png) | o:Invoicing | _a:Select PAID invoice_ | _a:Notice the green PAID ribbon on top right of preview_ |  
