@@ -259,7 +259,7 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
   - Usar _**TEXTO**_ en las a:Acciones, en vez de comillas
   - Ligas: (https://youtube.com/embed/sSVb0ZtEAUs?autoplay=1&start=**###**&end=**###**&rel=0 \[ &nocount ])
   - Hay que agregar _**&nocount**_ al final de la primera liga del video completo en los casos de videos con multi-procedimientos, para evitar que se dupliquen en el conteo de guías
-  - Hay que reducir el texto de las _**a:**_ al mínimo y usar siempre la misma palabra para cada acción, para facilitar el aprendizaje
+  - Se debe reducir al mínimo el texto de las _**a:**_ y usar siempre la misma palabra para cada acción
 
 
 <br><br>
