@@ -144,17 +144,16 @@ b:Save
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 #### [Set minimum Password length (O13 - EE - Odoo Mates - xx-in - 02:07)](https://youtube.com/embed/pwU5UJOg6kA?autoplay=1&start=0&end=0&rel=0&nocount)  
-- [Define the minimum in Settings](https://youtube.com/embed/pwU5UJOg6kA?autoplay=1&start=0&end=45&rel=0)  
+- [Define the minimum length in Settings](https://youtube.com/embed/pwU5UJOg6kA?autoplay=1&start=0&end=45&rel=0)  
   ![apps](/doc/img/apps.png) | o:Settings | m:GeneralSettings | _a:Scroll down until i:Users_ |  
   f:MinimumPasswordLength | _a:8+ length is recommended to reinforce security_ | b:Save  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
-
-- [Test minimum on Users](https://youtube.com/embed/pwU5UJOg6kA?autoplay=1&start=74&end=109&rel=0)  
+- [Test minimum length on Users](https://youtube.com/embed/pwU5UJOg6kA?autoplay=1&start=74&end=109&rel=0)  
   ![apps](/doc/img/apps.png) | o:Users | _a:Open User_ | m:Action &#x2BC6; | o:ChangePassword |  
   w:ChangePassword | f:NewPassword | _a:Try a smaller than minimum one_ | b:ChangePassword |  
   d:UserError:Passwords must have at least ## characters, got ##_ |  
   f:NewPassword | _a:Try a greater than or equal to the minimum_ | b:ChangePassword |  
-  d:UserError &#x2716; | 
+  d:UserError &#x2716; |  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
 
 #### [Smart Buttons on top &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:52)](https://youtube.com/embed/NfgpzPuqkuI?autoplay=1&start=0&end=82&rel=0)  
