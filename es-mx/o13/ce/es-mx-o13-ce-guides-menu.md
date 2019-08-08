@@ -51,4 +51,4 @@
 
 <br>
 
-###### Guías Odoo - v7_01 &nbsp; 2019-08-05  [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
+###### Guías Odoo - v7_02 &nbsp; 2019-08-07<br>[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
