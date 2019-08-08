@@ -3,7 +3,7 @@
 ### ![lun](/doc/img/lunch.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [Lunch Enhancements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 06:29)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=4&end=0&rel=0)<br>
+#### [Lunch Enhancements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 06:29)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=4&end=0&rel=0)<br>
 
 - [Install Lunch app](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=0&end=24&rel=0)  
   ![apps](/doc/img/apps.png) | o:Apps | f:Search... lunch | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:Lunch | b:Install  

@@ -3,7 +3,7 @@
 ### ![ivc](/doc/img/account_invoicing.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
+#### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
 [***Sync***]: # (o13-ee-inv-invoicing-guides)  
 
 - **Configuration:**  
@@ -51,7 +51,7 @@
     ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
   - i:NiceWork!YourConfigurationIsDone | b:Close  
-    _a: You can find these setup guides also in [Accounting](/en-uk/o13/ee/inv/en-uk-o13-ee-acc-accounting-guides.md#accounting-overview--o13---ee---odoo-mates---xx-xx---0858) app_  
+    _a: You can find these setup guides also in [Accounting](/en-uk/o13/ee/inv/en-uk-o13-ee-acc-accounting-guides.md#accounting-overview--o13---ee---odoo-mates---xx-in---0858) app_  
     ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
 - **Review Functionality:**  
@@ -126,7 +126,7 @@
     i:Payments | \[ o:PaymentAcquirers | o:SavedPaymentData | o:PaymentIcons | o:PaymentTransactions ]  
     ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
-#### [New Widget Ribbon &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:26)](https://youtube.com/embed/Adg5rrfXl0Y?autoplay=1&start=0&end=71&rel=0)  
+#### [New Widget Ribbon &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:26)](https://youtube.com/embed/Adg5rrfXl0Y?autoplay=1&start=0&end=71&rel=0)  
 ![apps](/doc/img/apps.png) | o:Invoicing | _a:Select PAID invoice_ | _a:Notice the green PAID ribbon on top right of preview_ |  
 &#x23BD;/&#x23BD;/:Invoices | _a:Select NOT PAID invoice_ | _a:Notice there is no ribbon on preview_ |  
 _a:Test:_  

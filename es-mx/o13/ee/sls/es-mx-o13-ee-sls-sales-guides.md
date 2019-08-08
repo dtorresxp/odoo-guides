@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![sls](/doc/img/sale.png)
 
-#### [Configurador de Productos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
+#### [Configurador de Productos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)
 ![apps](/doc/img/apps.png) | o:Ventas | m:Productos | o:Productos | b:Editar | o:ConfigureAProducto | w:ConfigureAProducto |  
 f:Producto &#x2BC6; | _a:Seleccionar producto_ | \[ _a:Seleccionar características optionales_ |  
 b:Add | w:Configure \]&#x207F; | b:Confirmar | d:LowStockWarning | b:Ok | w:Cotizaciones | b:Guardar  
@@ -11,7 +11,7 @@ b:Add | w:Configure \]&#x207F; | b:Confirmar | d:LowStockWarning | b:Ok | w:Coti
 
 #### Cupones & Promociones
 
-#### [Cupon de Ventas y Programas de Promoción &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 06:55)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0&nocount)
+#### [Cupon de Ventas y Programas de Promoción &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 06:55)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0&nocount)
 
 - [Configuración](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=31&rel=0)  
   ![apps](/doc/img/apps.png) | o:Apps | f:Buscar... coupon | ![filter](/doc/img/filter.png) _(apps) &#x2716; |  

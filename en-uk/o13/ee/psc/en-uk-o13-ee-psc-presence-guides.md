@@ -3,7 +3,7 @@
 ### ![psc](/doc/img/hr_presence.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [New Employee Presence &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:10)](https://youtube.com/embed/5flykV7VCzo?autoplay=1&start=4&end=0&rel=0&nocount)<br>
+#### [New Employee Presence &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 04:10)](https://youtube.com/embed/5flykV7VCzo?autoplay=1&start=4&end=0&rel=0&nocount)<br>
 
 - [Install Presence module](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=219&end=230&rel=0)  
 ![apps](/doc/img/apps.png) | o:Apps | f:Search... presence | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:EmployeePresence | b:Install  

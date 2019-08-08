@@ -3,7 +3,7 @@
 ### ![apv](/doc/img/approval.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [New Approval App &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 03:19)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0&nocount)<br>
+#### [New Approval App &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 03:19)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Install Approval app](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=30&rel=0)  
 ![apps](/doc/img/apps.png) | o:Apps | f:Search... approval | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:Approval | b:Install  

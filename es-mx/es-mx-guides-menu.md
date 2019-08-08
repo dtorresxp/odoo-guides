@@ -54,7 +54,7 @@ Los iconos de las traducciones (banderas) aparecen en el orden en que han sido c
 A continuación te mostraremos una sencilla explicación sobre el _**&#x03C8;Code**_.  Sirve para mostarte los pasos necesarios para realizar tu tarea en orden correcto y ayudarte a encontrar el objeto en pantalla donde hay que realizar cada paso:
 
 ### Ejemplo típico
-#### [Combinar Contactos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&Inicio=0&end=0&rel=0)  
+#### [Combinar Contactos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&Inicio=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Contactos | _a:Ver el contador de Contactos en la ventana de Odoo_ | b: ![view_list](/doc/img/view_list.png) |  
 [ _a:Seleccionar Contacto to Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos | w:CombinarContactos | f:ContactoDeDestino &#x2BC6; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] |  
 b:Cerrar | _a:Vericar Contactos combinados_<br><br>  
@@ -86,7 +86,7 @@ b:Cerrar | _a:Vericar Contactos combinados_<br><br>
     - Número de versión de Odoo  
     - Edición de Odoo (CE or EE)  
     - Creador Original  
-    - Idioma (n/v=no voz)  
+    - Idioma-País (xx = sin voz)  
     - Duración del video  
   - Cuando un video contiene varios procedimientos, se mostrarán en forma de lista debajo de la liga al video completo
   - Cada procedimiento tendrá su propia liga, pero sólo apuntará al procedimiento indicado dentro del video
@@ -263,5 +263,5 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
 
 
 <br><br>
-###### Guías Odoo - v8_01 &nbsp; 2019-08-07
+###### Guías Odoo - v8_02 &nbsp; 2019-08-08
  

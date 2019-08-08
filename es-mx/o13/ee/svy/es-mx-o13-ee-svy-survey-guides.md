@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![svy](/doc/img/survey.png)
 
-#### [Características del app de Encuestas &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:20)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0&nocount)<br>
+#### [Características del app de Encuestas &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 08:20)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Crear Encuesta](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=74&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Encuestas | \[ b:Crear || b:Editar \] | f:Título |  

@@ -3,7 +3,7 @@
 ### ![pyr](/doc/img/hr_payroll.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [HR Payroll &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 03:53)](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=0&end=0&rel=0&nocount)  
+#### [HR Payroll &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 03:53)](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=0&end=0&rel=0&nocount)  
 
 - [Settings](https://youtube.com/embed/AOuV7cD0PE0?autoplay=1&start=112&end=134&rel=0)  
   ![apps](/doc/img/apps.png) | o:Payroll | m:Settings |  

@@ -3,7 +3,7 @@
 ### ![tof](/doc/img/timeoff.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [Time Off &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:12)](https://youtube.com/embed/g08_hJuTuNA?autoplay=1&start=0&end=0&rel=0)
+#### [Time Off &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 02:12)](https://youtube.com/embed/g08_hJuTuNA?autoplay=1&start=0&end=0&rel=0)
 
 - [Time Off Configuration (Time Off Types Catalog)](https://youtube.com/embed/g08_hJuTuNA?autoplay=1&start=79&end=95&rel=0)  
   ![apps](/doc/img/apps.png) | o:TimeOff | m:Configuration | o:TimeOffTypes |  

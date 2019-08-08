@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![cal](/doc/img/calendar.png)
 
-#### [Vista mejorada de Calendario &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:41)](https://youtube.com/embed/F0sivQZKT54?autoplay=1&start=6&end=83&rel=0)  
+#### [Vista mejorada de Calendario &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 02:41)](https://youtube.com/embed/F0sivQZKT54?autoplay=1&start=6&end=83&rel=0)  
 ![apps](/doc/img/apps.png) | o:Calendario | _a:Objetos más modernos y cuadros de diálogo más fáciles de usar_
 
 <br>

@@ -3,7 +3,7 @@
 ### ![skm](/doc/img/hr_skills.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [Employee Skill Management in Odoo13 &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:52)](https://youtube.com/embed/E09XNr7hhYE?autoplay=1&start=0&end=0&rel=0)  
+#### [Employee Skill Management in Odoo13 &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 02:52)](https://youtube.com/embed/E09XNr7hhYE?autoplay=1&start=0&end=0&rel=0)  
   ![apps](/doc/img/apps.png) | o:Apps | i:SkillManagement | b:Install |  
   ![apps](/doc/img/apps.png) | o:Employees | v:Department | _a:Select employee_ |  
   i:Skills | \[ b:Add | w:CreateSkills | f:SkillType &#x2BC6; | f:Skill &#x2BC6; | f:SkillLevel &#x2BC6; | b:Save \]&#x207F; |  

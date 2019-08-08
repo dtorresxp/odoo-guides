@@ -3,13 +3,13 @@
 ### ![web](/doc/img/website.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [Add Attachment Option in Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:29)](https://youtube.com/embed/tZZXvJYX5qY?autoplay=1&start=0&end=0&rel=0)
+#### [Add Attachment Option in Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:29)](https://youtube.com/embed/tZZXvJYX5qY?autoplay=1&start=0&end=0&rel=0)
 ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | m:MySelf &#x2BC6; | o:MyAccount | w:Documents |  
 _a:Select Document_ \[ i:Tasks || i:Quotations || i:SalesOrders || i:Invoices&Bills || Projects || Tasks || Timesheets ] |  
 _a:Select Item_ | i:History | f:Message | b:Attachment | _a:Select file_ | b:Send  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
-#### [Customize Font &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:29)](https://youtube.com/embed/M1ejOzO-E_Q?autoplay=1&start=0&end=136&rel=0)
+#### [Customize Font &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:29)](https://youtube.com/embed/M1ejOzO-E_Q?autoplay=1&start=0&end=136&rel=0)
 ![apps](/doc/img/apps.png) | o:Website |  
 \[ _a:Perform customization as desired_ ]  
 - _a:Select a page from your site in your top menu_  
@@ -21,15 +21,15 @@ _a:Select Item_ | i:History | f:Message | b:Attachment | _a:Select file_ | b:Sen
 - _a:Notice Theme Customizations are site wide_  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁷
 
-#### [Online Course/Certifications &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:37)](https://youtube.com/embed/Ehoe2QK4Mgg?autoplay=1&start=0&end=0&rel=0)  
+#### [Online Course/Certifications &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 02:37)](https://youtube.com/embed/Ehoe2QK4Mgg?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Website | m:Courses | \[ i:AllCourses &nbsp;||&nbsp; i:Certifications ]  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
-#### [Timesheet in Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:16)](https://youtube.com/embed/c0z7STK7UyQ?autoplay=1&start=0&end=0&rel=0)  
+#### [Timesheet in Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:16)](https://youtube.com/embed/c0z7STK7UyQ?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | m:MySelf | o:MyAccount | i:Timesheets  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
-#### [Website Form Builder Moved to CE &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:19)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=0&rel=0)  
+#### [Website Form Builder Moved to CE &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:19)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=0&rel=0)  
 [***Sync***]: # (en-uk-o13-ce-web-websites-builder-guides) | ![apps](/doc/img/apps.png) | o:Apps | f:Search... form-builder | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; |  
 i:Form Builder | b:MoreInfo | b:Install |  
 ![apps](/doc/img/apps.png) | o:Website | b:GotoWebsite | b:Edit | _a:Slide down Menu_ | _a:Drag i:FormBuilder to form_ | _a:Build form accordingly_ | b:Save  

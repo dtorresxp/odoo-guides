@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![skm](/doc/img/hr_skills.png)
 
-#### [Control de Competencias de Empleados in Odoo13 &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:52)](https://youtube.com/embed/E09XNr7hhYE?autoplay=1&start=0&end=0&rel=0)  
+#### [Control de Competencias de Empleados in Odoo13 &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 02:52)](https://youtube.com/embed/E09XNr7hhYE?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Apps | i:ControlDeCompetencias | b:Instalar |  
 ![apps](/doc/img/apps.png) | o:Empleados | v:Departmento | _a:Seleccionar Empleado_ | i:Competencias |  
 \[ b:Agregar | w:CrearCompetencias | f:TipoDeCompetencia &#x2BC6; | f:Competencia &#x2BC6; | f:NivelDeCompetencia &#x2BC6; | b:Guardar \]&#x207F; |  

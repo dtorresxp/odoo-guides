@@ -3,7 +3,7 @@
 ### ![svy](/doc/img/survey.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [Survey Features &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:20)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0&nocount)<br>
+#### [Survey Features &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 08:20)](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Create Survey](https://youtube.com/embed/hFTR26TL0gA?autoplay=1&start=0&end=74&rel=0)  
   - ![apps](/doc/img/apps.png) | o:Surveys | \[ b:Create || b:Edit \] | f:Title |  

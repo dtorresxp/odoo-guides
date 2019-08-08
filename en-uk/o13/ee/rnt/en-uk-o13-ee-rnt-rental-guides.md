@@ -3,7 +3,7 @@
 ### ![rnt](/doc/img/rentals.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [New Rental App &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:58)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0&nocount)<br>
+#### [New Rental App &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 04:58)](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Install Rent app](https://youtube.com/embed/xS5p-zOkbhk?autoplay=1&start=0&end=24&rel=0)  
   ![apps](/doc/img/apps.png) | o:Apps | f:Search... rental | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:Rental | b:Install  

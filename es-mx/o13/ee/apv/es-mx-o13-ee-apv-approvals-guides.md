@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
 ### ![apv](/doc/img/approval.png)
 
-#### [Nueva app de Autorizacionesl App &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 03:19)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0&nocount)<br>
+#### [Nueva app de Autorizacionesl App &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 03:19)](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=0&rel=0&nocount)<br>
 
 - [Instalar la app de Autorizaciones](https://youtube.com/embed/nG2Jk3oHDqc?autoplay=1&start=0&end=30&rel=0)  
 ![apps](/doc/img/apps.png) | o:Apps | f:Buscar... approval | ![filter](/doc/img/filter.png) _(apps)_ &#x2716; | i:Autorizar | b:Instalar  

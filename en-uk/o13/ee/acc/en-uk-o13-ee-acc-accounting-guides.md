@@ -3,14 +3,14 @@
 ### ![acc](/doc/img/account_accountant.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [No account.invoice Model &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:56)](https://youtube.com/embed/Ap7IPh23rsQ?autoplay=1&start=6&end=60&rel=0)
+#### [No account.invoice Model &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:56)](https://youtube.com/embed/Ap7IPh23rsQ?autoplay=1&start=6&end=60&rel=0)
 ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
 ![apps](/doc/img/apps.png) | o:Invoicing | m:Customers | o:Invoice | _a:Select Invoice |  
 i:Customer | d:Customer/Vendor | _a:Notice f:Object shows account.move_ |  
 &#x1F41E; | o:EditView:Form | _a:Now f:Model shows account.move_ | b:Close  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
-#### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
+#### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
 [***Sync***]: # (o13-ee-inv-invoicing-guides)  
 
 - **Configuration:**
@@ -50,7 +50,7 @@ i:Customer | d:Customer/Vendor | _a:Notice f:Object shows account.move_ |
   
   - i:NiceWork!YourConfigurationIsDone | b:Close  
 
-  - &#x26A0; _a: This configuration is actually done in the [Invoicing](/en-uk/o13/ee/inv/en-uk-o13-ee-inv-invoicing-guides.md#accounting-overview--o13---ee---odoo-mates---xx-xx---0858) app_  
+  - &#x26A0; _a: This configuration is actually done in the [Invoicing](/en-uk/o13/ee/inv/en-uk-o13-ee-inv-invoicing-guides.md#accounting-overview--o13---ee---odoo-mates---xx-in---0858) app_  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They were included here just because of the app name  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer there for further reference  
 
