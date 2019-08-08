@@ -254,6 +254,12 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
     - __ii__: &nbsp;&nbsp;Código de idioma: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
     - __pp__: Código de país: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
     - Los iconos de las banderas deben ser redondos de (150x150) estilo botón.
+  - Se debe mostrar la duración del PlayList de YouTube (en el video, aparece con un segundo menos)
+  - Las líneas, excepto la última o las que continúan, deben terminar en **ESPACIO+BARRA+ESPACIO+ESPACIO**, las demás en **ESPACIO+ESPACIO**
+  - Usar _**TEXTO**_ en las a:Acciones, en vez de comillas
+  - Ligas: (https://youtube.com/embed/sSVb0ZtEAUs?autoplay=1&start=**###**&end=**###**&rel=0 \[ &nocount ])
+  - Hay que agregar _**&nocount**_ al final de la primera liga del video completo en los casos de videos con multi-procedimientos, para evitar que se dupliquen en el conteo de guías
+  - Hay que reducir el texto de las _**a:**_ al mínimo y usar siempre la misma palabra para cada acción, para facilitar el aprendizaje
 
 
 <br><br>
