@@ -1,7 +1,7 @@
 # O13 - EE - MRP - Manufacturing &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/mrp/en-uk-o13-ee-mrp-mrp-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/mrp/es-mx-o13-ee-mrp-mrp-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![mrp](/doc/img/mrp.png)
-[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [How to activate MRP Workorder &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:22)](https://youtube.com/embed/Xrw-bAZ82xA?autoplay=1&start=0&end=67&rel=0)  
 ![apps](/doc/img/apps.png) | o:Manufacturing | m:Configuration | o:Settings | i:Operations | f:Work Orders &#x1F5F9; | b:Save |  

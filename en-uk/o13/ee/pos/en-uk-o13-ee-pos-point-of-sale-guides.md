@@ -1,7 +1,7 @@
 # O13 - EE - POS - Point of Sale &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/pos/en-uk-o13-ee-pos-point-of-sale-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/pos/es-mx-o13-ee-pos-point-of-sale-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![pos](/doc/img/point_of_sale.png)
-[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [Login with Employee &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:41)](https://youtube.com/embed/Nmafl3gA8aI?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:PointOfSale | &#x2807; | o:Settings | f:Log in with Employees &#x1F5F9; | f:Allowed Employees | \[ &#x2BC6; | _a:Select Employee_ ]&#x207F; | b:Save |  

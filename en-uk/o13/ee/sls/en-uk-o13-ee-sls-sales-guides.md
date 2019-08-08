@@ -1,7 +1,7 @@
 # O13 - EE - SLS - Sales &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/sls/en-uk-o13-ee-sls-sales-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/sls/es-mx-o13-ee-sls-sales-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![sls](/doc/img/sale.png)
-[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 <br>
 

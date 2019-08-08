@@ -1,7 +1,7 @@
 # O13 - EE - IVC - Invoicing &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/ivc/en-uk-o13-ee-ivc-invoicing-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/ivc/es-mx-o13-ee-ivc-invoicing-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![ivc](/doc/img/account_invoicing.png)
-[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [Accounting Overview &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 08:58)](https://youtube.com/embed/hA6KSbR7YVI?autoplay=1&start=6&end=58&rel=0&nocount)
 [***Sync***]: # (o13-ee-inv-invoicing-guides)  

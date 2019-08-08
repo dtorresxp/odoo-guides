@@ -1,7 +1,7 @@
 # O13 - EE - PSC - Presence &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/psc/en-uk-o13-ee-psc-presence-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/psc/es-mx-o13-ee-psc-presence-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![psc](/doc/img/hr_presence.png)
-[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [New Employee Presence &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 04:10)](https://youtube.com/embed/5flykV7VCzo?autoplay=1&start=4&end=0&rel=0&nocount)<br>
 

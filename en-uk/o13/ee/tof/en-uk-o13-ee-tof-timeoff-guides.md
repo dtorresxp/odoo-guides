@@ -1,7 +1,7 @@
 # O13 - EE - TOF - TimeOff &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/tof/en-uk-o13-ee-tof-timeoff-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/tof/es-mx-o13-ee-tof-timeoff-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![tof](/doc/img/timeoff.png)
-[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [Time Off &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:12)](https://youtube.com/embed/g08_hJuTuNA?autoplay=1&start=0&end=0&rel=0)
 

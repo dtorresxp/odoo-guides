@@ -1,7 +1,7 @@
 # O13 - EE - INV - Inventory &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/inv/en-uk-o13-ee-inv-inventory-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/inv/es-mx-o13-ee-inv-inventory-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![inv](/doc/img/stock.png)
-[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [Inventory Forecast (O13 - EE - Odoo Mates - n/v - 01:43)](https://youtube.com/embed/jD7daYG4EF0?autoplay=1&start=0&end=90&rel=0)  
 ![apps](/doc/img/apps.png) | o:Inventory | m:Reporting | o:ForecastedInventory | **&#x2630;** GroupBy &#x2BC6; | i:Date |  

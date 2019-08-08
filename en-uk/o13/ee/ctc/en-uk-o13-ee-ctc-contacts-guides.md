@@ -1,7 +1,7 @@
 # O13 - EE - CTC - Contacts &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/ctc/en-uk-o13-ee-ctc-contacts-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/ctc/es-mx-o13-ee-ctc-contacts-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)  
 ### ![ctc](/doc/img/contacts.png)
-[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [New Partner Map View &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:53)](https://youtube.com/embed/1y3uHWG7nDQ?autoplay=1&start=0&end=54&rel=0)  
 ![apps](/doc/img/apps.png) | o:Contacts | _a:Select map view_ ![view_map](/doc/img/view_map.png) | _a:Use b:_![zoom_in](/doc/img/button_squared_add.png) || _b:_![zoom_out](/doc/img/button_squared_sub.png) to zoom map_ |  

@@ -1,7 +1,7 @@
 # O13 - EE - WEB - Websites Builder &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/web/en-uk-o13-ee-web-websites-builder-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/web/es-mx-o13-ee-web-websites-builder-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)
 ### ![web](/doc/img/website.png)
-[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰) 
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [Add Attachment Option in Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:29)](https://youtube.com/embed/tZZXvJYX5qY?autoplay=1&start=0&end=0&rel=0)
 ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | m:MySelf &#x2BC6; | o:MyAccount | w:Documents |  
@@ -18,8 +18,8 @@ _a:Select Item_ | i:History | f:Message | b:Attachment | _a:Select file_ | b:Sen
 - t:Fonts | f:Title &#x2BC6; | _a:Select Theme Fonts_ | \[ f:Title | f:Body | f:Button | f:NavBar ]  
 - _a:Notice every time you choose a font, yout background window changes accordingly_  
 - b:Close |  
-- _a:Notice Theme Customization is site wide_  
-ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+- _a:Notice Theme Customizations are site wide_  
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁷
 
 #### [Online Course/Certifications &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:37)](https://youtube.com/embed/Ehoe2QK4Mgg?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Website | m:Courses | \[ i:AllCourses &nbsp;||&nbsp; i:Certifications ]  
