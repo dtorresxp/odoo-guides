@@ -148,7 +148,6 @@ b:Save
   ![apps](/doc/img/apps.png) | o:Settings | m:GeneralSettings | _a:Scroll down until i:Users_ |  
   f:MinimumPasswordLength | _a:8+ length is recommended to reinforce security_ | b:Save  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
-
 - [Test minimum on Users](https://youtube.com/embed/pwU5UJOg6kA?autoplay=1&start=74&end=109&rel=0)  
   ![apps](/doc/img/apps.png) | o:Users | _a:Open User_ | m:Action &#x2BC6; | o:ChangePassword |  
   w:ChangePassword | f:NewPassword | _a:Try a smaller than minimum one_ | b:ChangePassword |  
