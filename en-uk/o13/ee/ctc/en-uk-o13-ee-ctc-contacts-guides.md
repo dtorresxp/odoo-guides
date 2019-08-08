@@ -3,6 +3,15 @@
 ### ![ctc](/doc/img/contacts.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
+#### [Customer-Supplier fields are removed from **res.partner** &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 02:05)](https://youtube.com/embed/fvQjDRfR9wQ?autoplay=1&start=18&end=120&rel=0)  
+![apps](/doc/img/apps.png) | o:Contacts | _a:Open Contact_ |  
+_a:Notice **Is a Customer** and **Is a Vendor** fields were available in v12 and previous versions_ |  
+_a:Notice tab change to go back to new Odoo v13_ | t:Sales&Purchase |  
+_a:Notice **Is a Customer** and **Is a Vendor** fields are no longer there in v13_ |  
+![apps](/doc/img/apps.png) | o:Sales | b:Create | b:Customer &#x2BC6; | _Notice all contacts appear on list_ | _a:Discard order_  
+![apps](/doc/img/apps.png) | o:Purchase | b:Create | b:Vendor &#x2BC6; | _Notice all contacts appear on list_ | _a:Discard order_  
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁷
+
 #### [New Partner Map View &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-xx - 01:53)](https://youtube.com/embed/1y3uHWG7nDQ?autoplay=1&start=0&end=54&rel=0)  
 ![apps](/doc/img/apps.png) | o:Contacts | _a:Select map view_ ![view_map](/doc/img/view_map.png) | _a:Use b:_![zoom_in](/doc/img/button_squared_add.png) || _b:_![zoom_out](/doc/img/button_squared_sub.png) to zoom map_ |  
 _a:Hover on every ![map_location](/doc/img/map_location.png) on map to see contact's data_ | _a:Use b:Edit to modify contact as usual_ |  
