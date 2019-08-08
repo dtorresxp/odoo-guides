@@ -19,7 +19,7 @@
   - No more Payroll in CE
   - Now Payroll will be part of EE
   - Updated Style for Error Messages
-  - New UI for Lunch Module
+  - New interface for Lunch Module
   - NewModule: Employee Presence
   - NewApp: Rentals
   - NewApp: Field Service Management
@@ -28,7 +28,7 @@
   - Product Configurator
   - Configure Report
   - Payroll Planning
-  - New UI for Forum
+  - New interface for Forum
   - Document Upload: Activity Type
   - InApp Purchases: Generate Leads
   - Optional Field Visibility in List View
