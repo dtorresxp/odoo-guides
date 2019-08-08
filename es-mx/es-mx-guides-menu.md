@@ -258,7 +258,7 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
   - Las líneas, excepto la última o las que continúan, deben terminar en **ESPACIO+BARRA+ESPACIO+ESPACIO**, las demás en **ESPACIO+ESPACIO**
   - Usar _**TEXTO**_ en las a:Acciones, en vez de comillas
   - Ligas: (https://youtube.com/embed/sSVb0ZtEAUs?autoplay=1&start=**###**&end=**###**&rel=0 \[ &nocount ])
-  - Hay que agregar _**&nocount**_ al final de la primera liga del video completo en los casos de videos con multi-procedimientos, para evitar que se dupliquen en el conteo de guías
+  - Hay que agregar _**&nocount**_ al final de la primera liga del video completo en los casos de videos con multi-procedimientos, para evitar que se dupliquen al contar las guías
   - Se debe reducir al mínimo el texto de las _**a:**_ y usar siempre la misma palabra para cada acción
 
 
