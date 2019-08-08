@@ -247,6 +247,5 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
     - __cc__: Country code: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 	- Flag icons are round (150x150) button style
 
-
 <br><br>
 ###### Odoo Guides - v8_01 &nbsp; 2019-08-07
