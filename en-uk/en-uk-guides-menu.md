@@ -249,5 +249,4 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
 
 
 <br><br>
-#### Odoo Guides - v8_01 &nbsp; 2019-08-07
- 
+###### Odoo Guides - v8_01 &nbsp; 2019-08-07
