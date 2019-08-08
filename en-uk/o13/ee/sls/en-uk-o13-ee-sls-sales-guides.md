@@ -5,7 +5,7 @@
 
 <br>
 
-#### Product Configurator
+## Product Configurator
 
 #### [How to Activate the Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 02:34)](https://youtube.com/embed/DWmOGxmof_U?autoplay=1&start=0&end=0&rel=0)
 - _a:Deactivated behavior:_  
@@ -40,7 +40,7 @@
 
 <br>
 
-#### Coupons & Promotions
+## Coupons & Promotions
 
 #### [Sales Coupon and Promotion Program &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 06:55)](https://youtube.com/embed/JF5JYktZV3E?autoplay=1&start=0&end=0&rel=0&nocount)
 
@@ -86,5 +86,5 @@
 
 <br>
 
-###### Odoo Guides - v5_01 &nbsp; 2019-08-07  
+###### Odoo Guides - v5_02 &nbsp; 2019-08-08  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

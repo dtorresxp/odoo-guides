@@ -15,6 +15,6 @@ b:Edit | f:BoM Type | o: Subcontracting &#x25C9; | f:Subcontractors &#x2BC6; | _
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
-	
+
 ###### Odoo Guides - V3_01 &nbsp; 2019-08-07  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

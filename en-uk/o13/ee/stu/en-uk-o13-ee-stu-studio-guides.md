@@ -14,6 +14,6 @@ b:Close
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
 <br>
-	
+
 ###### Odoo Guides - v3_01 &nbsp; 2019-08-07  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

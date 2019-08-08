@@ -3,7 +3,7 @@
 ### ![o13](/doc/img/odoo13.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### News  
+## News  
 
 #### [New Features &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 08:57)](https://youtube.com/embed/NLbYN3R07to?autoplay=1&start=0&end=500&rel=0)  
   - _a:FormBuilder in CE_
@@ -62,9 +62,26 @@
   - _a:jQuery (websites management) upgraded to v3_  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
 
+#### [13 News (O13 - EE - eGlobal - es-es - 07:16)](https://youtube.com/embed/4IckENANIvQ?autoplay=1&start=0&end=0&rel=0)  
+- _a:This version has two main goals: Enhance localizations and Increase sales_  
+- _a:These are Odoo's main changes for the new version:_  
+  - _a:Educative app moved to CE_  
+  - _a:Field Service Management app_  
+  - _a:Payroll app_  
+  - _a:In-App Purchase Service_  
+  - _a:OCR module & Document management_  
+  - _a:Items traceability (fleets, products, stock, etc...)_  
+  - _a:Maintenence app_  
+  - _a:Odoo Bank (financial services for Customers)_  
+  - _a:Profesional Accounting service_  
+  - _a:Recruitment service_  
+  - _a:Booking service (personnel travels management)_  
+  - _a:Development of Vertical Modules enforcement_  
+       ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
+
 <br>
 
-#### Guides
+## Guides
 
 #### [Better Error Handling &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:09)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | i:ConfigurationPanel &#x2716; | d:RemoveConfigurationTips? | \[ b:Remove || b:Discard ] |  
@@ -194,5 +211,5 @@ _a:After completing your SuperUsert tasks, don't forget to LogOut, for security 
 
 <br>
 
-###### Odoo Guides - v5_01 &nbsp; 2019-08-07  
+###### Odoo Guides - v5_03 &nbsp; 2019-08-08  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
