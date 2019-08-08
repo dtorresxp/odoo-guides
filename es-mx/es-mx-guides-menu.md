@@ -3,11 +3,11 @@ Ligas a videos y guías en _**&#x03C8;Code**_ para Odoo.
 
 ![Ligas a videos y guías en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo_guides_mini.jpg)
 
-# Guías
-
-# ![o13](/doc/img/odoo13.png)
-- [Edición de la Comunidad](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)
-- [Edición Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
+|  |
+ :--- |
+| [![o13](/doc/img/odoo13.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; [Empresarial](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; [Comunidad](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md) |
 
 <br>
 
