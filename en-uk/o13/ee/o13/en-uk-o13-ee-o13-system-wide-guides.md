@@ -48,18 +48,18 @@
   - _a:FormBuilder moved to CE_  
   - _a:Sales Coupons_  
   - _a:Sales Promotions_  
-  - _a:Barcode scanning with Mobile_  
-  - _a:Widget signature_  
-  - _a:JavaScript lazy-loading (asynchronous) _  
-  - _a:ChromeHeadless (PDF render) replaces wkhtmltopdf_  
+  - _a:Barcode scanner with mobiles_  
+  - _a:Signature widget_  
+  - _a:JavaScript lazy-loading (asynchronous)_  
+  - _a:ChromeHeadless (PDF render) will replace wkhtmltopdf_  
   - _a:Use of Chart.js library (dynamic charts)_  
   - _a:NoAvailable state in internal Chat_  
   - _a:New User Profile interface_  
   - _a:Checklists allowed in HTML editor_  
-  - _a:Chronograph in Surveys and MRP orders_  
+  - _a:Timers in Surveys and MRP orders_  
   - _a:Adding videos to eComerce pages_  
   - _a:New search panel in Kanban view_  
-  - _a:jQuery (upgraded to v3_  
+  - _a:jQuery (websites management) upgraded to v3_  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
 
 <br>
