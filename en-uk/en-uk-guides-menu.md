@@ -6,8 +6,8 @@ Odoo useful video links and _**&#x03C8;Code**_ guides.
 |  |
  :--- |
 | [![o13](/doc/img/odoo13.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
-| &nbsp;&nbsp;&#x25CF;&nbsp; [Enterprise](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
-| &nbsp;&nbsp;&#x25CF;&nbsp; [Community](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; [Enterprise](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; [Community](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md) |
 
 <br>
 
