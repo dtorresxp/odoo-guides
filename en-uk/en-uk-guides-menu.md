@@ -247,7 +247,7 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
     - __cc__: Country code: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 	- Flag icons are round (150x150) button style
   - Show Youtube PlayList time lapse (inside Youtube video is 1 sec. less)
-  - All lines but last or sepparated must end as **SPACE+PIPE+SPACE+SPACE**, all others must end as **SPACE+SPACE**
+  - All lines but last or sepparated must end in **SPACE+PIPE+SPACE+SPACE**, all others must end in **SPACE+SPACE**
   - Use _**TEXT**_ in a:Actions instead quotes
   - Links: (https://youtube.com/embed/sSVb0ZtEAUs?autoplay=1&start=**###**&end=**###**&rel=0 \[ &nocount ])
   - Add _**&nocount**_ to end of link in multi-procedures video guides to avoid duplicating 
