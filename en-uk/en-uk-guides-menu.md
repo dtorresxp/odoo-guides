@@ -3,8 +3,6 @@ Odoo useful video links and _**&#x03C8;Code**_ guides.
 
 ![Odoo useful links & guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg)
 
-# Guides  
-
 |  |
  :--- |
 | [![o13](/doc/img/odoo13.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
