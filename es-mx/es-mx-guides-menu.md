@@ -257,5 +257,5 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
 
 
 <br><br>
-#### Guías Odoo - v8_01 &nbsp; 2019-08-07
+###### Guías Odoo - v8_01 &nbsp; 2019-08-07
  
