@@ -3,6 +3,8 @@
 ### ![o13](/doc/img/odoo13.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
+#### News  
+
 #### [New Features &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 08:57)](https://youtube.com/embed/NLbYN3R07to?autoplay=1&start=0&end=500&rel=0)  
   - _a:FormBuilder in CE_
   - _a:Promotions & Coupons in Sales_
@@ -41,6 +43,28 @@
   - _a:Inventory Forecast_
   - _a:No **account.invoice** model_  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
+
+#### [What's New - News & Features (O13 - EE - MoldeoInteractive - es-ar - 03:47)](https://youtube.com/embed/NjbjRRqhu5k?autoplay=1&start=0&end=0&rel=0)  
+  - _a:FormBuilder moved to CE_  
+  - _a:Sales Coupons_  
+  - _a:Sales Promotions_  
+  - _a:Barcode scanning with Mobile_  
+  - _a:Widget signature_  
+  - _a:JavaScript lazy-loading (asynchronous) _  
+  - _a:ChromeHeadless (PDF render) replaces wkhtmltopdf_  
+  - _a:Use of Chart.js library (dynamic charts)_  
+  - _a:NoAvailable state in internal Chat_  
+  - _a:New User Profile interface_  
+  - _a:Checklists allowed in HTML editor_  
+  - _a:Chronograph in Surveys and MRP orders_  
+  - _a:Adding videos to eComerce pages_  
+  - _a:New search panel in Kanban view_  
+  - _a:jQuery (upgraded to v3_  
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
+
+<br>
+
+#### Guides
 
 #### [Better Error Handling &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:09)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | i:ConfigurationPanel &#x2716; | d:RemoveConfigurationTips? | \[ b:Remove || b:Discard ] |  
