@@ -263,6 +263,6 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
   - Links: (https://youtube.com/embed/sSVb0ZtEAUs?autoplay=1&start=**###**&end=**###**&rel=0 \[ &nocount ])
   - Add _**&nocount**_ to end of link in multi-procedures video guides to avoid duplicating 
   - Reduce _**a:**_ text to the minimum and use only one word for every action, to facilitate learning
-
+  - Use this format to log reviewed but discarded videos: _\[**Video title** - Reviewed but duplicated]: # (**Video ID**)_  
 <br><br>
 ###### Odoo Guides - v8_04 &nbsp; 2019-08-08
