@@ -24,7 +24,7 @@ Creemos que los videos son una forma muy bonita, pero muy ineficiente de capacit
 
 Estamos convencidos de que el éxito de una empresa de servicios de Odoo a largo plazo depende de la velocidad con que puedan mover su información de donde está, a donde se necesita.
 
-Como hizo _Euclides_ hace como 2,300 años, nosotros no procucimos videos, sino que seleccionamos los mejores y redactamos el _**&#x03C8;Code**_ correspondiente en forma de _guías_ de procedimientos.  Como una ventaja extra, las ligas de nuestras guías apuntan directamente al inicio y fin del procedimiento dentro del video.
+Como hizo _Euclides_ hace como 2,300 años, nosotros no creamos los videos, sólo seleccionamos los mejores y redactamos el _**&#x03C8;Code**_ correspondiente en forma de _guías_ de los procedimientos que contienen.  Como una ventaja extra, nuestras ligas apuntan directamente al momento de inicio y fin del procedimiento dentro del video.
 
 Queremos respetar los derechos de los creadores de contenidos.  Todos nuestras ligas a videos incluyen el nombre y dirección del creador original, para cumplir con las políticas del _juego limpio_.
 
@@ -263,5 +263,5 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
 
 
 <br><br>
-###### Guías Odoo - v8_03 &nbsp; 2019-08-08
+###### Guías Odoo - v8_04 &nbsp; 2019-08-08
  
