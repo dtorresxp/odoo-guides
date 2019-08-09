@@ -81,31 +81,31 @@ These are Odoo's main changes for the new version:
 
 #### [Day03 Theatre Roadmap Odoo 13. What's next (O13 - EE - Odoo - en-be - 04:50)](https://youtube.com/embed/vE8yoaMi3x8?autoplay=1&start=70&end=1100&rel=0)  
 
-Odoo is striving for the simplicity on the oversight of complexity
-It's easy to understand and use, saving user's time & reducing difficult activities
-New version Odoo orientation for new version
-- (IAP) In-App Purchases
-  - Buy services directly in Odoo
-  - Odoo Bank - Odoo lend you some cash (factoring)
-  - OCR for Scanning and recording documents (expenses, business cards)
-  - Accountant as a service
-  - Integration with recruitment websites (post your job ad in one click)
-- (IoT) Connecting hardware devices to Odoo
-  - Stock Management, linking scales or probes to Odoo
-  - Automatic reordering process
-  - Dash buttons linked to Odoo
-  - Monitoring machines to reduce down time
-  - Track assets position (Stock, Fleet, Material)
-  - Record Attendances (HR, Events)
-  - Ready to use Modules
-  - Pages per Industry: Features, Benefits, References, Preconfigured, Demo data
-- Industry Focus
-  - Retail & eCommerce int: Amazon, Product Search, Social Media, After sales
-  - Maintenance Sheet for Tablets: Tasks, Products, eSignature
-  - Fashion: Order variants from a matrix, Autocomplete sales & purchase orders
-  - NGO: Donations, Hide mercantile terms, Rename URLs (donate or sponsor instead shop)
-  - Hospitality: Bookings, Availabilities, Check-in/out
-  - Addressing one industry per month since 2018: See collaborating documents for community
+Odoo is striving for the simplicity on the oversight of complexity  
+It's easy to understand and use, saving user's time & reducing difficult activities  
+New version Odoo orientation for new version  
+- (IAP) In-App Purchases  
+  - Buy services directly in Odoo  
+  - Odoo Bank - Odoo lend you some cash (factoring)  
+  - OCR for Scanning and recording documents (expenses, business cards)  
+  - Accountant as a service  
+  - Integration with recruitment websites (post your job ad in one click)  
+- (IoT) Connecting hardware devices to Odoo  
+  - Stock Management, linking scales or probes to Odoo  
+  - Automatic reordering process  
+  - Dash buttons linked to Odoo  
+  - Monitoring machines to reduce down time  
+  - Track assets position (Stock, Fleet, Material)  
+  - Record Attendances (HR, Events)  
+  - Ready to use Modules  
+  - Pages per Industry: Features, Benefits, References, Preconfigured, Demo data  
+- Industry Focus  
+  - Retail & eCommerce int: Amazon, Product Search, Social Media, After sales  
+  - Maintenance Sheet for Tablets: Tasks, Products, eSignature  
+  - Fashion: Order variants from a matrix, Autocomplete sales & purchase orders  
+  - NGO: Donations, Hide mercantile terms, Rename URLs (donate or sponsor instead shop)  
+  - Hospitality: Bookings, Availabilities, Check-in/out  
+  - Addressing one industry per month since 2018: See collaborating documents for community  
     ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁹
 
 <br>
