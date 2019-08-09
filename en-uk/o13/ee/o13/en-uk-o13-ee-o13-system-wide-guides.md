@@ -83,7 +83,7 @@ These are Odoo's main changes for the new version:
 
 Odoo is striving for the simplicity on the oversight of complexity  
 It's easy to understand and use, saving user's time & reducing difficult activities  
-New version Odoo orientation for new version  
+Odoo's new version is oriented to three main goals:  
 - (IAP) In-App Purchases  
   - Buy services directly in Odoo  
   - Odoo Bank - Odoo lend you some cash (factoring)  
