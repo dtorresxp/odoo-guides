@@ -265,7 +265,7 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
   - Ligas: (https://youtube.com/embed/sSVb0ZtEAUs?autoplay=1&start=**###**&end=**###**&rel=0 \[ &nocount ])
   - Hay que agregar _**&nocount**_ al final de la primera liga del video completo en los casos de videos con multi-procedimientos, para evitar que se dupliquen al contar las guías
   - Se debe reducir al mínimo el texto de las _**a:**_ y usar siempre la misma palabra para cada acción
-  - Para registrar los videos revisados y descartados, usar el formato: _\[**Título del Video** - Reviewed but duplicated]: # (**ID del Video**)_  
+  - Registre así los videos revisados y descartados: _\[**Título del Video** - Reviewed but duplicated]: # (**ID del Video**)_  
 
 
 <br><br>
