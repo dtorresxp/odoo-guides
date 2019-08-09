@@ -21,8 +21,8 @@
 | ![psc](/doc/img/hr_presence.jpg)          | [Presence](/en-uk/o13/ee/psc/en-uk-o13-ee-psc-presence-guides.md)                             | ![prj](/doc/img/project.jpg)              | [Projects](/en-uk/o13/ee/prj/en-uk-o13-ee-prj-projects-guides.md)                             | ![pch](/doc/img/purchase.jpg)             | [Purchasing](/en-uk/o13/ee/pch/en-uk-o13-ee-pch-purchasing-guides.md)                         |
 | ![rcr](/doc/img/hr_recruitment.jpg)       | [Recruitment](/en-uk/o13/ee/rcr/en-uk-o13-ee-rcr-recruitment-guides.md)                       | ![rnt](/doc/img/rentals.jpg)              | [Rental](/en-uk/o13/ee/rnt/en-uk-o13-ee-rnt-rental-guides.md)                                 | ![sls](/doc/img/sale.jpg)                 | [Sales](/en-uk/o13/ee/sls/en-uk-o13-ee-sls-sales-guides.md)                                   |
 | ![skm](/doc/img/hr_skills.jpg)            | [Skills](/en-uk/o13/ee/skm/en-uk-o13-ee-skm-skills-guides.md)                                 | ![sli](/doc/img/website_slides.jpg)       | [Slides](/en-uk/o13/ee/sli/en-uk-o13-ee-sli-slides-guides.md)                                 | ![sub](/doc/img/sale_subscription.jpg)    | [Subscriptions](/en-uk/o13/ee/sub/en-uk-o13-ee-sub-subscriptions-guides.md)                   |
-| ![svy](/doc/img/survey.jpg)               | [Surveys](/en-uk/o13/ee/svy/en-uk-o13-ee-svy-survey-guides.md)                                | ![tof](/doc/img/timeoff.jpg)              | [Time Off](/en-uk/o13/ee/tof/en-uk-o13-ee-tof-timeoff-guides.md)                              | ![tsh](/doc/img/hr_timesheet.jpg)         | [Time Sheet](/en-uk/o13/ee/tsh/en-uk-o13-ee-tsh-timesheet-guides.md)                          |
-| ![web](/doc/img/website.jpg)              | [Websites](/en-uk/o13/ee/web/en-uk-o13-ee-web-websites-builder-guides.md)                     | | | | |
+| ![svy](/doc/img/survey.jpg)               | [Surveys](/en-uk/o13/ee/svy/en-uk-o13-ee-svy-survey-guides.md)                                | ![tof](/doc/img/timeoff.jpg)              | [Time Off](/en-uk/o13/ee/tof/en-uk-o13-ee-tof-timeoff-guides.md)                              | ![tsh](/doc/img/hr_timesheet.jpg)         | [Timesheet](/en-uk/o13/ee/tsh/en-uk-o13-ee-tsh-timesheet-guides.md)                           |
+| ![web](/doc/img/website.jpg)              | [Websites](/en-uk/o13/ee/web/en-uk-o13-ee-web-websites-builder-guides.md)                     |                                           |                                                                                               | ![3rd](/doc/img/third_parties.jpg)        | [3rd Parties](/en-uk/o13/ee/3rd/en-uk-o13-ee-3rd-third-parties-guides.md)                     |
 
 <br>
 
@@ -67,4 +67,4 @@
 
 <br>  
   
-###### Odoo Guides - v7_03 &nbsp; 2019-08-07<br>[_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)
+###### Odoo Guides - v7_04 &nbsp; 2019-08-07<br>[_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)
