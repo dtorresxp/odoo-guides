@@ -30,12 +30,12 @@ Queremos respetar los derechos de los creadores de contenidos.  Todos nuestras l
 
 Nosotros recibiremos, contestaremos, verificaremos y por supuesto que agradeceremos mucho cualquier guía que nos hagan llegar.  La vamos a incluir aquí, para apoyar nuestra comunidad de Odoo lo mejor que podamos.
 
-Para arrancar este proyecto, comenzamos con los videos de novedades de la nueva versión 13 de Odoo, pero conforme vayamos recibiendo las guías, iremos incorporando otras versiones.<br><br>
+Para arrancar este proyecto, comenzamos con los videos de novedades de la nueva versión 13 de Odoo, pero conforme vayamos recibiendo las guías, iremos incorporando otras versiones.  
 
-Con gusto quedamos a la espera de sus colaboraciones.
+Con gusto quedamos a la espera de sus colaboraciones.  
 
-Muchas gracias.
-Atte, el equipo de _**&#x03C8;Code**_
+Muchas gracias.  
+Atte, el equipo de _**&#x03C8;Code**_  
 
 <br>
 
