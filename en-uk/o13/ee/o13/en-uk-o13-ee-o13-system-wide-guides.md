@@ -184,6 +184,8 @@ _a:Do you want to set the value on the 3 valid selected records?_ | \[ b:Ok \|\|
 _a:Review changes_ | b:GroupBy &#x2BC6; | **&#x2713;** o:Salesperson | _a:Check your contacts now've the right f:Salesperson_  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
+[My Profile - Reviewed but duplicated]: # (pFTFcWwjkns)  
+
 #### [MyProfile Option &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:17)](https://youtube.com/embed/F2WqEkGwmgw?autoplay=1&start=0&end=115&rel=0)  
 ![apps](/doc/img/apps.png) | o:Settings | m:MySelf | o:MyProfile |  
 _a:Notice option name was **Preferences** in previos versions_  
