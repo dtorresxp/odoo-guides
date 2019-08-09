@@ -77,7 +77,7 @@ These are Odoo's main changes for the new version:
  - Recruitment service  
  - Booking service (personnel travels management)  
  - Development of Vertical Modules enforcement  
-ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
+   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁸
 
 <br>
 
