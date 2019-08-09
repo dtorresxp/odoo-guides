@@ -3,7 +3,7 @@
   
 <br>
 
-# ![o13](/doc/img/odoo13.png) &nbsp;EE
+# [![o13](/doc/img/odoo13.png)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-system-wide-guides.md) &nbsp;EE
 | Icon | Description | Icon | Description | Icon | Description |
 | :---: | --- | :---: | --- | :---: | --- |
 | [![o13](/doc/img/odoo13.jpg)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-system-wide-guides.md)                        | [System](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-system-wide-guides.md)                            | | | | |
@@ -67,4 +67,4 @@
 
 <br>  
   
-###### Odoo Guides - v8_01 &nbsp; 2019-08-09<br>[_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)
+###### Odoo Guides - v8_02 &nbsp; 2019-08-09<br>[_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)

@@ -3,7 +3,7 @@
   
 <br>
 
-# ![o13](/doc/img/odoo13.png) &nbsp;EE
+# [![o13](/doc/img/odoo13.png)](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-system-wide-guides.md) &nbsp;EE
 | Icono | Significado | Icono | Significado | Icono | Significado |
 | :---: | --- | :---: | --- | :---: | --- |
 | [![o13](/doc/img/odoo13.jpg)](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-system-wide-guides.md)                        | [Sistema](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-system-wide-guides.md)                           | | | | |
@@ -67,4 +67,4 @@
 
 <br>
 
-###### Guías Odoo - v8_01 &nbsp; 2019-08-09<br>[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
+###### Guías Odoo - v8_02 &nbsp; 2019-08-09<br>[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
