@@ -3,7 +3,7 @@ Odoo useful video links and _**&#x03C8;Code**_ guides.
 
 ![Odoo useful links & guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg)
 
-|  |
+| Select edition:  |
 | :--- |
 | [![o13](/doc/img/odoo13.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
 | &nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; [Enterprise](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
@@ -254,4 +254,4 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
   - Reduce _**a:**_ text to the minimum and use only one word for every action, to facilitate learning
 
 <br><br>
-###### Odoo Guides - v8_02 &nbsp; 2019-08-08
+###### Odoo Guides - v8_03 &nbsp; 2019-08-08
