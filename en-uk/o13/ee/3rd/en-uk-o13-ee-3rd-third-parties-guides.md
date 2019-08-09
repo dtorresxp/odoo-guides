@@ -3,7 +3,7 @@
 ### ![ThirdParties](/doc/img/third_parties.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-  - &#x26A0; _a: Many guides on this list are of commercial procedures.  
+  &#x26A0; _a: Many guides on this list are of commercial procedures.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some charges may apply.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We aren't asserting nor supporting nor earning money on this.  
 
