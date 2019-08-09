@@ -28,9 +28,14 @@ Como hizo _Euclides_ hace como 2,300 años, nosotros no creamos los videos, sól
 
 Queremos respetar los derechos de los creadores de contenidos.  Todos nuestras ligas a videos incluyen el nombre y dirección del creador original, para cumplir con las políticas del _juego limpio_.
 
-Nosotros recibiremos, contestaremos, verificaremos y por supuesto que agradeceremos mucho cualquier guía que nos hagan llegar.  La vamos a incluir aquí, para apoyar nuestra comunidad de Odoo lo mejor que podamos.<br><br>
+Nosotros recibiremos, contestaremos, verificaremos y por supuesto que agradeceremos mucho cualquier guía que nos hagan llegar.  La vamos a incluir aquí, para apoyar nuestra comunidad de Odoo lo mejor que podamos.
 
-Gracias.
+Para arrancar este proyecto, comenzamos con los videos de novedades de la nueva versión 13 de Odoo, pero conforme vayamos recibiendo las guías, iremos incorporando otras versiones.<br><br>
+
+Con gusto quedamos a la espera de sus colaboraciones.
+
+Muchas gracias.
+Atte, el equipo de _**&#x03C8;Code**_
 
 <br>
 
