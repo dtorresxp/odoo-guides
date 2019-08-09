@@ -13,7 +13,7 @@
 - _a:Execute script_ | _a:Enter **sudo** password_ | 
 - _a:Wait for script to end, when **Odoo master Installation has finished!!** message appears |  
 - _a:Type **systemctl status odoo13.service** | _a:Notice Odoo13 instance is active and running |  
-- _a:Folders:_**On This Computer / Computer / opt / odoosrc /  
+- _a:Folders:_ **On This Computer / Computer / opt / odoosrc /  
    - .../13.0: Installation files  
    - .../log:  Installation logs  
    - .../data: Databases, Addons & Sessions<br>  
