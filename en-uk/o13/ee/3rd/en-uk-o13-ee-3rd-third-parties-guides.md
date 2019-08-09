@@ -4,8 +4,8 @@
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
   &#x26A0; &nbsp;&nbsp;Many guides on this list are of commercial procedures.  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some charges may apply.  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We aren't asserting nor supporting nor earning money on this.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some charges may apply.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We aren't asserting nor supporting nor earning money on this.  
 
 #### [How to download & install Odoo in Ubuntu Debian (O13 - EE - OdooErpCloud - es-es - 04:50)](https://youtube.com/embed/AHn9LukC2lw?autoplay=1&start=0&end=269&rel=0)  
 
