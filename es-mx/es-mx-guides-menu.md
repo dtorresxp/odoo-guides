@@ -3,7 +3,7 @@ Ligas a videos y guías en _**&#x03C8;Code**_ para Odoo.
 
 ![Ligas a videos y guías en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo_guides_mini.jpg)
 
-|  |
+| Elija su Edición: |
 | :--- |
 | [![o13](/doc/img/odoo13.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md) |
 | &nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; [Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md) |
@@ -263,5 +263,5 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
 
 
 <br><br>
-###### Guías Odoo - v8_02 &nbsp; 2019-08-08
+###### Guías Odoo - v8_03 &nbsp; 2019-08-08
  
