@@ -29,6 +29,15 @@ We want to respect the originator rights.  So, all our video links include the o
 
 We'll receive, acknowledge, verify and be very grateful for any Odoo guide you send us.  We'll include it here, in order to support our Odoo community as best as we can.
 
+To start this project, we began with new features and enhancement guides about the new version Odoo 13, but as we receive more guides, we'll incorporate another Odoo versions.
+
+We'll be glad to hear from you and receive your collaborations.
+
+
+Kind regards,
+The _**&#x03C8;Code**_ team.
+
+
 <br>
 
 # Structure
@@ -254,4 +263,4 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
   - Reduce _**a:**_ text to the minimum and use only one word for every action, to facilitate learning
 
 <br><br>
-###### Odoo Guides - v8_03 &nbsp; 2019-08-08
+###### Odoo Guides - v8_04 &nbsp; 2019-08-08
