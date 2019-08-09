@@ -1,5 +1,5 @@
 # O13 - EE - ACC - Contabilidad &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/acc/en-uk-o13-ee-acc-accounting-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/acc/es-mx-o13-ee-acc-accounting-guides.md)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menúu de EE")  
 ### ![acc](/doc/img/account_accountant.png)
 
 #### [Ya no se usa el Modelo _account.invoice_ &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:56)](https://youtube.com/embed/Ap7IPh23rsQ?autoplay=1&start=6&end=60&rel=0)

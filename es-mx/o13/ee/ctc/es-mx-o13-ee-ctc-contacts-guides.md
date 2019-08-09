@@ -1,5 +1,5 @@
 # O13 - EE - CTC - Contactos &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/ctc/en-uk-o13-ee-ctc-contacts-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/ctc/es-mx-o13-ee-ctc-contacts-guides.md)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menúu de EE")  
 ### ![ctc](/doc/img/contacts.png)
 
 #### [Nueva vista de Mapa para socios &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:53)](https://youtube.com/embed/1y3uHWG7nDQ?autoplay=1&start=0&end=54&rel=0)  

@@ -1,5 +1,5 @@
 # O13 - EE - MRP - Manufactura &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/mrp/en-uk-o13-ee-mrp-mrp-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/mrp/es-mx-o13-ee-mrp-mrp-guides.md)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menúu de EE")  
 ### ![mrp](/doc/img/mrp.png)
 
 #### [Cómo activar una Orden de Trabajo MRP &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:22)](https://youtube.com/embed/Xrw-bAZ82xA?autoplay=1&start=0&end=67&rel=0)  

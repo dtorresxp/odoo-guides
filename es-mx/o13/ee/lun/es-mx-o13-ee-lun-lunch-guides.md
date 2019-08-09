@@ -1,5 +1,5 @@
 # O13 - EE - LUN - Comidas &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/lun/en-uk-o13-ee-lun-lunch-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/lun/es-mx-o13-ee-lun-lunch-guides.md)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menúu de EE")  
 ### ![lun](/doc/img/lunch.png)
 
 #### [Mejoras al Control de Comidas &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 06:29)](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=4&end=0&rel=0)<br>

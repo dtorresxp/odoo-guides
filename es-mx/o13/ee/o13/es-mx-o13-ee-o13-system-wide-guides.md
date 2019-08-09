@@ -1,5 +1,5 @@
 # O13 - EE - O13 - Funcionalidad Global &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-system-wide-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-system-wide-guides.md)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menúu de EE")  
 ### ![o13](/doc/img/odoo13.png)
 
 #### [Mejor manejo de Errores &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:09)](https://youtube.com/embed/pD8tbIM_oYs?autoplay=1&start=0&end=0&rel=0)  

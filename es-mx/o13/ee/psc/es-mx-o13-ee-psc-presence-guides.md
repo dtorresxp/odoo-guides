@@ -1,5 +1,5 @@
 # O13 - EE - PSC - Asistencias &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/psc/en-uk-o13-ee-psc-presencia-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/psc/es-mx-o13-ee-psc-presencia-guides.md)
-#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)  
+#### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menúu de EE")  
 ### ![psc](/doc/img/hr_presence.png)
 
 #### [Nueva app de Control de Asistencias &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 04:10)](https://youtube.com/embed/5flykV7VCzo?autoplay=1&start=4&end=0&rel=0&nocount)<br>
