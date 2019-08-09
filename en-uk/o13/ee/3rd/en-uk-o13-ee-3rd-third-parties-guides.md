@@ -18,7 +18,7 @@
    - .../log:  Installation logs  
    - .../data: Databases, Addons & Sessions<br>  
 - _a:Open Internet browser_  | _a:Enter host address & port **localhost:1369**_ | _a:Enter Odoo credentials |  
-- ![apps](/doc/img/apps.png) | o:Settings | 
+- ![apps](/doc/img/apps.png) | o:Settings |  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁹
 
 ###### Odoo Guides - V1_02 &nbsp; 2019-08-08  
