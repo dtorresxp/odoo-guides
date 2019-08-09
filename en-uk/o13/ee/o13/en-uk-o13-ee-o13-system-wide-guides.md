@@ -240,5 +240,5 @@ _a:After completing your SuperUsert tasks, don't forget to LogOut, for security 
 
 <br>
 
-###### Odoo Guides - v5_03 &nbsp; 2019-08-08  
+###### Odoo Guides - v5_04 &nbsp; 2019-08-09  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
