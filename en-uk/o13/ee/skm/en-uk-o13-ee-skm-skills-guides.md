@@ -17,11 +17,13 @@
   ![apps](/doc/img/apps.png) | o:Employees | m:Configuration | i:Employee | o:Skills |  
   _a:Review all Skills registered as **(tags)** by type_ | _a:Click on any_ f:Name _ to open a Type |  
   _a:Review the different Skills and Levels available for each one |  
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁹
   
 - [Resume Skill Types catalog](https://youtube.com/embed/Ad6bXz2xqtw?autoplay=1&start=340&end=383&rel=0)  
   ![apps](/doc/img/apps.png) | o:Employees | m:Configuration | i:Resume | o:Types |  
   _a:Review Skill Types_ | b:Create | f:Name | f:Sequence | b:Save |  
   &#x23BD;/&#x23BD;/:ResumeLineTypes | _a:Review your new skill type  
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁹
 
 <br>
 
