@@ -119,6 +119,15 @@ b:Edit | f:Done | w:Open:StockMovesNotInPackage | b:Close | b:CheckAvailability 
 b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
+#### [Control Panel View (O13 - EE - Technaureus - en-in - 03:00)](https://youtube.com/embed/eq8HhyMhBgg?autoplay=1&start=50&end=0&rel=0)  
+_a:Remember **Control Panel** is the Search + Filter + GroupBy + Favorites section on top-right of Odoo app's screen_
+![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
+![apps](/doc/img/apps.png) | _a:Select any_ o:Sales _with a list_ | 
+&#x1F41E; | o:EditControlPanelView | w:EditControlPanelView | 
+f:ViewName | f:ViewType | f:Model | f:Sequence | f:Active | f:ChildField | f:InheritedView |  
+f:ViewInheritanceMode | f:ModelData | f:ExternalID | i:EditTranslations |  
+t:Architecture | _a:Review XML configuration_ | \[ b:Save | b:Discard ]
+
 #### [Date Filter improvements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 04:08)](https://youtube.com/embed/VwAKizxl2Go?autoplay=1&start=0&end=98&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Open app with views that have Date fields_ |  
 \[ o:CRM \|\| o:Sales \|\| o:Purchase \|\| o:Manufacturing \|\| o:Project \|\| o:Invoicing ] |  
@@ -142,10 +151,9 @@ f:Email | _a:Define a right one_ | b:Save
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 #### [How to Get/Test v13 &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 05:52)](https://youtube.com/embed/DzorSmXzces?autoplay=1&start=70&end=0&rel=0&nocount)  
-&#x26A0; _a: We noticed slightly differences after testing this video procedures ourselves,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maybe because **runbot** uses Odoo 13.0alpha1+e (**Community** Edition)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;instead of Odoo 13.0+e (**Enterprise** Edition)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anyway, both guides are still operational_  
+&#x26A0; _a: We noticed slightly differences after testing this video procedures ourselves  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maybe because of security & stability considerations  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anyway, they're still operational_  
 - [Connect Community](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=70&end=151&rel=0)  
   ![internet_small](/doc/img/internet_small.png) https://runbot.odoo.com/runbot | _a:Review Branches Status_ |  
   i:master ![quick_connect](/doc/img/quick_connect.png) | _a:Logout from any other Odoo instance_ m:MySelf | o:LogOut |  
@@ -155,11 +163,9 @@ f:Email | _a:Define a right one_ | b:Save
 
 - [Connect Enterprise](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=151&end=271&rel=0)  
   ![internet_small](/doc/img/internet_small.png) https://runbot.odoo.com/runbot | b:Odoo/enterprise | i:master ![quick_connect](/doc/img/quick_connect.png) |  
-  _a:You could click on_ b:Select ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png)
-     &nbsp;_to choose betwen a_ \[ demo | clean | empty | new ] _database_  
   \[ f:EMail \| _a:Enter_ admin ] &nbsp;|&nbsp; \[ f:Password \| _a:Enter_ admin ] | b:LogIn | _a:Avoid saving test password in your browser_ |  
   o:Settings | _a:Verify you're now in Odoo 13.0alpha1+e(Enterprise Edition) or higher_  
-  ⱽ¹⁻⁰² &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁹
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 - [Get Odoo](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=277&end=297&rel=0)  
   ![internet_small](/doc/img/internet_small.png) https://github.com/odoo/odoo | b:Branch &#x2BC6; | o:master | b:Clone or download | b:DownloadZIP |  
@@ -245,5 +251,5 @@ _a:After completing your SuperUsert tasks, don't forget to LogOut, for security 
 
 <br>
 
-###### Odoo Guides - v5_06 &nbsp; 2019-08-09  
+###### Odoo Guides - v5_04 &nbsp; 2019-08-09  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
