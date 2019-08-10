@@ -120,9 +120,8 @@ b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 #### [Control Panel View (O13 - EE - Technaureus - en-in - 03:00)](https://youtube.com/embed/eq8HhyMhBgg?autoplay=1&start=50&end=142&rel=0)  
-_a:Remember **Control Panel** is the Search + Filter + GroupBy + Favorites section on top-right of Odoo app's screen_
-![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
-![apps](/doc/img/apps.png) | _a:Select any_ o:Sales _with a list_ |  
+_a:In Odoo **Control Panel** is the Search+Filter+GroupBy+Favorites section on top-right of the window_
+![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | ![apps](/doc/img/apps.png) | _a:Select any_ o:Sales _with a list_ |  
 &#x1F41E; | o:EditControlPanelView | w:EditControlPanelView |  
 f:ViewName | f:ViewType | f:Model | f:Sequence | f:Active | f:ChildField | f:InheritedView |  
 f:ViewInheritanceMode | f:ModelData | f:ExternalID | i:EditTranslations |  
