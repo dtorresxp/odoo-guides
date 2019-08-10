@@ -123,8 +123,9 @@ b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;
 _a:In Odoo **Control Panel** is the Search+Filter+GroupBy+Favorites section on top-right of the window_  
 ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | ![apps](/doc/img/apps.png) | _a:Select any_ o:Sales _with a list_ |  
 &#x1F41E; | o:EditControlPanelView | w:EditControlPanelView |  
-f:ViewName | f:ViewType | f:Model | f:Sequence | f:Active | f:ChildField | f:InheritedView |  
-f:ViewInheritanceMode | f:ModelData | f:ExternalID | i:EditTranslations |  
+_a:Fields:_ f:ViewName | f:ViewType | f:Model | f:Sequence | f:Active | f:ChildField |  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+f:InheritedView | f:ViewInheritanceMode | f:ModelData | f:ExternalID | i:EditTranslations |  
 t:Architecture | _a:Review XML configuration_ | \[ b:Save | b:Discard ]  
 
 #### [Date Filter improvements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 04:08)](https://youtube.com/embed/VwAKizxl2Go?autoplay=1&start=0&end=98&rel=0)  
