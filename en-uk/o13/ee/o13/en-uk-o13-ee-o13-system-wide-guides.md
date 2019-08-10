@@ -126,7 +126,7 @@ _a:In Odoo **Control Panel** is the Search+Filter+GroupBy+Favorites section on t
 _a:Fields:_ &nbsp;f:ViewName | f:ViewType | f:Model | f:Sequence | f:Active | f:ChildField |  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 f:InheritedView | f:ViewInheritanceMode | f:ModelData | f:ExternalID |  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i:EditTranslations |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i:EditTranslations |  
 t:Architecture | _a:Review XML configuration_ | \[ b:Save | b:Discard ]  
 
 #### [Date Filter improvements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 04:08)](https://youtube.com/embed/VwAKizxl2Go?autoplay=1&start=0&end=98&rel=0)  
