@@ -155,7 +155,7 @@ f:Email | _a:Define a right one_ | b:Save
 
 - [Connect Enterprise](https://youtube.com/embed/ka8Zj8XcXPg?autoplay=1&start=151&end=271&rel=0)  
   ![internet_small](/doc/img/internet_small.png) https://runbot.odoo.com/runbot | b:Odoo/enterprise | i:master ![quick_connect](/doc/img/quick_connect.png) |  
-  _a:Notice you can click on_ b:Select ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png)
+  _a:You could click on_ b:Select ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png)
      &nbsp;_to choose betwen a_ \[ demo | clean | empty | new ] _database_  
   \[ f:EMail \| _a:Enter_ admin ] &nbsp;|&nbsp; \[ f:Password \| _a:Enter_ admin ] | b:LogIn | _a:Avoid saving test password in your browser_ |  
   o:Settings | _a:Verify you're now in Odoo 13.0alpha1+e(Enterprise Edition) or higher_  
