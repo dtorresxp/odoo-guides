@@ -119,14 +119,14 @@ b:Edit | f:Done | w:Open:StockMovesNotInPackage | b:Close | b:CheckAvailability 
 b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
-#### [Control Panel View (O13 - EE - Technaureus - en-in - 03:00)](https://youtube.com/embed/eq8HhyMhBgg?autoplay=1&start=50&end=0&rel=0)  
+#### [Control Panel View (O13 - EE - Technaureus - en-in - 03:00)](https://youtube.com/embed/eq8HhyMhBgg?autoplay=1&start=50&end=142&rel=0)  
 _a:Remember **Control Panel** is the Search + Filter + GroupBy + Favorites section on top-right of Odoo app's screen_
 ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode |  
 ![apps](/doc/img/apps.png) | _a:Select any_ o:Sales _with a list_ | 
 &#x1F41E; | o:EditControlPanelView | w:EditControlPanelView | 
 f:ViewName | f:ViewType | f:Model | f:Sequence | f:Active | f:ChildField | f:InheritedView |  
 f:ViewInheritanceMode | f:ModelData | f:ExternalID | i:EditTranslations |  
-t:Architecture | _a:Review XML configuration_ | \[ b:Save | b:Discard ]
+t:Architecture | _a:Review XML configuration_ | \[ b:Save | b:Discard ]  
 
 #### [Date Filter improvements &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 04:08)](https://youtube.com/embed/VwAKizxl2Go?autoplay=1&start=0&end=98&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Open app with views that have Date fields_ |  
