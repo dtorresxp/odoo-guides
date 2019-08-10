@@ -119,6 +119,12 @@ b:Edit | f:Done | w:Open:StockMovesNotInPackage | b:Close | b:CheckAvailability 
 b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
+#### [Calculate Widget (O13 - EE - OdooExperts - xx-nl - 00:13)](https://youtube.com/embed/xetWeXJCxDc?autoplay=1&start=0&end=0&rel=0)  
+![apps](/doc/img/apps.png) | _a:Select any app with numeric fields_ | _Open list_ | _Select item_ | b:Edit |  
+_a:Select numeric field_ | _a:Enter valid numeric expression, beginning with **=** and type **enter**_ |  
+_a:Notice now selected field has the result of expression instead_  
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁰
+
 #### [Control Panel View (O13 - EE - Technaureus - en-in - 03:00)](https://youtube.com/embed/eq8HhyMhBgg?autoplay=1&start=50&end=142&rel=0)  
 _a:In Odoo **Control Panel** is the Search+Filter+GroupBy+Favorites section on top-right of the window_  
 ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | ![apps](/doc/img/apps.png) | _a:Select any_ o:Sales _with a list_ |  
