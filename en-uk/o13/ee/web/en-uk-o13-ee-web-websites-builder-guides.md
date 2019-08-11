@@ -5,7 +5,7 @@
 
 #### [Add an anchor link (O13 - EE - OdooExperts - xx-nl - 00:28)](https://youtube.com/embed/sv-E4t4Fm8Q?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Website | b:GoToWebSite | _a:Select desired Page_ | b:Edit | _a:Select Object to add an anchor_ |  
-m:Customize &#x2BC6; | o:AnchorName | 
+m:Customize &#x2BC6; | o:AnchorName |  
 w:AnchorName | f:ChooseAnAnchorName | _a:Enter anchor name, like **Meet the Team**_ | b:Save |  
 _a:Go to desired page_ | _a:Double click on a button_ |  
 w:LinkTo | f:URLorEmail | _a:Add previous anchor name, preceded by **#**_ | b:Save |  
