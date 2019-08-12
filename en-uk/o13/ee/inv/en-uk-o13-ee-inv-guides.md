@@ -20,6 +20,20 @@ _a:Notice new rows with:_ f:WarehouseName | f:ReservedQuantiey | f:OnHandQuantit
 _a:Notice sum of Warehouses quantities are the same as Product row_  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
+#### [Receive Products on different Locations (O13 - EE - PinakinNayi - xx-in - 03:03)](https://youtube.com/embed/SOs90Jbpc8M?autoplay=1&start=0&end=0&rel=0)  
+- ###### Configuration
+  ![apps](/doc/img/apps.png) | o:Inventory | m:Configuration | o:Locations | _a:Notice there are two different shelves in this example_ |  
+  m:MasterData | o:Products | _a:Open Product | s:PutawayRules |  
+  _a: Click on a_ f:Product _to show its Putaway Rules_ | f:WhenProductArrivesIn | f:StoreTo | _a:Review rules_ |  
+  m:Configuration | o:Locations | _a:Click on a Location to show its Rules_ |  
+  _a:Click on a_ f:Warehouse name _to show its Rules_ | s:PutawayRules |  
+  _a:Click on a_ f:Rule _to edit_ | f:ProductCategory | f:WhenProductArrivesIn | f:StoreTo | b:Save |  
+  m:Overview | i:Receipts | nbsp;**&#x2807;** | i:Settings | f:DefaultDestinationLocation | b:Save |  
+- ###### Test
+  ![apps](/doc/img/apps.png) | o:Inventory | m:Configuration | o:Locations | _a:Notice there are two different shelves in this example_ |  
+
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹²
+
 <br>
 
 ###### Odoo Guides - V3_02 &nbsp; 2019-08-11  

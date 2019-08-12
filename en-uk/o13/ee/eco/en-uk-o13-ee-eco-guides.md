@@ -22,6 +22,11 @@ w:Shop | b:SortBy &#x2BC6; | _a:Select sort order_
 t:sales | f:DescriptionForCustomers | _a:Enter description_ | s:PublishedOnWebsite  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
+#### [Shipping costs asynchronous loading (O13 - EE - OdooExperts - xx-nl - 00:04)](https://youtube.com/embed/r5FvKPfm7RA?autoplay=1&start=0&end=0&rel=0)  
+![apps](/doc/img/apps.png) | o:Website | m:Shop | o:Products | _a:Create Order_ | _a:Set Delivery Address_ |  
+_a:Notice asynchronous cost calculation per shipping company_
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹²
+
 <br>
 
 ###### Odoo Guides - V5_02 &nbsp; 2019-08-11  

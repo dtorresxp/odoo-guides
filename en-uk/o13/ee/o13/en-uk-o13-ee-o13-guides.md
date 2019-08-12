@@ -159,6 +159,12 @@ _a:Review changes_ | b:GroupBy &#x2BC6; | **&#x2713;** o:Salesperson | _a:Check 
 \[ _a:Show optional field with_ &#x1F5F9; ]&#x207F; | _a:Click outside fields window_  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
+#### [Show an address in map view (O13 - EE - OdooExperts - xx-nl - 00:11)](https://youtube.com/embed/VIFK4U-v4NA?autoplay=1&start=0&end=0&rel=0)  
+![apps](/doc/img/apps.png) | _a:Open module with_ v:map | _a:Open_ v:list_ |  
+_a:Select ![view_map](/doc/img/view_map.png) view_ | _a:Click on desired location_ ![map_location](/doc/img/map_location.png) |  
+b:Edit | _a:Review location data_ | b:Save |  
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹²
+
 #### [Smart Buttons on top &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:52)](https://youtube.com/embed/NfgpzPuqkuI?autoplay=1&start=0&end=82&rel=0)  
 ![apps](/doc/img/apps.png) | o:Open module with SmartButtons in its form_ | _a:Open Contact_ | _a:Notice SmartButtons are arranged along the form's top_ |  
 m:More &#x2BC6; | _a:Review the other SmartButtons_ |  
