@@ -3,7 +3,7 @@
   
 <br>
 
-# [![o13](/doc/img/odoo13.png)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-guides.md) &nbsp;EE
+# [![o13](/doc/img/app/big/o13.png)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-guides.md) &nbsp;EE
 | Icon | Description | Icon | Description | Icon | Description |
 | :---: | --- | :---: | --- | :---: | --- |
 | [![o13](/doc/img/app/sml/o13.jpg)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-guides.md) | [System](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-guides.md)                   | | | | |
