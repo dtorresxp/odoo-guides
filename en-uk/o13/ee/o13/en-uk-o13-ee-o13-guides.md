@@ -120,7 +120,7 @@ b:Validate | w:ImmediateTransfer? | b:Apply | d:UserError &#x2716;
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 #### [Calculate Widget (O13 - EE - OdooExperts - xx-nl - 00:13)](https://youtube.com/embed/xetWeXJCxDc?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | _a:Select any app with numeric fields_ | _Open list_ | _Select item_ | b:Edit |  
+![apps](/doc/img/apps.png) | _a:Select any app with numeric fields_ | _a:Open list_ | _a:Select item_ | b:Edit |  
 _a:Select numeric field_ | _a:Enter valid numeric expression, beginning with **=** and press **enter** to get its result_ |  
 _a:Notice now selected field has the result of expression instead_  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁰
