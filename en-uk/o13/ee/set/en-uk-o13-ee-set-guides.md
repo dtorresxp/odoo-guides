@@ -1,7 +1,10 @@
 # O13 - EE - SET - Settings &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/set/en-uk-o13-ee-set-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/set/es-mx-o13-ee-set-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md "Back to EE menu")  
-### ![set](/doc/img/app/big/set.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
+
+| Settings | System Wide |
+| :---: | :---: |
+| [![set](/doc/img/app/big/set.png)](/en-uk/o13/ee/set/en-uk-o13-ee-set-guides.md) | [![o13](/doc/img/app/big/o13.png)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-guides.md) |
 
 #### [Control Panel View (O13 - EE - Technaureus - en-in - 03:00)](https://youtube.com/embed/eq8HhyMhBgg?autoplay=1&start=50&end=142&rel=0)  
 _a:In Odoo **Control Panel** is the Search+Filter+GroupBy+Favorites section on top-right of the window_  
