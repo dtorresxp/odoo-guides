@@ -96,10 +96,10 @@
       m:Accounting | i:Journals | o:Sales | _a:Review Sales data_ |  
       m:Accounting | i:Journals | o:Purchase | _a:Review Purchase data_ |  
       m:Accounting | i:Journals | o:Bank&Cash | _a:Open desired item's rows_ &#x2BC8; |  
-    _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![icon_view_chart_bars_small](/doc/img/appn_view_chart_bars_small.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]
+    _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ]
     - **Ledgers**  
       m:Accounting | i:Ledgers | o:GeneralLedger | _a:Open desired account's rows_ &#x2BC8; |  
-      _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![icon_view_chart_bars_small](/doc/img/appn_view_chart_bars_small.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ] |  
+      _a:Check other data views_ \[ ![view_list](/doc/img/view_list.png) \|\| ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![view_pivot](/doc/img/view_pivot.png) \|\| ![view_kanban](/doc/img/view_kanban.png) ] |  
       m:Accounting | i:Ledgers | o:PartnerLedger | _a:Open desired account's rows_ &#x2BC8;
     - **Actions**  
       m:Accounting | i:Ledgers | o:Reconciliation | d:Reconciliation |  
@@ -112,8 +112,8 @@
     ![apps](/doc/img/apps.png) | o:Invoicing | m:Reporting | i:Management |  
     - **Invoices**  
       o:Invoices | _a:Review Invoicing Stats_ | _a:Review different chart types_ |
-      \[ ![icon_view_chart_bars_small](/doc/img/appn_view_chart_bars_small.png) \|\| ![icon_view_chart_area_small](/doc/img/appn_view_chart_area_small.png) \|\|
-      \[ ![icon_view_chart_pie_small](/doc/img/appn_view_chart_pie_small.png) \|\| ![icon_view_chart_area_stacked_small](/doc/img/appn_view_chart_area_stacked_small.png) ]  
+      \[ ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) \|\| ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) \|\|
+      \[ ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) \|\| ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) ]  
     - **Product Margins**  
       o:ProductMargins | w:ProductMargins | f:From &#x1F4C5; | f:To &#x1F4C5; |  
       f:InvoiceState &#x2BC6; | b:OpenMargins | _a:Review Report_ |  
