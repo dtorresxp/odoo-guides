@@ -1,4 +1,4 @@
-# O13 - EE - STU - Odoo Estudio &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/stu/en-uk-o13-ee-stu-studio-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/stu/es-mx-o13-ee-stu-studio-guides.md)
+# O13 - EE - STU - Odoo Estudio &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/stu/en-uk-o13-ee-stu-studio-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/stu/es-mx-o13-ee-stu-studio-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menúu de EE")  
 ### ![stu](/doc/img/web_studio.png)
 	

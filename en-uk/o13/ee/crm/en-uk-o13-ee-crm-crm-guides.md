@@ -1,8 +1,11 @@
-# O13 - EE - CRM - Customer Relationships Management (CRM) &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/crm/en-uk-o13-ee-crm-crm-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/crm/es-mx-o13-ee-crm-crm-guides.md)
+# O13 - EE - CRM - Customer Relationships Management (CRM) &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/crm/en-uk-o13-ee-crm-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/crm/es-mx-o13-ee-crm-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md "Back to EE menu")  
-### ![crm](/doc/img/crm.png)
-	
-###### Odoo Guides - V2_01 &nbsp; 2019-08-01  
+### ![crm](/doc/img/app/big/crm.png)
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
+
+<br>
+
+###### Odoo Guides - V2_02 &nbsp; 2019-08-11  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
 
 

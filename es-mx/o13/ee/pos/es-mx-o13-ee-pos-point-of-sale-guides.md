@@ -1,4 +1,4 @@
-# O13 - EE - POS - Punto de Venta &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ee/pos/en-uk-o13-ee-pos-point-of-sale-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ee/pos/es-mx-o13-ee-pos-point-of-sale-guides.md)
+# O13 - EE - POS - Punto de Venta &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/pos/en-uk-o13-ee-pos-point-of-sale-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/pos/es-mx-o13-ee-pos-point-of-sale-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menúu de EE")  
 ### ![pos](/doc/img/point_of_sale.png)
 

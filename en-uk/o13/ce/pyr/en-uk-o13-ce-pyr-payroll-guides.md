@@ -1,4 +1,4 @@
-# O13 - CE - PYR - Payroll &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/en-uk_flag_button_small.png)](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-payroll-guides.md) [ ![es-mx](/doc/img/es-mx_flag_button_small.png)](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md)
+# O13 - CE - PYR - Payroll &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-payroll-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md "Back to CE menu")  
 ### ![pyr](/doc/img/hr_payroll.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
