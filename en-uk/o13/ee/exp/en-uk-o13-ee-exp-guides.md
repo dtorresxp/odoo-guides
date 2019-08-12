@@ -9,9 +9,9 @@
 f:EmailAlias | _a:Type **expense** _alias_ | _a:Copy your database domain name_ | b:Save  
 _a:Enter your Internet browser_ | _a:Login into your gMail account_ | _a:Create a new Message_ |  
 _a:Type previous address in_ f:To _**expense** and paste your database domain name_ |  
-_a:Type a subject Odoo can construe, like **Expense of 200.00** | _a:Add Message body, like **Please find my bill**_ |  
-_a:Attach a bill photo_ | b:Send | _a:Return to Odoo_ |  
-m:MyExpenses | o:MyExpenses | f:Search... ![filter](/doc/img/filter.png)_(MyExpenses)_&#x2716; ![filter](/doc/img/filter.png)_(ToReport)_&#x2716; |  
+_a:Type a subject Odoo can construe, like **Expense of 200.00** |  
+_a:Add Message body, like **Please find my bill**_ | _a:Attach a bill photo_ | b:Send | _a:Return to Odoo_ |  
+m:MyExpenses | o:MyExpenses | f:Search... ![filter](/doc/img/filter.png)_(MyExpenses)_&#x2716; &nbsp; ![filter](/doc/img/filter.png)_(ToReport)_&#x2716; |  
 
 
 i:Form Builder | b:More Info | b:Install  
