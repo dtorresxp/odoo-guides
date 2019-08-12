@@ -12,11 +12,10 @@ _a:Type previous address in_ f:To _**expense** and paste your database domain na
 _a:Type a subject Odoo can construe, like **Expense of 200.00** |  
 _a:Add Message body, like **Please find my bill**_ | _a:Attach a bill photo_ | b:Send | _a:Return to Odoo_ |  
 m:MyExpenses | o:MyExpenses | f:Search... ![filter](/doc/img/filter.png)_(MyExpenses)_&#x2716; &nbsp; ![filter](/doc/img/filter.png)_(ToReport)_&#x2716; |  
-
-
-i:Form Builder | b:More Info | b:Install  
-![apps](/doc/img/apps.png) | o:Website | b:GotoWebsite | b:Edit | _a:Slide down menu_ | _a:Drag i:FormBuilder to form_ | _a:Build form accordingly_ | b:Save  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
+_a:Notice your mail has been automatically processed as a new Expense_ | _a:Click on it to open its detail_ |  
+_a:Review Expense data_ | _a:Click on_ f:Employee | _a:Notice Employee has been defined based on_ f:WorkEmail |  
+&#x23BD;/&#x23BD;/:ExpenseOf | _a:Click on attached bill image at the bottom_ | w:AttachedImage | _a:Review image_ | &#x2716; |  
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹²
 
 <br>
 
