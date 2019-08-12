@@ -28,7 +28,7 @@ _a:Notice sum of Warehouses quantities are the same as Product row_
   m:Configuration | o:Locations | _a:Click on a Location to show its Rules_ |  
   _a:Click on a_ f:Warehouse name _to show its Rules_ | s:PutawayRules |  
   _a:Click on a_ f:Rule _to edit_ | f:ProductCategory | f:WhenProductArrivesIn | f:StoreTo | b:Save |  
-  m:Overview | i:Receipts | nbsp;**&#x2807;** | i:Settings | f:DefaultDestinationLocation | b:Save |  
+  m:Overview | i:Receipts | &nbsp;**&#x2807;** | i:Settings | f:DefaultDestinationLocation | b:Save |  
 - ###### Test Reception 
   ![apps](/doc/img/apps.png) | o:Purchase | m:Orders | o:Requests for Quotation | b:Create |  
   f:Vendor &#x2BC6; | t:Products | \[ i:AddALine | f:Product &#x2BC6; ]² | i:ConfirmOrder |  
