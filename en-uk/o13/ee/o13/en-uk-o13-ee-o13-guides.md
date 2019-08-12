@@ -4,7 +4,7 @@
 
 | System Wide | Settings |
 | :---: | :---: |
-| [![o13](/doc/img/app/big/o13.png)](/en-uk/o13/ee/en-uk-o13-ee-o13-guides.md) | [![set](/doc/img/app/big/set.png)](/en-uk/o13/ee/en-uk-o13-ee-set-guides.md) |
+| [![o13](/doc/img/app/big/o13.png)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-guides.md) | [![set](/doc/img/app/big/set.png)](/en-uk/o13/ee/set/en-uk-o13-ee-set-guides.md) |
 
 ## News  
 
