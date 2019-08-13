@@ -9,17 +9,17 @@
   _a:Verify_ f:WebsiteLeadGeneration _is enabled_ | _a:Review_ i:CheckingRemainingCredit |  
   _a:If you've remaining credits continue, otherwise goto &#x1F872; i:BuyMoreCredits |  
   m:Configuration | o:LeadGenerationRules | b:Create | f:RuleName | f:DataTracking &#x25C9; o:Companies+Contacts |  
-  &nbsp;&nbsp;&#x25CF;&nbsp; i:WebsiteTrafficConditions |  
+  &nbsp;&nbsp;&#x1F789;&nbsp; i:WebsiteTrafficConditions |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:Countries | _a:Add (India) (United States) (Belgium) for test_ |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:URLExpressions | f:Sequence | _a:Type **1**_ |  
-  &nbsp;&nbsp;&#x25CF;&nbsp; i:OpportunityGenerationConditions |  
+  &nbsp;&nbsp;&#x1F789;&nbsp; i:OpportunityGenerationConditions |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:IndustryTags | f:MinCompanySize | f:MaxCompanySize |  
-  &nbsp;&nbsp;&#x25CF;&nbsp; i:ContactFilter |  
+  &nbsp;&nbsp;&#x1F789;&nbsp; i:ContactFilter |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:PreferredRole | f:Seniority | f:ExtraContacts | _a:Type **2**_ |  
-  &nbsp;&nbsp;&#x25CF;&nbsp; i:OpportunityData |  
+  &nbsp;&nbsp;&#x1F789;&nbsp; i:OpportunityData |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:SalesChannel | f:Salesperson| f:Tags | f:Priority | f:Suffix | _a:Enter **Website**_ |  
   d:Credits:  
-  &nbsp; No credit is consumed if the company is not found.  
+  &nbsp;&nbsp; No credit is consumed if the company is not found.  
   &nbsp;&nbsp; 1 credit is consumed if the company is found.  
   &nbsp;&nbsp; 2 credits are consumed if the company matches the rule.  
   &nbsp;&nbsp; _a:Notice after increasing extra Contacts to 2,  
