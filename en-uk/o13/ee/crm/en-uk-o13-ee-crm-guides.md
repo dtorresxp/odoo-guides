@@ -12,12 +12,9 @@
   &nbsp;&nbsp;**&#x26AC;**&nbsp; i:WebsiteTrafficConditions |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:Countries | _a:Add (India) (United States) (Belgium) for test_ |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:URLExpressions | f:Sequence | _a:Type **1**_ |  
-  &nbsp;&nbsp;**&#x26AC;**&nbsp; i:OpportunityGenerationConditions |  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:IndustryTags | f:MinCompanySize | f:MaxCompanySize |  
-  &nbsp;&nbsp;**&#x26AC;**&nbsp; i:ContactFilter |  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:PreferredRole | f:Seniority | f:ExtraContacts | _a:Type **2**_ |  
-  &nbsp;&nbsp;**&#x26AC;**&nbsp; i:OpportunityData |  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:SalesChannel | f:Salesperson| f:Tags | f:Priority | f:Suffix | _a:Enter **Website**_ |  
+  &nbsp;&nbsp;**&#x26AC;**&nbsp; i:OpportunityGenerationConditions | f:IndustryTags | f:MinCompanySize | f:MaxCompanySize |  
+  &nbsp;&nbsp;**&#x26AC;**&nbsp; i:ContactFilter | f:PreferredRole | f:Seniority | f:ExtraContacts | _a:Type **2**_ |  
+  &nbsp;&nbsp;**&#x26AC;**&nbsp; i:OpportunityData | f:SalesChannel | f:Salesperson| f:Tags | f:Priority | f:Suffix | _a:Enter **Website**_ |  
   d:Credits:  
   &nbsp;&nbsp; No credit is consumed if the company is not found.  
   &nbsp;&nbsp; 1 credit is consumed if the company is found.  
