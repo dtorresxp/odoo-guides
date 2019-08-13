@@ -1,4 +1,4 @@
-# ![Odoo Guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg "Please click on any of the flags below")
+# [![Odoo Guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg "Please click on any of the flags below")](/README.md)
 **Very useful video links and guides that help you with Odoo, in three simple steps:**  
 1. Click on the flag below to select your language  
 2. Click on Odoo's version & edition in the next page  
