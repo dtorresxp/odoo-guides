@@ -20,11 +20,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:SalesChannel | f:Salesperson| f:Tags | f:Priority | f:Suffix | _a:Enter **Website**_ |  
   d:Credits:  
   &nbsp; No credit is consumed if the company is not found.  
-  &nbsp; 1 credit is consumed if the company is found.  
-  &nbsp; 2 credits are consumed if the company matches the rule.  
-  &nbsp; _a:Notice after increasing extra Contacts to 2,  
-  &nbsp;&nbsp; consumed credits step up to **4** whenever a  
-  &nbsp;&nbsp; company matches the rule.  
+  &nbsp;&nbsp; 1 credit is consumed if the company is found.  
+  &nbsp;&nbsp; 2 credits are consumed if the company matches the rule.  
+  &nbsp;&nbsp; _a:Notice after increasing extra Contacts to 2,  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; consumed credits step up to **4** whenever a  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; company matches the rule.  
   b:Save
 - ###### Testing Leads generation from Website visits
 
