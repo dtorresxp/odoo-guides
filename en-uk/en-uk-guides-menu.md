@@ -235,7 +235,7 @@ Everybody knows it's one of the least known Greek letters in this days (at least
 
 So we turned to think hard on how to replace the _p_ with a better thing.  We started with three letters like 'psi' from _&#x3c8;&#x3b5;&#x3c5;&#x3b4;&#x3bf;_ in _pseudo code_ (the project's idea). &nbsp;But no, they were too much.  Then we turned Greek and started with the obvious _&#x3C0;_ because of the sound _p_ in English is very close to _&#x3c0;_ in Spanish.  
 
-But, &#x2013; and this is a very big _but_ &#x2013; we didn't want our Greco-Latin Etymologies professor (the great _Chango_ from ULSA in México City) to wallow in his grave, because obviously &#x2013; again, _anybody_ knows &#x2013; _&#x3C0;_ has nothing to do with _pseudo_.  
+But, &#x2013; and this is a very big _but_ &#x2013; we didn't want our Greco-Latin Etymologies professor (the great _Chango_ from ULSA in México City _R.I.P._) to wallow in his grave, because &#x2013; as _anybody_ knows &#x2013; _&#x3C0;_ has nothing to do with _pseudo_.  
 
 So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.  
 
