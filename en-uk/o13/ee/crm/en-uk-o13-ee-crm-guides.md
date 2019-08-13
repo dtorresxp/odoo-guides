@@ -20,8 +20,8 @@
   &nbsp;&nbsp; 1 credit is consumed if the company is found.  
   &nbsp;&nbsp; 2 credits are consumed if the company matches the rule.  
   &nbsp;&nbsp; _a:Notice after increasing extra Contacts to 2,_  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _consumed credits step up to **4** whenever a_  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _company matches the rule._  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _consumed credits step up to **4** whenever a_  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _company matches the rule._  
   b:Save
 - ###### Testing Leads generation from Website visits
 
