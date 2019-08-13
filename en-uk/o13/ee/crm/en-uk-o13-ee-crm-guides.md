@@ -33,7 +33,7 @@
   _a:Review_ t:InternalNotes | _a:Scroll down the page_ | _Review the new Opportunity created by Odoo Lead Generation_ |  
   m:Reporting | o:LeadGenerationViews | m:Configuration | o:LeadGenerationRules |  
   _a:Click on_ f:RuleName _**AllVisitors** | s:Opportunities | m:Configuration | o:Settings |  
-  _a:Notice now there is on less credit remaining in your account because of last Lead Generation_ |  
+  _a:Notice now there is on less credit remaining in your account because of last Lead Generation_  
     ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹²
 
 <br>
