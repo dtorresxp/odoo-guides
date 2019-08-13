@@ -1,7 +1,7 @@
 #  O13 - EE - Enterprise Ed. Menu &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
 #### [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md "Back to Home")    
   
-<br>
+Clic on any app's icon to get its guides:<br>
 
 # [![o13](/doc/img/app/big/o13.png)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-guides.md) &nbsp;EE
 | Icon | Description | Icon | Description | Icon | Description |
@@ -66,4 +66,4 @@
 
 <br>  
   
-###### Odoo Guides - v9_01 &nbsp; 2019-08-09<br>[_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)
+###### Odoo Guides - v9_02 &nbsp; 2019-08-12<br>[_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)
