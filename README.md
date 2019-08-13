@@ -1,8 +1,8 @@
 # [![Odoo Guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg "Please click on any of the flags below")](/README.md)
 **Very useful video links and guides that help you with Odoo, in three simple steps:**  
-1. Click on the flag below to select your language  
-2. Click on Odoo's version & edition in the next page  
-3. Click on your app's icon to follow the guides  
+1. Click on the flag below, select your language, Odoo's version & edition
+2. Click on your app's icon and look for the guide you need  
+3. Follow the guide or click the link to watch its video... and voilà !
 
 <br>
 
