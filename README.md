@@ -2,7 +2,7 @@
 **Very useful video links and guides that help you with Odoo, in three simple steps:**  
 1. Start on one of the flags below, select your language, Odoo's version & edition
 2. Click on the app's icon and look for the guide you need  
-3. Follow your guide or click its link to watch the video... and _voilà!_
+3. Follow your guide or click its link to watch the video... _et voilà!_
 
 <br>
 
