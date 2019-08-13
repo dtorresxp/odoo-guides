@@ -1,6 +1,6 @@
 # O13 - EE - 3RD - Third Parties Applications &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/3rd/en-uk-o13-ee-3rd-third-parties-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/3rd/es-mx-o13-ee-3rd-third-parties-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md "Back to EE menu")  
-### ![ThirdParties](/doc/img/third_parties.png)
+### ![3rd](/doc/img/app/big/3rd.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
   &#x26A0; &nbsp;&nbsp;Many guides on this list came from commercial procedures.  
