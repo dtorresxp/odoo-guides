@@ -25,5 +25,5 @@
 - ![apps](/doc/img/apps.png) | o:Settings |  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁹
 
-###### Odoo Guides - V1_02 &nbsp; 2019-08-08  
+###### Odoo Guides - V1_03 &nbsp; 2019-08-13  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
