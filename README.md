@@ -1,11 +1,13 @@
 # Odoo Guides
-Odoo useful video links and _&#x03C8;Code_ guides.
+Very useful video links and guides to work with Odoo:
+- Select your language
+- Select Odoo's version & edition
+- Go to your app's guides
+- That's it! &nbsp; Now you can enjoy more than **241 Odoo Guides**
 
-![Odoo useful links & guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg)
+![Odoo useful links & guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg)<br>
 
 <br>
-
-Please select your desired language:
 
 | English | Español MX |
 | :---: | :---: |
