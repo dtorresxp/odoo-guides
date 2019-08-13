@@ -9,15 +9,17 @@
   _a:Verify_ f:WebsiteLeadGeneration _is enabled_ | _a:Review_ i:CheckingRemainingCredit |  
   _a:If you've remaining credits continue, otherwise goto &#x1F872; i:BuyMoreCredits |  
   m:Configuration | o:LeadGenerationRules | b:Create | f:RuleName | f:DataTracking &#x25C9; o:Companies+Contacts |  
-  &nbsp;&nbsp;○&nbsp; i:WebsiteTrafficConditions |  
+  &nbsp;&nbsp;**○** 25CB&nbsp; i:WebsiteTrafficConditions |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:Countries | _a:Add (India) (United States) (Belgium) for test_ |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:URLExpressions | f:Sequence | _a:Type **1**_ |  
-  &nbsp;&nbsp;◌&nbsp; i:OpportunityGenerationConditions |  
+  &nbsp;&nbsp;**◌** 25CC&nbsp; i:OpportunityGenerationConditions |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:IndustryTags | f:MinCompanySize | f:MaxCompanySize |  
-  &nbsp;&nbsp;￮&nbsp; i:ContactFilter |  
+  &nbsp;&nbsp;**⚬** 26AC&nbsp; i:ContactFilter |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:PreferredRole | f:Seniority | f:ExtraContacts | _a:Type **2**_ |  
-  &nbsp;&nbsp;𐩑&nbsp; i:OpportunityData |  
+  &nbsp;&nbsp;**⭘** 2B58&nbsp; i:OpportunityData |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:SalesChannel | f:Salesperson| f:Tags | f:Priority | f:Suffix | _a:Enter **Website**_ |  
+  &nbsp;&nbsp;**￮** FFEE&nbsp; i:OpportunityData |  
+  &nbsp;&nbsp;**𐩑** 10A51&nbsp; i:OpportunityData |  
   d:Credits:  
   &nbsp;&nbsp; No credit is consumed if the company is not found.  
   &nbsp;&nbsp; 1 credit is consumed if the company is found.  
