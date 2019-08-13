@@ -15,5 +15,5 @@
 
 
 <br><br>
-#### Odoo Guides - v6_01 &nbsp; 2019-08-01
+#### Odoo Guides - v7_01 &nbsp; 2019-08-12
  
