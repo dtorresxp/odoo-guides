@@ -1,6 +1,6 @@
 # O13 - EE - EXP - Expenses &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/exp/en-uk-o13-ee-exp-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/exp/es-mx-o13-ee-exp-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md "Back to EE menu")  
-### ![exp](/doc/img/hr_expense.png)
+### ![exp](/doc/img/app/big/exp.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [Record Expense from eMail (O13 - EE - PinakinNayi - en-in - 04:31)](https://youtube.com/embed/SyPnjitE53w?autoplay=1&start=33&end=0&rel=0)  
