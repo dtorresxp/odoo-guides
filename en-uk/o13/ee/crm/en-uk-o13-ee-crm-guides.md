@@ -2,7 +2,7 @@
 #### [_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md "Back to EE menu")  
 ### ![crm](/doc/img/app/big/crm.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
-
+    
 #### [Lead generation through IAP Service (O13 - EE - PinakinNayi - xx-in - 03:22)](https://youtube.com/embed/4xbXk5flAds?autoplay=1&start=0&end=0&rel=0)  
 - ###### Configuring IAP for Leads generation
   ![apps](/doc/img/apps.png) | o:CRM | m:Configuration | o:Settings |  
