@@ -8,6 +8,7 @@
   ![apps](/doc/img/apps.png) | o:CRM | m:Configuration | o:Settings |  
   _a:Verify_ f:WebsiteLeadGeneration _is enabled_ | _a:Review_ i:CheckingRemainingCredit |  
   _a:If you've remaining credits continue, otherwise goto &#x1F872; i:BuyMoreCredits |  
+  _a:Notice the number of remaining credits in your account_ |  
   m:Configuration | o:LeadGenerationRules | b:Create | f:RuleName | f:DataTracking &#x25C9; o:Companies+Contacts |  
   &nbsp;**&#x26AC;**&nbsp;&nbsp; i:WebsiteTrafficConditions |  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f:Countries | _a:Add (India) (United States) (Belgium) for test_ |  
@@ -22,13 +23,22 @@
   &nbsp;&nbsp; _a:Notice after increasing extra Contacts to 2,_  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _consumed credits step up to **4** whenever a_  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _company matches the rule._  
-  b:Save
-- ###### Testing Leads generation from Website visits
+  b:Save  
+- ###### Test Leads generation from Website visits  
+  _a:Start your Internet Browser_ | _a:Enter your website address_ | _a:Return to Odoo window_ |  
+  ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | _a:Type **sched** to enter Scheduler_ | i:ScheduledActions |  
+  _a:Click on_ f:ActionName **Lead Generation: Leads/Opportunities Generation**_ | b:RunMannually |  
+  ![apps](/doc/img/apps.png) | o:CRM | f:Search... _(MyPipeline) &#x2716; |  
+  _a:Notice on **New** now there is a new **Odoo - Website** Lead_ | _a:Click on_ i:Odoo-Website |  
+  _a:Review_ t:InternalNotes | _a:Scroll down the page_ | _Review the new Opportunity created by Odoo Lead Generation_ |  
+  m:Reporting | o:LeadGenerationViews | m:Configuration | o:LeadGenerationRules |  
+  _a:Click on_ f:RuleName _**AllVisitors** | s:Opportunities |  
+  m:Configuration | o:Settings | _a:Notice now there is on less credit remaining in your account because of last Lead Generation_ |  
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹²
 
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 <br>
 
-###### Odoo Guides - V2_02 &nbsp; 2019-08-11  
+###### Odoo Guides - V2_03 &nbsp; 2019-08-12  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
 
 
