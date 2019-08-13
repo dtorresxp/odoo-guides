@@ -19,5 +19,5 @@ _a:Review Expense data_ | _a:Click on_ f:Employee | _a:Notice Employee has been 
 
 <br>
 
-###### Odoo Guides - V2_02 &nbsp; 2019-08-11  
+###### Odoo Guides - V2_03 &nbsp; 2019-08-12  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
