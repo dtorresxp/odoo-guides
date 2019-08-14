@@ -5,6 +5,31 @@
 
 <br>
 
+## Sales
+
+#### [Multi level Quotation approval process based on Discount (O13 - EE - PinakinNayi - xx-in - 03:09)](https://youtube.com/embed/my1BzTVzehg?autoplay=1&start=0&end=0&rel=0)  
+- ###### Test different discounts
+  ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | f:Customer &#x2BC6; | t:OrderLines | i:AddAProduct | f:Prod | _a:Notice_ f:UnitPrice | f:Disc% | _a:Enter **20**_ | b:Save |  
+  b:Confirm | d:OdooServerError | _a:Notice You haven't enough access to confirm the order (you've given more then 15% discount) message_ | b:Ok |  
+  b:Edit | f:Disc% | _a:Enter **30**_ | b:Confirm | d:OdooServerError | _Notice same error as before_ | b:Ok |  
+  b:Edit | f:Disc% | _a:Enter **35**_ | b:Confirm | d:OdooServerError | _a:Notice now message is No one allowed to give discount more than 30%_ | b:Ok |  
+  b:Edit | f:Disc% | _a:Enter **12**_ | b:Confirm | d:OdooServerError | _a:Notice error message now is about 10% discount_ | b:Ok |  
+  b:Edit | f:Disc% | _a:Enter **10**_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok |  
+- ###### Review Discount Ranges
+  ![apps](/doc/img/apps.png) | o:set | i:ManageAccessRights | _a:Click on_ f:Name _to open | _a:Scroll down the form_ |  
+  _a:Review Permissions_ | f:AllowDiscountUpTo10% &#x1F5F9; | f:AllowDiscountUpTo30% &#x2610; |  
+- ###### Test discounts by decreasing unitary price
+  ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | f:Customer &#x2BC6; | t:OrderLines | i:AddAProduct | f:Prod | f:UnitPrice | _a:Enter **60** (equivalent to a 40% discount)_ | b:Save |  
+  b:Confirm | d:OdooServerError | _a:Notice message is No one allowed to give discount more than 30%_ | b:Ok |  
+  b:Edit | f:UnitPrice | _a:Enter **85** (15% equivalent)_ | b:Confirm | d:OdooServerError | _Notice same error as before_ | b:Ok |  
+  b:Edit | f:UnitPrice | _a:Enter **95** (5% equivalent)_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok |  
+- ###### Allow up to 15% Discounts
+  ![apps](/doc/img/apps.png) | o:set | i:ManageAccessRights | _a:Click on_ f:Name _to open | _a:Scroll down the form_ |  
+  _a:Review Permissions_ | f:AllowDiscountUpTo15% &#x1F5F9; | b:Save |  
+- ###### Test a higher than 10% discount again
+  ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | f:Customer &#x2BC6; | t:OrderLines | i:AddAProduct | f:Prod | f:UnitPrice | _a:Enter **60** (equivalent to a 40% discount)_ | b:Save |  
+  b:Edit | f:Disc% | _a:Enter **13**_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok
+
 ## Product Configurator
 
 #### [How to Activate the Product Configurator &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 02:34)](https://youtube.com/embed/DWmOGxmof_U?autoplay=1&start=0&end=0&rel=0)
