@@ -6,7 +6,7 @@
 # ![o13](/doc/img/app/big/o13.png) &nbsp;CE
 | Icono | Descripción | Icon | Descripción |
 | :---: | --- | :---: | --- |
-| ![pyr](/doc/img/app/sml/pyr.jpg) | [Nómina](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md) | [![web](/doc/img/app/sml/web.jpg)](/es-mx/o13/ee/web/es-mx-o13-ee-web-guides.md "Ver a las guías de Web Sitios \[web]" )       | [Web Sitios](/es-mx/o13/ee/web/es-mx-o13-ee-web-guides.md)       |
+| [![pyr](/doc/img/app/sml/pyr.jpg)](/es-mx/o13/ee/web/es-mx-o13-ee-pyr-guides.md "Ver a las guías de Nómina \[pyr]" )       | [Nómina](/es-mx/o13/ee/web/es-mx-o13-ee-pyr-guides.md)       | [![web](/doc/img/app/sml/web.jpg)](/es-mx/o13/ee/web/es-mx-o13-ee-web-guides.md "Ver a las guías de Web Sitios \[web]" )       | [Sitios Web](/es-mx/o13/ee/web/es-mx-o13-ee-web-guides.md)       |
 
 <br>
 
@@ -51,4 +51,4 @@
 
 <br>
 
-###### Guías Odoo - v7_03 &nbsp; 2019-08-13<br>[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
+###### Guías Odoo - v8_01 &nbsp; 2019-08-13<br>[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
