@@ -29,7 +29,7 @@
 - ###### Allow up to 15% Discounts
   ![apps](/doc/img/apps.png) | o:set | i:ManageAccessRights | _a:Click on_ f:Name _to open | _a:Scroll down the form_ |  
   _a:Review Permissions_ | f:AllowDiscountUpTo15% &#x1F5F9; | b:Save |  
-- ###### Test a higher than 10% discount again
+- ###### Test again a higher than 10% discount
   ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | f:Customer &#x2BC6; |  
   t:OrderLines | i:AddAProduct | f:Prod | f:UnitPrice | _a:Enter **60** (equivalent to a 40% discount)_ | b:Save |  
   b:Edit | f:Disc% | _a:Enter **13**_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok  
