@@ -1,9 +1,9 @@
-# O13 - CE - Menú de la Edición de la Comunidad &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)
+# O13 - CE - Menú de la Ed. Comunidad &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)
 #### [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md "Regresar al menú de Inicio")  
 
 <br>
 
-# ![o13](/doc/img/odoo13.png) &nbsp;CE
+# ![o13](/doc/img/app/big/o13.png) &nbsp;CE
 | Icono | Descripción | Icon | Descripción |
 | :---: | --- | :---: | --- |
 | ![pyr](/doc/img/hr_payroll.jpg) | [Nómina](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md) | ![web](/doc/img/website.jpg) | [Sitios Web](/es-mx/o13/ce/web/es-mx-o13-ce-web-websites-builder-guides.md) |
