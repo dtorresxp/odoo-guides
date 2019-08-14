@@ -15,7 +15,7 @@
   _a:Notice error because You haven't enough access to confirm the order (you've given more then 15% discount)_ | b:Ok |  
   b:Edit | f:Disc% | _a:Enter **30**_ | b:Confirm | d:OdooServerError | _a:Notice same error as before_ | b:Ok |  
   b:Edit | f:Disc% | _a:Enter **35**_ | b:Confirm | d:OdooServerError | _a:Notice discount higher than 30% error_ | b:Ok |  
-  b:Edit | f:Disc% | _a:Enter **12**_ | b:Confirm | d:OdooServerError | _a:Notice error message because more than 10% discount_ | b:Ok |  
+  b:Edit | f:Disc% | _a:Enter **12**_ | b:Confirm | d:OdooServerError | _a:Notice discount higher than 10% error_ | b:Ok |  
   b:Edit | f:Disc% | _a:Enter **10**_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok |  
 - ###### Review Discount Ranges
   ![apps](/doc/img/apps.png) | o:set | i:ManageAccessRights | _a:Click on_ f:Name _to open | _a:Scroll down the form_ |  
@@ -24,7 +24,7 @@
   ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | f:Customer &#x2BC6; | t:OrderLines |  
   i:AddAProduct | f:Prod | f:UnitPrice | _a:Enter **60** (equivalent to a 40% discount)_ | b:Save |  
   b:Confirm | d:OdooServerError | _a:Notice message is No one allowed to give discount more than 30%_ | b:Ok |  
-  b:Edit | f:UnitPrice | _a:Enter **85** (15% equivalent)_ | b:Confirm | d:OdooServerError | _Notice same error as before_ | b:Ok |  
+  b:Edit | f:UnitPrice | _a:Enter **85** (15% equivalent)_ | b:Confirm | d:OdooServerError | _a:Notice same error_ | b:Ok |  
   b:Edit | f:UnitPrice | _a:Enter **95** (5% equivalent)_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok |  
 - ###### Allow up to 15% Discounts
   ![apps](/doc/img/apps.png) | o:set | i:ManageAccessRights | _a:Click on_ f:Name _to open | _a:Scroll down the form_ |  
@@ -34,6 +34,8 @@
   t:OrderLines | i:AddAProduct | f:Prod | f:UnitPrice | _a:Enter **60** (equivalent to a 40% discount)_ | b:Save |  
   b:Edit | f:Disc% | _a:Enter **13**_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
+
+<br>
 
 ## Product Configurator
 
