@@ -1,7 +1,6 @@
-# O13 - EE - Menú de la Edición Empresarial &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
+#  O13 - EE - Menú de la Edición Empresarial &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
 #### [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md "Regresar al menú de Inicio")    
-  
-<br>
+###### Has clic en cualquiera de los iconos de apps de la lista, para ver sus guías<br>
 
 # [![o13](/doc/img/odoo13.png)](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-system-wide-guides.md) &nbsp;EE
 | Icono | Significado | Icono | Significado | Icono | Significado | Icono | Significado |
@@ -32,7 +31,6 @@
 | [![wge](/doc/img/app/sml/wge.jpg)](/es-mx/o13/ee/wge/es-mx-o13-ee-wge-guides.md "Ver a las guías de Ws Gengo \[wge]" )         | [Ws Gengo](/es-mx/o13/ee/wge/es-mx-o13-ee-wge-guides.md)         | [![wti](/doc/img/app/sml/wti.jpg)](/es-mx/o13/ee/wti/es-mx-o13-ee-wti-guides.md "Ver a las guías de Ws Instalar Tema \[wti]" ) | [Ws Instalar Tema](/es-mx/o13/ee/wti/es-mx-o13-ee-wti-guides.md) | [![wme](/doc/img/app/sml/wme.jpg)](/es-mx/o13/ee/wme/es-mx-o13-ee-wme-guides.md "Ver a las guías de Ws Membresías \[wme]" )    | [Ws Membresías](/es-mx/o13/ee/wme/es-mx-o13-ee-wme-guides.md)    | [![wrc](/doc/img/app/sml/wrc.jpg)](/es-mx/o13/ee/wrc/es-mx-o13-ee-wrc-guides.md "Ver a las guías de Ws Nom Reclut \[wrc]" )    | [Ws Nom Reclut](/es-mx/o13/ee/wrc/es-mx-o13-ee-wrc-guides.md)    |
 | [![whr](/doc/img/app/sml/whr.jpg)](/es-mx/o13/ee/whr/es-mx-o13-ee-whr-guides.md "Ver a las guías de Ws Nómina \[whr]" )        | [Ws Nómina](/es-mx/o13/ee/whr/es-mx-o13-ee-whr-guides.md)        | [![wpy](/doc/img/app/sml/wpy.jpg)](/es-mx/o13/ee/wpy/es-mx-o13-ee-wpy-guides.md "Ver a las guías de Ws Pagos \[wpy]" )         | [Ws Pagos](/es-mx/o13/ee/wpy/es-mx-o13-ee-wpy-guides.md)         | [![wrp](/doc/img/app/sml/wrp.jpg)](/es-mx/o13/ee/wrp/es-mx-o13-ee-wrp-guides.md "Ver a las guías de Ws Proy Clasific \[wrp]" ) | [Ws Proy Clasific](/es-mx/o13/ee/wrp/es-mx-o13-ee-wrp-guides.md) | [![wpt](/doc/img/app/sml/wpt.jpg)](/es-mx/o13/ee/wpt/es-mx-o13-ee-wpt-guides.md "Ver a las guías de Ws Socios \[wpt]" )        | [Ws Socios](/es-mx/o13/ee/wpt/es-mx-o13-ee-wpt-guides.md)        |
 | [![wtw](/doc/img/app/sml/wtw.jpg)](/es-mx/o13/ee/wtw/es-mx-o13-ee-wtw-guides.md "Ver a las guías de Ws Twitter \[wtw]" )       | [Ws Twitter](/es-mx/o13/ee/wtw/es-mx-o13-ee-wtw-guides.md)       | [![wsd](/doc/img/app/sml/wsd.jpg)](/es-mx/o13/ee/wsd/es-mx-o13-ee-wsd-guides.md "Ver a las guías de Ws Ven Envíos \[wsd]" )    | [Ws Ven Envíos](/es-mx/o13/ee/wsd/es-mx-o13-ee-wsd-guides.md)    | [![wso](/doc/img/app/sml/wso.jpg)](/es-mx/o13/ee/wso/es-mx-o13-ee-wso-guides.md "Ver a las guías de Ws Ven Opciones \[wso]" )  | [Ws Ven Opciones](/es-mx/o13/ee/wso/es-mx-o13-ee-wso-guides.md)  | [![wve](/doc/img/app/sml/wve.jpg)](/es-mx/o13/ee/wve/es-mx-o13-ee-wve-guides.md "Ver a las guías de Ws Versión \[wve]" )       | [Ws Versión](/es-mx/o13/ee/wve/es-mx-o13-ee-wve-guides.md)       |
-
 <br>
 
 # Nomenclatura de _&#x03C8;Code_
@@ -76,4 +74,4 @@
 
 <br>
 
-###### Guías Odoo - v8_02 &nbsp; 2019-08-09<br>[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
+###### Guías Odoo - v10_01 &nbsp; 2019-08-13<br>[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
