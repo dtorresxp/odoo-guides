@@ -17,12 +17,12 @@
     i:Mug | b:Buy | d:Confirmation | b:Ok | _a:Notice recent buyout is actually debited from your points_ |  
     m:Dashboard | _a:Notice you're leveled up_ | m:Reporting | _a:Review your referrals analysis_ |  
 - ###### Configuration Menu
-        - o:Rewards | _a:Click on_ f:ProductName _with Awarded Employees_ |  
-            i:RewardItem | s:EmployeesAwarded | w:AwardedEmployees |  
-        - o:Levels | _a:Review list_ | f:LevelName | f:Requirements | f:Image |  
-        - o:Friends | _a:Review list_ |  
-        - o:Alerts | _a:Review list_ |  
-        - o:Onboarding | _a:Review the list of steps shown in previous brief_ |  
+    - o:Rewards | _a:Click on_ f:ProductName _with Awarded Employees_ |  
+        i:RewardItem | s:EmployeesAwarded | w:AwardedEmployees |  
+    - o:Levels | _a:Review list_ | f:LevelName | f:Requirements | f:Image |  
+    - o:Friends | _a:Review list_ |  
+    - o:Alerts | _a:Review list_ |  
+    - o:Onboarding | _a:Review the list of steps shown in previous brief_ |  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
 
 <br>
