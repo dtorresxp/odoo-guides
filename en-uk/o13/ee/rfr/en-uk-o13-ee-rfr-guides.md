@@ -23,7 +23,7 @@
   - o:Friends | _a:Review list_ |  
   - o:Alerts | _a:Review list_ |  
   - o:Onboarding | _a:Review the list of steps shown in previous brief_ |  
-  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
+- ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
 
 <br>
 
