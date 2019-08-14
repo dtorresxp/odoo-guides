@@ -32,7 +32,7 @@
 - ###### Test a higher than 10% discount again
   ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | f:Customer &#x2BC6; |  
   t:OrderLines | i:AddAProduct | f:Prod | f:UnitPrice | _a:Enter **60** (equivalent to a 40% discount)_ | b:Save |  
-  b:Edit | f:Disc% | _a:Enter **13**_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok
+  b:Edit | f:Disc% | _a:Enter **13**_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
 
 ## Product Configurator
