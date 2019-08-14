@@ -3,9 +3,9 @@ Odoo useful video links and _**&#x03C8;Code**_ guides.
 
 [![Odoo Guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg "Please select your Odoo's version & edition below")](/en-uk/en-uk-guides-menu.md)
 
-<table align="center">
+<table align="left">
 <tr>
-<td align="left"><a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md"><img src="/doc/img/app/big/o13.png?raw=true"></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md" title="Goto Odoo's Enterprise Edition guides" >Enterprise</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md" title="Goto Odoo's Community Edition guides">Community</a></td>
+<td><a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md"><img src="/doc/img/app/big/o13.png?raw=true"></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md" title="Goto Odoo's Enterprise Edition guides" >Enterprise</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md" title="Goto Odoo's Community Edition guides">Community</a></td>
 </tr>
 </table>
 
