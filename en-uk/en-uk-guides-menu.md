@@ -1,5 +1,5 @@
 # Odoo Guides &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/en-uk-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/es-mx-guides-menu.md)
-Odoo useful video links and _**&#x03C8;Code**_ guides.
+Select your Odoo's version & edition to get its _**&#x03C8;Code**_ guides.
 
 [![Odoo Guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg "Please select your Odoo's version & edition below")](/en-uk/en-uk-guides-menu.md)
 
@@ -266,4 +266,4 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
   - Reduce _**a:**_ text to the minimum and use only one word for every action, to facilitate learning
   - Use this format to log reviewed but discarded videos: _\[**Video title** - Reviewed but duplicated]: # (**Video ID**)_  
 <br><br>
-###### Odoo Guides - v8_07 &nbsp; 2019-08-13
+###### Odoo Guides - v8_08 &nbsp; 2019-08-13
