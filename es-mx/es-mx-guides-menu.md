@@ -66,7 +66,7 @@ b:Cerrar | _a:Vericar Contactos combinados_
 ###### Ahora veamos como se lee el _**&#x03C8;Code**_ en español
   - La liga de video muestra su Descripción -  Versión y edición de Odoo - Nombre del creador - Idioma y País (xx significa sin voz, como en este caso) - Duración.
   - Bajo la liga verás unas instrucciones sencillas, con los pasos que tienes que dar para _Combinar_ Contactos en Odoo 13
-  - Puedes hacer clic en la liga y ver el video (¡pero toma en cuenta que este es uno _bastante corto_!)  
+  - Puedes hacer clic en la liga y ver el video (¡pero toma en cuenta que este es uno _muy corto_!)  
   - Lo que nosotros te recomendamos, es que primero veas la guía para saber lo que tienes que hacer.  Cuando tengas más experiencia en Odoo, ya no vas a tener que ver todo el video, porque captarás fácilmente lo que dicen las guías:  
     - **Inicio**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has clic en el icono de _**apps**_ para _**iniciar**_ este procedimiento  
     - **Opción**: &nbsp;&nbsp;Has clic en _Contactos_ _**Opción**_ en el menú  
