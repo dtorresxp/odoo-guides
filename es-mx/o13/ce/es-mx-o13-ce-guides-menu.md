@@ -6,7 +6,7 @@
 # ![o13](/doc/img/app/big/o13.png) &nbsp;CE
 | Icono | Descripción | Icon | Descripción |
 | :---: | --- | :---: | --- |
-| ![pyr](/doc/img/app/sml/pyr.jpg) | [Nómina](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md) | ![web](/doc/img/app/sml/web.jpg) | [Sitios Web](/es-mx/o13/ce/web/es-mx-o13-ce-web-websites-builder-guides.md) |
+| ![pyr](/doc/img/app/sml/pyr.jpg) | [Nómina](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md) | [![web](/doc/img/app/sml/web.jpg)](/es-mx/o13/ee/web/es-mx-o13-ee-web-guides.md "Ver a las guías de Web Sitios \[web]" )       | [Web Sitios](/es-mx/o13/ee/web/es-mx-o13-ee-web-guides.md)       |
 
 <br>
 
