@@ -6,7 +6,7 @@
 # ![o13](/doc/img/app/big/o13.png) &nbsp;CE
 | Icono | Descripción | Icon | Descripción |
 | :---: | --- | :---: | --- |
-| ![pyr](/doc/img/hr_payroll.jpg) | [Nómina](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md) | ![web](/doc/img/website.jpg) | [Sitios Web](/es-mx/o13/ce/web/es-mx-o13-ce-web-websites-builder-guides.md) |
+| ![pyr](/doc/img/app/sml/pyr.jpg) | [Nómina](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md) | ![web](/doc/img/app/sml/web.jpg) | [Sitios Web](/es-mx/o13/ce/web/es-mx-o13-ce-web-websites-builder-guides.md) |
 
 <br>
 
@@ -51,4 +51,4 @@
 
 <br>
 
-###### Guías Odoo - v7_02 &nbsp; 2019-08-07<br>[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
+###### Guías Odoo - v7_03 &nbsp; 2019-08-13<br>[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
