@@ -182,6 +182,7 @@ _To solve once and for all, the documentation gap_
   - Very useful for both Technicians and Users
   - Short and focused guides
   - Indexable and Searchable
+  - Our links point directly the procedure inside the video
   - Use very few symbols, mostly icons
   - 100% Screen oriented
   - Video friendly
@@ -199,8 +200,9 @@ _To solve once and for all, the documentation gap_
   - Handwriting friendly
   - Kinda shorthand language
   - Useful for both technical and functional procedures
-  - Allow to document Odoo before its new version arrives
-  - Good for any kind of apps: official, commercial or private
+  - Allow documenting Odoo before a new version arrives
+  - Work with any platform: Ubuntu, Windows, on-premise, cloud, saas, sh, etc...
+  - Good for any kind of apps: officials, commercials or private
   - Royalty Free
 
 #### Short term Proposals
@@ -208,7 +210,7 @@ _To solve once and for all, the documentation gap_
   - pCode project promotion
   - Continue creating guides for Odoo v13
   - Get help to create guides for Odoo v12
-	
+
 #### Mid term Proposals
   - Get help to create guides for previous Odoo versions
   - Ask OCA's advice for Tracking mode proposal
@@ -232,7 +234,7 @@ _To solve once and for all, the documentation gap_
 
 # The _&#x03C8;_ Affaire
 
-Everybody knows it's one of the least known Greek letters in this days (at least, outside Greek world), but has a great history behind.  Not just the letter itself, but in our project.  Originally our project's name began with a humble _p_, however there are a lot of _pCodes_ out there and we didn't wanna any misunderstanding after all this heavy effort.  
+Everybody knows _&#x03C8;_ is one of the least known Greek letters in this days (at least, outside Greek world), but has a great history behind.  Not just the letter itself, but in our project.  Originally our project's name began with a humble _p_, however there are a lot of _pCodes_ out there and we didn't wanna any misunderstanding after all this heavy effort.  
 
 So we turned to think hard on how to replace the _p_ with a better thing.  We started with three letters like 'psi' from _&#x3c8;&#x3b5;&#x3c5;&#x3b4;&#x3bf;_ in _pseudo code_ (the project's idea). &nbsp;But no, they were too much.  Then we turned Greek and started with the obvious _&#x3C0;_ because of the sound _p_ in English is very close to _&#x3c0;_ in Spanish.  
 
@@ -257,7 +259,7 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
   - To include any new locale-language translation, use this 5-character format _ll-cc_ from:
     - __ll__: &nbsp; Language code: [ISO 639-1  two-letter](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
     - __cc__: Country code: &nbsp;&nbsp; [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-	- Flag icons are round (150x150) button style
+    - Flag icons are round (150x150) button style
   - Show Youtube PlayList's time lapse (in the Youtube video is one second less)
   - All lines but last or sepparated must end in **SPACE+PIPE+SPACE+SPACE**, all others must end in **SPACE+SPACE**
   - Use _**TEXT**_ in a:Actions instead quotes

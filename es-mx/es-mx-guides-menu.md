@@ -1,13 +1,13 @@
 # Guías Odoo &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/en-uk-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/es-mx-guides-menu.md)
 Ligas a videos y guías en _**&#x03C8;Code**_ para Odoo.
 
-![Ligas a videos y guías en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo_guides_mini.jpg)
+[![Ligas a videos y guías en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo_guides_mini.jpg "Por favor selecciona tu versión y edición de Odoo")](/es-mx/es-mx-guides-menu.md)
 
-| Elija su Edición: |
-| :--- |
-| [![o13](/doc/img/odoo13.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md) |
-| &nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; [Empresarial](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md) |
-| &nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; [Comunidad](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md) |
+<table align="left">
+<tr>
+<td><a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md"><img src="/doc/img/app/big/o13.png?raw=true"></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md" title="Goto Odoo's Enterprise Edition guides" >Enterprise</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md" title="Goto Odoo's Community Edition guides">Community</a></td>
+</tr>
+</table><br>
 
 <br>
 
@@ -61,12 +61,13 @@ A continuación te mostraremos una sencilla explicación sobre el _**&#x03C8;Cod
 ### Ejemplo típico
 #### [Combinar Contactos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&Inicio=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Contactos | _a:Ver el contador de Contactos en la ventana de Odoo_ | b: ![view_list](/doc/img/view_list.png) |  
-[ _a:Seleccionar Contacto to Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos | w:CombinarContactos | f:ContactoDeDestino &#x2BC6; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] |  
+[ _a:Seleccionar Contacto a Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos | w:CombinarContactos | f:ContactoDeDestino &#x2BC6; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] |  
 b:Cerrar | _a:Vericar Contactos combinados_<br><br>  
-  - La liga de video muestra su Descripción, Versión y edición de Odoo, Nombre del creador, Idioma y País (o sin voz, como en este caso) y su duración.  Abajo de la liga aparecen unas sencillas instruccioes.  
+###### Ahora veamos como se lee el _**&#x03C8;Code**_ en español
+  - La liga de video muestra su Descripción -  Versión y edición de Odoo - Nombre del creador - Idioma y País (xx significa sin voz, como en este caso) - Duración.  Abajo de la liga se muestran unas sencillas instruccioes.  
   - Estos son todos los pasos que tienes que realizar en Odoo 13 para _Combinar_ Contactos  
-  - Puedes hacer clic directamente en la liga para ver el video (¡considera que este es _bastante corto_!)  
-  - Pero te recomendamos que primero veas la guía para saber que vas a hacer.  Cuando tengas más experiencia en Odoo, ya no va a ser necesario que veas todos los videos, porque captarás fácilmente lo que dicen las guías:  
+  - Puedes hacer clic en la liga y ver el video (¡pero toma en cuenta que este es uno _bastante corto_!)  
+  - Lo que nosotros te recomendamos, es que primero veas la guía para saber lo que tienes que hacer.  Cuando tengas más experiencia en Odoo, ya no vas a tener que ver todo el video, porque captarás fácilmente lo que dicen las guías:  
     - **Inicio**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has clic en el icono de _**apps**_ para _**iniciar**_ este procedimiento  
     - **Opción**: &nbsp;&nbsp;Has clic en _Contactos_ _**Opción**_ en el menú  
     - **Acción**: &nbsp;&nbsp;&nbsp;Busca el _**contador**_ de Contactos en la parte superior derecha de la ventana de Odoo  
@@ -177,15 +178,15 @@ De cualquier modo, esta técnica es muy útil para ayudar a la gente que más o 
 _Resolver de una vez por todas la falta de documentación_
 
 #### Beneficios reales
-  - Las guías dan instrucciones correctas y muy fáciles de seguir
+  - Las guías te dan instrucciones correctas y muy fáciles de seguir
   - Son muy útiles, para Técnicos y Usuarios
   - Las guías son cortas y enfocadas en un solo punto
   - Se pueden Indexar y permiten buscar palabras
-  - Las ligas apuntan directamente al procedimiento, dentro del video
+  - Las ligas te llevan directamente al procedimiento dentro del video
   - Usan muy pocos símbolos y la mayoría son iconos
   - 100% orientadas para verse en pantalla
   - Compatibles con los videos existentes
-  - Fáciles de usar en los móviles
+  - Fáciles de usar en los dispositivos móviles
   - Reglas de uso muy simples
   - Funcionan en todas las partes del sistema
   - Sirven con cualquier versión de Odoo
@@ -200,7 +201,7 @@ _Resolver de una vez por todas la falta de documentación_
   - Usan reglas semejantes a las de _taquigrafía_
   - Sirven para procedimientos técnicos y funcionales
   - Permiten documentar el sistema, antes de que salga una nueva versión
-  - Funcionan con cualquier plataforma: ubuntu, Ventanas, on-premise, cloud, saas, sh, etc...
+  - Funcionan con cualquier plataforma: Ubuntu, Windows, on-premise, cloud, saas, sh, etc...
   - Son úties para apps oficiales, comerciales, personalizadas y privadas
   - ¡Son gratuitas!
 
@@ -209,7 +210,7 @@ _Resolver de una vez por todas la falta de documentación_
   - Promover el proyecto _&#x03C8;Code_ en la comunidad
   - Continuar creando guías para el Odoo v13
   - Obtener colaboradores para crear guías para Odoo v12
-	
+
 #### Propuestas a Mediano Plazo
   - Obtener colaboradores para hacer guías de versiones anteriores de Odoo
   - Pedir orientación a la OCA para la propuesta del modo Tracking de Odoo
@@ -231,9 +232,9 @@ _Resolver de una vez por todas la falta de documentación_
 
 <br>
 
-# El Caso de _&#x03C8;_
+# La historia de _&#x03C8;_
 
-Ya sabemos que es una de las legras griegas menos conocidas (al menos fuera del mundo Griego), pero hay una historia divertida detrás, no por la letra en sí misma, sino dentro del proyecto.  Originalmente, su nombre comenzaba con una humilde _p_, sin embargo encontramos un buen número de _pCodes_ en Internet y después de tanto esfuerzo, no queríamos malentendidos.
+Cualquiera sabe que _&#x03C8;_ es una de las legras griegas menos conocidas (al menos fuera del mundo Griego), pero hay una historia divertida detrás, no por la letra en sí misma, sino dentro del proyecto.  Originalmente, su nombre comenzaba con una humilde _p_, sin embargo encontramos un buen número de _pCodes_ en Internet y después de tanto esfuerzo, no queríamos malentendidos.
 
 Nos pusimos a pensar en como reemplazar la _p_ con cualquier otra cosa.  Comenzamos con las tres letras de 'psi' de _&#x3c8;&#x3b5;&#x3c5;&#x3b4;&#x3bf;_ en _pseudo código_ (la idea detrás del proyecto). &nbsp;Pero al final resultaba demasiado largo. &nbsp;Entonces volteamos al griego y comenzamos con la obvia _&#x3C0;_ ya que el sonido _p_ en inglés es muy semejante al nombre de la letra _&#x3c0;_ en Español.
 
@@ -266,7 +267,5 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
   - Hay que agregar _**&nocount**_ al final de la primera liga del video completo en los casos de videos con multi-procedimientos, para evitar que se dupliquen al contar las guías
   - Se debe reducir al mínimo el texto de las _**a:**_ y usar siempre la misma palabra para cada acción
   - Registre los videos descartados por duplicidad: _\[**Título del Video** - Revisado pero duplicado]: # (**ID del Video**)_  
-
 <br><br>
-###### Guías Odoo - v8_05 &nbsp; 2019-08-08
- 
+###### Guías Odoo - v8_08 &nbsp; 2019-08-13
