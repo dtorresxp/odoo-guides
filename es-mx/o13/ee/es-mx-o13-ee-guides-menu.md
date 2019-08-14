@@ -1,4 +1,4 @@
-#  O13 - EE - Menú de la Edición Empresarial &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
+#  O13 - EE - Menú de la Ed. Empresarial &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
 #### [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md "Regresar al menú de Inicio")    
 ###### Has clic en el icono de cualquiera de las apps de la lista, para ver sus guías<br>
 
