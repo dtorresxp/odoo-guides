@@ -5,7 +5,7 @@
 
   &#x26A0; &nbsp;&nbsp;Many guides on this list came from commercial procedures.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some charges may apply.  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We aren't asserting nor supporting nor earning money on this.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We aren't asserting nor supporting nor earning money for this.  
 
 #### [How to download & install Odoo in Ubuntu Debian (O13 - EE - OdooErpCloud - es-es - 04:50)](https://youtube.com/embed/AHn9LukC2lw?autoplay=1&start=0&end=269&rel=0)  
 
@@ -25,5 +25,5 @@
 - ![apps](/doc/img/apps.png) | o:Settings |  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁹
 
-###### Odoo Guides - V1_03 &nbsp; 2019-08-13  
+###### Odoo Guides - V1_04 &nbsp; 2019-08-13  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

@@ -3,11 +3,11 @@ Odoo useful video links and _**&#x03C8;Code**_ guides.
 
 [![Odoo Guides in &#x03C8;Code](/doc/img/logo_odoo_guides_mini.jpg "Please select your Odoo's version & edition below")](/en-uk/en-uk-guides-menu.md)
 
-| Select edition:  |
-| :--- |
-| [![o13](/doc/img/app/big/o13.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
-| &nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; [Enterprise](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) |
-| &nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; [Community](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md) |
+<table align="left">
+<tr>
+<td><a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md"><img src="/doc/img/app/big/o13.png?raw=true"></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md" title="Goto Odoo's Enterprise Edition guides" >Enterprise</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md" title="Goto Odoo's Community Edition guides">Community</a></td>
+</tr>
+</table>
 
 <br>
 
@@ -64,7 +64,7 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 ### Basic example:
 #### [Merge Contacts &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:36)](https://youtube.com/embed/-bKC9k5QDZw?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Contacts | _a:View Contacts counter on list_ | b: ![view_list](/doc/img/view_list.png) |  
-[ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts | w:MergeContacts | f:DestinationContact &#x2BC6; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close | _a:Verify Merging_<br><br>  
+[ _a:Select Contact to Merge_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Action | o:MergeContacts | w:MergeContacts | f:DestinationContact &#x2BC6; | _a:Select resultant contact_ | \[ b:MergeContacts || b:Cancel ] | b:Close | _a:Verify Merging_<br> 
   - Video link shows Video description, Odoo version & edition, Creator name, language & country (or without voice, like this case) and Video lenght.  Then you can see a few instructions below the link.
   - These are all steps you need to do in Odoo 13 to _merge_ contacts  
   - You can go directly to the link to see the video (and notice this is a _very_ short one!)
@@ -265,4 +265,4 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
   - Reduce _**a:**_ text to the minimum and use only one word for every action, to facilitate learning
   - Use this format to log reviewed but discarded videos: _\[**Video title** - Reviewed but duplicated]: # (**Video ID**)_  
 <br><br>
-###### Odoo Guides - v8_05 &nbsp; 2019-08-12
+###### Odoo Guides - v8_06 &nbsp; 2019-08-13
