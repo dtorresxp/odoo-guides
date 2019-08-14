@@ -12,7 +12,7 @@
   ![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | b:Create | f:Customer &#x2BC6; |  
   t:OrderLines | i:AddAProduct | f:Prod | _a:Notice_ f:UnitPrice | f:Disc% | _a:Enter **20**_ | b:Save |  
   b:Confirm | d:OdooServerError |  
-  _a:Notice You haven't enough access to confirm the order (you've given more then 15% discount) message_ | b:Ok |  
+  _a:Notice error because You haven't enough access to confirm the order (you've given more then 15% discount)_ | b:Ok |  
   b:Edit | f:Disc% | _a:Enter **30**_ | b:Confirm | d:OdooServerError | _a:Notice same error as before_ | b:Ok |  
   b:Edit | f:Disc% | _a:Enter **35**_ | b:Confirm | d:OdooServerError | _a:Notice discount higher than 30% error_ | b:Ok |  
   b:Edit | f:Disc% | _a:Enter **12**_ | b:Confirm | d:OdooServerError | _a:Notice error message because more than 10% discount_ | b:Ok |  
