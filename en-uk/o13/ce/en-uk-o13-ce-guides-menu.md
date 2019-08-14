@@ -3,10 +3,10 @@
 
 <br>
 
-# ![o13](/doc/img/odoo13.png) &nbsp;CE
+# ![o13](/doc/img/app/big/o13.png) &nbsp;CE
 | Icon | Description | Icon | Description |
 | :---: | --- | :---: | --- |
-| ![pyr](/doc/img/hr_payroll.jpg) | [Payroll](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-payroll-guides.md) | ![web](/doc/img/website.jpg) | [Websites builder](/en-uk/o13/ce/web/en-uk-o13-ce-web-websites-builder-guides.md) |
+| ![pyr](/doc/img/app/sml/pyr.jpg) | [Payroll](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-payroll-guides.md) | ![web](/doc/img/app/sml/web.jpg) | [Websites builder](/en-uk/o13/ce/web/en-uk-o13-ce-web-websites-builder-guides.md) |
 
 <br>
 
@@ -51,4 +51,4 @@
 
 <br>  
   
-###### Odoo Guides - v7_02 &nbsp; 2019-08-07<br>[_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)
+###### Odoo Guides - v7_03 &nbsp; 2019-08-13<br>[_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)
