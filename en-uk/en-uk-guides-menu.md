@@ -9,9 +9,9 @@ Select your Odoo's version & edition to get its _**&#x03C8;Code**_ guides.
 </tr>
 </table><br>
 
-#### <br>
+<br><br><br><br><br><br>
 
-# <br><br>_&#x03C8;Code_ Project objectives
+# _&#x03C8;Code_ Project objectives
 
 Welcome to the _**&#x03C8;Code**_ project!  
 
