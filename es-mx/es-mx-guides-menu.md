@@ -268,4 +268,4 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
   - Se debe reducir al mínimo el texto de las _**a:**_ y usar siempre la misma palabra para cada acción
   - Registre los videos descartados por duplicidad: _\[**Título del Video** - Revisado pero duplicado]: # (**ID del Video**)_  
 <br><br>
-###### Guías Odoo - v8_08 &nbsp; 2019-08-13
+###### Guías Odoo - v8_09 &nbsp; 2019-08-13
