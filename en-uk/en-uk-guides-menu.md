@@ -7,11 +7,11 @@ Select your Odoo's version & edition to get its _**&#x03C8;Code**_ guides.
 <tr>
 <td><a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md"><img src="/doc/img/app/big/o13.png?raw=true"></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md" title="Goto Odoo's Enterprise Edition guides" >Enterprise</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md" title="Goto Odoo's Community Edition guides">Community</a></td>
 </tr>
-</table>
+</table><br>
 
-<br><br>  
+#### <br>
 
-# _&#x03C8;Code_ Project objectives
+# <br><br>_&#x03C8;Code_ Project objectives
 
 Welcome to the _**&#x03C8;Code**_ project!  
 
