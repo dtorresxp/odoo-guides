@@ -7,15 +7,15 @@
 
 ![apps](/doc/img/apps.png) | o:Referrals | _a:See Job Referral Program Intro_ | b:Next | b:Next | b:StartNow | _a:Choose an Avatar_ |  
 - ###### Referrals brief
-        b:ViewJobs | _a:Review Job Positions_ | i:MarketingAndCommunityManager | b:ReferFriend |  
-        w:SendJobOfferByMail | f:Email | _a:Enter your friend's eMail_ | f:Subject | f:Body | b:SendMail |  
-        \[ **b:ShareNowLink** | b:ShareNowFacebook | b:ShareNowTwitter | b:ShareNowLinkedIn ] |  
-        w:LinkToShare | b:Copy | _a:Copy link to any place you need_ | b:Close |  
-        b:MoreInfo | w:Website | _a:Review full job opportunity description_ |  
-        b:ApplyNow | w:JobApplicationForm | f:YourName | f:YourEmail | f:YourPhone | f:ShortIntro | f:Resume | b:Submit |  
-        &#x23BD;/&#x23BD;/:Dashboard | b:Rewards | _a:Notice there are several items you can buy with points_ |  
-        i:Mug | b:Buy | d:Confirmation | b:Ok | _a:Notice recent buyout is actually debited from your points_ |  
-        m:Dashboard | _a:Notice you're leveled up_ | m:Reporting | _a:Review your referrals analysis_ |  
+    b:ViewJobs | _a:Review Job Positions_ | i:MarketingAndCommunityManager | b:ReferFriend |  
+    w:SendJobOfferByMail | f:Email | _a:Enter your friend's eMail_ | f:Subject | f:Body | b:SendMail |  
+    \[ **b:ShareNowLink** | b:ShareNowFacebook | b:ShareNowTwitter | b:ShareNowLinkedIn ] |  
+    w:LinkToShare | b:Copy | _a:Copy link to any place you need_ | b:Close |  
+    b:MoreInfo | w:Website | _a:Review full job opportunity description_ |  
+    b:ApplyNow | w:JobApplicationForm | f:YourName | f:YourEmail | f:YourPhone | f:ShortIntro | f:Resume | b:Submit |  
+    &#x23BD;/&#x23BD;/:Dashboard | b:Rewards | _a:Notice there are several items you can buy with points_ |  
+    i:Mug | b:Buy | d:Confirmation | b:Ok | _a:Notice recent buyout is actually debited from your points_ |  
+    m:Dashboard | _a:Notice you're leveled up_ | m:Reporting | _a:Review your referrals analysis_ |  
 - ###### Configuration Menu
         - o:Rewards | _a:Click on_ f:ProductName _with Awarded Employees_ |  
             i:RewardItem | s:EmployeesAwarded | w:AwardedEmployees |  
