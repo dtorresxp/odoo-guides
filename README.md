@@ -6,11 +6,11 @@
 
 <br>
 
-| English | Español MX |
-| :---: | :---: |
 | [ ![en-uk](/doc/img/flg/en-uk-flg-btn-big.png)](/en-uk/en-uk-guides-menu.md "Read Odoo Guides in English") | [![es-mx](/doc/img/flg/es-mx-flg-btn-big.png)](/es-mx/es-mx-guides-menu.md "Leer las Guías Odoo en español MX") |
+| :---: | :---: |
+| English | Español MX |
 
 
 <br><br>
-#### Odoo Guides - v7_01 &nbsp; 2019-08-12
+#### Odoo Guides - v7_02 &nbsp; 2019-08-13
  
