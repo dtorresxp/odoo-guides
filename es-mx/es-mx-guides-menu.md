@@ -64,8 +64,8 @@ A continuación te mostraremos una sencilla explicación sobre el _**&#x03C8;Cod
 [ _a:Seleccionar Contacto a Combinar_ f:Name &#x1F5F9; ]&#x00B2; &#x5C4; &#x5C4; &#x207F; | b:Acción | o:IntegrarContactos | w:CombinarContactos | f:ContactoDeDestino &#x2BC6; | _a:Seleccionar Contacto resultante_ | \[ b:CombinarContactos || b:Cancelar ] |  
 b:Cerrar | _a:Vericar Contactos combinados_  
 ###### Ahora veamos como se lee el _**&#x03C8;Code**_ en español
-  - La liga de video muestra su Descripción -  Versión y edición de Odoo - Nombre del creador - Idioma y País (xx significa sin voz, como en este caso) - Duración.  Abajo de la liga se muestran unas sencillas instruccioes.  
-  - Estos son todos los pasos que tienes que realizar en Odoo 13 para _Combinar_ Contactos  
+  - La liga de video muestra su Descripción -  Versión y edición de Odoo - Nombre del creador - Idioma y País (xx significa sin voz, como en este caso) - Duración.
+  - Abajo de la liga se muestran unas sencillas instruccioes, con todos los pasos que tienes que realizar en Odoo 13 para _Combinar_ Contactos  
   - Puedes hacer clic en la liga y ver el video (¡pero toma en cuenta que este es uno _bastante corto_!)  
   - Lo que nosotros te recomendamos, es que primero veas la guía para saber lo que tienes que hacer.  Cuando tengas más experiencia en Odoo, ya no vas a tener que ver todo el video, porque captarás fácilmente lo que dicen las guías:  
     - **Inicio**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has clic en el icono de _**apps**_ para _**iniciar**_ este procedimiento  
