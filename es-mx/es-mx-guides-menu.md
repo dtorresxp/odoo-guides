@@ -5,7 +5,7 @@ Ligas a videos y guías en _**&#x03C8;Code**_ para Odoo.
 
 <table align="left">
 <tr>
-<td><a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md"><img src="/doc/img/app/big/o13.png?raw=true"></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md" title="Goto Odoo's Enterprise Edition guides" >Enterprise</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md" title="Goto Odoo's Community Edition guides">Community</a></td>
+<td><a href="/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md"><img src="/doc/img/app/big/o13.png?raw=true"></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md" title="Ir a las guías de la Edición Empresarial de Odoo" >Empresarial</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&#x25CF;&nbsp; <a href="/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md" title="Ir a las guías de la Edición Comunidad de Odoo">Comunidad</a></td>
 </tr>
 </table><br>
 
