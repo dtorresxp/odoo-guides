@@ -14,8 +14,8 @@
   b:Confirm | d:OdooServerError |  
   _a:Notice You haven't enough access to confirm the order (you've given more then 15% discount) message_ | b:Ok |  
   b:Edit | f:Disc% | _a:Enter **30**_ | b:Confirm | d:OdooServerError | _a:Notice same error as before_ | b:Ok |  
-  b:Edit | f:Disc% | _a:Enter **35**_ | b:Confirm | d:OdooServerError | _a:Notice error because attempt to more than 30%_ | b:Ok |  
-  b:Edit | f:Disc% | _a:Enter **12**_ | b:Confirm | d:OdooServerError | _a:Notice error message now is about 10% discount_ | b:Ok |  
+  b:Edit | f:Disc% | _a:Enter **35**_ | b:Confirm | d:OdooServerError | _a:Notice discount higher than 30% error_ | b:Ok |  
+  b:Edit | f:Disc% | _a:Enter **12**_ | b:Confirm | d:OdooServerError | _a:Notice error message because more than 10% discount_ | b:Ok |  
   b:Edit | f:Disc% | _a:Enter **10**_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok |  
 - ###### Review Discount Ranges
   ![apps](/doc/img/apps.png) | o:set | i:ManageAccessRights | _a:Click on_ f:Name _to open | _a:Scroll down the form_ |  
