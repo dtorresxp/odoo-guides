@@ -5,7 +5,7 @@
 
 #### [Navigate to Customer location (O13 - EE - Odoo Mates - xx-in - 02:41)](https://youtube.com/embed/jIGFZP6mxlY?autoplay=1&start=0&end=0&rel=0)  
   ![apps](/doc/img/apps.png) | o:FieldService | v: ![view_map](/doc/img/view_map.png) |  
-  _a:Map will appear zoomed to the next pending task location, signaled in map by_ ![map_location](/doc/img/map_location.png) |  
+  _a:Map will appear zoomed to the next pending task location, indicated on the map with a_ ![map_location](/doc/img/map_location.png) |  
   _a:Zoom out \[ ![zoom_out](/doc/img/button_squared_sub.png) ]&#x207F; _if you need to see the nearby area_ |  
   _a:Click on_ ![map_location](/doc/img/map_location.png) | b:NavigateTo | _a:Set_ f:YourLocation _accordingly_ |  
   _a:Select your going way (default is by car)_ | _a:Review map to see the path_ |  
