@@ -4,7 +4,7 @@
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [eLearning (O13 - EE - Odoo Mates - xx-in - 04:27)](https://youtube.com/embed/t5q7asYzhRY?autoplay=1&start=0&end=0&rel=0)  
-- Overview
+- Overview  
   ![apps](/doc/img/apps.png) | o:eLearning |  
   _a:Notice Overview items content_ | f:Name | f:Tags | f:Rating | f:Views | f:WatchTime | f:Contents | f:Attendees | f:Finished |  
   _a:Select Item_ | &nbsp;**&#x2807;** | o:Edit | w:ItemContent | 
