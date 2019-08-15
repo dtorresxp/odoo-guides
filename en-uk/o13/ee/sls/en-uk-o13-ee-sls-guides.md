@@ -51,7 +51,7 @@
   ![apps](/doc/img/apps.png) | o:Sales | _a:Click on_ f:QuotationNumber _ to open any Quotation_ |  
   m:Print | o:Quotation/Order | w:OpeningQuotation | _a:Open in Document viewer_ | b:Ok | .
   w:DocumentViewer | _a:Review Quote format_ | _a:Close Document viewer window_ &#x2716; |  
-  _a:Return to Odoo_
+  _a:Return to Odoo_  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
 
 <br>
