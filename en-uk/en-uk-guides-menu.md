@@ -143,11 +143,12 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 
 | Symbol | Meaning | Symbol | Meaning | Symbol | Meaning | 
 | :---: | :--- | :---: | :--- | :---: | :--- |
-| ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon | &#x2807; | list menu icon |
-| &#x23BD;/&#x23BD;/ | breadcrumbs | &#x1F5F9; | checked mark | &#x2610; | unchecked mark |
-| &#x2716; | remove tag / close | &#x25C9; | set option | &#x2B58; | clear option |
-| &#x1F4C5; | calendar | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | &#x1F50D; | advanced search |
+| ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon | &#x2807; | list/item menu icon |
+| &#x2716; | remove tag / close | &#x1F4C5; | calendar | ![phone_receiver](/doc/img/phone_receiver.png) | advanced search |
 | ![icon_studio_small](/doc/img/icon_studio_small.png) | open studio | &#x1F557; | activities | &#x1F5ED; | conversations |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | ![payment_icon_small](/doc/img/payment_icon_small.png) | payment | ![customer_icon_small](/doc/img/customer_icon_small.png) | customer |
+| confirm | &#x1F50D; | ![synch_icon_small](/doc/img/synch_icon_small.png) | synchronization | ![lock_icon_small](/doc/img/lock_icon_small.png) \|\| ![unlock_icon_small](/doc/img/unlock_icon_small.png) | lock \|\| unlock session | 
+| &#x1F5F9; \|\| &#x2610; | checked \|\| unchecked mark | &#x25C9; \|\| &#x2B58; | set \|\| clear option | ![new_order_icon_small](/doc/img/new_order_icon_small.png) \|\| ![del_order_icon_small](/doc/img/del_order_icon_small.png) | new \|\| delete order |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png) | zoom in \|\| out | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
 | &#x2BC6; \|\| &#x2BC8; | open combobox \|\| row | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | star \|\| unstar | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presence \|\| absence |
 | &#x1F870; \|\| &#x1F872; | back \|\| advance | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | add \|\| subtract | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancel |
@@ -268,4 +269,4 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
   - Reduce _**a:**_ text to the minimum and use only one word for every action, to facilitate learning
   - Use this format to log reviewed but discarded videos: _\[**Video title** - Reviewed but duplicated]: # (**Video ID**)_  
 <br><br>
-###### Odoo Guides - v8_08 &nbsp; 2019-08-13
+###### Odoo Guides - v8_09 &nbsp; 2019-08-15
