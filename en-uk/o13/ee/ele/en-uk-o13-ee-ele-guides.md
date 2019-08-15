@@ -14,13 +14,14 @@
     _a:Open Course Item_ | w:Open:Slides&Categories | f:Name | f:Tags |  
 	- t:Document |  
 	  f:Type | f:Attachment ![edit](/doc/img/edit.png) ![show_catalog](/doc/img/show_catalog.png) |  
-	  f:Presentation &#x2BC6; \[ o:Infographic || o:WebPage || o:Presentation || o:Document || o:Video || o:Quiz || o:Certification ] |  
+	  f:Presentation &#x2BC6;  
+	  &nbsp;&nbsp;\[ o:Infographic || o:WebPage || o:Presentation || o:Document || o:Video || o:Quiz || o:Certification ] |  
 	  f:UploadedBy &#x2BC6; ![show_catalog](/doc/img/show_catalog.png) | f:Channel &#x2BC6; | f:WebsiteURL | f:IsPreview | f:PublishedDate |  
 	- t:Description | f:Description |  
 	- t:ExternalLinks | f:Title | f:ExternalLink |  
 	- t:Quiz
 	  i:Rewards | f:FirstAttempt | f:SecondAttempt | f:ThirdAttempt | f:Fourth&MoreAttempts |  
-	  i:Questions | f:QuestionName
+	  i:Questions | f:QuestionName  
 	  t:Statistics | i:Views | f:MemberViews | f:PublicViews | f:TotalViews | f:NumberOfComments  
 	- b:Save
   - t:Description | f:CourseDescription
@@ -29,23 +30,22 @@
 	- i:AccessRights | f:EnrollPolicy \[ o:Public || o:Invite || o:OnPayment \[ f:Product ] ] | f:NewContent &#x2BC6; |  
 	- i:Communication | f:AllowRating | f:Forum &#x2BC6; ![show_catalog](/doc/img/show_catalog.png) |
 	  f:NewContentEmail &#x2BC6; ![show_catalog](/doc/img/show_catalog.png) | f:SharedTemplate &#x2BC6; ![show_catalog](/doc/img/show_catalog.png) |  
-	- i:Display | f:Visibility \[ o:Public || o:Members ] | f:FeaturingPolicy \[ o:LatestPublished || o:MostVoted || o:MostViewed ] |  
+	- i:Display | f:Visibility \[ o:Public || o:Members ] |  
+	  f:FeaturingPolicy \[ o:LatestPublished || o:MostVoted || o:MostViewed ] |  
   - t:KarmaRules | f:RankCourse | f:FinishCourse | f:AddReview | f:AddContent | f:Vote |  
   - t:Statistics |  
 	f:Presentations | f:Documents | f:Videos | f:Infographics | f:Quizzes | f:Webpages |  
 	f:Certifications | f:Content | f:Visits | f:Rating | f:WatchTime
   - b:Save
-  - s:Finished | i:Attendee | _a:Review result data_ | &#x23BD;/&#x23BD;/:CourseName | s:Attendees | _a:Review list of Course's Attendees_ |  
+  - s:Finished | i:Attendee | _a:Review result data_ | &#x23BD;/&#x23BD;/:CourseName | s:Attendees | _a:Review list of Attendees_ |  
   - s:Reviews | _a:Read Reviews list_ | &#x23BD;/&#x23BD;/:CourseName |  
   - s:ForumPosts | _a:Review Forum posts_ |  
   - &#x23BD;/&#x23BD;/:Overview | _a:Review Courses_ | v:![view_list](/doc/img/view_list.png) | v:![view_kanban](/doc/img/view_kanban.png) |  
   - b:ViewCourse | _a:Review Course home page_ |  
-  _ &#x23BD;/&#x23BD;/:Home | _a:Review Website home page |  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
+  - &#x23BD;/&#x23BD;/:Home | _a:Review Website home page |  
+    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
 
 [cocacola]: # (2:32 begin with Enrollment Test)  
-
-
 
 
 <br>
