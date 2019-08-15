@@ -4,7 +4,7 @@
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [eLearning (O13 - EE - Odoo Mates - xx-in - 04:27)](https://youtube.com/embed/t5q7asYzhRY?autoplay=1&start=0&end=246&rel=0)  
-- Overview  
+- ###### Overview  
   ![apps](/doc/img/apps.png) | o:eLearning |  
   _a:Notice Overview items content_ | f:Name | f:Tags | f:Rating | f:Views | f:WatchTime | f:Contents | f:Attendees | f:Finished |  
   _a:Select Item_ | &nbsp;**&#x2807;** | o:Edit | w:ItemContent | 
@@ -40,14 +40,14 @@
   - s:Finished | i:Attendee | _a:Review result data_ | &#x23BD;/&#x23BD;/:CourseName | s:Attendees | _a:Review list of Attendees_ |  
   - s:Reviews | _a:Read Reviews list_ | &#x23BD;/&#x23BD;/:CourseName |  
   - s:ForumPosts | _a:Review Forum posts_ |  
-- Test Course Enrollment  
+- ###### Test Course Enrollment  
   &#x23BD;/&#x23BD;/:Overview | _a:Review Courses_ | v: ![view_list](/doc/img/view_list.png) | v: ![view_kanban](/doc/img/view_kanban.png) |  
   b:ViewCourse | _a:Review Course home page_ |  
   &#x23BD;/&#x23BD;/:Home | _a:Review Website home page |  
   i:MyCourses | _a:Select a (completed) course_ | i:KnowHowSummary | _a:Review presentation_ |  
   _a:Click on_ i:HomeGardening _at left panel_ | _a:Review the Infograph_ | b:BackToCourse |  
   t:Forum | _a:Review Questions_ | t:Review | _a:Wactch reviews_ |  
-- m:Configuration  
+- ###### App menus
   ![apps](/doc/img/apps.png) | o:eLearning | m:Configuration | 
   - o:Settings | i:eLearning | &#x1F5F9; f:Forum | &#x1F5F9; f:Mailing | &#x1F5F9; f:Certifications | &#x1F5F9; f:Sell on eCommerce | 
   - o:CourseTags | f:Name | f:MenuEntry |  
@@ -56,7 +56,7 @@
 - m:Courses | o:Certifications | i:MyCompanyVendorCertification | 
   w:MyCompanyVendorCertification | m:Action | \[ o:Archive | o:Delete | o:Duplicate | o:Survey:CleanTestAnswers ] |  
   b:Print | _a:Watch doc preview_ | 
-    ⱽ¹⁻⁰² &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁵
+  ⱽ¹⁻⁰² &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁵
 
 <br>
 
