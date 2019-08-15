@@ -40,7 +40,7 @@
   - s:Finished | i:Attendee | _a:Review result data_ | &#x23BD;/&#x23BD;/:CourseName | s:Attendees | _a:Review list of Attendees_ |  
   - s:Reviews | _a:Read Reviews list_ | &#x23BD;/&#x23BD;/:CourseName |  
   - s:ForumPosts | _a:Review Forum posts_ |  
-  - &#x23BD;/&#x23BD;/:Overview | _a:Review Courses_ | v:![view_list](/doc/img/view_list.png) | v:![view_kanban](/doc/img/view_kanban.png) |  
+  - &#x23BD;/&#x23BD;/:Overview | _a:Review Courses_ | v: ![view_list](/doc/img/view_list.png) | v: ![view_kanban](/doc/img/view_kanban.png) |  
   - b:ViewCourse | _a:Review Course home page_ |  
   - &#x23BD;/&#x23BD;/:Home | _a:Review Website home page |  
     ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
