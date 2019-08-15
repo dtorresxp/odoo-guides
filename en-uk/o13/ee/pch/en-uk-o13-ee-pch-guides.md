@@ -17,8 +17,8 @@ _a:Notice now there are one detail line for each Size/Color quantity that was gr
 t:Products | i:AddASection | _a:Enter Section text_ |  
 \[ i:AddAProduct | f:Product &#x2BC6; | _a:Select Product_ ]&#x207F; |  
 i:AddASection | _a:Enter new Section text_ |  
-\[ i:AddAProduct | f:Product &#x2BC6; | _a:Select Product_ ]&#x207F; | _a:Use_ **&#x2725;** _to reorder any row as needed_ |  
-b:Save |  
+\[ i:AddAProduct | f:Product &#x2BC6; | _a:Select Product_ ]&#x207F; |  
+_a:Use_ **&#x2725;** _to reorder any row as needed_ | b:Save |  
 b:Print &#x2BC6; | o:RequestForQuotation | w:PrintRequestForQuotation | o:OpenWithDocumentViewer | b:Ok |  
 w:DocumentViewer | _a:Verify document shows desired order_ | _a:Click on Odoo window_ |  
 b:Edit | \[ i:AddANote | _a:Enter Note text_ | _a:Move Note to desired row with_ **&#x2725;** ]&#x207F; |  
