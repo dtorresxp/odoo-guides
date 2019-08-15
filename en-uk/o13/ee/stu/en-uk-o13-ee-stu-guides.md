@@ -13,7 +13,12 @@ f:Aggregate &#x2BC6; | o:Sum | _a:Notice the new sum at the bottom of the column
 b:Close  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
+#### [Insta-Search Model Fields (O13 - EE - Odoo Mates - xx-in - 01:18)](https://youtube.com/embed/NxzzporqqDs?autoplay=1&start=0&end=0&rel=0)  
+![apps](/doc/img/apps.png) | o:Sales | m:Orders | o:Quotations | _a:Open any Quote_ | ![icon_studio_small](/doc/img/icon_studio_small.png) |  
+_a:Scroll down object panel, until field names_ | f:ExistingField | _a:Start typing field name_ |  
+_a:Notice as you type, Odoo filters automatically matching field names_ | b:Close  
+
 <br>
 
-###### Odoo Guides - v3_02 &nbsp; 2019-08-11  
+###### Odoo Guides - v3_03 &nbsp; 2019-08-14  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
