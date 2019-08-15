@@ -7,7 +7,7 @@
   ![apps](/doc/img/apps.png) | o:Discuss | i:LeftPanel | _a:Notice new_ o:History _below_ o:Inbox & o:Starred |  
   o:History | _a:Scroll down to review Discuss History_ |  
   _a:Select_ i:ChannelName _to review its history_ |  
-  _a:Click on_ b:ViewApplicant _of any log, to review its content_ |  
+  _a:Click on_ b:ViewApplicant _of any log, to review its contents_ |  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
 
 <br>
