@@ -145,8 +145,8 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 | :---: | :--- | :---: | :--- | :---: | :--- |
 | ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon | &#x2807; | list / item menu icon |
 | **&#x2B73;** | download | &#x21C4; | pivot: flip axis | &#x2725; | reorder \|\| expand all |
-| &#x2716; | remove tag / close | **&#x2713;** option | active option | ![edit](/doc/img/edit.png) | edit |
-| &#x23BD;/&#x23BD;/ | breadcrumbs | ![payment_icon_small](/doc/img/payment_icon_small.png) | payment | ![customer_icon_small](/doc/img/customer_icon_small.png) | customer |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | **&#x2713;** option | active option | ![edit](/doc/img/edit.png) | edit |
+| &#x2716; | remove tag / close | ![payment_icon_small](/doc/img/payment_icon_small.png) | payment | ![customer_icon_small](/doc/img/customer_icon_small.png) | customer |
 | ![icon_studio_small](/doc/img/icon_studio_small.png) | open studio | &#x1F557; | activities | &#x1F5ED; | conversations |
 | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | ![synch_icon_small](/doc/img/synch_icon_small.png) | synchronization | ![lock_icon_small](/doc/img/lock_icon_small.png) \|\| ![unlock_icon_small](/doc/img/unlock_icon_small.png) | lock \|\| unlock session | 
 | &#x1F5F9; \|\| &#x2610; | checked \|\| unchecked mark | &#x25C9; \|\| &#x2B58; | set \|\| clear option | ![new_order_icon_small](/doc/img/new_order_icon_small.png) \|\| ![del_order_icon_small](/doc/img/del_order_icon_small.png) | new \|\| delete order |
