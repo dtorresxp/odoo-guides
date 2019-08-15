@@ -136,6 +136,11 @@ _a:Select any Date filter:_ \[ o:CreationDate \| o:ExpectedDate \| o:ClosedDate 
 _a:Now date options are:_ \[ o:Month \| o:Month+1 \|\| o:Month+2 \|\| o:Q1 \|\| o:Q2 \|\| o:Q3 \|\| o:Q4 \|\| o:Year \|\| o:Year-1 \|\| o:Year-2 ]  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁶
 
+#### [Dynamic Field Visibility in Trees &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:52)](https://youtube.com/embed/w7-oLecq-bE?autoplay=1&start=0&end=0&rel=0)  
+![apps](/doc/img/apps.png) | _a:Open module with v: ![view_list](/doc/img/view_list.png)_ | &nbsp;**&#x2807;** |  
+\[ _a:Show optional field with_ &#x1F5F9; ]&#x207F; | _a:Click outside fields window to see all selected fields_  
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁵
+
 #### [How to get sample import template &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 00:55)](https://youtube.com/embed/Sl3-EhT4qwk?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | _a:Select o:Module with desired list_ | b:Import | **&#x2B73;** Import Template for o:Module | &#x25C9; Save File | b:Ok  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
@@ -154,13 +159,13 @@ _a:Review changes_ | b:GroupBy &#x2BC6; | **&#x2713;** o:Salesperson | _a:Check 
 ![apps](/doc/img/apps.png) | _a:Select o:Module_ | m:Company &#x2BC6; | \[ _a:Mark o:Company_ \]&#x207F;  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
-#### [Optional Field Visibility &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:52)](https://youtube.com/embed/_lYDpTZ3Bfo?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | _a:Open module with v:list_ | _a:Open v:list_ | o:Products | &nbsp;**&#x2807;** |  
+#### [Optional Field Visibility in Documents &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:52)](https://youtube.com/embed/_lYDpTZ3Bfo?autoplay=1&start=0&end=0&rel=0)  
+![apps](/doc/img/apps.png) | _a:Open module with v: ![view_list](/doc/img/view_list.png)_ | _a:Open v: ![view_list](/doc/img/view_list.png)_ | o:Products | &nbsp;**&#x2807;** |  
 \[ _a:Show optional field with_ &#x1F5F9; ]&#x207F; | _a:Click outside fields window_  
-ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
+ⱽ¹⁻⁰² &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁵
 
 #### [Show an address in map view (O13 - EE - OdooExperts - xx-nl - 00:11)](https://youtube.com/embed/VIFK4U-v4NA?autoplay=1&start=0&end=0&rel=0)  
-![apps](/doc/img/apps.png) | _a:Open module with_ v:map | _a:Open_ v:list_ |  
+![apps](/doc/img/apps.png) | _a:Open module with_ v:map | _a:Open_ v: ![view_list](/doc/img/view_list.png)_ |  
 _a:Select ![view_map](/doc/img/view_map.png) view_ | _a:Click on desired location_ ![map_location](/doc/img/map_location.png) |  
 b:Edit | _a:Review location data_ | b:Save |  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹²
@@ -173,5 +178,5 @@ _a:Notice in previous versions SmartButtons was arranged only on form's top-righ
 
 <br>
 
-###### Odoo Guides - v6_01 &nbsp; 2019-08-12  
+###### Odoo Guides - v6_03 &nbsp; 2019-08-15  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

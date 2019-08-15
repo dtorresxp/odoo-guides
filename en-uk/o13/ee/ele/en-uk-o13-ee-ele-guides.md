@@ -3,7 +3,7 @@
 ### ![ele](/doc/img/app/big/ele.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [eLearning (O13 - EE - Odoo Mates - xx-in - 04:27)](https://youtube.com/embed/t5q7asYzhRY?autoplay=1&start=0&end=0&rel=0)  
+#### [eLearning (O13 - EE - Odoo Mates - xx-in - 04:27)](https://youtube.com/embed/t5q7asYzhRY?autoplay=1&start=0&end=246&rel=0)  
 - Overview  
   ![apps](/doc/img/apps.png) | o:eLearning |  
   _a:Notice Overview items content_ | f:Name | f:Tags | f:Rating | f:Views | f:WatchTime | f:Contents | f:Attendees | f:Finished |  
@@ -40,15 +40,25 @@
   - s:Finished | i:Attendee | _a:Review result data_ | &#x23BD;/&#x23BD;/:CourseName | s:Attendees | _a:Review list of Attendees_ |  
   - s:Reviews | _a:Read Reviews list_ | &#x23BD;/&#x23BD;/:CourseName |  
   - s:ForumPosts | _a:Review Forum posts_ |  
-  - &#x23BD;/&#x23BD;/:Overview | _a:Review Courses_ | v: ![view_list](/doc/img/view_list.png) | v: ![view_kanban](/doc/img/view_kanban.png) |  
-  - b:ViewCourse | _a:Review Course home page_ |  
-  - &#x23BD;/&#x23BD;/:Home | _a:Review Website home page |  
-    ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
-
-[cocacola]: # (2:32 begin with Enrollment Test)  
-
+- Test Course Enrollment  
+  &#x23BD;/&#x23BD;/:Overview | _a:Review Courses_ | v: ![view_list](/doc/img/view_list.png) | v: ![view_kanban](/doc/img/view_kanban.png) |  
+  b:ViewCourse | _a:Review Course home page_ |  
+  &#x23BD;/&#x23BD;/:Home | _a:Review Website home page |  
+  i:MyCourses | _a:Select a (completed) course_ | i:KnowHowSummary | _a:Review presentation_ |  
+  _a:Click on_ i:HomeGardening _at left panel_ | _a:Review the Infograph_ | b:BackToCourse |  
+  t:Forum | _a:Review Questions_ | t:Review | _a:Wactch reviews_ |  
+- m:Configuration  
+  ![apps](/doc/img/apps.png) | o:eLearning | m:Configuration | 
+  - o:Settings | i:eLearning | &#x1F5F9; f:Forum | &#x1F5F9; f:Mailing | &#x1F5F9; f:Certifications | &#x1F5F9; f:Sell on eCommerce | 
+  - o:CourseTags | f:Name | f:MenuEntry |  
+  - o:ContentTags |  
+- m:Reporting | \[ o:Courses | o:Contents | o:Revenues | o:Reviews | o:Quizzes | o:Forum | o:Certifications ] |  
+- m:Courses | o:Certifications | i:MyCompanyVendorCertification | 
+  w:MyCompanyVendorCertification | m:Action | \[ o:Archive | o:Delete | o:Duplicate | o:Survey:CleanTestAnswers ] |  
+  b:Print | _a:Watch doc preview_ | 
+    ⱽ¹⁻⁰² &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁵
 
 <br>
 
-###### Odoo Guides - V1_01 &nbsp; 2019-08-14  
+###### Odoo Guides - V1_02 &nbsp; 2019-08-15  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
