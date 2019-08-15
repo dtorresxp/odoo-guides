@@ -3,6 +3,16 @@
 ### ![fsv](/doc/img/app/big/fsv.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
+#### [Navigate to Customer location (O13 - EE - Odoo Mates - xx-in - 02:41)](https://youtube.com/embed/jIGFZP6mxlY?autoplay=1&start=0&end=0&rel=0)  
+  ![apps](/doc/img/apps.png) | o:FieldService | v: ![view_map](/doc/img/view_map.png) |  
+  _a:Map will appear zoomed to the next pending task location, signaled in map by_ ![map_location](/doc/img/map_location.png) |  
+  _a:Zoom out \[ ![zoom_out](/doc/img/button_squared_sub.png) ]&#x207F; _if you need to see the nearby area_ |  
+  _a:Click on_ ![map_location](/doc/img/map_location.png) | b:NavigateTo | _a:Set_ f:YourLocation _accordingly_ |  
+  _a:Select your going way (default is by car)_ | _a:Review map to see the path_ |  
+  _a:Adjust your actual location as needed_ | _a:Review your route_ |  
+  _a:Click t:Odoo on your browser to return to Odoo_  
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁵
+
 #### [Field Service Management &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 06:12 - Control de Servicio en Sitio)](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=3&end=0&rel=0&nocount)<br>
 
 - [Install Presence module](https://youtube.com/embed/AjG16B-DTYY?autoplay=1&start=3&end=16&rel=0)  
