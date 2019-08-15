@@ -62,13 +62,13 @@
 | ![apps](/doc/img/apps.png) | apps en _barranav_ | &#x2630; | menú de la app | &#x2807; | menú de lista / item |
 | **&#x2B73;** | descargar | &#x21C4; | t.din.: cambiar ejes | &#x2725; | reordenar \|\| expandir |
 | &#x23BD;/&#x23BD;/ | historial | ![edit](/doc/img/edit.png) | editar | ![customer_icon_small](/doc/img/customer_icon_small.png) | cliente |
-| &#x2716; | quitar etiqueta / cerrar | **&#x2713;** opción | opción activa | ![payment_icon_small](/doc/img/payment_icon_small.png) | pagar |
+| &#x2716; | desetiquetar / cerrar | **&#x2713;** opción | opción activa | ![payment_icon_small](/doc/img/payment_icon_small.png) | pagar |
 | ![icon_studio_small](/doc/img/icon_studio_small.png) | abrir Odoo studio | &#x1F557; | actividades | &#x1F5ED; | conversaciones |
 | ![filter](/doc/img/filter.png) | filtrar | ![internet_small](/doc/img/internet_small.png) | navegar internet | ![quick_connect](/doc/img/quick_connect.png) | conectar en github |
 | ![phone_receiver](/doc/img/phone_receiver.png) | confirmar | ![synch_icon_small](/doc/img/synch_icon_small.png) | sincronizado | ![lock_icon_small](/doc/img/lock_icon_small.png) \|\| ![unlock_icon_small](/doc/img/unlock_icon_small.png) | bloquear \|\| liberar sesión | 
-| &#x1F5F9; \|\| &#x2610; | marcar \|\| desmarcar opción | &#x25C9; \|\| &#x2B58; | encendido \|\| apagado | ![new_order_icon_small](/doc/img/new_order_icon_small.png) \|\| ![del_order_icon_small](/doc/img/del_order_icon_small.png) | nueva \|\| borrar orden |
+| &#x1F5F9; \|\| &#x2610; | marcar \|\| desmarcar | &#x25C9; \|\| &#x2B58; | encender \|\| apagar | ![new_order_icon_small](/doc/img/new_order_icon_small.png) \|\| ![del_order_icon_small](/doc/img/del_order_icon_small.png) | nueva \|\| borrar orden |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | activo \|\| inactivo | ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png) | acercar \|\| alejar zoom | ![warning](/doc/img/warning.png) \|\| &#x26A0; | alerta \|\| precaución |
-| &#x2BC6; \|\| &#x2BC8; | abrir combobox \|\| renglón | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | prioridad **+** \|\| **-** | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presente \|\| ausente |
+| &#x2BC6; \|\| &#x2BC8; | abre combo \|\| renglón | ![star](/doc/img/star.png) \|\| ![unstar](/doc/img/unstar.png) | prioridad **+** \|\| **-** | ![presence_yes](/doc/img/presence_yes.png) \|\| ![presence_no](/doc/img/presence_no.png) | presente \|\| ausente |
 | &#x1F870; \|\| &#x1F872; | retroceder \|\| avanzar | ![add](/doc/img/button_add.png) \|\| ![sub](/doc/img/button_sub.png) | agregar \|\| eliminar | ![trashcan](/doc/img/trashcan.png) \|\| ![cancel](/doc/img/cancel.png) | cancelar |
 | &#x1F41E; | opc. desarrollador | &#x1F4C5; | calendario | &#x1F50D; | búsqueda avanzada |
 | ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | gráfica de barras | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | gráfica de áreas | ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | pie chart |
