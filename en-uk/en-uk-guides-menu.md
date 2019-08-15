@@ -148,6 +148,7 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 | &#x23BD;/&#x23BD;/ | breadcrumbs | **&#x2713;** option | active option | ![edit](/doc/img/edit.png) | edit |
 | &#x2716; | remove tag / close | ![payment_icon_small](/doc/img/payment_icon_small.png) | payment | ![customer_icon_small](/doc/img/customer_icon_small.png) | customer |
 | ![icon_studio_small](/doc/img/icon_studio_small.png) | open studio | &#x1F557; | activities | &#x1F5ED; | conversations |
+| ![filter](/doc/img/filter.png) | filter | ![internet_small](/doc/img/internet_small.png) | internet browsing | ![quick_connect](/doc/img/quick_connect.png) | github quick-connect |
 | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | ![synch_icon_small](/doc/img/synch_icon_small.png) | synchronization | ![lock_icon_small](/doc/img/lock_icon_small.png) \|\| ![unlock_icon_small](/doc/img/unlock_icon_small.png) | lock \|\| unlock session | 
 | &#x1F5F9; \|\| &#x2610; | checked \|\| unchecked mark | &#x25C9; \|\| &#x2B58; | set \|\| clear option | ![new_order_icon_small](/doc/img/new_order_icon_small.png) \|\| ![del_order_icon_small](/doc/img/del_order_icon_small.png) | new \|\| delete order |
 | ![active](/doc/img/active.png) \|\| ![inactive](/doc/img/inactive.png) | active \|\| inactive | ![button_squared_add](/doc/img/button_squared_add.png) \|\| ![button_squared_sub](/doc/img/button_squared_sub.png) | zoom in \|\| out | ![warning](/doc/img/warning.png) \|\| &#x26A0; | warning \|\| notice |
@@ -157,7 +158,6 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 | ![icon_view_chart_bars_small](/doc/img/icon_view_chart_bars_small.png) | bars chart | ![icon_view_chart_area_small](/doc/img/icon_view_chart_area_small.png) | area chart | ![icon_view_chart_pie_small](/doc/img/icon_view_chart_pie_small.png) | pie chart |
 | ![icon_view_chart_area_stacked_small](/doc/img/icon_view_chart_area_stacked_small.png) | stacked chart | ![view_kanban](/doc/img/view_kanban.png) | kanban view | ![view_list](/doc/img/view_list.png) | list view |
 | ![view_activity](/doc/img/view_activity.png) | activity view | ![view_map](/doc/img/view_map.png) & ![map_location](/doc/img/map_location.png)| map view & location | ![show_catalog](/doc/img/show_catalog.png) | show catalog |
-| ![filter](/doc/img/filter.png) | filter | ![internet_small](/doc/img/internet_small.png) | internet browsing | ![quick_connect](/doc/img/quick_connect.png) | github quick-connect |
 
 <br>  
   
