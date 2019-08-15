@@ -5,6 +5,13 @@
 
 <br>
 
+#### [Purchase Product Matrix (O13 - EE - Odoo Mates - xx-in - 02:08)](https://youtube.com/embed/1Pn4TdlbS04?autoplay=1&start=0&end=66&rel=0)  
+![apps](/doc/img/apps.png) | o:Purchase | m:Orders | o:RequestsForQuotation | b:Create | f:Vendor &#x2BC6; |  
+i:AddAProduct | f:Product &#x2BC6; | _a:Select a Product with Variants_ | 
+w:ChooseProductVariants | \[ _a:Select size \[ S || M || L ] | _and color_ \[ White || Black || Blue ] | _a:Enter_ f:Quantity_ ]&#x207F; | b:Confirm |  
+_a:Notice now there are one detail line for each Size/Color quantity that was greater than zero_ | b:Save |  
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁵
+
 #### [Section and Notes in Purchase (O13 - EE - Odoo Mates - n/v - 02:57)](https://youtube.com/embed/sSVb0ZtEAUs?autoplay=1&start=0&end=0&rel=0)  
 ![apps](/doc/img/apps.png) | o:Purchase | b:Create | f:Vendor &#x2BC6; | _a:Select Vendor_ |  
 t:Products | i:AddASection | _a:Enter Section text_ |  
@@ -22,5 +29,5 @@ _a:Click on Odoo window_
 
 <br>
 
-###### Odoo Guides - V3_02 &nbsp; 2019-08-11  
+###### Odoo Guides - V3_03 &nbsp; 2019-08-15  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  
