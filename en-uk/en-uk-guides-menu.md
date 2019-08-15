@@ -145,8 +145,8 @@ This is the basic explanation about _**&#x03C8;Code**_.  Its only purpose is to 
 | :---: | :--- | :---: | :--- | :---: | :--- |
 | ![apps](/doc/img/apps.png) | apps icon on _navbar_ | &#x2630; | app menu icon | &#x2807; | list / item menu icon |
 | **&#x2B73;** | download | &#x21C4; | pivot: flip axis | &#x2725; | reorder \|\| expand all |
-| &#x23BD;/&#x23BD;/ | breadcrumbs | **&#x2713;** option | active option | ![customer_icon_small](/doc/img/customer_icon_small.png) | customer |
-| &#x2716; | remove tag / close | ![edit](/doc/img/edit.png) | edit | ![payment_icon_small](/doc/img/payment_icon_small.png) | payment |
+| &#x23BD;/&#x23BD;/ | breadcrumbs | ![edit](/doc/img/edit.png) | edit | ![customer_icon_small](/doc/img/customer_icon_small.png) | customer |
+| &#x2716; | remove tag / close | **&#x2713;** option | active option | ![payment_icon_small](/doc/img/payment_icon_small.png) | payment |
 | ![icon_studio_small](/doc/img/icon_studio_small.png) | open studio | &#x1F557; | activities | &#x1F5ED; | conversations |
 | ![filter](/doc/img/filter.png) | filter | ![internet_small](/doc/img/internet_small.png) | internet browsing | ![quick_connect](/doc/img/quick_connect.png) | github quick-connect |
 | ![phone_receiver](/doc/img/phone_receiver.png) | confirm | ![synch_icon_small](/doc/img/synch_icon_small.png) | synchronization | ![lock_icon_small](/doc/img/lock_icon_small.png) \|\| ![unlock_icon_small](/doc/img/unlock_icon_small.png) | lock \|\| unlock session | 
