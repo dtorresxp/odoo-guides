@@ -7,8 +7,8 @@
 
 #### [Purchase Product Matrix (O13 - EE - Odoo Mates - xx-in - 02:08)](https://youtube.com/embed/1Pn4TdlbS04?autoplay=1&start=0&end=66&rel=0)  
 ![apps](/doc/img/apps.png) | o:Purchase | m:Orders | o:RequestsForQuotation | b:Create | f:Vendor &#x2BC6; |  
-i:AddAProduct | f:Product &#x2BC6; | _a:Select a Product with Variants_ |  
-w:ChooseProductVariants | \[ _a:Select size \[ S || M || L ] | _and color_ \[ White || Black || Blue ] | _a:Enter_ f:Quantity_ ]&#x207F; | b:Confirm |  
+i:AddAProduct | f:Product &#x2BC6; | _a:Select a Product with Variants_ | w:ChooseProductVariants |  
+\[ _a:Select size \[ S || M || L ] | _and color_ \[ White || Black || Blue ] | _a:Enter_ f:Quantity_ ]&#x207F; | b:Confirm |  
 _a:Notice now there are one detail line for each Size/Color quantity that was greater than zero_ | b:Save |  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁵
 
