@@ -35,6 +35,25 @@
   b:Edit | f:Disc% | _a:Enter **13**_ | b:Confirm | _a:Notice Order now is confirmed_ | b:Ok  
   ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
 
+#### [Report Configurator (O13 - EE - Odoo Mates - xx-in - 02:41)](https://youtube.com/embed/CeV6AMK3ulI?autoplay=1&start=0&end=0&rel=0)  
+- ###### Customizing format
+  ![apps](/doc/img/apps.png) | o:Sales | i:ControlPanel-QuotationLayout | b:Customize | w:ConfigureYourDocumentLayout |  
+  f:Layout \[ o:Standard || o:Background || o:Boxed || o:Clean ] |  
+  f:CompanyLogo |  
+  f:Colors | \[ i:DarkText | i:LightText | i:Exchange Colors ] |  
+  f:Font &#x2BC6; | _a:Select font_ |  
+  f:CompanyTagline |  
+  f:Footer |  
+  f:PaperFormat &#x2BC6; |  
+  _a:Change field values & verify result in preview pane_ |  
+  b:Save |  
+- ###### Test report
+  ![apps](/doc/img/apps.png) | o:Sales | _a:Click on_ f:QuotationNumber _ to open any Quotation_ |  
+  m:Print | o:Quotation/Order | w:OpeningQuotation | _a:Open in Document viewer_ | b:Ok | .
+  w:DocumentViewer | _a:Review Quote format_ | _a:Close Document viewer window_ &#x2716; |  
+  _a:Return to Odoo_
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁴
+
 <br>
 
 ## Product Configurator
