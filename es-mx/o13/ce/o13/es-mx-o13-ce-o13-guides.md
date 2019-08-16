@@ -1,7 +1,15 @@
-## O13 - CE - WEB - Sitios Web &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/web/en-uk-o13-ce-web-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/web/es-mx-o13-ce-web-guides.md)  
-#### [_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md "Regresar al menúu de CE")
+## O13 - CE - WEB - Websites Builder &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/web/en-uk-o13-ce-web-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/web/es-mx-o13-ce-web-guides.md)
+#### [_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md "Regresar al menú de CE")
 ### ![web](/doc/img/app/big/web.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
+
+## News  
+
+[cocacola]: # (translate from en-uk)  
+
+<br>
+
+## Guides
 
 #### [El Form Builder de Sitios Web se movió a la Ed. de la Comunidad &nbsp;&nbsp; (O13 - CE - Odoo Mates - xx-in - 01:19)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=0&rel=0)  
 [***Sync***]: # (es-mx-o13-ee-web-guides)  
@@ -14,5 +22,5 @@ b:Guardar
 
 <br>
 
-###### Guías Odoo - v3_06 &nbsp; 2019-08-15  
+###### Odoo Guides - v1_01 &nbsp; 2019-08-16  
 **[_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)**  
