@@ -4,6 +4,7 @@
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [HR Payroll Removed from Community Edition &nbsp;&nbsp; (O13 - CE - Odoo Mates - xx-in - 01:24 - Nómina eliminada de Ed. Comunidad)](https://youtube.com/embed/ssrMiPrdbQQ?autoplay=1&start=0&end=0&rel=0)  
+[***Sync***]: # (en-uk-o13-ee-pyr-guides)  
 ![apps](/doc/img/apps.png) | o:Apps | _a:There is no more HR Payroll app on CE_
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
