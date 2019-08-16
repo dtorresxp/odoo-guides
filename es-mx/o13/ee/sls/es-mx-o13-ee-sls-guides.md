@@ -1,6 +1,6 @@
 # O13 - EE - SLS - Ventas &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/sls/en-uk-o13-ee-sls-sales-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/sls/es-mx-o13-ee-sls-sales-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menú de EE")  
-### ![sls](/doc/img/acc/big/sls.png)
+### ![sls](/doc/img/app/big/sls.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [Configurador de Productos &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:27)](https://youtube.com/embed/W9Ncu2mwqHQ?autoplay=1&start=0&end=0&rel=0)

@@ -1,6 +1,6 @@
 # O13 - EE - PSC - Asistencias &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/psc/en-uk-o13-ee-psc-presencia-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/psc/es-mx-o13-ee-psc-presencia-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menú de EE")  
-### ![psc](/doc/img/acc/big/psc.png)
+### ![psc](/doc/img/app/big/psc.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 <br>

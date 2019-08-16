@@ -1,6 +1,6 @@
 # O13 - EE - CTC - Contactos &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/ctc/en-uk-o13-ee-ctc-contacts-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/ctc/es-mx-o13-ee-ctc-contacts-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menú de EE")  
-### ![ctc](/doc/img/acc/big/ctc.png)
+### ![ctc](/doc/img/app/big/ctc.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 <br>

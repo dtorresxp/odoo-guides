@@ -1,6 +1,6 @@
 # O13 - EE - APT - Citas &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/apt/en-uk-o13-ee-apt-appointments-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/apt/es-mx-o13-ee-apt-appointments-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menú de EE")  
-### ![apt](/doc/img/acc/big/apt.png)
+### ![apt](/doc/img/app/big/apt.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 <br>

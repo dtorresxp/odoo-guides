@@ -1,6 +1,6 @@
 # O13 - EE - O13 - Funcionalidad Global &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/o13/en-uk-o13-ee-o13-system-wide-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-system-wide-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menú de EE")  
-### ![o13](/doc/img/acc/big/o13.png)
+### ![o13](/doc/img/app/big/o13.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 <br>

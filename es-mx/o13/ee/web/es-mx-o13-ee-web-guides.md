@@ -1,6 +1,6 @@
 # O13 - EE - WEB - Sitios Web &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/web/en-uk-o13-ee-web-websites-builder-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/web/es-mx-o13-ee-web-websites-builder-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menú de EE")
-### ![web](/doc/img/acc/big/web.png)
+### ![web](/doc/img/app/big/web.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [Agregar opción de Adjuntar en el Portal &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:29)](https://youtube.com/embed/tZZXvJYX5qY?autoplay=1&start=0&end=0&rel=0)

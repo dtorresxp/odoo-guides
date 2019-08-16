@@ -1,6 +1,6 @@
 # O13 - EE - IVC - Facturación &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/ivc/en-uk-o13-ee-ivc-invoicing-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/ivc/es-mx-o13-ee-ivc-invoicing-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menú de EE")  
-### ![ivc](/doc/img/acc/big/ivc.png)
+### ![ivc](/doc/img/app/big/ivc.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 <br>

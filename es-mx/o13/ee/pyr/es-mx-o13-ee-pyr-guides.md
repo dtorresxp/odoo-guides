@@ -1,6 +1,6 @@
 # O13 - EE - PYR - Nómina &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/pyr/en-uk-o13-ee-pyr-payroll-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/pyr/es-mx-o13-ee-pyr-payroll-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md "Regresar al menú de EE")  
-### ![pyr](/doc/img/acc/big/pyr.png)
+### ![pyr](/doc/img/app/big/pyr.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 <br>
