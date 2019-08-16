@@ -1,8 +1,8 @@
-#  O13 - EE - Menú de la Ed. Empresarial &nbsp;&nbsp;&nbsp;&nbsp; [![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
+#  O13 - EE - Menú de la Ed. Empresarial &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ee/es-mx-o13-ee-guides-menu.md)
 #### [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md "Regresar al menú de Inicio")    
 ###### Has clic en el icono de cualquiera de las apps de la lista, para ver sus guías<br>
 
-# [![o13](/doc/img/o13.png)](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-guides.md) &nbsp;EE
+# [![o13](/doc/img/app/big/o13.png)](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-guides.md) &nbsp;EE
 | Icono | Significado | Icono | Significado | Icono | Significado | Icono | Significado |
 | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
 | [![o13](/doc/img/app/sml/o13.jpg)](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-guides.md "Ver a las guías de Odoo - Sistema \[o13]" )   | [Odoo - Sistema](/es-mx/o13/ee/o13/es-mx-o13-ee-o13-guides.md)   | [![stu](/doc/img/app/sml/stu.jpg)](/es-mx/o13/ee/stu/es-mx-o13-ee-stu-guides.md "Ver a las guías de Odoo - Studio \[stu]" )    | [Odoo - Studio](/es-mx/o13/ee/stu/es-mx-o13-ee-stu-guides.md)    | [![osh](/doc/img/app/sml/osh.jpg)](/es-mx/o13/ee/osh/es-mx-o13-ee-osh-guides.md "Ver a las guías de Odoo - SH \[osh]" )        | [Odoo - SH](/es-mx/o13/ee/osh/es-mx-o13-ee-osh-guides.md)        | [![3rd](/doc/img/app/sml/3rd.jpg)](/es-mx/o13/ee/3rd/es-mx-o13-ee-3rd-guides.md "Ver a las guías de Apps de 3os. \[3rd]" )     | [Apps de 3os.](/es-mx/o13/ee/3rd/es-mx-o13-ee-3rd-guides.md)     |
