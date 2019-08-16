@@ -1,4 +1,4 @@
-# Guías Odoo &nbsp;&nbsp;&nbsp;&nbsp; [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/es-mx-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/es-mx-guides-menu.md)
+# Guías Odoo &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/en-uk-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/es-mx-guides-menu.md)
 Ligas a videos y guías en _**&#x03C8;Code**_ para Odoo.
 
 [![Ligas a videos y guías en _&#x03C8;Code_ para Odoo](/doc/img/logo_odoo_guides_mini.jpg "Por favor selecciona tu versión y edición de Odoo")](/es-mx/es-mx-guides-menu.md)
