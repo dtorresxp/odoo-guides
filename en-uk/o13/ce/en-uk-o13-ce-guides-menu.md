@@ -1,5 +1,6 @@
 # O13 - CE - Community Ed. Menu &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)
 #### [_&#x23CE; home_](/en-uk/en-uk-guides-menu.md "Back to Home")  
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 <br>
 
@@ -52,4 +53,5 @@
 
 <br>  
   
-###### Odoo Guides - v8_02 &nbsp; 2019-08-15<br>[_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)
+###### Odoo Guides - v8_03 &nbsp; 2019-08-15  
+[_&#x23CE; home_](/en-uk/en-uk-guides-menu.md)

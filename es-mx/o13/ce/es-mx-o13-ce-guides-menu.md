@@ -1,5 +1,6 @@
 # O13 - CE - Menú de la Ed. Comunidad &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)
 #### [_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md "Regresar al menú de Inicio")  
+[ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 <br>
 
@@ -52,4 +53,5 @@
 
 <br>
 
-###### Guías Odoo - v8_01 &nbsp; 2019-08-13<br>[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
+###### Guías Odoo - v8_03 &nbsp; 2019-08-15  
+[_&#x23CE; inicio_](/es-mx/es-mx-guides-menu.md)  
