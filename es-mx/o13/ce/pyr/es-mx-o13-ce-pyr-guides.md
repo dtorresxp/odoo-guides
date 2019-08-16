@@ -1,4 +1,4 @@
-# O13 - CE - PYR - Nomina &nbsp;&nbsp;&nbsp;&nbsp; [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-guides.md)
+# O13 - CE - PYR - Nomina &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md "Regresar al menúu de CE")  
 ### ![pyr](/doc/img/app/big/pyr.png)
 
