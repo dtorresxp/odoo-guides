@@ -1,6 +1,6 @@
-# O13 - CE - PYR - Payroll &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-payroll-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md)
+# O13 - CE - PYR - Payroll &nbsp;&nbsp;&nbsp;&nbsp; [ ![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-guides.md)
 #### [_&#x23CE; menu_](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md "Back to CE menu")  
-### ![pyr](/doc/img/hr_payroll.png)
+### ![pyr](/doc/img/app/big/pyr.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
 #### [HR Payroll Removed from Community Edition &nbsp;&nbsp; (O13 - CE - Odoo Mates - xx-in - 01:24 - Nómina eliminada de Ed. Comunidad)](https://youtube.com/embed/ssrMiPrdbQQ?autoplay=1&start=0&end=0&rel=0)  
@@ -9,5 +9,5 @@
 
 <br>
 
-###### Odoo Guides - V3_01 &nbsp; 2019-08-07  
+###### Odoo Guides - V3_02 &nbsp; 2019-08-15  
 **[_&#x23CE; menu_](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md)**  
