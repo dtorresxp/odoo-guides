@@ -7,7 +7,7 @@
 # ![o13](/doc/img/app/big/o13.png) &nbsp;CE
 | Icon | Description | Icon | Description | Icon | Description |
 | :---: | --- | :---: | --- | :---: | --- |
-| [![o13](/doc/img/app/sml/o13.jpg)](/en-uk/o13/ce/o13/en-uk-o13-ce-o13-guides.md "Goto System wide guides \[o13]" )        | [![pyr](/doc/img/app/sml/pyr.jpg)](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-guides.md "Goto Payroll guides \[pyr]" )            | [Payroll](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-guides.md)            | [![web](/doc/img/app/sml/web.jpg)](/en-uk/o13/ce/web/en-uk-o13-ce-web-guides.md "Goto Websites guides \[web]" )           | [Websites](/en-uk/o13/ce/web/en-uk-o13-ce-web-guides.md)           |
+| [![o13](/doc/img/app/sml/o13.jpg)](/en-uk/o13/ce/o13/en-uk-o13-ce-o13-guides.md "Goto System wide guides \[o13]" )        | [Sistema](/en-uk/o13/ce/o13/en-uk-o13-ce-o13-guides.md)            | [![pyr](/doc/img/app/sml/pyr.jpg)](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-guides.md "Goto Payroll guides \[pyr]" )            | [Payroll](/en-uk/o13/ce/pyr/en-uk-o13-ce-pyr-guides.md)            | [![web](/doc/img/app/sml/web.jpg)](/en-uk/o13/ce/web/en-uk-o13-ce-web-guides.md "Goto Websites guides \[web]" )           | [Websites](/en-uk/o13/ce/web/en-uk-o13-ce-web-guides.md)           |
 
 <br>
 
