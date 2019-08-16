@@ -12,10 +12,10 @@
   ![lock_icon_small](/doc/img/lock_icon_small.png) | w:ChangeCashier | b:SelectCashier | _a:Select Cashier_ | w:Password? | _a:Enter PIN_ | b:Ok |  
   ![lock_icon_small](/doc/img/lock_icon_small.png) | w:ChangeCashier | _Notice you can scan your badge's barcode to select your session instead |  
   b:SelectCashier | w:Password? | _a:Enter PIN_ | b:Ok |  
-- ###### Configuring Employee's PIN
+- ###### Configuring Employee's PIN  
   ![apps](/doc/img/apps.png) | o:Employees | _a:Select Employee_ | i:Employee | t:HRSettings |  
   b:Edit | i:LoginInformation | f:PIN | _a:Enter PIN_ | b:Save |  
-  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁵
+  ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁵  
 
 [Login with Employee - Reviewed but duplicated]: # (EO-j2h2AUw4)  
 

@@ -3,6 +3,8 @@
 ### ![mrp](/doc/img/app/big/mrp.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
+[#### BOM Structure Import / Export - Reviewed but in Chinese]: # (aUbdOqGXCT4)  
+
 #### [How to activate MRP Workorder &nbsp;&nbsp; (O13 - EE - Odoo Mates - xx-in - 01:22)](https://youtube.com/embed/Xrw-bAZ82xA?autoplay=1&start=0&end=67&rel=0)  
 ![apps](/doc/img/apps.png) | o:Manufacturing | m:Configuration | o:Settings | i:Operations | f:Work Orders &#x1F5F9; | b:Save |  
 _a:Review Configuration:_ | m:Master Data | o:Routings | o:Work Centers  
@@ -16,5 +18,5 @@ b:Edit | f:BoM Type | o: Subcontracting &#x25C9; | f:Subcontractors &#x2BC6; | _
 
 <br>
 
-###### Odoo Guides - V3_02 &nbsp; 2019-08-11  
+###### Odoo Guides - V3_03 &nbsp; 2019-08-15  
 **[_&#x23CE; menu_](/en-uk/o13/ee/en-uk-o13-ee-guides-menu.md)**  

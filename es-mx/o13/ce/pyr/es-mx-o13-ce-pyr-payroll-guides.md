@@ -1,4 +1,4 @@
-# O13 - CE - PYR - Nomina &nbsp;&nbsp;&nbsp;&nbsp; [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/pyr/en-uk-o13-ce-pyr-payroll-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md)
+# O13 - CE - PYR - Nomina &nbsp;&nbsp;&nbsp;&nbsp; [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-payroll-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md "Regresar al menúu de CE")  
 ### ![pyr](/doc/img/hr_payroll.png)
 
