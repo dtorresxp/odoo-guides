@@ -112,11 +112,11 @@
   The old **search** panel was renamed as **control** panel in Odoo 13, but is the very same  
 - ###### Discuss  
   ![apps](/doc/img/apps.png) | o:Discuss  
-  Now there is a History option in the left panel
+  Now there is a History option in the left panel  
 - ###### System wide  
-  Now the muti-company menu is in every menu at the NavBar
+  Now the muti-company menu is in every menu at the NavBar  
 - ###### Calendar  
-  The user interface has been improveed for better reading
+  The user interface has been improveed for better reading  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁷
 <br>
 
