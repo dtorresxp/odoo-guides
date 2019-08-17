@@ -53,7 +53,7 @@
   Se permiten pagos en efectivo y bancarizados en la misma nota de venta  
 - ###### Compras  
   ![apps](/doc/img/apps.png) | o:Compras | m:Configuración | o:Configuración |  
-  Si la opción o:ConfiguradorDeMatrizDeProductos está puesta en el i:CatálogoDeProductos, también está disponible para Comprass  
+  Si está activada o:ConfiguradorDeMatrizDeProductos en el i:CatálogoDeProductos, también está disponible en Compras  
   m:Orders | o:Cotizaciones | b:Crear | f:Proveedor | t:Producto | i:AgregarProducto |  
   _a:Seleccionar un_ f:Producto _personalizable_ | w:ElegirVariantesDeProducto |  
   \[ _a:Elegir \[ o:Acero || o:Aluminio || o:Personalizado ] _&_ \[ o:Blanco || o:Negro ] | _a:Definir_ f:Cantidad ]&#x207F; | b:Confirmar  
@@ -85,7 +85,9 @@
 - ###### Nómina  
   Se elimino de la edición Comunidad y se reprograó en la Empresarial  
 - ###### System Widgets  
-  Hay dos nuevos widgets: Calculadora (para expresiones en cantidades) y Cintillo (para letreros como PAGADO en vistas previas)  
+  Hay dos nuevos widgets
+  - Calculadora (para expresiones en cantidades)
+  - Cintillo (para letreros como PAGADO en vistas previas)  
 - ###### Empleado  
   ![apps](/doc/img/apps.png) | o:Empleado | _a:Open any Empleado_  
   Ahora ser pueden agregar campos como Experiencia, Educación y Competencias, para describir las facultades de un Empleado  

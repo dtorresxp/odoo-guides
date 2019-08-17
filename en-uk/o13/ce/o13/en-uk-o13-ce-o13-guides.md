@@ -85,7 +85,9 @@
 - ###### Payroll  
   It was removed from Community Ed. and rengineered in Enterprise Ed.  
 - ###### System Widgets  
-  There are two new widgets: Calculator (to allow expressions in quantities) & Ribbon (to show PAID status in previews)  
+  There are two new widgets
+  - Calculator (to allow expressions in quantities)
+  - Ribbon (to show PAID status in previews)  
 - ###### Employee  
   ![apps](/doc/img/apps.png) | o:Employee | _a:Open any Employee_  
   Now you can see new items like Experience, Education & Skills, where you can describe any relevant Employee details  
