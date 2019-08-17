@@ -7,7 +7,7 @@
 # ![o13](/doc/img/app/big/o13.png) &nbsp;CE
 | Icono | Descripción | Icono | Descripción | Icono | Descripción |
 | :---: | --- | :---: | --- | :---: | --- |
-| [![o13](/doc/img/app/sml/o13.jpg)](/es-mx/o13/ce/o13/es-mx-o13-ce-o13-guides.md "Ver a las guías del Sistema \[o13]" )     | [Sistema](/es-mx/o13/ce/o13/es-mx-o13-ce-o13-guides.md)      | [![pyr](/doc/img/app/sml/pyr.jpg)](/es-mx/o13/ce/web/es-mx-o13-ce-pyr-guides.md "Ver a las guías de Nómina \[pyr]" )       | [Nómina](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-guides.md)       | [![web](/doc/img/app/sml/web.jpg)](/es-mx/o13/ce/web/es-mx-o13-ce-web-guides.md "Ver a las guías de Web Sitios \[web]" )       | [Sitios Web](/es-mx/o13/ce/web/es-mx-o13-ce-web-guides.md)       |
+| [![o13](/doc/img/app/sml/o13.jpg)](/es-mx/o13/ce/o13/es-mx-o13-ce-o13-guides.md "Ver a las guías del Sistema Odoo \[o13]" )     | [Sistema Odoo](/es-mx/o13/ce/o13/es-mx-o13-ce-o13-guides.md)      | [![pyr](/doc/img/app/sml/pyr.jpg)](/es-mx/o13/ce/web/es-mx-o13-ce-pyr-guides.md "Ver a las guías de Nómina \[pyr]" )       | [Nómina](/es-mx/o13/ce/pyr/es-mx-o13-ce-pyr-guides.md)       | [![web](/doc/img/app/sml/web.jpg)](/es-mx/o13/ce/web/es-mx-o13-ce-web-guides.md "Ver a las guías de Web Sitios \[web]" )       | [Sitios Web](/es-mx/o13/ce/web/es-mx-o13-ce-web-guides.md)       |
 
 <br>
 
