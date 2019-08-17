@@ -83,7 +83,7 @@
   ![apps](/doc/img/apps.png) | o:Purchase  
   In the Order's detail now you can add a Product, a Section or a Note to improve your customer service  
 - ###### Payroll  
-  It was removed from CE and rengineered in EE  
+  It was removed from Community Ed. and rengineered in Enterprise Ed.  
 - ###### System Widgets  
   There are two new widgets: Calculator (to allow expressions in quantities) & Ribbon (to show PAID status in previews)  
 - ###### Employee  
