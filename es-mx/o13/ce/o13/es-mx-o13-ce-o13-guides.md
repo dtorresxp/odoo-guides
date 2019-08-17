@@ -1,4 +1,4 @@
-## O13 - CE - O13 - Funcionalidad Global &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/o13/en-uk-o13-ce-o13-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/o13/es-mx-o13-ce-o13-guides.md)
+## O13 - CE - O13 - Sistema Odoo &nbsp;&nbsp;&nbsp;&nbsp; [![en-uk](/doc/img/flg/en-uk-flg-btn-sml.png)](/en-uk/o13/ce/o13/en-uk-o13-ce-o13-guides.md) [ ![es-mx](/doc/img/flg/es-mx-flg-btn-sml.png)](/es-mx/o13/ce/o13/es-mx-o13-ce-o13-guides.md)
 #### [_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md "Regresar al menú de CE")
 ### ![o13](/doc/img/app/big/o13.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
