@@ -36,8 +36,88 @@
   ![apps](/doc/img/apps.png) | o:Website  
   New analytics Dashboard, including all your websites  
   In m:MyAccount menu in Portal, now you can see TimeSheets documents too  
-[cocacola]: # (07:05)  
-
+- ###### Documents  
+  ![apps](/doc/img/apps.png) | o:Documents  
+  Timesheets added to Documents, not just as an app  
+  i:Documents | o:SalesOrders | _a:Select_ f:SalesOrder# | _a:Scroll down to bottom_  
+  New b:AddAttachment ![attachment_icon_small](/doc/img/attachment_icon_small.png) in i:History along with written message  
+- ###### Contacts  
+  ![apps](/doc/img/apps.png) | o:Contacts  
+  Smart buttons now are along the top of the form, instead crowding the top-right, saving vertical space  
+- ###### eLearning  
+  ![apps](/doc/img/apps.png) | o:eLearning | i:Course | b:ViewCourse | t:Course | \[ _a:Review Course item_ ]&#x207F; |  
+- ###### Point of Sale  
+  ![apps](/doc/img/apps.png) | o:PointOfSale | i:Shop | &nbsp;**&#x2807;** | o:Settings |  
+  Login with Employees for PoS session and switch cashier  
+  Restrict available Product Categories  
+  Cash & Bank payments in the same debit are allowed  
+- ###### Purchase  
+  ![apps](/doc/img/apps.png) | o:Purchase | m:Configuration | o:Settings |  
+  If o:ProductGridConfigurator is set in i:ProductCatalog, it's also available for Purchases  
+  m:Orders | o:RequestForQuotation | b:Create | f:Vendor | t:Product | i:AddAProduct |  
+  _a:Select customizable_ f:Product | w:ChooseProductVariants |  
+  \[ _a:Choose \[ o:Steel || o:Aluminum || o:Custom ] _&_ \[ o:White || o:Black ] | _a:Set_ f:Quantity ]&#x207F; | b:Confirm  
+- ###### System Wide  
+  You can click in &nbsp;**&#x2807;** on any document and select hidden extra fields to be shown or not  
+- ###### Manufacturing  
+  ![apps](/doc/img/apps.png) | o:Manufacturing | m:Master Data | o:BillsOfMaterials | _a:Select any_ f:BoM _to open it_  |  
+  There is a new option of Subcontracting Bills of Materials  
+- ###### Invoicing  
+  There is no more invoice model in Odoo 13, now everything is in account model  
+- ###### Employees  
+  ![apps](/doc/img/apps.png) | o:Employees  
+  New left panel for easy filtering of Companies & Departments  
+  New warning indicator ![warning](/doc/img/warning.png) regarding Employee status, like lack, inactive or timed out contract  
+  New Employee presence/absence indicator, ![presence_yes](/doc/img/presence_yes.png)/![presence_no](/doc/img/presence_no.png)  
+- ###### Attendance  
+  ![apps](/doc/img/apps.png) | o:Attendance  
+  As an Administrator now you can set/reset any Employees attendance  
+- ###### Time Off  
+  ![apps](/doc/img/apps.png) | o:TimeOff  
+  It isn't really a new module but previous version's Leave renamed  
+  In the dashboard now there are very good reports to be aware of any time off  
+- ###### Lunch  
+  ![apps](/doc/img/apps.png) | o:Lunch  
+  It has a new improved interface for better user experience  
+- ###### Purchase  
+  ![apps](/doc/img/apps.png) | o:Purchase  
+  In the Order's detail now you can add a Product, a Section or a Note to improve your customer service  
+- ###### Payroll  
+  It was removed from CE and rengineered in EE  
+- ###### System Widgets  
+  There are two new widgets: Calculator (to allow expressions in quantities) & Ribbon (to show PAID status in previews)  
+- ###### Employee  
+  ![apps](/doc/img/apps.png) | o:Employee | _a:Open any Employee_ |  
+  Now you can see new items like Experience, Education & Skills, where you can describe any relevant Employee details  
+- ###### Skills  
+  ![apps](/doc/img/apps.png) | o:Skills  
+  There you can manage Employee capabilities  
+- ###### Presence  
+  ![apps](/doc/img/apps.png) | o:Employees  
+  In Presence module you can manage the Employee's Presence indicator to be seen in Employee's list  
+  In Settings you can configure if Presence is controlled in the Attendance module and/or with system logins  
+- ###### Website  
+  ![apps](/doc/img/apps.png) | o:Website | b:GoToWebsite | b:Shop | m:Customize | _a:Add some Products to the cart_  
+  Now there is a new button **Buy now** to increase buying ratio  
+  In the Courses page now there is also a **Join now** button for the same purpose  
+  The course creator now can add any type of course material very easily  
+  Also there are new buttons for sharing in social media and getting reviews  
+  In the forum section questions and users can be monitored very easily  
+  With the mobile view you can verify your page's look and responsiveness  
+  Now customized themes can be installed for your website  
+- ###### Invoicing  
+  ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | ![apps](/doc/img/apps.png) | o:Invoicing | _a:Open an Invoice in Form View_ |  
+  Now you can see the new f:Model is **account.move** instead the old invoice one  
+- ###### System wide  
+  The old **search** panel was renamed as **control** panel in Odoo 13, but is the very same  
+- ###### Discuss  
+  ![apps](/doc/img/apps.png) | o:Discuss  
+  Now there is a History option in the left panel
+- ###### System wide  
+  Now the muti-company menu is in every menu at the NavBar
+- ###### Calendar  
+  The user interface has been improveed for better reading
+ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻¹⁷
 <br>
 
 ## Guides
