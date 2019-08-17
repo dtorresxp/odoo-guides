@@ -75,7 +75,7 @@
 - ###### Time Off  
   ![apps](/doc/img/apps.png) | o:TimeOff  
   It isn't really a new module but previous version's Leave renamed  
-  In the dashboard now there are very good reports to be aware of any time off  
+  In the dashboard now there are very good reports to be aware of any Employee availability  
 - ###### Lunch  
   ![apps](/doc/img/apps.png) | o:Lunch  
   It has a new improved interface for better user experience  
