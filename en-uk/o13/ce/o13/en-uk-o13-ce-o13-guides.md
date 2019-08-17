@@ -30,8 +30,8 @@
   ![apps](/doc/img/apps.png) | o:Sales  
   Quotes are highly customizable in a wysiwyg window  
   There are three new buttons in Document's preview: b:AddShipping, b:AddCoupon and b:AddPromotions  
-  These were EE only options in previous versions  
-  Also these are in m:Products  
+  These were Enterprise Ed. only options in previous versions  
+  Also these buttons are in m:Products  
 - ###### Website  
   ![apps](/doc/img/apps.png) | o:Website  
   New analytics Dashboard, including all your websites  
