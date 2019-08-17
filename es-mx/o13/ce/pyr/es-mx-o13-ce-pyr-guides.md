@@ -3,12 +3,12 @@
 ### ![pyr](/doc/img/app/big/pyr.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-#### [La app de Nómina se ha eliminado de la Edición de la Comunidad &nbsp;&nbsp; (O13 - CE - Odoo Mates - xx-in - 01:24 - Nómina eliminada de Ed. Comunidad)](https://youtube.com/embed/ssrMiPrdbQQ?autoplay=1&start=0&end=0&rel=0)  
+#### &#x26A0; [La app de Nómina se ha eliminado de la Edición de la Comunidad &nbsp;&nbsp; (O13 - CE - Odoo Mates - xx-in - 01:24 - Nómina eliminada de Ed. Comunidad)](https://youtube.com/embed/ssrMiPrdbQQ?autoplay=1&start=0&end=0&rel=0)  
 [***Sync***]: # (es-mx-o13-ee-pyr-guides)  
 ![apps](/doc/img/apps.png) | o:Apps | _a:Ya no aparece la app de Nómina en CE_  
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
 
-###### Guías Odoo - V2_03 &nbsp; 2019-08-15  
+###### Guías Odoo - V2_03 &nbsp; 2019-08-17  
 **[_&#x23CE; menu_](/es-mx/o13/ce/es-mx-o13-ce-guides-menu.md)**  
