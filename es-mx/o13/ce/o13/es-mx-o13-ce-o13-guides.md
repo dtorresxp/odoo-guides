@@ -3,13 +3,13 @@
 ### ![web](/doc/img/app/big/web.png)
 [ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻]: # (ⱽ¹²³⁴⁵⁶⁷⁸⁹⁰⁻)
 
-## News  
+## Novedades  
 
 [cocacola]: # (translate from en-uk)  
 
 <br>
 
-## Guides
+## Guías
 
 #### [El Form Builder de Sitios Web se movió a la Ed. de la Comunidad &nbsp;&nbsp; (O13 - CE - Odoo Mates - xx-in - 01:19)](https://youtube.com/embed/o3WGNq4i344?autoplay=1&start=0&end=0&rel=0)  
 [***Sync***]: # (es-mx-o13-ee-web-guides)  
