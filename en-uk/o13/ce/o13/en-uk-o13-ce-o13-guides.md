@@ -84,7 +84,7 @@
   In the Order's detail now you can add a Product, a Section or a Note to improve your customer service  
 - ###### Payroll  
   It was removed from Community Ed. and rengineered in Enterprise Ed.  
-- ###### System Widgets  
+- ###### System wide  
   There are two new widgets
   - Calculator (to allow expressions in quantities)
   - Ribbon (to show PAID status in previews)  

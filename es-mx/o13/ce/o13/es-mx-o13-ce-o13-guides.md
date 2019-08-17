@@ -84,8 +84,8 @@
   En el detalle de ls Órdenes, ahora se pueden agregar Productos, Secciones o Notas, para mejorar el servicio al cliente  
 - ###### Nómina  
   Se elimino de la edición Comunidad y se reprograó en la Empresarial  
-- ###### System Widgets  
-  Hay dos nuevos widgets
+- ###### Funcionalidad general  
+  Hay dos nuevos widgets en el sistema
   - Calculadora (para expresiones en cantidades)
   - Cintillo (para letreros como PAGADO en vistas previas)  
 - ###### Empleado  
