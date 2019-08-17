@@ -60,7 +60,7 @@
 - ###### System Wide  
   You can click in &nbsp;**&#x2807;** on any document and select hidden extra fields to be shown or not  
 - ###### Manufacturing  
-  ![apps](/doc/img/apps.png) | o:Manufacturing | m:Master Data | o:BillsOfMaterials | _a:Select any_ f:BoM _to open it_  |  
+  ![apps](/doc/img/apps.png) | o:Manufacturing | m:Master Data | o:BillsOfMaterials | _a:Select any_ f:BoM _to open it_  
   There is a new option of Subcontracting Bills of Materials  
 - ###### Invoicing  
   There is no more invoice model in Odoo 13, now everything is in account model  
@@ -87,7 +87,7 @@
 - ###### System Widgets  
   There are two new widgets: Calculator (to allow expressions in quantities) & Ribbon (to show PAID status in previews)  
 - ###### Employee  
-  ![apps](/doc/img/apps.png) | o:Employee | _a:Open any Employee_ |  
+  ![apps](/doc/img/apps.png) | o:Employee | _a:Open any Employee_  
   Now you can see new items like Experience, Education & Skills, where you can describe any relevant Employee details  
 - ###### Skills  
   ![apps](/doc/img/apps.png) | o:Skills  
@@ -106,7 +106,7 @@
   With the mobile view you can verify your page's look and responsiveness  
   Now customized themes can be installed for your website  
 - ###### Invoicing  
-  ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | ![apps](/doc/img/apps.png) | o:Invoicing | _a:Open an Invoice in Form View_ |  
+  ![apps](/doc/img/apps.png) | o:Settings | i:ActivateTheDeveloperMode | ![apps](/doc/img/apps.png) | o:Invoicing | _a:Open an Invoice in Form View_  
   Now you can see the new f:Model is **account.move** instead the old invoice one  
 - ###### System wide  
   The old **search** panel was renamed as **control** panel in Odoo 13, but is the very same  
