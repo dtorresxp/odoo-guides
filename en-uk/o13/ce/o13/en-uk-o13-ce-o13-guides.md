@@ -50,6 +50,6 @@ i:Form Builder | b:More Info | b:Install |
 ⱽ¹⁻⁰¹ &nbsp;²⁰¹⁹⁻⁰⁸⁻⁰⁴
 
 <br>
-	
+
 ###### Odoo Guides - v4_02 &nbsp; 2019-08-15  
 **[_&#x23CE; menu_](/en-uk/o13/ce/en-uk-o13-ce-guides-menu.md)**  
