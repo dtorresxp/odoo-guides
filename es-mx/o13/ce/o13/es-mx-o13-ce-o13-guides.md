@@ -53,7 +53,7 @@
   Se permiten pagos en efectivo y bancarizados en la misma nota de venta  
 - ###### Compras  
   ![apps](/doc/img/apps.png) | o:Compras | m:Configuración | o:Configuración |  
-  Si está activada o:ConfiguradorDeMatrizDeProductos en el i:CatálogoDeProductos, también está disponible en Compras  
+  Si activa o:ConfiguradorDeMatrizDeProductos en i:CatálogoDeProductos, también estará disponible en Compras  
   m:Orders | o:Cotizaciones | b:Crear | f:Proveedor | t:Producto | i:AgregarProducto |  
   _a:Seleccionar un_ f:Producto _personalizable_ | w:ElegirVariantesDeProducto |  
   \[ _a:Elegir \[ o:Acero || o:Aluminio || o:Personalizado ] _&_ \[ o:Blanco || o:Negro ] | _a:Definir_ f:Cantidad ]&#x207F; | b:Confirmar  
