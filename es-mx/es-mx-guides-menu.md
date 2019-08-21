@@ -37,6 +37,21 @@ Con gusto quedamos a la espera de sus colaboraciones.
 Muchas gracias.  
 Atte, el equipo de _**&#x03C8;Code**_  
 
+
+<br>
+
+# Preocupación de los Socios de Odoo por sus ventajas competitivas
+
+Hay un dicho conocido en el mundo del Open Source: uno publica todo en la comunidad, excepto sus ventajas competitivas.  Esto se debe a que todos deberíamos dar para recibir... pero sabemos que no siempre es el caso.
+
+Para aligerar esta preocupación sobre la facilidad que estas guías le dan a los _takers_ (quienes sólo toman y no dan), nosotros publicamos guías sólo sobre información que ya es del dominio público, principalente videos.  Esto significa que la información era pública al momento de hacer la guía.
+
+Nosotros hacemos búsquedas y creamos guías, principalmente porque hemos encontrado que es muy difícil estudiar una gran cantidad de videos para encontrar la solución adecuada.
+
+Sincéramente esperamos que mucha gente encuentre el _**&#x03C8;Code**_ suficientemente útil como para inspirar en ellos el afán de contribuir con sus propias guías que ayuden a otros, así como ellos fueron ayudados por el trabajo de otros.
+
+Así que no se procupen, si tienen alguna solución especial secreta, basta con que no la hagan pública para que nosotros no la publiquemos aquí.
+
 <br>
 
 # Estructura del Repositorio
@@ -269,4 +284,4 @@ Así que, _**&#x03C8;**_ pegó y ahora temos _**&#x03C8;Code**_.
   - Se debe reducir al mínimo el texto de las _**a:**_ y usar siempre la misma palabra para cada acción
   - Registre los videos descartados por duplicidad: _\[**Título del Video** - Revisado pero duplicado]: # (**ID del Video**)_  
 <br><br>
-###### Guías Odoo - v8_10 &nbsp; 2019-08-15
+###### Guías Odoo - v8_11 &nbsp; 2019-08-20
