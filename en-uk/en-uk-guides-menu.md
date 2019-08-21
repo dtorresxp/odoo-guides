@@ -55,6 +55,21 @@ If you can't find help here, or you find any errors in our _**&#x03C8;Code**_, p
 
 Language icons (flags) are in the order of translation creation.
 
+
+<br>
+
+# Partners concern about their competitive advantages 
+
+There is a common disclosure in the Open Source world: you publish everything in community, but your competitive advantages.  This is because everybody should give in order to receive... but we know this is not allways the case.
+
+To relieve this concern about the easiness this guides provide to _takers_, we're publishing guides only about public domain information, mainly videos.  It means this information is publicly available at the time of the guide creation.
+
+We do our search and create the guides, mainly because we had found very difficult to study a lot of videos to get to the point.
+
+We hope many people find _**&#x03C8;Code**_ useful enough to inspire them to contribute with their own guides to help others the same as they are helped by others.
+
+So, don't worry, if you've a top secret solution, just don't make it public and we will not address it here.
+
 <br>
 
 # _&#x03C8;Code_ Brief
@@ -269,4 +284,4 @@ So, _**&#x03C8;**_ it is, and now _**&#x03C8;Code**_ you've.
   - Reduce _**a:**_ text to the minimum and use only one word for every action, to facilitate learning
   - Use this format to log reviewed but discarded videos: _\[**Video title** - Reviewed but duplicated]: # (**Video ID**)_  
 <br><br>
-###### Odoo Guides - v8_09 &nbsp; 2019-08-15
+###### Odoo Guides - v8_10 &nbsp; 2019-08-20
